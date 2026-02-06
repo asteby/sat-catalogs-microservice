@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cce_municipios VALUES('001','AGU','Aguascalientes','2017-01-01','');
 INSERT INTO cce_municipios VALUES('001','BCN','Ensenada','2017-01-01','');
 INSERT INTO cce_municipios VALUES('001','BCS','Comondú','2017-01-01','');
@@ -2479,4 +2477,3 @@ INSERT INTO cce_municipios VALUES('567','OAX','Zapotitlán Lagunas','2017-01-01'
 INSERT INTO cce_municipios VALUES('568','OAX','Zapotitlán Palmas','2017-01-01','');
 INSERT INTO cce_municipios VALUES('569','OAX','Santa Inés de Zaragoza','2017-01-01','');
 INSERT INTO cce_municipios VALUES('570','OAX','Zimatlán de Álvarez','2017-01-01','');
-COMMIT;

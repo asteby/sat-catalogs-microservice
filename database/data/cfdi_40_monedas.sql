@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_monedas VALUES('AED','Dirham de EAU',2,5,'2022-01-01','');
 INSERT INTO cfdi_40_monedas VALUES('AFN','Afghani',2,5,'2022-01-01','');
 INSERT INTO cfdi_40_monedas VALUES('ALL','Lek',2,5,'2022-01-01','');
@@ -183,4 +181,3 @@ INSERT INTO cfdi_40_monedas VALUES('YER','Rial yemení',2,5,'2022-01-01','');
 INSERT INTO cfdi_40_monedas VALUES('ZAR','Rand',2,5,'2022-01-01','');
 INSERT INTO cfdi_40_monedas VALUES('ZMW','Kwacha zambiano',2,5,'2022-01-01','');
 INSERT INTO cfdi_40_monedas VALUES('ZWL','Zimbabwe Dólar',2,5,'2022-01-01','');
-COMMIT;

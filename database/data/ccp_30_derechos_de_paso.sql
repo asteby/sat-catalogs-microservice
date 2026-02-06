@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP001','D-1','Torreón (Km. DA-251+000)','Villa Juárez (Km. DA-238+000)','Recibe','Vía ferrea del Noroeste (Actualmente Kansas City Southern de México, S.A de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP002','D-1','Torreón (Km. DA-251+000)','Villa Juárez (Km. DA-238+000)','Otorga','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP003','DPL-1','Mariscala (Km. A-263+922)','Guadalajara (Km. I-259+500)','Otorga','Vía ferrea del Noroeste (Actualmente Kansas City Southern de México, S.A de C.V.)','2023-11-25','');
@@ -43,8 +41,8 @@ INSERT INTO ccp_30_derechos_de_paso VALUES('CDP040','N-6','Vías Juárez y  More
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP041','N-6','Vía Juárez del Km. B-265+078.35 = J-240+817.73','Km. B-285 + 861 = JM-262+094.30','Otorga','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP042','N-7','Celaya (Km. NB-68+692)','Escobedo (Km. B-315+000)','Recibe','Vía ferrea del Noroeste (Actualmente Kansas City Southern de México, S.A de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP043','N-7','Celaya (Km. NB-68+692','Escobedo (Km. B-315+000)','Otorga','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
-INSERT INTO ccp_30_derechos_de_paso VALUES('CDP044','N-8','Teotihuacán (Km. VS-0+695)','Empalme Línea "V" (Km. 18+781 = VK-24+883)','Otorga','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
-INSERT INTO ccp_30_derechos_de_paso VALUES('CDP045','N-8','Teotihuacán (Km. VS-0+695)','Empalme línea "V" (Km. V-18+781 = VK-24+883)','Recibe','Vía férrea del Noreste (actualmente Kansas City Southern de México, S.A. de C.V.)','2023-11-25','');
+INSERT INTO ccp_30_derechos_de_paso VALUES('CDP044','N-8','Teotihuacán (Km. VS-0+695)','Empalme Línea `V` (Km. 18+781 = VK-24+883)','Otorga','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
+INSERT INTO ccp_30_derechos_de_paso VALUES('CDP045','N-8','Teotihuacán (Km. VS-0+695)','Empalme línea `V` (Km. V-18+781 = VK-24+883)','Recibe','Vía férrea del Noreste (actualmente Kansas City Southern de México, S.A. de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP046','N-9','Buenavista (Km. Juárez 1+000 / Morelos 1+000)','Huehuetoca (Juárez -43+724 / Morelos -43+724)','Recibe','Vía ferrea del Noroeste (Actualmente Kansas City Southern de México, S.A de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP047','N-9','Buenavista (Km. Juárez 1+000 / Morelos 1+000)','Huehueteca (Juárez-43+724 / Morelos-43+724)','Otorga','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP048','PN-1','Tabaloapa','Chihuahua','Otorga','Vía ferrea del Noroeste (Actualmente Kansas City Southern de México, S.A de C.V.)','2023-11-25','');
@@ -119,4 +117,3 @@ INSERT INTO ccp_30_derechos_de_paso VALUES('CDP116','TVM-9','S-0+000 = A-12+386'
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP117','TVM-9','S-0+000 = A-12+386','S-43+483','Otorga','Vía férrea del Sureste  (actualmente Ferrosur, S.A. de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP118','TEMP-1','Arellano (Km. A-574+000)','Silao','Recibe','Vía férrea Pacífico-Norte (actualmente Ferrocarril Mexicano, S.A. de C.V.)','2023-11-25','');
 INSERT INTO ccp_30_derechos_de_paso VALUES('CDP119','TEMP-2','Santa Fé (Km. V454+600)','Jalapa (V-338+600)','Recibe','Vía férrea del Noreste (actualmente Kansas City Southern de México, S.A. de C.V.)','2023-11-25','');
-COMMIT;

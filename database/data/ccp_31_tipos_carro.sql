@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_tipos_carro VALUES('TC01','Furgón','0','2024-07-17','');
 INSERT INTO ccp_31_tipos_carro VALUES('TC02','Góndola','0','2024-07-17','');
 INSERT INTO ccp_31_tipos_carro VALUES('TC03','Tolva','0','2024-07-17','');
@@ -11,4 +9,3 @@ INSERT INTO ccp_31_tipos_carro VALUES('TC08','Locomotora','0','2024-07-17','');
 INSERT INTO ccp_31_tipos_carro VALUES('TC09','Carro Especial','0','2024-07-17','');
 INSERT INTO ccp_31_tipos_carro VALUES('TC10','Pasajeros','0','2024-07-17','');
 INSERT INTO ccp_31_tipos_carro VALUES('TC11','Mantenimiento de Vía','0','2024-07-17','');
-COMMIT;

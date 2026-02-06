@@ -1,8 +1,8 @@
-CREATE TABLE IF NOT EXISTS "cce_20_fracciones_arancelarias"(
-  "fraccion" text not null,
-  "texto" text not null,
-  "vigencia_desde" text not null,
-  "vigencia_hasta" text not null,
-  "unidad" text not null,
-  PRIMARY KEY("fraccion")
+CREATE TABLE IF NOT EXISTS `cce_20_fracciones_arancelarias`(
+  `fraccion` VARCHAR(255) not null,
+  `texto` TEXT not null,
+  `vigencia_desde` TEXT not null,
+  `vigencia_hasta` TEXT not null,
+  `unidad` TEXT not null,
+  PRIMARY KEY(`fraccion`)
 );

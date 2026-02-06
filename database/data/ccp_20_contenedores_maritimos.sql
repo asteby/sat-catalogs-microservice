@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM001','Contenedores refrigerados de 20FT','2021-06-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM002','Contenedores refrigerados de 40FT','2021-06-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM003','Contenedores estándar de 8FT','2021-06-01','');
@@ -12,4 +10,3 @@ INSERT INTO ccp_20_contenedores_maritimos VALUES('CM009','Contenedor flat racks'
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM010','Buque tanque','2022-01-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM011','Ferri','2022-12-28','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM012','Ferri – Turístico y vacíos','2024-01-25','');
-COMMIT;

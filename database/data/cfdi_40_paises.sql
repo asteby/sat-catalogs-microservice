@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_paises VALUES('AFG','Afganistán','','','','');
 INSERT INTO cfdi_40_paises VALUES('ALA','Islas Åland','','','','');
 INSERT INTO cfdi_40_paises VALUES('ALB','Albania','','','','');
@@ -250,4 +248,3 @@ INSERT INTO cfdi_40_paises VALUES('DJI','Yibuti','','','','');
 INSERT INTO cfdi_40_paises VALUES('ZMB','Zambia','','','','');
 INSERT INTO cfdi_40_paises VALUES('ZWE','Zimbabue','','','','');
 INSERT INTO cfdi_40_paises VALUES('ZZZ','Países no declarados','','','','');
-COMMIT;

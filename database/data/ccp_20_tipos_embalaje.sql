@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_20_tipos_embalaje VALUES('1A1','Bidones (Tambores) de Acero 1 de tapa no desmontable','2021-06-01','');
 INSERT INTO ccp_20_tipos_embalaje VALUES('1A2','Bidones (Tambores) de Acero 1 de tapa desmontable','2021-06-01','');
 INSERT INTO ccp_20_tipos_embalaje VALUES('1B1','Bidones (Tambores) de Aluminio de tapa no desmontable','2021-06-01','');
@@ -59,4 +57,3 @@ INSERT INTO ccp_20_tipos_embalaje VALUES('6PH2','Envases y embalajes compuestos 
 INSERT INTO ccp_20_tipos_embalaje VALUES('7H1','Bultos de Plástico','2021-06-01','');
 INSERT INTO ccp_20_tipos_embalaje VALUES('7L1','Bultos de Tela','2021-06-01','');
 INSERT INTO ccp_20_tipos_embalaje VALUES('Z01','No aplica','2021-06-01','');
-COMMIT;

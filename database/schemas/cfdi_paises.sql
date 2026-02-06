@@ -1,9 +1,9 @@
-CREATE TABLE IF NOT EXISTS "cfdi_paises"(
-  "id" text not null,
-  "texto" text not null,
-  "patron_codigo_postal" text not null,
-  "patron_identidad_tributaria" text not null,
-  "validacion_identidad_tributaria" text not null,
-  "agrupaciones" text not null,
-  PRIMARY KEY("id")
+CREATE TABLE IF NOT EXISTS `cfdi_paises`(
+  `id` VARCHAR(255) not null,
+  `texto` TEXT not null,
+  `patron_codigo_postal` TEXT not null,
+  `patron_identidad_tributaria` TEXT not null,
+  `validacion_identidad_tributaria` TEXT not null,
+  `agrupaciones` TEXT not null,
+  PRIMARY KEY(`id`)
 );

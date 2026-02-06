@@ -1,6 +1,6 @@
-CREATE TABLE IF NOT EXISTS "cfdi_40_colonias"(
-  "colonia" text not null,
-  "codigo_postal" text not null,
-  "texto" text not null,
-  PRIMARY KEY("colonia", "codigo_postal")
+CREATE TABLE IF NOT EXISTS `cfdi_40_colonias`(
+  `colonia` VARCHAR(255) not null,
+  `codigo_postal` VARCHAR(255) not null,
+  `texto` TEXT not null,
+  PRIMARY KEY(`colonia`, `codigo_postal`)
 );

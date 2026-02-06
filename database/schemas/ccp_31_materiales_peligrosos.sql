@@ -1,9 +1,9 @@
-CREATE TABLE IF NOT EXISTS "ccp_31_materiales_peligrosos"(
-  "id" text not null,
-  "texto" text not null,
-  "clase_o_div" text not null,
-  "peligro_secundario" text not null,
-  "nombre_tecnico" text not null,
-  "vigencia_desde" text not null,
-  "vigencia_hasta" text not null
+CREATE TABLE IF NOT EXISTS `ccp_31_materiales_peligrosos`(
+  `id` TEXT not null,
+  `texto` TEXT not null,
+  `clase_o_div` TEXT not null,
+  `peligro_secundario` TEXT not null,
+  `nombre_tecnico` TEXT not null,
+  `vigencia_desde` TEXT not null,
+  `vigencia_hasta` TEXT not null
 );

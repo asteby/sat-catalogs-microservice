@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_30_partes_transporte VALUES('PT01','Camión unitario','2023-11-25','');
 INSERT INTO ccp_30_partes_transporte VALUES('PT02','Camión','2023-11-25','');
 INSERT INTO ccp_30_partes_transporte VALUES('PT03','Tractocamión','2023-11-25','');
@@ -12,4 +10,3 @@ INSERT INTO ccp_30_partes_transporte VALUES('PT09','Barco o buque','2023-11-25',
 INSERT INTO ccp_30_partes_transporte VALUES('PT10','Carro o vagón','2023-11-25','');
 INSERT INTO ccp_30_partes_transporte VALUES('PT11','Contenedor','2023-11-25','');
 INSERT INTO ccp_30_partes_transporte VALUES('PT12','Locomotora','2023-11-25','');
-COMMIT;

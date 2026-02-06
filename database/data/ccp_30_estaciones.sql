@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_30_estaciones VALUES('PM001','Rosarito','02','México','','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('PM002','La Misión','02','México','','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('PM003','El Sauzal','02','México','','','2023-11-25','');
@@ -5280,4 +5278,3 @@ INSERT INTO ccp_30_estaciones VALUES('T0666','LUIS','04','México','','T','2023-
 INSERT INTO ccp_30_estaciones VALUES('N0407','LAGUNILLAS','04','México','','N','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('V0102','SAN LORENZO','04','México','','V','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EF0001','Extranjera','04','Extranjera','','','2023-11-25','');
-COMMIT;

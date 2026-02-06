@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_20_tipos_remolque VALUES('CTR001','Caballete','2021-06-01','');
 INSERT INTO ccp_20_tipos_remolque VALUES('CTR002','Caja','2021-06-01','');
 INSERT INTO ccp_20_tipos_remolque VALUES('CTR003','Caja Abierta','2021-06-01','');
@@ -31,4 +29,3 @@ INSERT INTO ccp_20_tipos_remolque VALUES('CTR028','Tanque','2021-06-01','');
 INSERT INTO ccp_20_tipos_remolque VALUES('CTR029','Tolva','2021-06-01','');
 INSERT INTO ccp_20_tipos_remolque VALUES('CTR031','Volteo','2021-06-01','');
 INSERT INTO ccp_20_tipos_remolque VALUES('CTR032','Volteo Desmontable','2021-06-01','');
-COMMIT;

@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_meses VALUES('01','Enero','2022-01-01','');
 INSERT INTO cfdi_40_meses VALUES('02','Febrero','2022-01-01','');
 INSERT INTO cfdi_40_meses VALUES('03','Marzo','2022-01-01','');
@@ -18,4 +16,3 @@ INSERT INTO cfdi_40_meses VALUES('15','Mayo-Junio','2022-01-01','');
 INSERT INTO cfdi_40_meses VALUES('16','Julio-Agosto','2022-01-01','');
 INSERT INTO cfdi_40_meses VALUES('17','Septiembre-Octubre','2022-01-01','');
 INSERT INTO cfdi_40_meses VALUES('18','Noviembre-Diciembre','2022-01-01','');
-COMMIT;

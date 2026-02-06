@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cce_20_unidades_medida VALUES('01','KILO','2024-01-18','');
 INSERT INTO cce_20_unidades_medida VALUES('02','GRAMO','2024-01-18','');
 INSERT INTO cce_20_unidades_medida VALUES('03','METRO LINEAL','2024-01-18','');
@@ -23,4 +21,3 @@ INSERT INTO cce_20_unidades_medida VALUES('20','CAJA','2024-01-18','');
 INSERT INTO cce_20_unidades_medida VALUES('21','BOTELLA','2024-01-18','');
 INSERT INTO cce_20_unidades_medida VALUES('22','CARAT','2024-01-18','');
 INSERT INTO cce_20_unidades_medida VALUES('99','SERVICIO','2024-01-18','');
-COMMIT;

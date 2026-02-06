@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_formas_pago VALUES('01','Efectivo','','','','','','','','','','','2017-01-01','');
 INSERT INTO cfdi_formas_pago VALUES('02','Cheque nominativo',1,'',1,1,'[0-9]{11}|[0-9]{18}',1,1,'[0-9]{10,11}|[0-9]{15,16}|[0-9]{18}|[A-Z0-9_]{10,50}','',1,'2017-01-01','');
 INSERT INTO cfdi_formas_pago VALUES('03','Transferencia electrónica de fondos',1,'',1,1,'[0-9]{10}|[0-9]{16}|[0-9]{18}',1,1,'[0-9]{10}|[0-9]{18}',1,1,'2017-01-01','');
@@ -22,4 +20,3 @@ INSERT INTO cfdi_formas_pago VALUES('29','Tarjeta de servicios',1,'',1,1,'[0-9]{
 INSERT INTO cfdi_formas_pago VALUES('30','Aplicación de anticipos','','','','','','','','','','','2017-08-13','');
 INSERT INTO cfdi_formas_pago VALUES('31','Intermediario pagos','','','','','','','','','','','2017-12-05','');
 INSERT INTO cfdi_formas_pago VALUES('99','Por definir','','',1,1,'\V*',1,1,'\V*',1,1,'2017-01-01','');
-COMMIT;

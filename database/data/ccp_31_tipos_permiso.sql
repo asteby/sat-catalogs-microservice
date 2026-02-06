@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_tipos_permiso VALUES('TPAF01','Autotransporte Federal de carga general.','01','2024-07-17','');
 INSERT INTO ccp_31_tipos_permiso VALUES('TPAF02','Transporte privado de carga.','01','2024-07-17','');
 INSERT INTO ccp_31_tipos_permiso VALUES('TPAF03','Autotransporte Federal de Carga Especializada de materiales y residuos peligrosos.','01','2024-07-17','');
@@ -26,4 +24,3 @@ INSERT INTO ccp_31_tipos_permiso VALUES('TPTA02','Permiso para el servicio aére
 INSERT INTO ccp_31_tipos_permiso VALUES('TPTA03','Permiso para el servicio nacional e internacional no regular de fletamento','03','2024-07-17','');
 INSERT INTO ccp_31_tipos_permiso VALUES('TPTA04','Permiso para el servicio nacional e internacional no regular de taxi aéreo','03','2024-07-17','');
 INSERT INTO ccp_31_tipos_permiso VALUES('TPXX00','Permiso no contemplado en el catálogo.','01,02,03','2024-07-17','');
-COMMIT;

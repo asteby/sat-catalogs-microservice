@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_30_formas_farmaceuticas VALUES('01','Tableta','','');
 INSERT INTO ccp_30_formas_farmaceuticas VALUES('02','Capsulas','','');
 INSERT INTO ccp_30_formas_farmaceuticas VALUES('03','Comprimidos','','');
@@ -20,4 +18,3 @@ INSERT INTO ccp_30_formas_farmaceuticas VALUES('17','Parche','','');
 INSERT INTO ccp_30_formas_farmaceuticas VALUES('18','Pasta','','');
 INSERT INTO ccp_30_formas_farmaceuticas VALUES('19','Polvo','','');
 INSERT INTO ccp_30_formas_farmaceuticas VALUES('20','Supositorio','','');
-COMMIT;

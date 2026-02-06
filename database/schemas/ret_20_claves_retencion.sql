@@ -1,8 +1,8 @@
-CREATE TABLE IF NOT EXISTS "ret_20_claves_retencion"(
-  "id" text not null,
-  "texto" text not null,
-  "nombre_complemento" text not null,
-  "vigencia_desde" text not null,
-  "vigencia_hasta" text not null,
-  PRIMARY KEY("id")
+CREATE TABLE IF NOT EXISTS `ret_20_claves_retencion`(
+  `id` VARCHAR(255) not null,
+  `texto` TEXT not null,
+  `nombre_complemento` TEXT not null,
+  `vigencia_desde` TEXT not null,
+  `vigencia_hasta` TEXT not null,
+  PRIMARY KEY(`id`)
 );

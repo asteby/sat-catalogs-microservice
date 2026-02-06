@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_regimenes_fiscales VALUES('601','General de Ley Personas Morales','',1,'2022-01-01','');
 INSERT INTO cfdi_40_regimenes_fiscales VALUES('603','Personas Morales con Fines no Lucrativos','',1,'2022-01-01','');
 INSERT INTO cfdi_40_regimenes_fiscales VALUES('605','Sueldos y Salarios e Ingresos Asimilados a Salarios',1,'','2022-01-01','');
@@ -19,4 +17,3 @@ INSERT INTO cfdi_40_regimenes_fiscales VALUES('623','Opcional para Grupos de Soc
 INSERT INTO cfdi_40_regimenes_fiscales VALUES('624','Coordinados','',1,'2022-01-01','');
 INSERT INTO cfdi_40_regimenes_fiscales VALUES('625','Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas',1,'','2022-01-01','');
 INSERT INTO cfdi_40_regimenes_fiscales VALUES('626','Régimen Simplificado de Confianza',1,1,'2022-01-01','');
-COMMIT;

@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_materiales_peligrosos VALUES('0004','PICRATO AMÓNICO seco o humedecido con menos del 10%, en masa, de agua','1.1D','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('0005','CARTUCHOS PARA ARMAS, con carga explosiva','1.1F','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('0006','CARTUCHOS PARA ARMAS, con carga explosiva','1.1E','','','2024-07-17','');
@@ -627,7 +625,7 @@ INSERT INTO ccp_31_materiales_peligrosos VALUES('1323','FERROCERIO','4.1','','',
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1324','PELÍCULAS DE SOPORTE NITROCELULÓSICO revestido de gelatina, con exclusión de los desechos','4.1','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1325','SÓLIDO INFLAMABLE ORGÁNICO, N.E.P.','4.1','','Solidos que se inflaman con facilidad o pueden provocar o activar incendios por fricción.','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1326','HAFNIO EN POLVO, HUMIDIFICADO con un mínimo del 25% de agua (debe haber un exceso visible de agua): a) producido mecánicamente, en partículas de menos de 53 micrones; b) producido químicamente, en partículas de menos de 840 micrones','4.1','','','2024-07-17','');
-INSERT INTO ccp_31_materiales_peligrosos VALUES('1327','HENO, PAJA o "BUSHA" (TAMO)','4.1','','','2024-07-17','');
+INSERT INTO ccp_31_materiales_peligrosos VALUES('1327','HENO, PAJA o `BUSHA` (TAMO)','4.1','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1328','HEXAMETILENTETRAMINA','4.1','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1330','RESINATO DE MANGANESO','4.1','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1331','FÓSFOROS DISTINTOS DE LOS DE SEGURIDAD','4.1','','','2024-07-17','');
@@ -1119,7 +1117,7 @@ INSERT INTO ccp_31_materiales_peligrosos VALUES('1940','ÁCIDO TIOGLICÓLICO','8
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1941','DIBROMODIFLUORO- METANO','9','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1942','NITRATO DE AMONIO con un máximo del 0,2% de substancias combustibles, incluida toda substancia orgánica expresada en equivalente de carbono, con exclusión de cualquier otra substancia añadida','5.1','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1944','FÓSFOROS DE SEGURIDAD (en estuches, cartones o cajas)','4.1','','','2024-07-17','');
-INSERT INTO ccp_31_materiales_peligrosos VALUES('1945','FÓSFOROS DE CERA "VESTA"','4.1','','','2024-07-17','');
+INSERT INTO ccp_31_materiales_peligrosos VALUES('1945','FÓSFOROS DE CERA `VESTA`','4.1','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1950','AEROSOLES','2','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1951','ARGÓN LÍQUIDO REFRIGERADO','2.2','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('1952','ÓXIDO DE ETILENO Y DIÓXIDO DE CARBONO, MEZCLA DE, con un máximo del 9% de óxido de etileno','2.2','','','2024-07-17','');
@@ -2346,4 +2344,3 @@ INSERT INTO ccp_31_materiales_peligrosos VALUES('3547','ARTÍCULOS QUE CONTIENEN
 INSERT INTO ccp_31_materiales_peligrosos VALUES('3548','ARTÍCULOS QUE CONTIENEN MERCANCÍAS PELIGROSAS DIVERSAS, N.E.P.','9','Véase1','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('3549','DESECHOS MÉDICOS, DE CATEGORÍA A, QUE AFECTAN A LAS PERSONAS, sólidos o DESECHOS MÉDICOS DE CATEGORÍA A, QUE AFECTAN A LOS ANIMALES únicamente, sólidos','6.2','','','2024-07-17','');
 INSERT INTO ccp_31_materiales_peligrosos VALUES('3550','POLVO DE DIHIDRÓXIDO DE COBALTO, que contenga no menos del 10% de partículas respirables','6.1','','','2024-07-17','');
-COMMIT;

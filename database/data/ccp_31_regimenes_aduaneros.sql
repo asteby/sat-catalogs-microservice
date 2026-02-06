@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_regimenes_aduaneros VALUES('IMD','Definitivo de importación.','Entrada','2024-07-17','');
 INSERT INTO ccp_31_regimenes_aduaneros VALUES('EXD','Definitivo de exportación.','Salida','2024-07-17','');
 INSERT INTO ccp_31_regimenes_aduaneros VALUES('ITR','Temporales de importación para retomar al extranjero en el mismo estado.','Entrada','2024-07-17','');
@@ -10,4 +8,3 @@ INSERT INTO ccp_31_regimenes_aduaneros VALUES('DFI','Depósito Fiscal.','Salida,
 INSERT INTO ccp_31_regimenes_aduaneros VALUES('RFE','Elaboración, transformación o reparación en recinto fiscalizado.','Salida,Entrada','2024-07-17','');
 INSERT INTO ccp_31_regimenes_aduaneros VALUES('RFS','Recinto fiscalizado estratégico.','Salida,Entrada','2024-07-17','');
 INSERT INTO ccp_31_regimenes_aduaneros VALUES('TRA','Tránsitos.','Salida,Entrada','2024-07-17','');
-COMMIT;

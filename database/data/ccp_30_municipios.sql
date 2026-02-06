@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_30_municipios VALUES('001','AGU','Aguascalientes','2023-11-25','');
 INSERT INTO ccp_30_municipios VALUES('001','BCN','Ensenada','2023-11-25','');
 INSERT INTO ccp_30_municipios VALUES('001','BCS','Comondú','2023-11-25','');
@@ -2463,4 +2461,3 @@ INSERT INTO ccp_30_municipios VALUES('567','OAX','Zapotitlán Lagunas','2023-11-
 INSERT INTO ccp_30_municipios VALUES('568','OAX','Zapotitlán Palmas','2023-11-25','');
 INSERT INTO ccp_30_municipios VALUES('569','OAX','Santa Inés de Zaragoza','2023-11-25','');
 INSERT INTO ccp_30_municipios VALUES('570','OAX','Zimatlán de Álvarez','2023-11-25','');
-COMMIT;

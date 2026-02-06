@@ -1,9 +1,9 @@
-CREATE TABLE IF NOT EXISTS "ccp_20_codigos_transporte_aereo"(
-  "id" text not null,
-  "nacionalidad" text not null,
-  "texto" text not null,
-  "designador_oaci" text not null,
-  "vigencia_desde" text not null,
-  "vigencia_hasta" text not null,
-  PRIMARY KEY("id")
+CREATE TABLE IF NOT EXISTS `ccp_20_codigos_transporte_aereo`(
+  `id` VARCHAR(255) not null,
+  `nacionalidad` TEXT not null,
+  `texto` TEXT not null,
+  `designador_oaci` TEXT not null,
+  `vigencia_desde` TEXT not null,
+  `vigencia_hasta` TEXT not null,
+  PRIMARY KEY(`id`)
 );

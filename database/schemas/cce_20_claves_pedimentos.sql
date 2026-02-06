@@ -1,5 +1,5 @@
-CREATE TABLE IF NOT EXISTS "cce_20_claves_pedimentos"(
-  "id" text not null,
-  "texto" text not null,
-  PRIMARY KEY("id")
+CREATE TABLE IF NOT EXISTS `cce_20_claves_pedimentos` (
+  `id` VARCHAR(255) NOT NULL,
+  `texto` TEXT NOT NULL,
+  PRIMARY KEY (`id`)
 );

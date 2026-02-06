@@ -1,8 +1,8 @@
-CREATE TABLE IF NOT EXISTS "cfdi_numeros_pedimento_aduana"(
-  "aduana" text not null,
-  "patente" text not null,
-  "ejercicio" int not null,
-  "cantidad" int not null,
-  "vigencia_desde" text not null,
-  "vigencia_hasta" text not null
+CREATE TABLE IF NOT EXISTS `cfdi_numeros_pedimento_aduana`(
+  `aduana` TEXT not null,
+  `patente` TEXT not null,
+  `ejercicio` int not null,
+  `cantidad` int not null,
+  `vigencia_desde` TEXT not null,
+  `vigencia_hasta` TEXT not null
 );

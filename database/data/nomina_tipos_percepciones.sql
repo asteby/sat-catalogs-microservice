@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO nomina_tipos_percepciones VALUES('001','Sueldos, Salarios  Rayas y Jornales','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('002','Gratificación Anual (Aguinaldo)','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('003','Participación de los Trabajadores en las Utilidades PTU','2016-11-01','');
@@ -47,4 +45,3 @@ INSERT INTO nomina_tipos_percepciones VALUES('053','Pagos que se realicen a extr
 INSERT INTO nomina_tipos_percepciones VALUES('054','Días de descanso laborados','2026-01-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('055','Días de descanso obligatorios laborados','2026-01-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('056','Previsión social, Art 93 fracciones VIII y IX LISR','2025-12-17','');
-COMMIT;

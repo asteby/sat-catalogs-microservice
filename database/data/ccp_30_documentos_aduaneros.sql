@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_30_documentos_aduaneros VALUES('01','Pedimento','2023-11-25','');
 INSERT INTO ccp_30_documentos_aduaneros VALUES('02','Autorización de importación temporal','2023-11-25','');
 INSERT INTO ccp_30_documentos_aduaneros VALUES('03','Autorización de importación temporal de embarcaciones','2023-11-25','');
@@ -20,4 +18,3 @@ INSERT INTO ccp_30_documentos_aduaneros VALUES('17','Solicitud de donación de m
 INSERT INTO ccp_30_documentos_aduaneros VALUES('18','Aviso de consolidado','2023-11-25','');
 INSERT INTO ccp_30_documentos_aduaneros VALUES('19','Aviso de cruce de mercancias','2023-11-25','');
 INSERT INTO ccp_30_documentos_aduaneros VALUES('20','Otro','2023-11-25','');
-COMMIT;

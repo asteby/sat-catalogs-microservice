@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_regimenes_fiscales VALUES('601','General de Ley Personas Morales','',1,'2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('603','Personas Morales con Fines no Lucrativos','',1,'2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('605','Sueldos y Salarios e Ingresos Asimilados a Salarios',1,'','2016-11-12','');
@@ -23,4 +21,3 @@ INSERT INTO cfdi_regimenes_fiscales VALUES('626','Régimen Simplificado de Confi
 INSERT INTO cfdi_regimenes_fiscales VALUES('628','Hidrocarburos','',1,'2024-01-01','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('629','De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales',1,'','2024-01-01','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('630','Enajenación de acciones en bolsa de valores',1,'','2024-01-01','');
-COMMIT;

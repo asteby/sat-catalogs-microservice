@@ -1,8 +1,8 @@
-CREATE TABLE IF NOT EXISTS "ccp_30_contenedores"(
-  "id" text not null,
-  "texto" text not null,
-  "descripcion" text not null,
-  "vigencia_desde" text not null,
-  "vigencia_hasta" text not null,
-  PRIMARY KEY("id")
+CREATE TABLE IF NOT EXISTS `ccp_30_contenedores`(
+  `id` VARCHAR(255) not null,
+  `texto` TEXT not null,
+  `descripcion` TEXT not null,
+  `vigencia_desde` TEXT not null,
+  `vigencia_hasta` TEXT not null,
+  PRIMARY KEY(`id`)
 );

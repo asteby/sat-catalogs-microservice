@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('SCT418/068/2018','2018-12-26','2023-12-27');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('SCT418/069/2018','2018-12-17','2023-12-18');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('SCT418/001/2019','2019-02-08','2024-02-09');
@@ -339,4 +337,3 @@ INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG035/2023','2023-07-03','202
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG029/2024','2024-09-23','2029-09-24');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG030/2024','2024-10-07','2029-10-08');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG031/2024','2024-10-28','2029-10-29');
-COMMIT;

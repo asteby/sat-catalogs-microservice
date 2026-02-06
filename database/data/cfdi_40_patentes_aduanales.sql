@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_patentes_aduanales VALUES('0000','2000-01-01','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('0074','2001-07-03','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('0101','2001-05-21','');
@@ -3400,4 +3398,3 @@ INSERT INTO cfdi_40_patentes_aduanales VALUES('9053','2008-08-05','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('9054','2012-04-26','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('9055','2017-03-08','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('9999','2011-03-02','');
-COMMIT;

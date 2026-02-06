@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cce_20_estados VALUES('AGU','MEX','Aguascalientes','2024-01-18','');
 INSERT INTO cce_20_estados VALUES('BCN','MEX','Baja California','2024-01-18','');
 INSERT INTO cce_20_estados VALUES('BCS','MEX','Baja California Sur','2024-01-18','');
@@ -95,4 +93,3 @@ INSERT INTO cce_20_estados VALUES('NL','CAN','Terranova y Labrador','2024-01-18'
 INSERT INTO cce_20_estados VALUES('NT','CAN','Territorios del Noroeste','2024-01-18','');
 INSERT INTO cce_20_estados VALUES('YT','CAN','Yukón','2024-01-18','');
 INSERT INTO cce_20_estados VALUES('UN','CAN','Nunavut','2024-01-18','');
-COMMIT;

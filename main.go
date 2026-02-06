@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"regexp"
 	"strconv"
 	"strings"
 
@@ -27,6 +28,9 @@ func main() {
 	db, err = gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
 		log.Fatal("Failed to connect to database:", err)
+	}
+	if err := db.Exec("USE sat_catalogs").Error; err != nil {
+		log.Fatal("Failed to select database:", err)
 	}
 
 	r := gin.New()
@@ -64,41 +68,18 @@ func migrateHandler(c *gin.Context) {
 			c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
 			return
 		}
-		if err := db.Exec(string(sqlBytes)).Error; err != nil {
+		sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
+		sql = strings.ReplaceAll(sql, " text", " TEXT")
+		sql = normalizeSchemaSQL(sql)
+		log.Printf("Executing schema for %s", filepath.Base(file))
+		if err := db.Exec(sql).Error; err != nil {
 			c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
 			return
 		}
+		log.Printf("Schema executed successfully for %s", filepath.Base(file))
 	}
 
-	// Create indexes for query optimization
-	indexSQLs := []string{
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_paises_texto ON cfdi_40_paises (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_estados_pais ON cfdi_40_estados (pais);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_estados_texto ON cfdi_40_estados (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_municipios_estado ON cfdi_40_municipios (estado);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_municipios_texto ON cfdi_40_municipios (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_colonias_codigo_postal ON cfdi_40_colonias (codigo_postal);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_colonias_estado ON cfdi_40_colonias (estado);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_colonias_texto ON cfdi_40_colonias (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_productos_servicios_texto ON cfdi_40_productos_servicios (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_formas_pago_texto ON cfdi_40_formas_pago (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_monedas_texto ON cfdi_40_monedas (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_usos_cfdi_texto ON cfdi_40_usos_cfdi (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_regimenes_fiscales_texto ON cfdi_40_regimenes_fiscales (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_tipos_comprobantes_texto ON cfdi_40_tipos_comprobantes (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_metodos_pago_texto ON cfdi_40_metodos_pago (texto);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_codigos_postales_estado ON cfdi_40_codigos_postales (d_estado);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_codigos_postales_municipio ON cfdi_40_codigos_postales (D_mnpio);",
-		"CREATE INDEX IF NOT EXISTS idx_cfdi_40_codigos_postales_cp ON cfdi_40_codigos_postales (d_codigo);",
-	}
-	for _, sql := range indexSQLs {
-		if err := db.Exec(sql).Error; err != nil {
-			c.JSON(500, gin.H{"error": fmt.Sprintf("Error creating index: %v", err)})
-			return
-		}
-	}
-
-	c.JSON(200, gin.H{"message": "Migration and index creation completed"})
+	c.JSON(200, gin.H{"message": "Migration completed"})
 }
 
 func setupHandler(c *gin.Context) {
@@ -107,16 +88,34 @@ func setupHandler(c *gin.Context) {
 		c.JSON(500, gin.H{"error": err.Error()})
 		return
 	}
-	for _, file := range files {
+	totalFiles := len(files)
+	for i, file := range files {
+		log.Printf("Setting up data from file %d/%d: %s", i+1, totalFiles, filepath.Base(file))
 		sqlBytes, err := os.ReadFile(file)
 		if err != nil {
 			c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
 			return
 		}
-		if err := db.Exec(string(sqlBytes)).Error; err != nil {
-			c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
-			return
+		sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
+		sql = strings.ReplaceAll(sql, " text", " TEXT")
+		sql = normalizeSchemaSQL(sql)
+		sql = strings.ReplaceAll(sql, "\\r\\n", "\\n")
+		statements := splitSQLStatements(sql)
+		for _, stmt := range statements {
+			clean := strings.TrimSpace(stmt)
+			if clean == "" {
+				continue
+			}
+			upper := strings.ToUpper(clean)
+			if strings.HasPrefix(upper, "PRAGMA") || strings.HasPrefix(upper, "BEGIN TRANSACTION") || upper == "BEGIN" || strings.HasPrefix(upper, "COMMIT") {
+				continue
+			}
+			if err := db.Exec(clean).Error; err != nil {
+				c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
+				return
+			}
 		}
+		log.Printf("Data inserted successfully for %s", filepath.Base(file))
 	}
 	c.JSON(200, gin.H{"message": "Data setup completed"})
 }
@@ -130,6 +129,8 @@ func getCatalog(c *gin.Context) {
 	page, _ := strconv.Atoi(pageStr)
 	limit, _ := strconv.Atoi(limitStr)
 	offset := (page - 1) * limit
+
+	log.Printf("Querying catalog %s, table %s, search %s", catalog, tableName, search)
 
 	query := "SELECT * FROM " + tableName
 	args := []interface{}{}
@@ -183,11 +184,79 @@ func getCatalog(c *gin.Context) {
 	query += " LIMIT ? OFFSET ?"
 	args = append(args, limit, offset)
 
+	log.Printf("Executing query: %s with args: %v", query, args)
+
 	var results []map[string]interface{}
 	err := db.Raw(query, args...).Scan(&results).Error
 	if err != nil {
+		log.Printf("Query failed: %v", err)
 		c.JSON(500, gin.H{"error": err.Error()})
 		return
 	}
+	log.Printf("Query succeeded, returning %d results", len(results))
 	c.JSON(200, results)
+}
+
+func splitSQLStatements(sql string) []string {
+	var statements []string
+	var current strings.Builder
+	inSingleQuote := false
+	sqlBytes := []byte(sql)
+	for i := 0; i < len(sqlBytes); i++ {
+		ch := sqlBytes[i]
+		if ch == '\'' {
+			if inSingleQuote {
+				if i+1 < len(sqlBytes) && sqlBytes[i+1] == '\'' {
+					current.WriteByte(ch)
+					i++
+					current.WriteByte(sqlBytes[i])
+					continue
+				}
+				inSingleQuote = false
+			} else {
+				inSingleQuote = true
+			}
+			current.WriteByte(ch)
+			continue
+		}
+		if ch == ';' && !inSingleQuote {
+			stmt := strings.TrimSpace(current.String())
+			if stmt != "" {
+				statements = append(statements, stmt)
+			}
+			current.Reset()
+			continue
+		}
+		current.WriteByte(ch)
+	}
+	if tail := strings.TrimSpace(current.String()); tail != "" {
+		statements = append(statements, tail)
+	}
+	return statements
+}
+
+func normalizeSchemaSQL(sql string) string {
+	rePK := regexp.MustCompile("(?i)PRIMARY\\s+KEY\\s*\\(([^)]+)\\)")
+	matches := rePK.FindAllStringSubmatch(sql, -1)
+	if len(matches) == 0 {
+		return sql
+	}
+	primaryCols := make(map[string]struct{})
+	for _, m := range matches {
+		cols := strings.Split(m[1], ",")
+		for _, col := range cols {
+			name := strings.TrimSpace(col)
+			name = strings.Trim(name, "`\"")
+			if name == "" {
+				continue
+			}
+			primaryCols[strings.ToLower(name)] = struct{}{}
+		}
+	}
+	updated := sql
+	for col := range primaryCols {
+		reCol := regexp.MustCompile("(?i)(`" + regexp.QuoteMeta(col) + "`\\s+)TEXT")
+		updated = reCol.ReplaceAllString(updated, "$1VARCHAR(255)")
+	}
+	return updated
 }

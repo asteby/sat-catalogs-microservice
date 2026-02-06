@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA001','Asiáticas','All Nippon Airways LTD','ANA','2021-06-01','');
 INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA002','Asiáticas','Cathay Pacific Airways Limited','CPA','2021-06-01','');
 INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA003','Asiáticas','China Southern Airlines','CSN','2021-06-01','');
@@ -160,4 +158,3 @@ INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA157','Mexicanas','Servicio
 INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA158','Extranjeras','Servicio de Taxi Aéreo','NA','2021-11-22','');
 INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA159','Mexicanas','Servicios Privados No Comerciales','NA','2021-11-22','');
 INSERT INTO ccp_20_codigos_transporte_aereo VALUES('CA160','Extranjeras','Servicios Privados No Comerciales','NA','2021-11-22','');
-COMMIT;

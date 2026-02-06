@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_configuraciones_maritimas VALUES('B01','Abastecedor','2024-07-17','');
 INSERT INTO ccp_31_configuraciones_maritimas VALUES('B02','Barcaza','2024-07-17','');
 INSERT INTO ccp_31_configuraciones_maritimas VALUES('B03','Granelero','2024-07-17','');
@@ -15,4 +13,3 @@ INSERT INTO ccp_31_configuraciones_maritimas VALUES('B12','Tanquero','2024-07-17
 INSERT INTO ccp_31_configuraciones_maritimas VALUES('B13','Gasero','2024-07-17','');
 INSERT INTO ccp_31_configuraciones_maritimas VALUES('B14','Remolcador','2024-07-17','');
 INSERT INTO ccp_31_configuraciones_maritimas VALUES('B15','Extraordinaria especialización','2024-07-17','');
-COMMIT;

@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0004','PICRATO DE AMONIO seco o humedecido con menos de 10%, en masa, de agua','1.1D','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0005','CARTUCHOS PARA ARMAS, con carga explosiva','1.1F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0006','CARTUCHOS PARA ARMAS, con carga explosiva','1.1E','','','2021-12-01','');
@@ -1113,7 +1111,7 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('1940','ACIDO TIOGLICOLICO','8',
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1941','DIBROMODIFLUOMETANO','9','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1942','NITRATO DE AMONIO con un máximo de 0,2% del material combustible, incluyendo cualquier substancia orgánica expresada en equivalente de carbono, con exclusión de cualquier otra substancia añadida','5.1','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1944','FÓSFOROS   DE    SEGURIDAD    (en estuches, cartones o cajas)','4.1','','','2021-12-01','');
-INSERT INTO ccp_20_materiales_peligrosos VALUES('1945','FÓSFOROS DE CERA "VESTA"','4.1','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('1945','FÓSFOROS DE CERA `VESTA`','4.1','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1950','AEROSOLES','2','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1951','ARGON LIQUIDO REFRIGERADO','2.2','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1952','MEZCLA DE OXIDO DE ETILENO Y DIOXIDO DE CARBONO con un máximo de 9% de óxido de etileno','2.2','','','2021-12-01','');
@@ -2286,4 +2284,3 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('3492','LIQUIDO TOXICO POR INHAL
 INSERT INTO ccp_20_materiales_peligrosos VALUES('3493','LIQUIDO TOXICO POR INHALACION, CORROSIVO, INFLAMABLE, N.E.P., con toxicidad por inhalación inferior o igual a 1.000 ml/m3 y con concentración saturada de vapor superior o igual a 10 CL50','6.1','8 3','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('3494','PETROLEO CRUDO ACIDO, INFLAMABLE, TOXICO','3','6.1','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('3495','YODO','8','6.1','','2021-12-01','');
-COMMIT;

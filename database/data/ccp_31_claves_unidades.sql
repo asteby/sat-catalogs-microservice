@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_31_claves_unidades VALUES('Tu','Contenedor externo','Tipo de caja de contención que sirve como contenedor de transporte externo, no especificado como equipo de transporte.','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('X1A','Tambor de acero','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('X1B','Tambor de aluminio','','','2024-07-17','','','Embalaje');
@@ -291,12 +289,12 @@ INSERT INTO ccp_31_claves_unidades VALUES('XVI','Frasco pequeño','','','2024-07
 INSERT INTO ccp_31_claves_unidades VALUES('XVK','Paquete transportable','Tipo de cajón de madera.','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XVL','Contenedor para líquidos a granel','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XVN','Vehículo','Medio de transporte autopropulsado.','','2024-07-17','','','Embalaje');
-INSERT INTO ccp_31_claves_unidades VALUES('XVO','Contenedor para sólido de partículas grandes a granel ("nódulos")','','','2024-07-17','','','Embalaje');
+INSERT INTO ccp_31_claves_unidades VALUES('XVO','Contenedor para sólido de partículas grandes a granel (`nódulos`)','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XVP','Envasado al vacío','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XVQ','Tanque para Gas licuado (a temperatura / presión anormal)','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XVR','Contenedor para sólidos de partículas granulares a granel (Granos)','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XVS','Contenedor de chatarra a granel','Chatarra suelta o sin empaquetar transportada a granel.','','2024-07-17','','','Embalaje');
-INSERT INTO ccp_31_claves_unidades VALUES('XVY','Contenedor para sólido de partículas finas a granel ("polvos")','','','2024-07-17','','','Embalaje');
+INSERT INTO ccp_31_claves_unidades VALUES('XVY','Contenedor para sólido de partículas finas a granel (`polvos`)','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XWA','Contenedor de granel intermedio','Recipiente reutilizable hecho de metal, plástico, textiles, madera o materiales compuestos utilizados para facilitar el transporte de sólidos y líquidos a granel en volúmenes manejables.','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XWB','Botella de mimbre','','','2024-07-17','','','Embalaje');
 INSERT INTO ccp_31_claves_unidades VALUES('XWC','Contenedor intermedio para gráneles y de acero','','','2024-07-17','','','Embalaje');
@@ -431,8 +429,8 @@ INSERT INTO ccp_31_claves_unidades VALUES('5I','Pies cúbicos estándar','Utilic
 INSERT INTO ccp_31_claves_unidades VALUES('INQ','Pulgada cúbica','Sinónimo: pulgada cuadrada','','2024-07-17','','in³','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('FTQ','Pie cúbico','','','2024-07-17','','ft³','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('YDQ','Yarda cúbica','','','2024-07-17','','yd³','Volumen');
-INSERT INTO ccp_31_claves_unidades VALUES('GLI','Galón (UK)','Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquidos, principalmente la gasolina y su precio. Antiguamente, el volumen de un galón dependía de lo que se midiera, y dónde. Sin embargo, en el siglo XIX existían dos definiciones de uso común: "galón de vino" (wine gallon) y "galón de cerveza británico" (ale gallon).\nEs equivalente a 3.7854 litros.','','2024-07-17','','gal (UK)','Volumen');
-INSERT INTO ccp_31_claves_unidades VALUES('GLL','Galón (EUA)','Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquidos, principalmente la gasolina y su precio. Antiguamente, el volumen de un galón dependía de lo que se midiera, y dónde. Sin embargo, en el siglo XIX existían dos definiciones de uso común: "galón de vino" (wine gallon) y "galón de cerveza británico" (ale gallon).','','2024-07-17','','gal (US)','Volumen');
+INSERT INTO ccp_31_claves_unidades VALUES('GLI','Galón (UK)','Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquidos, principalmente la gasolina y su precio. Antiguamente, el volumen de un galón dependía de lo que se midiera, y dónde. Sin embargo, en el siglo XIX existían dos definiciones de uso común: `galón de vino` (wine gallon) y `galón de cerveza británico` (ale gallon).\nEs equivalente a 3.7854 litros.','','2024-07-17','','gal (UK)','Volumen');
+INSERT INTO ccp_31_claves_unidades VALUES('GLL','Galón (EUA)','Es una unidad de volumen que se emplea en los países anglófonos (especialmente Estados Unidos) o con influencia de estos (como Liberia, Guatemala, Panamá, Honduras, Nicaragua, El Salvador, Colombia y parcialmente en México), para medir volúmenes de líquidos, principalmente la gasolina y su precio. Antiguamente, el volumen de un galón dependía de lo que se midiera, y dónde. Sin embargo, en el siglo XIX existían dos definiciones de uso común: `galón de vino` (wine gallon) y `galón de cerveza británico` (ale gallon).','','2024-07-17','','gal (US)','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('PT','Pinta (US)','Utilice pinta líquida (código común PTL)','Unidades no recomendadas para su uso por la Oficina Internacional de Pesos y Medidas (BIPM) con sede en Francia.','2024-07-17','','Pt (US)','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('PTI','Pint (uk)','Es una unidad de volumen inglesa en el sistema imperial y los Estados Unidos. La versión imperial usada en el UK es de 20 onzas líquidas y es equivalente a 568,26125 ml, mientras que en los EUA es de 16 onzas líquidas y es equivalente a 473,17647 ml.','','2024-07-17','','pt (UK)','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('QTI','Cuarto (UK)','Es una unidad de medida de volumen equivalente a media fanega. En Castilla equivalía a aproximadamente a 6 celemines. La medida real cambia según regiones o incluso localidades.','','2024-07-17','','qt (UK)','Volumen');
@@ -472,4 +470,3 @@ INSERT INTO ccp_31_claves_unidades VALUES('Q33','Picolitro','','','2024-07-17','
 INSERT INTO ccp_31_claves_unidades VALUES('Q34','Nanolitro','','','2024-07-17','','nl','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('NM3','Metro cúbico normalizado','Metros cúbicos normalizados (temperatura 0 ° C y presión 101325 milibares)','','2024-07-17','','','Volumen');
 INSERT INTO ccp_31_claves_unidades VALUES('SM3','Metro cúbico estándar','Metro cúbico estándar (temperatura 15 ° C y presión 101325 milibares)','','2024-07-17','','','Volumen');
-COMMIT;

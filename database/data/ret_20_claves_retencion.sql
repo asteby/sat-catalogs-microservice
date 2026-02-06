@@ -1,10 +1,8 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
-INSERT INTO ret_20_claves_retencion VALUES('01','Servicios profesionales.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado "Pagos a Extranjeros".','2015-05-22','');
-INSERT INTO ret_20_claves_retencion VALUES('02','Regalías por derechos de autor.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado "Pagos a Extranjeros".','2015-05-22','');
+INSERT INTO ret_20_claves_retencion VALUES('01','Servicios profesionales.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado `Pagos a Extranjeros`.','2015-05-22','');
+INSERT INTO ret_20_claves_retencion VALUES('02','Regalías por derechos de autor.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado `Pagos a Extranjeros`.','2015-05-22','');
 INSERT INTO ret_20_claves_retencion VALUES('03','Autotransporte terrestre de carga.','Sin complemento','2015-05-22','');
-INSERT INTO ret_20_claves_retencion VALUES('04','Servicios prestados por comisionistas.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado "Pagos a Extranjeros".','2015-05-22','');
-INSERT INTO ret_20_claves_retencion VALUES('05','Arrendamiento.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado "Pagos a Extranjeros".','2015-05-22','');
+INSERT INTO ret_20_claves_retencion VALUES('04','Servicios prestados por comisionistas.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado `Pagos a Extranjeros`.','2015-05-22','');
+INSERT INTO ret_20_claves_retencion VALUES('05','Arrendamiento.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado `Pagos a Extranjeros`.','2015-05-22','');
 INSERT INTO ret_20_claves_retencion VALUES('06','Enajenación de acciones.','Enajenación de Acciones.','2015-05-22','');
 INSERT INTO ret_20_claves_retencion VALUES('07','Enajenación de bienes objeto de la LIEPS, a través de mediadores, agentes, representantes, corredores, consignatarios o distribuidores.','Sin complemento','2015-05-22','');
 INSERT INTO ret_20_claves_retencion VALUES('08','Enajenación de bienes inmuebles consignada en escritura pública.','Sin complemento','2015-05-22','');
@@ -28,4 +26,3 @@ INSERT INTO ret_20_claves_retencion VALUES('25','Otro tipo de retenciones.','Sin
 INSERT INTO ret_20_claves_retencion VALUES('26','Servicios mediante Plataformas Tecnológicas','Servicios mediante Plataformas Tecnológicas','2019-06-01','');
 INSERT INTO ret_20_claves_retencion VALUES('27','Sector Financiero','Sector Financiero- Sólo se incorpora este complemento cuando las entidades integrantes del sistema financiero actúen en su carácter de fiduciarias.','2022-01-01','');
 INSERT INTO ret_20_claves_retencion VALUES('28','Pagos y retenciones a Contribuyentes del RIF','Sin complemento','2022-01-01','');
-COMMIT;

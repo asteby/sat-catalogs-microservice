@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO nomina_bancos VALUES('002','BANAMEX','Banco Nacional de México, S.A., Institución de Banca Múltiple, Grupo Financiero Banamex','2017-01-01','');
 INSERT INTO nomina_bancos VALUES('006','BANCOMEXT','Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo','2017-01-01','');
 INSERT INTO nomina_bancos VALUES('009','BANOBRAS','Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo','2017-01-01','');
@@ -106,4 +104,3 @@ INSERT INTO nomina_bancos VALUES('659','OPCIONES EMPRESARIALES DEL NOROESTE','OP
 INSERT INTO nomina_bancos VALUES('670','LIBERTAD','Libertad Servicios Financieros, S.A. De C.V.','2017-01-01','');
 INSERT INTO nomina_bancos VALUES('901','CLS','Cls Bank International','2017-01-01','');
 INSERT INTO nomina_bancos VALUES('902','INDEVAL','SD. Indeval, S.A. de C.V.','2017-01-01','');
-COMMIT;

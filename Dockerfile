@@ -27,6 +27,8 @@ WORKDIR /root/
 
 # Copy the binary from the builder stage
 COPY --from=builder /app/main .
+# Copy SQL schemas/data
+COPY --from=builder /app/database ./database
 
 # Expose the port the app runs on
 EXPOSE 8080

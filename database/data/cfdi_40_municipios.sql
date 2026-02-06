@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_municipios VALUES('001','AGU','Aguascalientes','2022-01-01','');
 INSERT INTO cfdi_40_municipios VALUES('001','BCN','Ensenada','2022-01-01','');
 INSERT INTO cfdi_40_municipios VALUES('001','BCS','Comondú','2022-01-01','');
@@ -2478,4 +2476,3 @@ INSERT INTO cfdi_40_municipios VALUES('567','OAX','Zapotitlán Lagunas','2022-01
 INSERT INTO cfdi_40_municipios VALUES('568','OAX','Zapotitlán Palmas','2022-01-01','');
 INSERT INTO cfdi_40_municipios VALUES('569','OAX','Santa Inés de Zaragoza','2022-01-01','');
 INSERT INTO cfdi_40_municipios VALUES('570','OAX','Zimatlán de Álvarez','2022-01-01','');
-COMMIT;

@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ret_20_entidades_federativas VALUES('01','AGUASCALIENTES','2022-01-01','');
 INSERT INTO ret_20_entidades_federativas VALUES('02','BAJA CALIFORNIA','2022-01-01','');
 INSERT INTO ret_20_entidades_federativas VALUES('03','BAJA CALIFORNIA SUR','2022-01-01','');
@@ -32,4 +30,3 @@ INSERT INTO ret_20_entidades_federativas VALUES('29','TLAXCALA','2022-01-01','')
 INSERT INTO ret_20_entidades_federativas VALUES('30','VERACRUZ','2022-01-01','');
 INSERT INTO ret_20_entidades_federativas VALUES('31','YUCATAN','2022-01-01','');
 INSERT INTO ret_20_entidades_federativas VALUES('32','ZACATECAS','2022-01-01','');
-COMMIT;

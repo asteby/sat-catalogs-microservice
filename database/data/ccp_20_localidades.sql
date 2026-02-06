@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO ccp_20_localidades VALUES('01','AGU','Aguascalientes','2017-01-01','');
 INSERT INTO ccp_20_localidades VALUES('01','BCN','Ensenada','2017-01-01','');
 INSERT INTO ccp_20_localidades VALUES('01','BCS','Ciudad Constitución','2017-01-01','');
@@ -680,4 +678,3 @@ INSERT INTO ccp_20_localidades VALUES('66','VER','Sihuapan','2017-01-01','');
 INSERT INTO ccp_20_localidades VALUES('67','VER','El Higo','2017-01-01','');
 INSERT INTO ccp_20_localidades VALUES('68','VER','Paso del Macho','2017-01-01','');
 INSERT INTO ccp_20_localidades VALUES('69','VER','Tlapacoyan','2017-01-01','');
-COMMIT;

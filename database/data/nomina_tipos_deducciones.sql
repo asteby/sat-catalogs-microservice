@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO nomina_tipos_deducciones VALUES('001','Seguridad social','2016-11-01','');
 INSERT INTO nomina_tipos_deducciones VALUES('002','ISR','2016-11-01','');
 INSERT INTO nomina_tipos_deducciones VALUES('003','Aportaciones a retiro, cesantía en edad avanzada y vejez.','2016-11-01','');
@@ -113,4 +111,3 @@ INSERT INTO nomina_tipos_deducciones VALUES('110','Ajuste a días de descanso ob
 INSERT INTO nomina_tipos_deducciones VALUES('111','Ajuste a días de descanso obligatorios laborados exentos','2026-01-01','');
 INSERT INTO nomina_tipos_deducciones VALUES('112','Ajuste previsión social Art 93 fracciones VIII y IX LISR gravados','2025-12-17','');
 INSERT INTO nomina_tipos_deducciones VALUES('113','Ajuste previsión social Art 93 fracciones VIII y IX LISR exentos','2025-12-17','');
-COMMIT;

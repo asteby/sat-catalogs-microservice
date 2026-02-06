@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO cfdi_40_estados VALUES('AGU','MEX','Aguascalientes','2022-01-01','');
 INSERT INTO cfdi_40_estados VALUES('BCN','MEX','Baja California','2022-01-01','');
 INSERT INTO cfdi_40_estados VALUES('BCS','MEX','Baja California Sur','2022-01-01','');
@@ -95,4 +93,3 @@ INSERT INTO cfdi_40_estados VALUES('NL','CAN','Terranova y Labrador','2022-01-01
 INSERT INTO cfdi_40_estados VALUES('NT','CAN','Territorios del Noroeste','2022-01-01','');
 INSERT INTO cfdi_40_estados VALUES('YT','CAN','Yukón','2022-01-01','');
 INSERT INTO cfdi_40_estados VALUES('UN','CAN','Nunavut','2022-01-01','');
-COMMIT;

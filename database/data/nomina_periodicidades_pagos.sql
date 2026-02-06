@@ -1,5 +1,3 @@
-PRAGMA foreign_keys=OFF;
-BEGIN TRANSACTION;
 INSERT INTO nomina_periodicidades_pagos VALUES('01','Diario','2016-11-01','');
 INSERT INTO nomina_periodicidades_pagos VALUES('02','Semanal','2016-11-01','');
 INSERT INTO nomina_periodicidades_pagos VALUES('03','Catorcenal','2016-11-01','');
@@ -11,4 +9,3 @@ INSERT INTO nomina_periodicidades_pagos VALUES('08','Comisión','2016-11-01','')
 INSERT INTO nomina_periodicidades_pagos VALUES('09','Precio alzado','2016-11-01','');
 INSERT INTO nomina_periodicidades_pagos VALUES('10','Decenal','2017-01-19','');
 INSERT INTO nomina_periodicidades_pagos VALUES('99','Otra Periodicidad','2016-11-01','');
-COMMIT;
