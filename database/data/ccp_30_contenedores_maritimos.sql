@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_contenedores_maritimos VALUES 
+INSERT INTO ccp_30_contenedores_maritimos VALUES
 ('CM001','Contenedores refrigerados de 20FT','2023-11-25',''),
 ('CM002','Contenedores refrigerados de 40FT','2023-11-25',''),
 ('CM003','Contenedores estándar de 8FT','2023-11-25',''),
@@ -11,3 +11,4 @@ INSERT INTO ccp_30_contenedores_maritimos VALUES
 ('CM010','Buque tanque','2023-11-25',''),
 ('CM011','Ferri','2023-11-25',''),
 ('CM012','Ferri – Turístico y vacíos','2024-01-25','');
+

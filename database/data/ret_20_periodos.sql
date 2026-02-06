@@ -1,4 +1,4 @@
-INSERT INTO ret_20_periodos VALUES 
+INSERT INTO ret_20_periodos VALUES
 ('01','Enero','2022-01-01',''),
 ('02','Febrero','2022-01-01',''),
 ('03','Marzo','2022-01-01',''),
@@ -11,3 +11,4 @@ INSERT INTO ret_20_periodos VALUES
 ('10','Octubre','2022-01-01',''),
 ('11','Noviembre','2022-01-01',''),
 ('12','Diciembre','2022-01-01','');
+

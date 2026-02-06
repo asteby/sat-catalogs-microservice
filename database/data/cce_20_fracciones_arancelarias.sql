@@ -1,4 +1,4 @@
-INSERT INTO cce_20_fracciones_arancelarias VALUES 
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('0101210100','Reproductores de raza pura','2024-01-18','','07'),
 ('0101290200','Sin pedigree, para reproducción','2024-01-18','','06'),
 ('0101290300','Para abasto, cuando la importación la realicen empacadoras Tipo Inspección Federal','2024-01-18','','06'),
@@ -998,7 +998,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('1302320200','Goma guar','2024-01-18','','01'),
 ('1302329900','Los demás','2024-01-18','','01'),
 ('1302390100','Mucílago de zaragatona','2024-01-18','','01'),
-('1302390200','Carragenina','2024-01-18','','01'),
+('1302390200','Carragenina','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('1302399900','Los demás','2024-01-18','','01'),
 ('1401100100','Bambú','2024-01-18','','01'),
 ('1401200100','Ratán (roten)','2024-01-18','','01'),
@@ -1998,7 +2000,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('2906210100','Alcohol bencílico','2024-01-18','','01'),
 ('2906290500','Feniletanol','2024-01-18','','01'),
 ('2906299900','Los demás','2024-01-18','','01'),
-('2907110201','Fenol (hidroxibenceno)','2024-01-18','','01'),
+('2907110201','Fenol (hidroxibenceno)','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('2907110299','Los demás','2024-01-18','','01'),
 ('2907120201','Cresoles','2024-01-18','','01'),
 ('2907120299','Los demás','2024-01-18','','01'),
@@ -2998,7 +3002,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('3004901500','Preparación a base de cloruro de etilo','2024-01-18','','01'),
 ('3004901600','Medicamentos a base de 1-(4-hidroxi-3-hidroximetilfenil)-2-(terbutilamino)etanol, en envase aerosol','2024-01-18','','01'),
 ('3004901700','Mezcla de glucósidos de adonis, convallaria, oleander y scila','2024-01-18','','01'),
-('3004901800','Medicamentos en tabletas a base de azatioprina o de clorambucil o de melfalan o de busulfan o de 6-mercaptopurina','2024-01-18','','01'),
+('3004901800','Medicamentos en tabletas a base de azatioprina o de clorambucil o de melfalan o de busulfan o de 6-mercaptopurina','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('3004901900','Soluciones inyectables a base de besilato de atracurio o de acyclovir','2024-01-18','','01'),
 ('3004902000','Medicamentos a base de mesilato de imatinib','2024-01-18','','01'),
 ('3004902100','Trinitrato de 1,2,3 propanotriol (nitroglicerina) absorbido en lactosa','2024-01-18','','01'),
@@ -3998,7 +4004,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('4002110200','Látex frío de poli(butadieno-estireno), con un contenido de sólidos superior o igual al 38% pero inferior o igual al 41% o superior o igual al 67% pero inferior al 69%, de estireno combinado superior o igual al 21.5% pero inferior o igual al 25.5%, de estireno residual inferior o igual 0.1%','2024-01-18','','01'),
 ('4002119901','De poli(butadieno-estireno) incluso modificados con ácidos carboxílicos, así como los prevulcanizados','2024-01-18','','01'),
 ('4002119999','Los demás','2024-01-18','','01'),
-('4002190100','Poli(butadieno-estireno), con un contenido reaccionado de butadieno superior o igual al 90% pero inferior o igual al 97% y de 10% a 3% respectivamente, de estireno','2024-01-18','','01'),
+('4002190100','Poli(butadieno-estireno), con un contenido reaccionado de butadieno superior o igual al 90% pero inferior o igual al 97% y de 10% a 3% respectivamente, de estireno','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('4002190200','Poli(butadieno-estireno), excepto lo comprendido en la fracción arancelaria 4002.19.01','2024-01-18','','01'),
 ('4002190300','Soluciones o dispersiones de poli(butadieno-estireno)','2024-01-18','','01'),
 ('4002199900','Los demás','2024-01-18','','01'),
@@ -4998,7 +5006,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('5403499900','Los demás','2024-01-18','','01'),
 ('5404110100','De poliuretanos, del tipo de los denominados `elastanos`','2024-01-18','','01'),
 ('5404119900','Los demás','2024-01-18','','01'),
-('5404129100','Los demás, de polipropileno','2024-01-18','','01'),
+('5404129100','Los demás, de polipropileno','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('5404199901','De poliéster','2024-01-18','','01'),
 ('5404199902','De poliamidas o superpoliamidas','2024-01-18','','01'),
 ('5404199999','Los demás','2024-01-18','','01'),
@@ -5998,7 +6008,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('6208110100','De fibras sintéticas o artificiales','2024-01-18','','06'),
 ('6208199100','De las demás materias TEXTiles','2024-01-18','','06'),
 ('6208210101','Para mujeres','2024-01-18','','06'),
-('6208210199','Los demás','2024-01-18','','06'),
+('6208210199','Los demás','2024-01-18','','06');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('6208220101','Para mujeres','2024-01-18','','06'),
 ('6208220199','Los demás','2024-01-18','','06'),
 ('6208299101','Con un contenido de seda mayor o igual a 70% en peso','2024-01-18','','06'),
@@ -6998,7 +7010,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('7221000101','De sección transversal circular, con un diámetro inferior a 19 mm','2024-01-18','','01'),
 ('7221000199','Las demás','2024-01-18','','01'),
 ('7222110201','De acero nitrogenado, laminadas en caliente, pelado o rectificado','2024-01-18','','01'),
-('7222110299','Las demás','2024-01-18','','01'),
+('7222110299','Las demás','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('7222199900','Las demás','2024-01-18','','01'),
 ('7222200100','Barras simplemente obtenidas o acabadas en frío','2024-01-18','','01'),
 ('7222309101','Huecas, para perforación de minas','2024-01-18','','01'),
@@ -7998,7 +8012,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('8302100100','Con mecanismos de resortes, excepto lo comprendido en la fracción arancelaria 8302.10.02','2024-01-18','','01'),
 ('8302100200','Para vehículos automóviles','2024-01-18','','01'),
 ('8302109901','Bisagras de libro o piano','2024-01-18','','01'),
-('8302109902','Bisagras bidimensionales u ocultas','2024-01-18','','01'),
+('8302109902','Bisagras bidimensionales u ocultas','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('8302109903','Bisagras para vidrio','2024-01-18','','01'),
 ('8302109999','Los demás','2024-01-18','','01'),
 ('8302200201','Para muebles','2024-01-18','','01'),
@@ -8998,7 +9014,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('8462519904','Máquinas complejas que realicen de manera alternativa o simultánea dos o más operaciones por deformación de material (incluso si cortan o perforan)','2024-01-18','','06'),
 ('8462519999','Las demás','2024-01-18','','06'),
 ('8462590100','Dobladoras (plegadoras) de accionamiento mecánico, con motor','2024-01-18','','06'),
-('8462590200','Dobladoras de tubos accionadas con motor, para tubos con diámetro igual o inferior a 70 mm y espesor de pared igual o inferior a 6.5 mm','2024-01-18','','06'),
+('8462590200','Dobladoras de tubos accionadas con motor, para tubos con diámetro igual o inferior a 70 mm y espesor de pared igual o inferior a 6.5 mm','2024-01-18','','06');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('8462590300','Cizallas o guillotinas; cortadoras de alambre o alambrón','2024-01-18','','06'),
 ('8462599901','Roladoras','2024-01-18','','06'),
 ('8462599902','Para enderezar en frío: tubos, barras, láminas o perfiles','2024-01-18','','06'),
@@ -9998,7 +10016,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('8535909901','Conmutadores de peso unitario inferior o igual a 2 kg','2024-01-18','','01'),
 ('8535909902','Conmutadores con peso unitario superior a 2 kg sin exceder de 2,750 kg','2024-01-18','','01'),
 ('8535909903','Relevadores térmicos o por inducción','2024-01-18','','01'),
-('8535909904','Cajas de conexión, de derivación, de corte, extremidad u otras cajas análogas','2024-01-18','','01'),
+('8535909904','Cajas de conexión, de derivación, de corte, extremidad u otras cajas análogas','2024-01-18','','01');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('8535909905','Conjuntos para terminales tipo cono de alivio integrado y/o moldeado, para cables de energía, hasta 35 kV, para intemperie','2024-01-18','','01'),
 ('8535909906','Conjuntos completos para empalmes o uniones, para cables de energía hasta 35 kV','2024-01-18','','01'),
 ('8535909999','Los demás','2024-01-18','','01'),
@@ -10998,7 +11018,9 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('9029900100','Partes y accesorios','2024-01-18','','01'),
 ('9030100100','Instrumentos y aparatos para medida o detección de radiaciones ionizantes','2024-01-18','','06'),
 ('9030200200','Osciloscopios y oscilógrafos','2024-01-18','','06'),
-('9030310100','Multímetros, sin dispositivo registrador','2024-01-18','','06'),
+('9030310100','Multímetros, sin dispositivo registrador','2024-01-18','','06');
+
+INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('9030320100','Multímetros, con dispositivo registrador','2024-01-18','','06'),
 ('9030339101','Voltímetros, indicadores, no digitales, para montarse en tableros','2024-01-18','','06'),
 ('9030339102','Ohmímetros','2024-01-18','','06'),
@@ -11518,3 +11540,4 @@ INSERT INTO cce_20_fracciones_arancelarias VALUES
 ('9901001500','Códigos arancelarios no catalogados en la tarifa','2024-01-18','','01'),
 ('9901001600','Códigos arancelarios no catalogados en la tarifa','2024-01-18','','01'),
 ('9902000100','Códigos arancelarios no catalogados en la tarifa','2024-01-18','','01');
+

@@ -1,4 +1,4 @@
-INSERT INTO ccp_31_configuraciones_autotransporte VALUES 
+INSERT INTO ccp_31_configuraciones_autotransporte VALUES
 ('VL','Vehículo ligero de carga (2 llantas en el eje delantero y 2 llantas en el eje trasero)',2,4,'0, 1','2024-07-17',''),
 ('C2','Camión Unitario (2 llantas en el eje delantero y 4 llantas en el eje trasero)',2,6,'0','2024-07-17',''),
 ('C3','Camión Unitario (2 llantas en el eje delantero y 6 o 8 llantas en los dos ejes traseros)',3,8,'0','2024-07-17',''),
@@ -33,3 +33,4 @@ INSERT INTO ccp_31_configuraciones_autotransporte VALUES
 ('GPLATB','Grúa de Plataforma Tipo B',0,0,'0','2024-07-17',''),
 ('GPLATC','Grúa de Plataforma Tipo C',0,0,'0','2024-07-17',''),
 ('GPLATD','Grúa de Plataforma Tipo D',0,0,'0','2024-07-17','');
+

@@ -1,6 +1,7 @@
-INSERT INTO ccp_30_contenedores VALUES 
+INSERT INTO ccp_30_contenedores VALUES
 ('TC01','20''','Contenedor de 6.1 Mts de longitud','2023-11-25',''),
 ('TC02','40''','Contenedor de 12.2 Mts de longitud','2023-11-25',''),
 ('TC03','45''','Contenedor de 13.7 Mts de longitud','2023-11-25',''),
 ('TC04','48''','Contenedor de 14.6 Mts de longitud','2023-11-25',''),
 ('TC05','53''','Contenedor de 16.1 Mts de longitud','2023-11-25','');
+

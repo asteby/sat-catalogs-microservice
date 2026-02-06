@@ -1,4 +1,4 @@
-INSERT INTO cfdi_40_municipios VALUES 
+INSERT INTO cfdi_40_municipios VALUES
 ('001','AGU','Aguascalientes','2022-01-01',''),
 ('001','BCN','Ensenada','2022-01-01',''),
 ('001','BCS','Comondú','2022-01-01',''),
@@ -998,7 +998,9 @@ INSERT INTO cfdi_40_municipios VALUES
 ('041','VER','Coetzala','2022-01-01',''),
 ('041','YUC','Kanasín','2022-01-01',''),
 ('041','ZAC','El Salvador','2022-01-01',''),
-('042','CHH','Manuel Benavides','2022-01-01',''),
+('042','CHH','Manuel Benavides','2022-01-01','');
+
+INSERT INTO cfdi_40_municipios VALUES
 ('042','CHP','Ixhuatán','2022-01-01',''),
 ('042','GRO','Mártir de Cuilapan','2022-01-01',''),
 ('042','GUA','Valle de Santiago','2022-01-01',''),
@@ -1998,7 +2000,9 @@ INSERT INTO cfdi_40_municipios VALUES
 ('173','PUE','Teteles de Avila Castillo','2022-01-01',''),
 ('173','VER','Tezonapa','2022-01-01',''),
 ('174','OAX','Ánimas Trujano','2022-01-01',''),
-('174','PUE','Teziutlán','2022-01-01',''),
+('174','PUE','Teziutlán','2022-01-01','');
+
+INSERT INTO cfdi_40_municipios VALUES
 ('174','VER','Tierra Blanca','2022-01-01',''),
 ('175','OAX','San Juan Bautista Atatlahuca','2022-01-01',''),
 ('175','PUE','Tianguismanalco','2022-01-01',''),
@@ -2477,3 +2481,4 @@ INSERT INTO cfdi_40_municipios VALUES
 ('568','OAX','Zapotitlán Palmas','2022-01-01',''),
 ('569','OAX','Santa Inés de Zaragoza','2022-01-01',''),
 ('570','OAX','Zimatlán de Álvarez','2022-01-01','');
+

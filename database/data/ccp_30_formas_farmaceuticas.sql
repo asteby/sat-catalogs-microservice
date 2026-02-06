@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_formas_farmaceuticas VALUES 
+INSERT INTO ccp_30_formas_farmaceuticas VALUES
 ('01','Tableta','',''),
 ('02','Capsulas','',''),
 ('03','Comprimidos','',''),
@@ -19,3 +19,4 @@ INSERT INTO ccp_30_formas_farmaceuticas VALUES
 ('18','Pasta','',''),
 ('19','Polvo','',''),
 ('20','Supositorio','','');
+

@@ -1,4 +1,4 @@
-INSERT INTO ccp_20_materiales_peligrosos VALUES 
+INSERT INTO ccp_20_materiales_peligrosos VALUES
 ('0004','PICRATO DE AMONIO seco o humedecido con menos de 10%, en masa, de agua','1.1D','','','2021-12-01',''),
 ('0005','CARTUCHOS PARA ARMAS, con carga explosiva','1.1F','','','2021-12-01',''),
 ('0006','CARTUCHOS PARA ARMAS, con carga explosiva','1.1E','','','2021-12-01',''),
@@ -998,7 +998,9 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES
 ('1790','ACIDO FLUORHIDRICO EN SOLUCION con más de 60% ácido fluorhídrico','8','6.1','','2021-12-01',''),
 ('1790','ACIDO FLUORHIDRICO EN SOLUCION con no más de 60% ácido fluorhídrico','8','6.1','','2021-12-01',''),
 ('1791','HIPOCLORITOS EN SOLUCION','8','','','2021-12-01',''),
-('1792','MONOCLORURO DE YODO','8','','','2021-12-01',''),
+('1792','MONOCLORURO DE YODO','8','','','2021-12-01','');
+
+INSERT INTO ccp_20_materiales_peligrosos VALUES
 ('1793','FOSFATO ACIDO DE ISOPROPILO','8','','','2021-12-01',''),
 ('1794','SULFATO DE PLOMO con más de 3% de ácido libre','8','','','2021-12-01',''),
 ('1796','ACIDO NITRANTE (ACIDO MIXTO), MEZCLA DE, con más de 50% ácido nítrico','8','5.1','','2021-12-01',''),
@@ -1998,7 +2000,9 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES
 ('3189','POLVO METALICO QUE EXPERIMENTA CALENTAMIENTO ESPONTANEO, N.E.P.','4.2','','Solidos inflamables de reacción espontanea.','2021-12-01',''),
 ('3190','SOLIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTANEO, INORGANICO, N.E.P.','4.2','','Solidos inflamables de reacción espontanea.','2021-12-01',''),
 ('3191','SOLIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTANEO, TOXICO, INORGANICO, N.E.P.','4.2','6.1','Solidos inflamables de reacción espontanea.','2021-12-01',''),
-('3192','SOLIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTANEO, CORROSIVO, INORGANICO, N.E.P.','4.2','8','Solidos inflamables de reacción espontanea.','2021-12-01',''),
+('3192','SOLIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTANEO, CORROSIVO, INORGANICO, N.E.P.','4.2','8','Solidos inflamables de reacción espontanea.','2021-12-01','');
+
+INSERT INTO ccp_20_materiales_peligrosos VALUES
 ('3194','LIQUIDO PIROFORICO INORGANICO N.E.P.','4.2','','Solidos inflamables de reacción espontanea.','2021-12-01',''),
 ('3200','SOLIDO PIROFORICO INORGANICO N.E.P.','4.2','','Solidos inflamables de reacción espontanea.','2021-12-01',''),
 ('3205','ALCOHOLATOS DE METALES ALCALINOTERREOS, N.E.P.','4.2','','Solidos inflamables de reacción espontanea.','2021-12-01',''),
@@ -2285,3 +2289,4 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES
 ('3493','LIQUIDO TOXICO POR INHALACION, CORROSIVO, INFLAMABLE, N.E.P., con toxicidad por inhalación inferior o igual a 1.000 ml/m3 y con concentración saturada de vapor superior o igual a 10 CL50','6.1','8 3','','2021-12-01',''),
 ('3494','PETROLEO CRUDO ACIDO, INFLAMABLE, TOXICO','3','6.1','','2021-12-01',''),
 ('3495','YODO','8','6.1','','2021-12-01','');
+

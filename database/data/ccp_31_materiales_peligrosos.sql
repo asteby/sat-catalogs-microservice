@@ -1,4 +1,4 @@
-INSERT INTO ccp_31_materiales_peligrosos VALUES 
+INSERT INTO ccp_31_materiales_peligrosos VALUES
 ('0004','PICRATO AMÓNICO seco o humedecido con menos del 10%, en masa, de agua','1.1D','','','2024-07-17',''),
 ('0005','CARTUCHOS PARA ARMAS, con carga explosiva','1.1F','','','2024-07-17',''),
 ('0006','CARTUCHOS PARA ARMAS, con carga explosiva','1.1E','','','2024-07-17',''),
@@ -998,7 +998,9 @@ INSERT INTO ccp_31_materiales_peligrosos VALUES
 ('1783','HEXAMETILENDIAMINA EN SOLUCIÓN','8','','','2024-07-17',''),
 ('1784','HEXILTRICLOROSILANO','8','','','2024-07-17',''),
 ('1786','ÁCIDO FLUORHÍDRICO Y ÁCIDO SULFÚRICO, MEZCLA DE','8','6.1','','2024-07-17',''),
-('1787','ÁCIDO YODHÍDRICO','8','','','2024-07-17',''),
+('1787','ÁCIDO YODHÍDRICO','8','','','2024-07-17','');
+
+INSERT INTO ccp_31_materiales_peligrosos VALUES
 ('1788','ÁCIDO BROMHÍDRICO','8','','','2024-07-17',''),
 ('1789','ÁCIDO CLORHÍDRICO','8','','','2024-07-17',''),
 ('1790','ÁCIDO FLUORHÍDRICO con más del 60% de fluoruro de hidrógeno','8','6.1','','2024-07-17',''),
@@ -1998,7 +2000,9 @@ INSERT INTO ccp_31_materiales_peligrosos VALUES
 ('3182','HIDRUROS METÁLICOS INFLAMABLES, N.E.P.','4.1','','Solidos que se inflaman con facilidad o pueden provocar o activar incendios por fricción.','2024-07-17',''),
 ('3183','LÍQUIDO ORGÁNICO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, N.E.P.','4.2','','Solidos que se inflaman con facilidad o pueden provocar o activar incendios por fricción.','2024-07-17',''),
 ('3184','LÍQUIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, TÓXICO, ORGÁNICO, N.E.P.','4.2','6.1','Solidos inflamables de reacción espontanea.','2024-07-17',''),
-('3185','LÍQUIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, CORROSIVO, ORGÁNICO, N.E.P.','4.2','8','Solidos inflamables de reacción espontanea.','2024-07-17',''),
+('3185','LÍQUIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, CORROSIVO, ORGÁNICO, N.E.P.','4.2','8','Solidos inflamables de reacción espontanea.','2024-07-17','');
+
+INSERT INTO ccp_31_materiales_peligrosos VALUES
 ('3186','LÍQUIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, INORGÁNICO, N.E.P.','4.2','','Solidos inflamables de reacción espontanea.','2024-07-17',''),
 ('3187','LÍQUIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, TÓXICO, INORGÁNICO, N.E.P.','4.2','6.1','Solidos inflamables de reacción espontanea.','2024-07-17',''),
 ('3188','LÍQUIDO QUE EXPERIMENTA CALENTAMIENTO ESPONTÁNEO, CORROSIVO, INORGÁNICO, N.E.P.','4.2','8','Solidos inflamables de reacción espontanea.','2024-07-17',''),
@@ -2345,3 +2349,4 @@ INSERT INTO ccp_31_materiales_peligrosos VALUES
 ('3548','ARTÍCULOS QUE CONTIENEN MERCANCÍAS PELIGROSAS DIVERSAS, N.E.P.','9','Véase1','','2024-07-17',''),
 ('3549','DESECHOS MÉDICOS, DE CATEGORÍA A, QUE AFECTAN A LAS PERSONAS, sólidos o DESECHOS MÉDICOS DE CATEGORÍA A, QUE AFECTAN A LOS ANIMALES únicamente, sólidos','6.2','','','2024-07-17',''),
 ('3550','POLVO DE DIHIDRÓXIDO DE COBALTO, que contenga no menos del 10% de partículas respirables','6.1','','','2024-07-17','');
+

@@ -1,4 +1,4 @@
-INSERT INTO ccp_31_documentos_aduaneros VALUES 
+INSERT INTO ccp_31_documentos_aduaneros VALUES
 ('01','Pedimento','2024-07-17',''),
 ('02','Autorización de importación temporal','2024-07-17',''),
 ('03','Autorización de importación temporal de embarcaciones','2024-07-17',''),
@@ -19,3 +19,4 @@ INSERT INTO ccp_31_documentos_aduaneros VALUES
 ('18','Aviso de consolidado','2024-07-17',''),
 ('19','Aviso de cruce de mercancias','2024-07-17',''),
 ('20','Otro','2024-07-17','');
+

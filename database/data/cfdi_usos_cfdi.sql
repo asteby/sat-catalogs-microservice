@@ -1,4 +1,4 @@
-INSERT INTO cfdi_usos_cfdi VALUES 
+INSERT INTO cfdi_usos_cfdi VALUES
 ('G01','Adquisición de mercancías',1,1,'2017-01-01',''),
 ('G02','Devoluciones, descuentos o bonificaciones',1,1,'2017-01-01',''),
 ('G03','Gastos en general',1,1,'2017-01-01',''),
@@ -21,3 +21,4 @@ INSERT INTO cfdi_usos_cfdi VALUES
 ('D09','Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.',1,'','2017-01-01',''),
 ('D10','Pagos por servicios educativos (colegiaturas)',1,'','2017-01-01',''),
 ('P01','Por definir',1,1,'2017-03-31','2023-06-30');
+

@@ -1,4 +1,4 @@
-INSERT INTO cce_unidades_medida VALUES 
+INSERT INTO cce_unidades_medida VALUES
 ('01','KILO','2017-01-01',''),
 ('02','GRAMO','2017-01-01',''),
 ('03','METRO LINEAL','2017-01-01',''),
@@ -22,3 +22,4 @@ INSERT INTO cce_unidades_medida VALUES
 ('21','BOTELLA','2017-01-01',''),
 ('22','CARAT','2021-01-11',''),
 ('99','SERVICIO','2017-01-01','');
+

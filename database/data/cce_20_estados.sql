@@ -1,4 +1,4 @@
-INSERT INTO cce_20_estados VALUES 
+INSERT INTO cce_20_estados VALUES
 ('AGU','MEX','Aguascalientes','2024-01-18',''),
 ('BCN','MEX','Baja California','2024-01-18',''),
 ('BCS','MEX','Baja California Sur','2024-01-18',''),
@@ -94,3 +94,4 @@ INSERT INTO cce_20_estados VALUES
 ('NT','CAN','Territorios del Noroeste','2024-01-18',''),
 ('YT','CAN','Yukón','2024-01-18',''),
 ('UN','CAN','Nunavut','2024-01-18','');
+

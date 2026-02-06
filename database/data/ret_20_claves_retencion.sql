@@ -1,4 +1,4 @@
-INSERT INTO ret_20_claves_retencion VALUES 
+INSERT INTO ret_20_claves_retencion VALUES
 ('01','Servicios profesionales.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado `Pagos a Extranjeros`.','2015-05-22',''),
 ('02','Regalías por derechos de autor.','En caso de operaciones realizadas con extranjeros, se deberá incorporar el Complemento denominado `Pagos a Extranjeros`.','2015-05-22',''),
 ('03','Autotransporte terrestre de carga.','Sin complemento','2015-05-22',''),
@@ -27,3 +27,4 @@ INSERT INTO ret_20_claves_retencion VALUES
 ('26','Servicios mediante Plataformas Tecnológicas','Servicios mediante Plataformas Tecnológicas','2019-06-01',''),
 ('27','Sector Financiero','Sector Financiero- Sólo se incorpora este complemento cuando las entidades integrantes del sistema financiero actúen en su carácter de fiduciarias.','2022-01-01',''),
 ('28','Pagos y retenciones a Contribuyentes del RIF','Sin complemento','2022-01-01','');
+

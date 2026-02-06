@@ -1,6 +1,7 @@
-INSERT INTO cfdi_40_tipos_comprobantes VALUES 
+INSERT INTO cfdi_40_tipos_comprobantes VALUES
 ('I','Ingreso','999999999999999999.999999','2022-01-01',''),
 ('E','Egreso','999999999999999999.999999','2022-01-01',''),
 ('T','Traslado','0','2022-01-01',''),
 ('N','Nómina','999999999999999999.999999','',''),
 ('P','Pago','999999999999999999.999999','2022-01-01','');
+

@@ -1,4 +1,4 @@
-INSERT INTO ret_20_entidades_federativas VALUES 
+INSERT INTO ret_20_entidades_federativas VALUES
 ('01','AGUASCALIENTES','2022-01-01',''),
 ('02','BAJA CALIFORNIA','2022-01-01',''),
 ('03','BAJA CALIFORNIA SUR','2022-01-01',''),
@@ -31,3 +31,4 @@ INSERT INTO ret_20_entidades_federativas VALUES
 ('30','VERACRUZ','2022-01-01',''),
 ('31','YUCATAN','2022-01-01',''),
 ('32','ZACATECAS','2022-01-01','');
+

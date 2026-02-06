@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_tipos_carro VALUES 
+INSERT INTO ccp_30_tipos_carro VALUES
 ('TC01','Furgón','0','2023-11-25',''),
 ('TC02','Góndola','0','2023-11-25',''),
 ('TC03','Tolva','0','2023-11-25',''),
@@ -10,3 +10,4 @@ INSERT INTO ccp_30_tipos_carro VALUES
 ('TC09','Carro Especial','0','2023-11-25',''),
 ('TC10','Pasajeros','0','2023-11-25',''),
 ('TC11','Mantenimiento de Vía','0','2023-11-25','');
+

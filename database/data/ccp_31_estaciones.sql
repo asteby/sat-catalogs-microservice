@@ -1,4 +1,4 @@
-INSERT INTO ccp_31_estaciones VALUES 
+INSERT INTO ccp_31_estaciones VALUES
 ('PM001','Rosarito','02','México','','','2024-07-17',''),
 ('PM002','La Misión','02','México','','','2024-07-17',''),
 ('PM003','El Sauzal','02','México','','','2024-07-17',''),
@@ -998,7 +998,9 @@ INSERT INTO ccp_31_estaciones VALUES
 ('EA0874','El Toro','03','México','ELT','','2024-07-17',''),
 ('EA0875','El Viejo','03','México','ELV','','2024-07-17',''),
 ('EA0876','El Potrero','03','México','ELX','','2024-07-17',''),
-('EA0877','El Limonal','03','México','ELY','','2024-07-17',''),
+('EA0877','El Limonal','03','México','ELY','','2024-07-17','');
+
+INSERT INTO ccp_31_estaciones VALUES
 ('EA0878','El Mambo','03','México','EMA','','2024-07-17',''),
 ('EA0879','Ejido Mondongo','03','México','EMN','','2024-07-17',''),
 ('EA0880','El Amate','03','México','EMV','','2024-07-17',''),
@@ -1998,7 +2000,9 @@ INSERT INTO ccp_31_estaciones VALUES
 ('EA1874','Rancho Alto Bonito','03','México','RAQ','','2024-07-17',''),
 ('EA1875','C.P.A. Rodolfo Amparan Rosales','03','México','RAV','','2024-07-17',''),
 ('EA1876','Rancho Alejandrina','03','México','RAX','','2024-07-17',''),
-('EA1877','Agua Zarca','03','México','RAZ','','2024-07-17',''),
+('EA1877','Agua Zarca','03','México','RAZ','','2024-07-17','');
+
+INSERT INTO ccp_31_estaciones VALUES
 ('EA1878','Rancho El Bernal','03','México','RBL','','2024-07-17',''),
 ('EA1879','Rancho Bravo','03','México','RBO','','2024-07-17',''),
 ('EA1880','Rancho Buenos Aires','03','México','RBU','','2024-07-17',''),
@@ -2998,7 +3002,9 @@ INSERT INTO ccp_31_estaciones VALUES
 ('T1088.3','OLAJE','04','México','','T','2024-07-17',''),
 ('L130','EL JAIBITO','04','México','','L','2024-07-17',''),
 ('BA31','LOURDES','04','México','','BA','2024-07-17',''),
-('M0811','BENAVIDES','04','México','','M','2024-07-17',''),
+('M0811','BENAVIDES','04','México','','M','2024-07-17','');
+
+INSERT INTO ccp_31_estaciones VALUES
 ('Q0406','ESCAPE KM Q-406','04','México','','Q','2024-07-17',''),
 ('FA773.1','POMUCH','04','México','','FA','2024-07-17',''),
 ('N439.8','PARCO','04','México','','N','2024-07-17',''),
@@ -3998,7 +4004,9 @@ INSERT INTO ccp_31_estaciones VALUES
 ('VC125.8','GARCIA','04','México','','VC','2024-07-17',''),
 ('R0039','NAVAS','04','México','','R','2024-07-17',''),
 ('Q381.6','COLONIA ANAHUAC','04','México','','Q','2024-07-17',''),
-('TC000','AGUA PRIETA','04','México','','TC','2024-07-17',''),
+('TC000','AGUA PRIETA','04','México','','TC','2024-07-17','');
+
+INSERT INTO ccp_31_estaciones VALUES
 ('E0102','TEMALACAYUCA','04','México','','E','2024-07-17',''),
 ('B1261','JARITA','04','México','','B','2024-07-17',''),
 ('BC128','PARRITAS','04','México','','BC','2024-07-17',''),
@@ -4998,7 +5006,9 @@ INSERT INTO ccp_31_estaciones VALUES
 ('A0521','SAN JUAN DE LOS LAGOS','04','México','','A','2024-07-17',''),
 ('N602.1','CUSSI','04','México','','N','2024-07-17',''),
 ('T1574','VALLE VERDE','04','México','','T','2024-07-17',''),
-('C223.9','LOS AMANTES','04','México','','C','2024-07-17',''),
+('C223.9','LOS AMANTES','04','México','','C','2024-07-17','');
+
+INSERT INTO ccp_31_estaciones VALUES
 ('FA250','GONZALEZ','04','México','','FA','2024-07-17',''),
 ('I0147','NEGRETE','04','México','','I','2024-07-17',''),
 ('G0','CORDOBA','04','México','','G','2024-07-17',''),
@@ -5279,3 +5289,4 @@ INSERT INTO ccp_31_estaciones VALUES
 ('N0407','LAGUNILLAS','04','México','','N','2024-07-17',''),
 ('V0102','SAN LORENZO','04','México','','V','2024-07-17',''),
 ('EF0001','Extranjera','04','Extranjera','','','2024-07-17','');
+

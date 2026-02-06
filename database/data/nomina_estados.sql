@@ -1,4 +1,4 @@
-INSERT INTO nomina_estados VALUES 
+INSERT INTO nomina_estados VALUES
 ('AGU','MEX','Aguascalientes','2017-01-01',''),
 ('BCN','MEX','Baja California','2017-01-01',''),
 ('BCS','MEX','Baja California Sur','2017-01-01',''),
@@ -95,3 +95,4 @@ INSERT INTO nomina_estados VALUES
 ('NT','CAN','Territorios del Noroeste','2017-01-01',''),
 ('YT','CAN','Yukón','2017-01-01',''),
 ('UN','CAN','Nunavut','2017-01-01','');
+

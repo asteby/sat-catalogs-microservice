@@ -1,68 +1,78 @@
 #!/usr/bin/env python3
 import os
-import re
 import glob
 
-def batch_inserts_in_file(filepath):
-    print(f"Leyendo: {filepath}...")
+def robust_split_values(content):
+    """Extrae las filas (values) respetando paréntesis internos y comillas."""
+    values = []
+    current_row = []
+    in_string = False
+    parenthesis_level = 0
+    
+    # Buscamos donde empiezan los VALUES
+    start_idx = content.upper().find("VALUES")
+    if start_idx == -1: return []
+    
+    # Empezamos a leer después de "VALUES"
+    data = content[start_idx + 6:].strip()
+    
+    temp = ""
+    for char in data:
+        if char == "'" and (not temp or temp[-1] != "\\"): # Manejo de comillas
+            in_string = not in_string
+        
+        if not in_string:
+            if char == "(":
+                parenthesis_level += 1
+            elif char == ")":
+                parenthesis_level -= 1
+                if parenthesis_level == 0:
+                    temp += char
+                    values.append(temp.strip())
+                    temp = ""
+                    continue
+        
+        if parenthesis_level > 0:
+            temp += char
+            
+    return values
+
+def process_file(filepath, chunk_size=1000):
+    print(f"Procesando de forma robusta: {filepath}...")
     
     with open(filepath, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+        content = f.read()
 
-    inserts_by_table = {}
-    other_lines = []
+    # Extraer nombre de la tabla
+    import re
+    table_match = re.search(r'INSERT\s+INTO\s+(\w+)', content, re.I)
+    if not table_match: return
+    table_name = table_match.group(1)
 
-    # Regex mejorado: 
-    # - Ignora mayúsculas/minúsculas (re.I)
-    # - Soporta espacios variables entre INTO, Tabla y VALUES
-    # - Captura todo lo que esté dentro de los paréntesis de VALUES
-    pattern = re.compile(r'INSERT\s+INTO\s+(\w+)\s+VALUES\s*\((.*)\);', re.I)
-
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-            
-        match = pattern.match(line)
-        if match:
-            table = match.group(1)
-            values = match.group(2)
-            if table not in inserts_by_table:
-                inserts_by_table[table] = []
-            inserts_by_table[table].append(f"({values})")
-        else:
-            # Guardamos líneas que no son INSERT (CREATE TABLE, comentarios, etc.)
-            if line:
-                other_lines.append(line)
-
-    if not inserts_by_table:
-        print(f"  --> No se encontraron INSERTs válidos en {filepath}")
+    # Extraer valores con lógica de paréntesis
+    all_rows = robust_split_values(content)
+    
+    if not all_rows:
+        print(f"  --> No se encontraron filas en {filepath}")
         return
 
-    # Escribir el resultado
+    # Escribir con chunking
     with open(filepath, 'w', encoding='utf-8') as f:
-        # Primero ponemos las líneas que no eran inserts (estructuras)
-        if other_lines:
-            f.write('\n'.join(other_lines) + '\n\n')
-        
-        # Luego los inserts agrupados
-        for table, value_list in inserts_by_table.items():
-            # Un solo INSERT con todos los VALUES separados por coma
-            f.write(f"INSERT INTO {table} VALUES \n" + ",\n".join(value_list) + ";\n")
+        for i in range(0, len(all_rows), chunk_size):
+            chunk = all_rows[i : i + chunk_size]
+            f.write(f"INSERT INTO {table_name} VALUES\n")
+            # Unir filas, asegurando que cada una termine en coma excepto la última del bloque
+            clean_chunk = [row.rstrip(',').rstrip(';') for row in chunk]
+            f.write(",\n".join(clean_chunk))
+            f.write(";\n\n")
 
-    print(f"  --> ¡Éxito! {len(inserts_by_table)} tablas optimizadas.")
+    print(f"  --> Éxito: {len(all_rows)} filas procesadas.")
 
 def main():
-    # Ajusta esta ruta a tu estructura de carpetas de Asteby
     data_dir = 'database/data'
     sql_files = glob.glob(os.path.join(data_dir, '*.sql'))
-    
-    if not sql_files:
-        print(f"No se encontraron archivos .sql en {data_dir}")
-        return
-
     for filepath in sql_files:
-        batch_inserts_in_file(filepath)
+        process_file(filepath)
 
 if __name__ == '__main__':
     main()

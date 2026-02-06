@@ -1,4 +1,4 @@
-INSERT INTO ccp_20_configuraciones_maritimas VALUES 
+INSERT INTO ccp_20_configuraciones_maritimas VALUES
 ('B01','Abastecedor','2021-06-01',''),
 ('B02','Barcaza','2021-06-01',''),
 ('B03','Granelero','2021-06-01',''),
@@ -14,3 +14,4 @@ INSERT INTO ccp_20_configuraciones_maritimas VALUES
 ('B13','Gasero','2021-06-01',''),
 ('B14','Remolcador','2021-06-01',''),
 ('B15','Extraordinaria especialización','2021-06-01','');
+

@@ -1,4 +1,4 @@
-INSERT INTO ccp_20_tipos_permiso VALUES 
+INSERT INTO ccp_20_tipos_permiso VALUES
 ('TPAF01','Autotransporte Federal de carga general.','01','2021-06-01',''),
 ('TPAF02','Transporte privado de carga.','01','2021-06-01',''),
 ('TPAF03','Autotransporte Federal de Carga Especializada de materiales y residuos peligrosos.','01','2021-06-01',''),
@@ -25,3 +25,4 @@ INSERT INTO ccp_20_tipos_permiso VALUES
 ('TPTA03','Permiso para el servicio nacional e internacional no regular de fletamento','03','2021-06-01',''),
 ('TPTA04','Permiso para el servicio nacional e internacional no regular de taxi aéreo','03','2021-06-01',''),
 ('TPXX00','Permiso no contemplado en el catálogo.','01,02,03','2021-07-02','');
+

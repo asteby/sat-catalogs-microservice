@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_productos_servicios VALUES 
+INSERT INTO ccp_30_productos_servicios VALUES
 ('01010101','No existe en el catálogo','Fondos y Valores','0,1','2023-11-25',''),
 ('10101500','Animales vivos de granja','','0','2023-11-25',''),
 ('10101501','Gatos vivos','','0','2023-11-25',''),
@@ -998,7 +998,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10302758','Rosal cortado fresco melon','','0','2023-11-25',''),
 ('10302759','Rosal cortado fresco mohana','','0','2023-11-25',''),
 ('10302760','Rosal cortado fresco okie dokie','','0','2023-11-25',''),
-('10302761','Rosal cortado fresco pailine','','0','2023-11-25',''),
+('10302761','Rosal cortado fresco pailine','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10302762','Rosal cortado fresco parrot','','0','2023-11-25',''),
 ('10302763','Rosal cortado fresco rio d oro','','0','2023-11-25',''),
 ('10302764','Rosal cortado fresco salami','','0','2023-11-25',''),
@@ -1998,7 +2000,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('12141505','Bario ba','','0,1','2023-11-25',''),
 ('12141506','Radio ra','','0','2023-11-25',''),
 ('12141600','Metales de tierra rara','','0','2023-11-25',''),
-('12141601','Cerio ce','','0,1','2023-11-25',''),
+('12141601','Cerio ce','','0,1','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('12141602','Disprosio dy','','0','2023-11-25',''),
 ('12141603','Erbio er','','0','2023-11-25',''),
 ('12141604','Europio eu','','0','2023-11-25',''),
@@ -2998,7 +3002,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('20121300','Equipo de control de arena','','0','2023-11-25',''),
 ('20121301','Tapones obturadores','Unidades de bombeo de estimulación','0','2023-11-25',''),
 ('20121302','Flotadores','','0','2023-11-25',''),
-('20121303','Sistemas frac pack','','0','2023-11-25',''),
+('20121303','Sistemas frac pack','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('20121304','Sistemas paquete de gravilla','Sistemas de embalaje Frac','0','2023-11-25',''),
 ('20121305','Zapatas guía','Sistemas de paquete de Frac','0','2023-11-25',''),
 ('20121306','Boquillas de acometida','Sistemas de embalaje de grava','0','2023-11-25',''),
@@ -3998,7 +4004,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('23153607','Máquina para el marcado por chorro de tinta','','0','2023-11-25',''),
 ('23153608','Máquina para el marcado de tubos electrónicos','','0','2023-11-25',''),
 ('23153700','Equipo de aseguramiento o torque de precisión','','0','2023-11-25',''),
-('23153701','Torquímetro de impacto','','0','2023-11-25',''),
+('23153701','Torquímetro de impacto','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('23153702','Torquímetro','','0','2023-11-25',''),
 ('23161500','Máquinas y equipo de fundición','','0','2023-11-25',''),
 ('23161501','Fuelles de fundición','','0','2023-11-25',''),
@@ -4998,7 +5006,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('25111918','Sistemas de recogido de velas','','0','2023-11-25',''),
 ('25111919','Protectores de la quilla','','0','2023-11-25',''),
 ('25111920','Defensas','Guardabarros marinos','0','2023-11-25',''),
-('25111921','Cuellos de ganso marinos','','0','2023-11-25',''),
+('25111921','Cuellos de ganso marinos','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('25111922','Cabos de amarre','','0','2023-11-25',''),
 ('25111923','Bloqueos de remos','','0','2023-11-25',''),
 ('25111924','Reflectores de radar','','0','2023-11-25',''),
@@ -5998,7 +6008,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('26121812','Cable automotriz de núcleo sencillo de 600 voltios clase c','','0','2023-11-25',''),
 ('26121813','Cable automotriz de núcleo sencillo de 600 voltios clase d','','0','2023-11-25',''),
 ('26121814','Cable automotriz de núcleo sencillo de 600 voltios clase e','','0','2023-11-25',''),
-('26121815','Cable automotriz de núcleo sencillo de 600 voltios clase f','','0','2023-11-25',''),
+('26121815','Cable automotriz de núcleo sencillo de 600 voltios clase f','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('26121816','Cable automotriz de núcleo sencillo de 600 voltios clase g','','0','2023-11-25',''),
 ('26121817','Cable automotriz de núcleo sencillo de 600 voltios clase h','','0','2023-11-25',''),
 ('26121818','Cable automotriz de núcleo múltiple de 60 voltios clase a','','0','2023-11-25',''),
@@ -6998,7 +7010,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('30121708','Baldosa de ladrillo','Loseta tipo ladrillo','0','2023-11-25',''),
 ('30121709','Roca triturada sin grado','','0','2023-11-25',''),
 ('30121710','Piedra de pavimento','Piedra pavimentada','0','2023-11-25',''),
-('30121711','Borde de piedra natural','','0','2023-11-25',''),
+('30121711','Borde de piedra natural','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('30121712','Cubierta de poste','Cubierta para poste','0','2023-11-25',''),
 ('30121713','Tapa de manhole','Tapa de alcantarilla, Tapa para registro','0','2023-11-25',''),
 ('30121714','Caja de manhole','Caja de registro','0','2023-11-25',''),
@@ -7998,7 +8012,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('31133504','Forja de plomo tratado con calor y dimensionado en frío forjado en frío','Fragua de plomo tratado con calor forjado y dimensionado en frío','0','2023-11-25',''),
 ('31133505','Forja de plomo maquinado forjado en tibio','Fragua de plomo forjado en tibio mecanizado','0','2023-11-25',''),
 ('31133506','Forja de plomo tratado con calor forjado en tibio','Fragua de plomo tratado con calor forjado en tibio','0','2023-11-25',''),
-('31133507','Forja de plomo maquinado y tratado con calor forjado en tibio','Fragua de plomo tratado con calor forjado en tibio mecanizado','0','2023-11-25',''),
+('31133507','Forja de plomo maquinado y tratado con calor forjado en tibio','Fragua de plomo tratado con calor forjado en tibio mecanizado','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('31133508','Forja de plomo tratado con calor y dimensionado en frío forjado en tibio','Fragua de plomo tratado con calor forjado en tibio y dimensionado en frío','0','2023-11-25',''),
 ('31133509','Forja de plomo maquinado forjado en caliente','Fragua de plomo forjado en calor mecanizados','0','2023-11-25',''),
 ('31133510','Forja de plomo tratado con calor forjado en caliente','Fragua de plomo tratado y forjado con calor','0','2023-11-25',''),
@@ -8998,7 +9014,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('31281808','Componentes de aleación de níquel perforados','Aleación de níquel perforado','0','2023-11-25',''),
 ('31281809','Componentes no metálicos perforados','','0','2023-11-25',''),
 ('31281810','Componentes de titanio perforados','','0','2023-11-25',''),
-('31281811','Componentes de berilio perforados','','0','2023-11-25',''),
+('31281811','Componentes de berilio perforados','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('31281812','Componentes de metal precioso perforados','','0','2023-11-25',''),
 ('31281813','Componentes de cobre perforados','','0','2023-11-25',''),
 ('31281814','Componentes de plomo perforados','','0','2023-11-25',''),
@@ -9998,7 +10016,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('39101905','Balasto de neón','Balastro de neón','0','2023-11-25',''),
 ('39101906','Transformador de lámpara reductora','','0','2023-11-25',''),
 ('39101907','Balasto de alta intensidad de descarga  electrónica ehid','Balastro de electrónico de alta intensidad descarga EHID','0','2023-11-25',''),
-('39111500','Iluminación de interiores y artefactos','','0','2023-11-25',''),
+('39111500','Iluminación de interiores y artefactos','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('39111501','Artefactos fluorescentes','','0','2023-11-25',''),
 ('39111503','Dispositivos de pared','','0','2023-11-25',''),
 ('39111504','Sistemas de iluminación de escenario o estudio','','0','2023-11-25',''),
@@ -10998,7 +11018,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('40161522','Aletas para filtros','','0','2023-11-25',''),
 ('40161524','Filtros de pintura','','0','2023-11-25',''),
 ('40161525','Contenedores para filtros','','0','2023-11-25',''),
-('40161526','Retenedores o accesorios para filtros','','0','2023-11-25',''),
+('40161526','Retenedores o accesorios para filtros','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('40161527','Kits de reparación de filtros','','0','2023-11-25',''),
 ('40161528','Filtros de arena','','0','2023-11-25',''),
 ('40161529','Filtros de tubo','','0','2023-11-25',''),
@@ -11998,7 +12020,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('41105502','Kits para extrae ácido desoxirribonucleico dna de alimentos','','0','2023-11-25',''),
 ('41105503','Sistemas de electro elución','','0','2023-11-25',''),
 ('41105504','Kits de purificación de ácido desoxirribonucleico dna genómico','','0','2023-11-25',''),
-('41105505','Sistemas de selección de alto rendimiento hts en purificación de ácido nucleico','','0','2023-11-25',''),
+('41105505','Sistemas de selección de alto rendimiento hts en purificación de ácido nucleico','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('41105506','Kits para purificación de ácido ribonucleico mensajero mrna','','0','2023-11-25',''),
 ('41105507','Glóbulos magnéticos para aislar ácido nucleico','','0','2023-11-25',''),
 ('41105508','Co-precipitantes de ácidos nucleicos','','0','2023-11-25',''),
@@ -12998,7 +13022,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('41115801','Analizadores de amino ácidos','','0','2023-11-25',''),
 ('41115802','Accesorios o suministros para analizadores de amino ácidos','','0','2023-11-25',''),
 ('41115803','Analizadores de bancos de sangre','','0','2023-11-25',''),
-('41115804','Accesorios o suministros para analizadores de bancos de sangre','','0','2023-11-25',''),
+('41115804','Accesorios o suministros para analizadores de bancos de sangre','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('41115805','Analizadores de gas en la sangre','','0','2023-11-25',''),
 ('41115806','Accesorios o suministros para analizadores de gas en la sangre','','0','2023-11-25',''),
 ('41115807','Analizadores químicos','','0','2023-11-25',''),
@@ -13998,7 +14024,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('42181508','Pañitos limpiadores para equipo diagnóstico','','0','2023-11-25',''),
 ('42181509','Sets de examen físico para cirujanos de vuelo','','0','2023-11-25',''),
 ('42181510','Medidores de ictericia transcutáneos','','0','2023-11-25',''),
-('42181511','Evaluadores de impotencia masculina','','0','2023-11-25',''),
+('42181511','Evaluadores de impotencia masculina','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('42181512','Cucharas para examen de portadores de tifoidea','','0','2023-11-25',''),
 ('42181513','Kits de irrigación de los senos nasales','','0','2023-11-25',''),
 ('42181514','Fotómetros de hemoglobina','','0','2023-11-25',''),
@@ -14998,7 +15026,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('42281801','Tiras de prueba de desinfección','','0','2023-11-25',''),
 ('42281802','Etiquetas de esterilización','','0','2023-11-25',''),
 ('42281803','Kits biológicos de esterilización','','0','2023-11-25',''),
-('42281804','Controles de esterilización','','0','2023-11-25',''),
+('42281804','Controles de esterilización','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('42281805','Registros indicadores de esterilización','','0','2023-11-25',''),
 ('42281806','Tiras indicadoras de esterilización','','0','2023-11-25',''),
 ('42281807','Cintas indicadoras de esterilización','','0','2023-11-25',''),
@@ -15998,7 +16028,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('43212201','Sistema de almacenamiento virtual','','0','2023-11-25',''),
 ('43221500','Sistemas de gestión de llamadas o accesorios','','0','2023-11-25',''),
 ('43221501','Sistemas de atención automatizada','','0','2023-11-25',''),
-('43221502','Distribuidor automático de llamadas acd','','0','2023-11-25',''),
+('43221502','Distribuidor automático de llamadas acd','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('43221503','Alto parlantes para telecomunicaciones','','0','2023-11-25',''),
 ('43221504','Central telefónica interna pbx','','0','2023-11-25',''),
 ('43221505','Identificador de llamadas telefónicas autónoma','','0','2023-11-25',''),
@@ -16998,7 +17030,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('46161713','Dispositivo de señales de humo','Aparato de señales de humo','0,1','2023-11-25',''),
 ('46161714','Línea salvavidas','','0','2023-11-25',''),
 ('46161715','Equipo de rescate en espacios confinados','','0','2023-11-25',''),
-('46171500','Cerraduras, elementos de seguridad y accesorios','','0','2023-11-25',''),
+('46171500','Cerraduras, elementos de seguridad y accesorios','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('46171501','Candados','','0','2023-11-25',''),
 ('46171502','Candados de cable','','0','2023-11-25',''),
 ('46171503','Sets de candados','Juegos de candados','0','2023-11-25',''),
@@ -17998,7 +18032,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50112009','Cerdo, procesado con aditivos','Chanchos, procesado con aditivos, Cochinillos, procesado con aditivos, Cochinos, procesado con aditivos, Cuche , procesado con aditivos, Cuinos, procesado con aditivos, Gorrinos, procesado con aditivos, Jamón de cerdo, Lechones, procesado con aditivos, Marranos, procesado con aditivos, Porcinos, procesado con aditivos, Puercos, procesado con aditivos, , Jamón de cerdo','0','2023-11-25',''),
 ('50112010','Pollo, procesado sin aditivos','Gallina, procesado sin aditivos','0','2023-11-25',''),
 ('50112011','Pollo, procesado con aditivos','Gallina, procesado con aditivos','0','2023-11-25',''),
-('50112012','Pavo, procesado sin aditivos','','0','2023-11-25',''),
+('50112012','Pavo, procesado sin aditivos','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50112013','Pavo, procesado con aditivos','Jamón de pavo','0','2023-11-25',''),
 ('50112014','Cordero, procesado sin aditivos','','0','2023-11-25',''),
 ('50112015','Cordero, procesado con aditivos','','0','2023-11-25',''),
@@ -18998,7 +19034,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50305352','Durazno sol de septiembre','','0','2023-11-25',''),
 ('50305353','Durazno gema sierra','','0','2023-11-25',''),
 ('50305354','Durazno angel de nieve','','0','2023-11-25',''),
-('50305355','Durazno gema de nieve','','0','2023-11-25',''),
+('50305355','Durazno gema de nieve','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50305356','Durazno rey de nieve','','0','2023-11-25',''),
 ('50305357','Durazno dama de primavera','','0','2023-11-25',''),
 ('50305358','Durazno nieve de primavera','','0','2023-11-25',''),
@@ -19998,7 +20036,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50324506','Mango francis seco','','0','2023-11-25',''),
 ('50324507','Mango gandaria seco','','0','2023-11-25',''),
 ('50324508','Mango haden seco','','0','2023-11-25',''),
-('50324509','Mangos irwin seco','','0','2023-11-25',''),
+('50324509','Mangos irwin seco','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50324510','Mangos keitt seco','','0','2023-11-25',''),
 ('50324511','Mangos kent seco','','0','2023-11-25',''),
 ('50324512','Mangos kesar seco','','0','2023-11-25',''),
@@ -20998,7 +21038,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50365805','Ciruela gigante de otoño en lata o en frasco','','0','2023-11-25',''),
 ('50365806','Ciruela orgullo de otoño en lata o en frasco','','0','2023-11-25',''),
 ('50365807','Ciruela rosa de otoño en lata o en frasco','','0','2023-11-25',''),
-('50365808','Ciruela playero en lata o en frasco','','0','2023-11-25',''),
+('50365808','Ciruela playero en lata o en frasco','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50365809','Ciruela betty anne en lata o en frasco','','0','2023-11-25',''),
 ('50365810','Ciruela belleza negra en lata o en frasco','','0','2023-11-25',''),
 ('50365811','Ciruela bullase negra en lata o en frasco','','0','2023-11-25',''),
@@ -21998,7 +22040,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50406306','Calabaza  delicata','','0','2023-11-25',''),
 ('50406307','Calabaza  delicioso','','0','2023-11-25',''),
 ('50406308','Calabaza verano dorado cuello torsido','','0','2023-11-25',''),
-('50406309','Calabaza prolífico temprano cuello recto','','0','2023-11-25',''),
+('50406309','Calabaza prolífico temprano cuello recto','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50406310','Calabaza  oro','','0','2023-11-25',''),
 ('50406311','Calabaza  jack pequeño','','0','2023-11-25',''),
 ('50406312','Calabaza  campo de kentucky','','0','2023-11-25',''),
@@ -22998,7 +23042,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50425513','Pimentón anaheim seco','','0','2023-11-25',''),
 ('50425514','Pimentón ancho seco','Chile ancho o mulato','0','2023-11-25',''),
 ('50425515','Pimentón campana seco','Chile campana seco','0','2023-11-25',''),
-('50425516','Pimentón cascabel seco','Chile cascabel','0','2023-11-25',''),
+('50425516','Pimentón cascabel seco','Chile cascabel','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50425517','Pimentón cayenne seco','Pimienta de Cayena o roja seca','0','2023-11-25',''),
 ('50425518','Pimentón anfitrión cereza seco','','0','2023-11-25',''),
 ('50425519','Pimentón chitespin seco','Chile chiltepín seco','0','2023-11-25',''),
@@ -23998,7 +24044,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50463266','Maíz estrella tell enlatado o envasado','','0','2023-11-25',''),
 ('50463267','Maíz terminador enlatado o envasado','','0','2023-11-25',''),
 ('50463268','Maíz tesoro enlatado o envasado','','0','2023-11-25',''),
-('50463269','Maíz tuxedo enlatado o envasado','','0','2023-11-25',''),
+('50463269','Maíz tuxedo enlatado o envasado','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50463800','Ajos en lata o en frasco','','0','2023-11-25',''),
 ('50463801','Ajo tarde california enlatado o envasado','','0','2023-11-25',''),
 ('50463802','Ajo tallos chinos enlatado o envasado','','0','2023-11-25',''),
@@ -24998,7 +25046,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('51122104','Papaverina','','0','2023-11-25',''),
 ('51122105','Pentifilina','Oxipentafilina, Vazofilina','0','2023-11-25',''),
 ('51122107','Tartrato de ifenprodil','','0','2023-11-25',''),
-('51122108','Mesilatos ergoloides','Co-dergocrina mesilato, Dihidroergotoxina','0','2023-11-25',''),
+('51122108','Mesilatos ergoloides','Co-dergocrina mesilato, Dihidroergotoxina','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('51122109','Clorhidrato de papaverina','','0,1','2023-11-25',''),
 ('51122110','Nimodipina','Nimodipino','0','2023-11-25',''),
 ('51122111','Nitrito de amilo','','0,1','2023-11-25',''),
@@ -25998,7 +26048,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('51182301','Somatrem','Protropin','0','2023-11-25',''),
 ('51182302','Somatropina','Hormona somatotropina','0','2023-11-25',''),
 ('51182303','Somatostatina','Hormona inhibidora de la liberación de somatotropina','0','2023-11-25',''),
-('51182304','Acetato de octreotida','','0','2023-11-25',''),
+('51182304','Acetato de octreotida','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('51182400','Sales de calcio y reguladores del calcio','','0','2023-11-25',''),
 ('51182401','Cloruro de calcio','Cloruro cálcico','0','2023-11-25',''),
 ('51182403','Gluconato de calcio','Gluconato cálcico','0','2023-11-25',''),
@@ -26998,7 +27050,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('54101706','Materiales o accesorios plásticos amigables maleables a bajas temperaturas','','0','2023-11-25',''),
 ('54111500','Relojes de pulsera o bolsillo','','0','2023-11-25',''),
 ('54111501','Relojes de pulso','','0','2023-11-25',''),
-('54111502','Relojes de bolsillo','','0','2023-11-25',''),
+('54111502','Relojes de bolsillo','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('54111503','Relojes cronómetros','','0','2023-11-25',''),
 ('54111504','Cronómetros marinos','','0','2023-11-25',''),
 ('54111505','Relojes para bucear','','0','2023-11-25',''),
@@ -27998,7 +28052,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('60106105','Materiales didácticos de artes gráficas o fotografía','','0','2023-11-25',''),
 ('60106106','Materiales didácticos de  horticultura','','0','2023-11-25',''),
 ('60106107','Materiales didácticos de manufactura','','0','2023-11-25',''),
-('60106108','Materiales didácticos de seguridad o peligro','','0','2023-11-25',''),
+('60106108','Materiales didácticos de seguridad o peligro','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('60106109','Materiales didácticos de soldadura','','0','2023-11-25',''),
 ('60106200','Materiales de enseñanza de tecnología','','0','2023-11-25',''),
 ('60106201','Materiales didácticos de agricultura','','0','2023-11-25',''),
@@ -28998,7 +29054,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10202504','Rosal vivo lavender sweetheart','Rosal vivo La Minuette lavender','0','2023-11-25',''),
 ('10202505','Rosal vivo light pink sweetheart','Rosal vivo La Minuette light pink','0','2023-11-25',''),
 ('10202506','Rosal vivo orange sweetheart','Rosal vivo La Minuette orange','0','2023-11-25',''),
-('10202507','Rosal vivo peach sweetheart','Rosal vivo La Minuette peach','0','2023-11-25',''),
+('10202507','Rosal vivo peach sweetheart','Rosal vivo La Minuette peach','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10202508','Rosal vivo red sweetheart','Rosal vivo La Minuette red','0','2023-11-25',''),
 ('10202509','Rosal vivo white sweetheart','Rosal vivo La Minuette white','0','2023-11-25',''),
 ('10202510','Rosal vivo yelllow sweetheart','Rosal vivo La Minuette yellow','0','2023-11-25',''),
@@ -29998,7 +30056,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10218204','Leucadendron vivo discolor','','0','2023-11-25',''),
 ('10218205','Leucadendron vivo galpini','','0','2023-11-25',''),
 ('10218206','Leucadendron vivo mina de oro','','0','2023-11-25',''),
-('10218207','Leucadendron vivo oro inca','','0','2023-11-25',''),
+('10218207','Leucadendron vivo oro inca','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10218208','Leucadendron vivo bufón','','0','2023-11-25',''),
 ('10218209','Leucadendron vivo laxum','','0','2023-11-25',''),
 ('10218210','Leucadendron vivo mini','','0','2023-11-25',''),
@@ -30998,7 +31058,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10302350','Rosal cortado fresco latin fever','','0','2023-11-25',''),
 ('10302351','Rosal cortado fresco lifestyle','','0','2023-11-25',''),
 ('10302352','Rosal cortado fresco light orlando','','0','2023-11-25',''),
-('10302353','Rosal cortado fresco lovely dreams','','0','2023-11-25',''),
+('10302353','Rosal cortado fresco lovely dreams','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10302354','Rosal cortado fresco loyalty','','0','2023-11-25',''),
 ('10302355','Rosal cortado fresco malibu','','0','2023-11-25',''),
 ('10302356','Rosal cortado fresco mata – hari','','0','2023-11-25',''),
@@ -31998,7 +32060,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10318115','Protea cortada fresca reina','','0','2023-11-25',''),
 ('10318116','Protea cortada fresca repens','','0','2023-11-25',''),
 ('10318117','Protea cortada fresca cuchara de rosas','','0','2023-11-25',''),
-('10318118','Protea cortada fresca silvia','','0','2023-11-25',''),
+('10318118','Protea cortada fresca silvia','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10318119','Protea cortada fresca sugarbush','','0','2023-11-25',''),
 ('10318120','Protea cortada fresca susara','','0','2023-11-25',''),
 ('10318121','Protea cortada fresca waratha','','0','2023-11-25',''),
@@ -32998,7 +33062,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10402316','Rosal cortado seco cereza','','0','2023-11-25',''),
 ('10402317','Rosal cortado seco charming','','0','2023-11-25',''),
 ('10402318','Rosal cortado seco cherry o','','0','2023-11-25',''),
-('10402319','Rosal cortado seco ciciolina','','0','2023-11-25',''),
+('10402319','Rosal cortado seco ciciolina','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10402320','Rosal cortado seco classic cezanne','','0','2023-11-25',''),
 ('10402321','Rosal cortado seco clasic duett','','0','2023-11-25',''),
 ('10402322','Rosal cortado seco cosmiq','','0','2023-11-25',''),
@@ -33998,7 +34064,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10416500','Escabiosa cortada seca','Flores del acerico cortadas secas','0','2023-11-25',''),
 ('10416501','Escabiosa cortada seca anual','Flor del acerico cortada seca anual','0','2023-11-25',''),
 ('10416502','Escabiosa cortada seca negra','Flor del acerico cortada seca negra','0','2023-11-25',''),
-('10416503','Escabiosa cortada seca caucásica azul','Flor del acerico cortada seca caucásica azul','0','2023-11-25',''),
+('10416503','Escabiosa cortada seca caucásica azul','Flor del acerico cortada seca caucásica azul','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('10416504','Escabiosa cortada seca caucásica rosada','Flor del acerico cortada seca caucásica rosada','0','2023-11-25',''),
 ('10416505','Escabiosa cortada seca caucásica vainas','Flor del acerico cortada seca caucásica vainas','0','2023-11-25',''),
 ('10416506','Escabiosa cortada seca caucásica blanca','Flor del acerico cortada seca caucásica blanca','0','2023-11-25',''),
@@ -34998,7 +35066,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('10502804','Pittosporum fresco cortado nigra','','0','2023-11-25',''),
 ('10502805','Pittosporum fresco cortado variegado','','0','2023-11-25',''),
 ('11171700','Aceros rápidos','','0,1','2023-11-25',''),
-('11171701','Acero de alta velocidad z90wdcv6542 o m2','','0,1','2023-11-25',''),
+('11171701','Acero de alta velocidad z90wdcv6542 o m2','','0,1','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('11171702','Acero de alta velocidad z90wdkcv65542 or m35','Acero de alta velocidad Z90WDKCV65542 o M35','0,1','2023-11-25',''),
 ('11171800','Superaleaciones de níquel','','0,1','2023-11-25',''),
 ('11171801','Súper aleación inconel 600','','0,1','2023-11-25',''),
@@ -35998,7 +36068,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('31311709','Ensambles de tubería pegada de acero inoxidable','','0,1','2023-11-25',''),
 ('31311710','Ensambles de tubería pegada de titanio','','0,1','2023-11-25',''),
 ('31311711','Ensambles de tubería pegada de aleación wasp','','0,1','2023-11-25',''),
-('31311712','Ensambles de tubería pegada de cobre','','0,1','2023-11-25',''),
+('31311712','Ensambles de tubería pegada de cobre','','0,1','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('31311713','Ensambles de tubería pegada de latón','','0,1','2023-11-25',''),
 ('31321200','Conjuntos soldados de solvente de material en barras','','0','2023-11-25',''),
 ('31321201','Ensambles de barras soldadas con solvente de aluminio','','0,1','2023-11-25',''),
@@ -36998,7 +37070,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('43232911','Software de emulación de terminal de conectividad de red','Programa de emulación de terminal de conectividad de red','0','2023-11-25',''),
 ('43232912','Software de puerta de acceso','Programa de puerta de acceso','0','2023-11-25',''),
 ('43232913','Software de puente','Programa de puente','0','2023-11-25',''),
-('43232914','Software de módem','Programa de módem','0','2023-11-25',''),
+('43232914','Software de módem','Programa de módem','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('43232915','Software de interconectividad de plataformas','Programa de interconectividad de plataformas','0','2023-11-25',''),
 ('43232916','Software irda de transferencia de información infrarrojo','','0','2023-11-25',''),
 ('43233000','Software de entorno operativo','','0','2023-11-25',''),
@@ -37998,7 +38072,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50315021','Naranja navel tarde orgánica orgánica','','0','2023-11-25',''),
 ('50315022','Naranja valencia tarde orgánica','','0','2023-11-25',''),
 ('50315023','Naranja limequat orgánica','','0','2023-11-25',''),
-('50315024','Naranja mar orgánica','','0','2023-11-25',''),
+('50315024','Naranja mar orgánica','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50315025','Naranja maledorado orgánica','','0','2023-11-25',''),
 ('50315026','Naranja moro orgánica','','0','2023-11-25',''),
 ('50315027','Naranja moro tabaco orgánica','','0','2023-11-25',''),
@@ -38998,7 +39074,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50331534','Manzana dorado nobel orgánicas seca','','0','2023-11-25',''),
 ('50331535','Manzana granny smith orgánicas seca','','0','2023-11-25',''),
 ('50331536','Manzana gravenstain orgánicas seca','','0','2023-11-25',''),
-('50331537','Manzana greening orgánicas seca','','0','2023-11-25',''),
+('50331537','Manzana greening orgánicas seca','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50331538','Manzana greensleeves orgánicas seca','','0','2023-11-25',''),
 ('50331539','Manzana honeycrisp orgánicas seca','','0','2023-11-25',''),
 ('50331540','Manzana howgate wonder orgánicas seca','','0','2023-11-25',''),
@@ -39998,7 +40076,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50336215','Frambuesa munz cuyamaca orgánicas secas','','0','2023-11-25',''),
 ('50336216','Frambuesa peck bartons orgánicas secas','','0','2023-11-25',''),
 ('50336217','Frambuesa flor morada orgánicas secas','','0','2023-11-25',''),
-('50336218','Frambuesa roadside orgánicas secas','','0','2023-11-25',''),
+('50336218','Frambuesa roadside orgánicas secas','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50336219','Frambuesa san diego orgánicas secas','','0','2023-11-25',''),
 ('50336220','Frambuesa nieve orgánicas secas','','0','2023-11-25',''),
 ('50336221','Frambuesa pico de nieve orgánicas secas','','0','2023-11-25',''),
@@ -40998,7 +41078,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50346501','Sapote blanco congelado','Zapote blanco congelado','0','2023-11-25',''),
 ('50346502','Sapote negro congelado','Zapote negro congelado','0','2023-11-25',''),
 ('50346600','Bayas saskatoon congeladas','Fresas de junio congeladas','0','2023-11-25',''),
-('50346601','Baya mielmadera saskatoon congeladas','Fresa de junio mielmadera congelada','0','2023-11-25',''),
+('50346601','Baya mielmadera saskatoon congeladas','Fresa de junio mielmadera congelada','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50346602','Baya northline saskatoon congeladas','Fresa de junio northline congelada','0','2023-11-25',''),
 ('50346603','Baya saskatoon ahumado congeladas','Fresa de junio smoky congelada','0','2023-11-25',''),
 ('50346604','Baya saskatoon thiessen congeladas','Fresa de junio thiessen congelada','0','2023-11-25',''),
@@ -41998,7 +42080,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50355442','Pera majestuosa royal congelada orgánica','','0','2023-11-25',''),
 ('50355443','Pera ruby rojo congelada orgánica','','0','2023-11-25',''),
 ('50355444','Pera santa maria congelada orgánica','','0','2023-11-25',''),
-('50355445','Pera seckel congelada orgánica','','0','2023-11-25',''),
+('50355445','Pera seckel congelada orgánica','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50355446','Pera sensación congelada orgánica','','0','2023-11-25',''),
 ('50355447','Pera crimson estrella congelada orgánica','','0','2023-11-25',''),
 ('50355448','Pera crimson stark congelada orgánica','','0','2023-11-25',''),
@@ -42998,7 +43082,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50365040','Naranja cevilla en lata o en frasco','','0','2023-11-25',''),
 ('50365041','Naranja shamouti jaffa en lata o en frasco','','0','2023-11-25',''),
 ('50365042','Naranja tunis en lata o en frasco','','0','2023-11-25',''),
-('50365043','Naranja valencia en lata o en frasco','','0','2023-11-25',''),
+('50365043','Naranja valencia en lata o en frasco','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50365044','Naranja washington navel en lata o en frasco','','0','2023-11-25',''),
 ('50365100','Papayas en lata o en frasco','','0','2023-11-25',''),
 ('50365101','Papaya verde cocinar en lata o en frasco','','0','2023-11-25',''),
@@ -43998,7 +44084,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50375413','Pera crimson rojo orgánica en lata o en frasco','','0','2023-11-25',''),
 ('50375414','Peras d’ anjou orgánica en lata o en frasco','','0','2023-11-25',''),
 ('50375415','Pera dr jules guyot orgánica en lata o en frasco','','0','2023-11-25',''),
-('50375416','Peras early orgánica en lata o en frasco','','0','2023-11-25',''),
+('50375416','Peras early orgánica en lata o en frasco','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50375417','Peras emperador carmelito orgánica en lata o en frasco','','0','2023-11-25',''),
 ('50375418','Peras forelle orgánica en lata o en frasco','','0','2023-11-25',''),
 ('50375419','Pera mantequilla francesa orgánica en lata o en frasco','','0','2023-11-25',''),
@@ -44998,7 +45086,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50423302','Nasturtium seco','','0','2023-11-25',''),
 ('50423303','Berros de agua secos','','0','2023-11-25',''),
 ('50423304','Berros de invierno secos','','0','2023-11-25',''),
-('50423400','Cocombros secos','Pepinos cohombro secos','0','2023-11-25',''),
+('50423400','Cocombros secos','Pepinos cohombro secos','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50423401','Cocombro arena seco','Pepino cohombro arena seco','0','2023-11-25',''),
 ('50423402','Cocombro americano seco','Pepino cohombro americano seco','0','2023-11-25',''),
 ('50423403','Cocombro atena seco','Pepino cohombro atena seco','0','2023-11-25',''),
@@ -45998,7 +46088,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50436424','Tomates tumbler orgánico seco','Jitomate tumbler orgánico seco','0','2023-11-25',''),
 ('50436425','Tomates cocktail amarillo orgánico seco','','0','2023-11-25',''),
 ('50436426','Tomates forma de pera amarillo orgánico seco','','0','2023-11-25',''),
-('50436427','Tomates perfección amarilla orgánico seco','','0','2023-11-25',''),
+('50436427','Tomates perfección amarilla orgánico seco','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50436500','Nabos orgánicos secos','','0','2023-11-25',''),
 ('50436501','Nabo globo verde orgánico seco','','0','2023-11-25',''),
 ('50436502','Nabo bola dorada orgánico seco','','0','2023-11-25',''),
@@ -46998,7 +47090,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50453909','Calabaza larga amarga orgánica congelada','','0','2023-11-25',''),
 ('50453910','Calabaza tinda orgánica congelada','','0','2023-11-25',''),
 ('50453911','Calabaza tindoori orgánica congelada','','0','2023-11-25',''),
-('50454000','Guisantes orgánicas congeladas','Chícharos orgánicos congelados','0','2023-11-25',''),
+('50454000','Guisantes orgánicas congeladas','Chícharos orgánicos congelados','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50454001','Guisante chino orgánica congelada','Chícharo chino orgánico congelado','0','2023-11-25',''),
 ('50454002','Guisante inglés orgánica congelada','Chícharo inglés orgánico congelado','0','2023-11-25',''),
 ('50454003','Guisante de jardín orgánica congelada','Chícharo de jardín orgánico congelado','0','2023-11-25',''),
@@ -47998,7 +48092,9 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('50471821','Frijoles  horticultura francesa orgánicos enlatados o envasados','','0','2023-11-25',''),
 ('50471822','Frijoles marina francesa orgánicos enlatados o envasados','','0','2023-11-25',''),
 ('50471823','Frijoles coco gigante blanco orgánicos enlatados o envasados','','0','2023-11-25',''),
-('50471824','Frijoles verdes orgánicos enlatados o envasados','','0','2023-11-25',''),
+('50471824','Frijoles verdes orgánicos enlatados o envasados','','0','2023-11-25','');
+
+INSERT INTO ccp_30_productos_servicios VALUES
 ('50471825','Frijoles romano verde orgánicos enlatados o envasados','','0','2023-11-25',''),
 ('50471826','Frijoles guar gum orgánicos enlatados o envasados','','0','2023-11-25',''),
 ('50471827','Frijoles haricot orgánicos enlatados o envasados','','0','2023-11-25',''),
@@ -48756,3 +48852,4 @@ INSERT INTO ccp_30_productos_servicios VALUES
 ('60124200','Proyectos completos de planes de estudios','','0','2023-11-25',''),
 ('60124201','Esculturas de mylar','','0','2023-11-25',''),
 ('64122100','Contratos de seguros de salud','','0','2023-11-25','');
+

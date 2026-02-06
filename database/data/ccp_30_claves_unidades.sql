@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_claves_unidades VALUES 
+INSERT INTO ccp_30_claves_unidades VALUES
 ('Tu','Contenedor externo','Tipo de caja de contención que sirve como contenedor de transporte externo, no especificado como equipo de transporte.','','2023-11-25','','','Embalaje'),
 ('X1A','Tambor de acero','','','2023-11-25','','','Embalaje'),
 ('X1B','Tambor de aluminio','','','2023-11-25','','','Embalaje'),
@@ -471,3 +471,4 @@ INSERT INTO ccp_30_claves_unidades VALUES
 ('Q34','Nanolitro','','','2023-11-25','','nl','Volumen'),
 ('NM3','Metro cúbico normalizado','Metros cúbicos normalizados (temperatura 0 ° C y presión 101325 milibares)','','2023-11-25','','','Volumen'),
 ('SM3','Metro cúbico estándar','Metro cúbico estándar (temperatura 15 ° C y presión 101325 milibares)','','2023-11-25','','','Volumen');
+

@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_tipos_remolque VALUES 
+INSERT INTO ccp_30_tipos_remolque VALUES
 ('CTR001','Caballete','2023-11-25',''),
 ('CTR002','Caja','2023-11-25',''),
 ('CTR003','Caja Abierta','2023-11-25',''),
@@ -30,3 +30,4 @@ INSERT INTO ccp_30_tipos_remolque VALUES
 ('CTR029','Tolva','2023-11-25',''),
 ('CTR031','Volteo','2023-11-25',''),
 ('CTR032','Volteo Desmontable','2023-11-25','');
+

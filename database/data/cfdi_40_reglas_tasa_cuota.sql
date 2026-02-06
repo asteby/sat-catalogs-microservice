@@ -1,4 +1,4 @@
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES 
+INSERT INTO cfdi_40_reglas_tasa_cuota VALUES
 ('Fijo','','0.000000','IVA','Tasa',1,'','2022-01-01',''),
 ('Fijo','','0.160000','IVA','Tasa',1,'','2022-01-01',''),
 ('Rango','0.000000','0.160000','IVA','Tasa','',1,'2022-01-01',''),
@@ -18,3 +18,4 @@ INSERT INTO cfdi_40_reglas_tasa_cuota VALUES
 ('Fijo','','0.000000','IEPS','Tasa',1,'','2022-01-01',''),
 ('Rango','0.000000','72.160500','IEPS','Cuota',1,1,'2026-01-01',''),
 ('Rango','0.000000','0.350000','ISR','Tasa','',1,'2022-01-01','');
+

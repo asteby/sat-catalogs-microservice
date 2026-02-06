@@ -1,2 +1,3 @@
-INSERT INTO cce_20_claves_pedimentos VALUES 
+INSERT INTO cce_20_claves_pedimentos VALUES
 ('A1','IMPORTACION O EXPORTACION DEFINITIVA');
+

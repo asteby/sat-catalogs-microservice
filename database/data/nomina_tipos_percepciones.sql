@@ -1,4 +1,4 @@
-INSERT INTO nomina_tipos_percepciones VALUES 
+INSERT INTO nomina_tipos_percepciones VALUES
 ('001','Sueldos, Salarios  Rayas y Jornales','2016-11-01',''),
 ('002','Gratificación Anual (Aguinaldo)','2016-11-01',''),
 ('003','Participación de los Trabajadores en las Utilidades PTU','2016-11-01',''),
@@ -46,3 +46,4 @@ INSERT INTO nomina_tipos_percepciones VALUES
 ('054','Días de descanso laborados','2026-01-01',''),
 ('055','Días de descanso obligatorios laborados','2026-01-01',''),
 ('056','Previsión social, Art 93 fracciones VIII y IX LISR','2025-12-17','');
+

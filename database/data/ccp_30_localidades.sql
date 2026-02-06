@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_localidades VALUES 
+INSERT INTO ccp_30_localidades VALUES
 ('01','AGU','Aguascalientes','2023-11-25',''),
 ('01','BCN','Ensenada','2023-11-25',''),
 ('01','BCS','Ciudad Constitución','2023-11-25',''),
@@ -663,3 +663,4 @@ INSERT INTO ccp_30_localidades VALUES
 ('67','VER','El Higo','2023-11-25',''),
 ('68','VER','Paso del Macho','2023-11-25',''),
 ('69','VER','Tlapacoyan','2023-11-25','');
+

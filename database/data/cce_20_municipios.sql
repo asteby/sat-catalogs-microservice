@@ -1,4 +1,4 @@
-INSERT INTO cce_20_municipios VALUES 
+INSERT INTO cce_20_municipios VALUES
 ('001','AGU','Aguascalientes','2024-01-18',''),
 ('001','BCN','Ensenada','2024-01-18',''),
 ('001','BCS','Comondú','2024-01-18',''),
@@ -998,7 +998,9 @@ INSERT INTO cce_20_municipios VALUES
 ('042','MEX','Ixtlahuaca','2024-01-18',''),
 ('042','MIC','Ixtlán','2024-01-18',''),
 ('042','NLE','Los Ramones','2024-01-18',''),
-('042','OAX','Ixtlán de Juárez','2024-01-18',''),
+('042','OAX','Ixtlán de Juárez','2024-01-18','');
+
+INSERT INTO cce_20_municipios VALUES
 ('042','PUE','Cuayuca de Andrade','2024-01-18',''),
 ('042','SLP','Tanquián de Escobedo','2024-01-18',''),
 ('042','SON','Navojoa','2024-01-18',''),
@@ -1998,7 +2000,9 @@ INSERT INTO cce_20_municipios VALUES
 ('178','PUE','Tlacuilotepec','2024-01-18',''),
 ('178','VER','Tlacotalpan','2024-01-18',''),
 ('179','OAX','San Juan Bautista Jayacatlán','2024-01-18',''),
-('179','PUE','Tlachichuca','2024-01-18',''),
+('179','PUE','Tlachichuca','2024-01-18','');
+
+INSERT INTO cce_20_municipios VALUES
 ('179','VER','Tlacotepec de Mejía','2024-01-18',''),
 ('180','OAX','San Juan Bautista Lo de Soto','2024-01-18',''),
 ('180','PUE','Tlahuapan','2024-01-18',''),
@@ -2462,3 +2466,4 @@ INSERT INTO cce_20_municipios VALUES
 ('568','OAX','Zapotitlán Palmas','2024-01-18',''),
 ('569','OAX','Santa Inés de Zaragoza','2024-01-18',''),
 ('570','OAX','Zimatlán de Álvarez','2024-01-18','');
+

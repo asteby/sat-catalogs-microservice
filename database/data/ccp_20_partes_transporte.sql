@@ -1,4 +1,4 @@
-INSERT INTO ccp_20_partes_transporte VALUES 
+INSERT INTO ccp_20_partes_transporte VALUES
 ('PT01','Camión unitario','2021-12-01',''),
 ('PT02','Camión','2021-12-01',''),
 ('PT03','Tractocamión','2021-12-01',''),
@@ -11,3 +11,4 @@ INSERT INTO ccp_20_partes_transporte VALUES
 ('PT10','Carro o vagón','2021-12-01',''),
 ('PT11','Contenedor','2021-12-01',''),
 ('PT12','Locomotora','2021-12-01','');
+

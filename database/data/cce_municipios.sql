@@ -1,4 +1,4 @@
-INSERT INTO cce_municipios VALUES 
+INSERT INTO cce_municipios VALUES
 ('001','AGU','Aguascalientes','2017-01-01',''),
 ('001','BCN','Ensenada','2017-01-01',''),
 ('001','BCS','Comondú','2017-01-01',''),
@@ -998,7 +998,9 @@ INSERT INTO cce_municipios VALUES
 ('041','NLE','Pesquería','2017-01-01',''),
 ('041','OAX','Huautla de Jiménez','2017-01-01',''),
 ('041','PUE','Cuautlancingo','2017-01-01',''),
-('041','SLP','Tanlajás','2017-01-01',''),
+('041','SLP','Tanlajás','2017-01-01','');
+
+INSERT INTO cce_municipios VALUES
 ('041','SON','Nacozari de García','2017-01-01',''),
 ('041','TAM','Victoria','2017-01-01',''),
 ('041','TLA','Papalotla de Xicohténcatl','2017-01-01',''),
@@ -1998,7 +2000,9 @@ INSERT INTO cce_municipios VALUES
 ('173','OAX','San Juan Atepec','2017-01-01',''),
 ('173','PUE','Teteles de Avila Castillo','2017-01-01',''),
 ('173','VER','Tezonapa','2017-01-01',''),
-('174','OAX','Ánimas Trujano','2017-01-01',''),
+('174','OAX','Ánimas Trujano','2017-01-01','');
+
+INSERT INTO cce_municipios VALUES
 ('174','PUE','Teziutlán','2017-01-01',''),
 ('174','VER','Tierra Blanca','2017-01-01',''),
 ('175','OAX','San Juan Bautista Atatlahuca','2017-01-01',''),
@@ -2478,3 +2482,4 @@ INSERT INTO cce_municipios VALUES
 ('568','OAX','Zapotitlán Palmas','2017-01-01',''),
 ('569','OAX','Santa Inés de Zaragoza','2017-01-01',''),
 ('570','OAX','Zimatlán de Álvarez','2017-01-01','');
+

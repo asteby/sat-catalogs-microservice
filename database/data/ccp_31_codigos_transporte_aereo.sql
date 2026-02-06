@@ -1,4 +1,4 @@
-INSERT INTO ccp_31_codigos_transporte_aereo VALUES 
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES
 ('CA001','Asiáticas','All Nippon Airways LTD','ANA','2024-07-17',''),
 ('CA002','Asiáticas','Cathay Pacific Airways Limited','CPA','2024-07-17',''),
 ('CA003','Asiáticas','China Southern Airlines','CSN','2024-07-17',''),
@@ -172,3 +172,4 @@ INSERT INTO ccp_31_codigos_transporte_aereo VALUES
 ('CA171','Asiaticas','Air China Cargo','CAO','2024-10-09',''),
 ('CA172','Malta','AirX Charter','AXY','2024-10-09',''),
 ('CA173','Centro y Sudamericanas','Azul Linhas Aéreas Brasileiras','AZU','2024-10-09','');
+

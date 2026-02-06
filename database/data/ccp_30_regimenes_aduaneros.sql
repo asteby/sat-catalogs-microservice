@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_regimenes_aduaneros VALUES 
+INSERT INTO ccp_30_regimenes_aduaneros VALUES
 ('IMD','Definitivo de importación.','Entrada','2023-11-25',''),
 ('EXD','Definitivo de exportación.','Salida','2023-11-25',''),
 ('ITR','Temporales de importación para retomar al extranjero en el mismo estado.','Entrada','2023-11-25',''),
@@ -9,3 +9,4 @@ INSERT INTO ccp_30_regimenes_aduaneros VALUES
 ('RFE','Elaboración, transformación o reparación en recinto fiscalizado.','Salida,Entrada','2023-11-25',''),
 ('RFS','Recinto fiscalizado estratégico.','Salida,Entrada','2023-11-25',''),
 ('TRA','Tránsitos.','Salida,Entrada','2023-11-25','');
+

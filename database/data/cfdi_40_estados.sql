@@ -1,4 +1,4 @@
-INSERT INTO cfdi_40_estados VALUES 
+INSERT INTO cfdi_40_estados VALUES
 ('AGU','MEX','Aguascalientes','2022-01-01',''),
 ('BCN','MEX','Baja California','2022-01-01',''),
 ('BCS','MEX','Baja California Sur','2022-01-01',''),
@@ -94,3 +94,4 @@ INSERT INTO cfdi_40_estados VALUES
 ('NT','CAN','Territorios del Noroeste','2022-01-01',''),
 ('YT','CAN','Yukón','2022-01-01',''),
 ('UN','CAN','Nunavut','2022-01-01','');
+

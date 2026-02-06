@@ -1,4 +1,5 @@
-INSERT INTO cfdi_tipos_factores VALUES 
+INSERT INTO cfdi_tipos_factores VALUES
 ('Tasa'),
 ('Cuota'),
 ('Exento');
+

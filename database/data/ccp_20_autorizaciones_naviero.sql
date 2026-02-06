@@ -1,4 +1,4 @@
-INSERT INTO ccp_20_autorizaciones_naviero VALUES 
+INSERT INTO ccp_20_autorizaciones_naviero VALUES
 ('SCT418/020/2016','2021-04-30','2021-05-28'),
 ('SCT418/021/2016','2021-04-30','2021-06-14'),
 ('SCT418/025/2016','2021-04-30','2021-06-21'),
@@ -451,3 +451,4 @@ INSERT INTO ccp_20_autorizaciones_naviero VALUES
 ('ANC002/2024','2024-01-10','2029-01-11'),
 ('ANG004/2024','2024-01-30','2029-01-31'),
 ('ANC005/2024','2024-01-30','2029-01-31');
+

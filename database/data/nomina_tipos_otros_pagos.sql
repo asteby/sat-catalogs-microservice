@@ -1,4 +1,4 @@
-INSERT INTO nomina_tipos_otros_pagos VALUES 
+INSERT INTO nomina_tipos_otros_pagos VALUES
 ('001','Reintegro de ISR retenido en exceso (siempre que no haya sido enterado al SAT).','2017-01-01',''),
 ('002','Subsidio para el empleo (efectivamente entregado al trabajador).','2017-01-01',''),
 ('003','Viáticos (entregados al trabajador).','2017-01-01',''),
@@ -9,3 +9,4 @@ INSERT INTO nomina_tipos_otros_pagos VALUES
 ('008','Subsidio efectivamente entregado que no correspondía (Aplica sólo cuando haya ajuste al cierre de mes en relación con el Apéndice 7 de la guía de llenado de nómina).','2020-01-01',''),
 ('009','Reembolso de descuentos efectuados para el crédito de vivienda.','2020-04-20',''),
 ('999','Pagos distintos a los listados y que no deben considerarse como ingreso por sueldos, salarios o ingresos asimilados.','2017-01-01','');
+

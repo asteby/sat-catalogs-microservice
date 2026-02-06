@@ -1,4 +1,4 @@
-INSERT INTO cfdi_40_claves_unidades VALUES 
+INSERT INTO cfdi_40_claves_unidades VALUES
 ('18','Tambor de cincuenta y cinco galones (EUA)','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
 ('19','Camión cisterna','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
 ('26','Tonelada real','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
@@ -998,7 +998,9 @@ INSERT INTO cfdi_40_claves_unidades VALUES
 ('H13','Grado celsius por minuto','','','2022-01-01','','°C/min'),
 ('H14','Grado celsius por segundo','','','2022-01-01','','°C/s'),
 ('H15','Centímetro cuadrado por gramo','','','2022-01-01','','cm²/g'),
-('H16','Decámetro cuadrado','','','2022-01-01','','dam²'),
+('H16','Decámetro cuadrado','','','2022-01-01','','dam²');
+
+INSERT INTO cfdi_40_claves_unidades VALUES
 ('H18','Hectómetro cuadrado','Sinónimo: hectárea','','2022-01-01','','hm²'),
 ('H19','Hectómetro cúbico','','','2022-01-01','','hm³'),
 ('H2','Medio litro','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
@@ -1998,7 +2000,9 @@ INSERT INTO cfdi_40_claves_unidades VALUES
 ('TT','Mil metros lineales','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
 ('TTS','Decenas de millar de pegatinas','Unidad de conteo que define el número de palos multiples de 10000 (Pegatina: pieza delgada y a menudo cilíndrica de una sustancia)','','2022-01-01','',''),
 ('Tu','Contenedor externo','Tipo de caja de contención que sirve como contenedor de transporte externo, no especificado como equipo de transporte.','','2022-01-01','',''),
-('TV','Mil kilogramos','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
+('TV','Mil kilogramos','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','','');
+
+INSERT INTO cfdi_40_claves_unidades VALUES
 ('TW','Mil hojas','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
 ('U1','Tratamiento','Unidad de conteo que define el número de tratamientos (tratamiento: sujección a la acción de un agente químico, físico o biológico)','','2022-01-01','',''),
 ('U2','Número de tabletas','Unidad de conteo que define el número de tabletas','','2022-01-01','',''),
@@ -2417,3 +2421,4 @@ INSERT INTO cfdi_40_claves_unidades VALUES
 ('Z8','Página de noticias','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2022-01-01','',''),
 ('ZP','Páginas','Unidad de conteo que define el número de páginas','','2022-01-01','',''),
 ('ZZ','Mutuamente definido','Unidad de medida acordada en común entre dos o más partes','','2022-01-01','','');
+

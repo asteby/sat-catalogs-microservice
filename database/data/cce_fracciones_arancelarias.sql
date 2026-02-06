@@ -1,4 +1,4 @@
-INSERT INTO cce_fracciones_arancelarias VALUES 
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('01011001','Derogada','2007-07-01','2012-07-01','N/A'),
 ('01011099','Derogada','2007-07-01','2012-07-01','N/A'),
 ('01012101','Reproductores de raza pura.','2012-07-02','2020-12-28','07'),
@@ -998,7 +998,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('12019002','Cuando la operación se realice dentro del periodo comprendido entre el 1o. de octubre y el 31 de diciembre.','2012-07-02','2020-12-28','01'),
 ('12021001','Derogada','2007-07-01','2012-07-01','N/A'),
 ('12021099','Derogada','2007-07-01','2012-07-01','N/A'),
-('12022001','Derogada','2007-07-01','2012-07-01','N/A'),
+('12022001','Derogada','2007-07-01','2012-07-01','N/A');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('12023001','Para siembra.','2012-07-02','2020-12-28','01'),
 ('12024101','Con cáscara.','2012-07-02','2020-12-28','01'),
 ('12024201','Sin cáscara, incluso quebrantados.','2012-07-02','2020-12-28','01'),
@@ -1998,7 +2000,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('28332905','De cinc.','2007-07-01','2020-12-28','01'),
 ('28332999','Los demás.','2010-01-01','2020-12-28','01'),
 ('28333001','Alumbres.','2009-01-02','2020-12-28','01'),
-('28334001','Persulfato de amonio.','2010-01-01','2020-12-28','01'),
+('28334001','Persulfato de amonio.','2010-01-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('28334002','Persulfato de potasio.','2010-01-01','2020-12-28','01'),
 ('28334099','Los demás.','2010-01-01','2020-12-28','01'),
 ('28341001','Nitrito de sodio.','2007-07-01','2020-12-28','01'),
@@ -2998,7 +3002,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('29222914','Ácido 2-anisidín-4-sulfónico.','2010-01-01','2020-12-28','01'),
 ('29222915','Dietil meta-anisidina.','2010-01-01','2020-12-28','01'),
 ('29222916','2-Amino-4-propilamino-7-beta- metoxietoxibenceno.','2010-01-01','2020-12-28','01'),
-('29222917','Clorhidrato de metoxifenamina.','2007-07-01','2020-12-28','01'),
+('29222917','Clorhidrato de metoxifenamina.','2007-07-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('29222918','Ácido 4,4´-diamino-3,3´-Bis (carboximetoxi)-difenil.','2010-01-01','2020-12-28','01'),
 ('29222919','2-Amino-4-teramil-6-nitrofenol.','2010-01-01','2020-12-28','01'),
 ('29222920','2,5-Dimetoxianilina.','2010-01-01','2020-12-28','01'),
@@ -3998,7 +4004,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('30022003','Vacuna contra la poliomielitis; vacuna triple (antidiftérica, antitetánica y anticoqueluche).','2010-01-01','2020-12-28','01'),
 ('30022004','Toxoide tetánico y diftérico con hidróxido de aluminio.','2010-01-01','2020-12-28','01'),
 ('30022005','Toxoide tetánico, diftérico y pertúsico con hidróxido de aluminio.','2010-01-01','2020-12-28','01'),
-('30022006','Vacuna antihepatitis tipo “A” o “B”.','2007-07-01','2020-12-28','01'),
+('30022006','Vacuna antihepatitis tipo “A” o “B”.','2007-07-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('30022007','Vacuna contra la haemophilus tipo `B`.','2007-07-01','2020-12-28','01'),
 ('30022008','Vacuna antineumococica polivalente.','2007-07-01','2020-12-28','01'),
 ('30022009','Vacuna contra el sarampión, paroditis y rubeóla.','2007-07-01','2020-12-28','01'),
@@ -4998,7 +5006,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('39171099','Los demás.','2010-01-01','2020-12-28','01'),
 ('39172101','De polietileno con diámetro hasta de 640 mm (25 pulgadas).','2010-01-01','2020-12-28','01'),
 ('39172102','De polietileno con diámetro superior a 640 mm (25 pulgadas).','2010-01-01','2020-12-28','01'),
-('39172199','Los demás.','2010-01-01','2020-12-28','01'),
+('39172199','Los demás.','2010-01-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('39172201','De polipropileno (P.P.), con diámetro hasta de 640 mm (25 pulgadas).','2010-01-01','2020-12-28','01'),
 ('39172202','De polipropileno con diámetro superior a 640 mm (25 pulgadas).','2010-01-01','2020-12-28','01'),
 ('39172299','Los demás.','2010-01-01','2020-12-28','01'),
@@ -5998,7 +6008,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('49119999','Los demás.','2010-01-01','2020-12-28','01'),
 ('50010001','Capullos de seda aptos para el devanado.','2007-07-01','2020-12-28','01'),
 ('50020001','Seda cruda (sin torcer).','2007-07-01','2020-12-28','01'),
-('50030001','Sin cardar ni peinar.','2007-07-01','2020-12-28','01'),
+('50030001','Sin cardar ni peinar.','2007-07-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('50030099','Los demás.','2007-07-01','2020-12-28','01'),
 ('50040001','Hilados de seda (excepto los hilados de desperdicios de seda) sin acondicionar para la venta al por menor.','2011-01-01','2020-12-28','01'),
 ('50050001','Hilados de desperdicios de seda sin acondicionar para la venta al por menor.','2011-01-01','2020-12-28','01'),
@@ -6998,7 +7010,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('61034202','Para hombres, pantalones largos.','2017-12-04','2020-12-28','06'),
 ('61034204','Para niños, pantalones largos.','2019-05-10','2020-12-28','06'),
 ('61034291','Los demás, para hombres.','2019-05-10','2020-12-28','06'),
-('61034292','Los demás, para niños.','2019-05-10','2020-12-28','06'),
+('61034292','Los demás, para niños.','2019-05-10','2020-12-28','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('61034299','Suprimida','2012-01-01','2019-05-10','N/A'),
 ('61034301','Con un contenido de lana o pelo fino mayor o igual a 23% en peso.','2012-01-01','2020-12-28','06'),
 ('61034302','Para hombres, pantalones largos, excepto lo comprendido en la fracción 61034301.','2017-12-04','2020-12-28','06'),
@@ -7998,7 +8012,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('68114002','Placas sin ondular, paneles, losetas, tejas y artículos similares.','2010-01-01','2020-12-28','01'),
 ('68114003','Tubería de presión, tubería sanitaria o para ductos eléctricos.','2010-01-01','2020-12-28','01'),
 ('68114004','Los demás tubos, fundas y accesorios de tubería.','2010-01-01','2020-12-28','01'),
-('68114099','Las demás.','2010-01-01','2020-12-28','01'),
+('68114099','Las demás.','2010-01-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('68118101','Placas onduladas.','2010-01-01','2020-12-28','01'),
 ('68118201','Las demás placas, paneles, losetas, tejas y artículos similares.','2010-01-01','2020-12-28','01'),
 ('68118301','Derogada','2007-07-01','2012-07-01','N/A'),
@@ -8998,7 +9014,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('73199099','Los demás.','2010-01-01','2020-12-28','01'),
 ('73201001','Reconocibles para naves aéreas.','2009-01-02','2020-12-28','01'),
 ('73201099','Los demás.','2010-01-01','2020-12-28','01'),
-('73202001','Con peso unitario inferior o igual a 30 gr.','2010-01-01','2020-12-28','01'),
+('73202001','Con peso unitario inferior o igual a 30 gr.','2010-01-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('73202002','Reconocibles para naves aéreas.','2010-01-01','2020-12-28','01'),
 ('73202003','Con peso unitario superior a 30 gr, excepto para suspensión automotriz.','2011-01-01','2020-12-28','01'),
 ('73202004','Con peso unitario igual o superior a 2 Kg, sin exceder de 20 kg, reconocibles para suspensión de uso automotriz.','2010-01-01','2020-12-28','01'),
@@ -9998,7 +10016,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('84189904','Ensambles de puertas que incorporen más de uno de los siguientes componentes: panel interior, panel exterior, aislamiento, bisagras, agarraderas.','2010-01-01','2020-12-28','06'),
 ('84189999','Las demás.','2010-01-01','2020-12-28','01'),
 ('84191101','De calentamiento instantáneo, de gas.','2010-01-01','2020-12-28','06'),
-('84191901','De uso doméstico, excepto lo comprendido en las fracciones 8419.19.02 y 8419.19.03.','2010-01-01','2020-12-28','06'),
+('84191901','De uso doméstico, excepto lo comprendido en las fracciones 8419.19.02 y 8419.19.03.','2010-01-01','2020-12-28','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('84191902','Calentadores solares de agua, de tubos evacuados.','2016-01-06','2020-12-28','06'),
 ('84191903','Calentadores solares de agua de placas, metálicas o plásticas.','2016-01-06','2020-12-28','06'),
 ('84191999','Los demás.','2012-01-01','2020-12-28','06'),
@@ -10998,7 +11018,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('84799002','Rodillos acanalados de acero.','2010-01-01','2020-12-28','01'),
 ('84799004','Gabinetes o cubiertas, reconocibles como concebidas exclusivamente para lo comprendido en la fracción 8479.89.25.','2010-01-01','2020-12-28','06'),
 ('84799005','Reconocibles como concebidas exclusivamente para lo comprendido en la fracción 8479.82.02.','2010-01-01','2020-12-28','01'),
-('84799006','Reconocibles como concebidas exclusivamente para prensas.','2010-01-01','2020-12-28','01'),
+('84799006','Reconocibles como concebidas exclusivamente para prensas.','2010-01-01','2020-12-28','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('84799007','Ensambles de depósitos reconocibles como concebidos exclusivamente para lo comprendido en la fracción 8479.89.25 que incorporen más de uno de los siguientes componentes: panel lateral, inferior o frontal, o correderas laterales.','2010-01-01','2020-12-28','01'),
 ('84799008','Reconocibles como concebidas exclusivamente para lo comprendido en la fracción 8479.89.11.','2010-01-01','2020-12-28','01'),
 ('84799009','Reconocibles como concebidas exclusivamente para microdosificadores y lo comprendido en la fracción 8479.89.01.','2010-01-01','2020-12-28','01'),
@@ -11998,7 +12020,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('85389002','Reconocibles como concebidas exclusivamente para cortacircuitos de fusibles de más de 46 kV.','2010-01-01','2020-12-28','01'),
 ('85389003','Armaduras, núcleos, yugos y piezas polares electromagnéticas no montadas y sin elementos agregados, reconocibles como concebidas exclusivamente para relevadores de equipos telefónicos.','2010-01-01','2020-12-28','01'),
 ('85389004','Cerámicos o metálicos reconocibles como concebidos exclusivamente para lo comprendido en las fracciones 8535.90.08, 8535.90.20, 8535.90.24, 8536.30.05, 8536.50.13 y 8536.50.14, termosensibles.','2010-01-01','2020-12-28','01'),
-('85389005','Circuitos modulares.','2010-01-01','2020-12-28','06'),
+('85389005','Circuitos modulares.','2010-01-01','2020-12-28','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('85389099','Las demás.','2011-01-01','2020-12-28','01'),
 ('85391001','Con diámetro de 15 cm a 20 cm.','2010-01-01','2020-12-28','06'),
 ('85391002','Reconocibles para naves aéreas.','2010-01-01','2020-12-28','06'),
@@ -12998,7 +13022,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('91029101','Eléctricos.','2010-09-24','2020-12-28','06'),
 ('91029999','Los demás.','2010-09-24','2020-12-28','06'),
 ('91031001','Eléctricos.','2010-09-24','2020-12-28','06'),
-('91039099','Los demás.','2010-09-24','2020-12-28','06'),
+('91039099','Los demás.','2010-09-24','2020-12-28','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('91040001','Reconocibles para naves aéreas.','2010-01-01','2020-12-28','06'),
 ('91040002','Electrónicos, para uso automotriz.','2010-01-01','2020-12-28','06'),
 ('91040003','De tablero, de bordo o similares, para automóviles, barcos y demás vehículos, excepto lo comprendido en las fracciones 9104.00.01 y 9104.00.02.','2010-01-01','2020-12-28','06'),
@@ -13998,7 +14024,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('6207190100','De las demás materias TEXTiles.','2020-12-28','2022-12-11','06'),
 ('6207290201','Con un contenido de seda mayor o igual a 70% en peso.','2020-12-28','2022-12-11','06'),
 ('6207290299','Los demás.','2020-12-28','2022-12-11','06'),
-('6207990301','Con un contenido de seda mayor o igual a 70% en peso.','2020-12-28','2022-12-11','06'),
+('6207990301','Con un contenido de seda mayor o igual a 70% en peso.','2020-12-28','2022-12-11','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('6207990302','De fibras sintéticas o artificiales.','2020-12-28','2022-12-11','06'),
 ('6207990399','Los demás.','2020-12-28','2022-12-11','06'),
 ('6208190100','De las demás materias TEXTiles.','2020-12-28','2022-12-11','06'),
@@ -14998,7 +15026,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('0408910299','Los demás','2022-12-12','','01'),
 ('0408990200','Huevos de aves marinas guaneras','2022-12-12','','01'),
 ('0408999900','Los demás','2022-12-12','','01'),
-('0409000100','Miel natural','2022-12-12','','01'),
+('0409000100','Miel natural','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('0410100100','Insectos','2022-12-12','','01'),
 ('0410900100','Huevos de tortuga de cualquier clase','2022-12-12','','01'),
 ('0410909900','Los demás','2022-12-12','','01'),
@@ -15998,7 +16028,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('2525100100','Mica en bruto o exfoliada en hojas o en laminillas irregulares (`splittings`)','2022-12-12','','01'),
 ('2525200100','Mica en polvo','2022-12-12','','01'),
 ('2525300100','Desperdicios de mica','2022-12-12','','01'),
-('2526100100','Sin triturar ni pulverizar','2022-12-12','','01'),
+('2526100100','Sin triturar ni pulverizar','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('2526200100','Triturados o pulverizados','2022-12-12','','01'),
 ('2528000100','Boratos de sodio naturales y sus concentrados (incluso calcinados)','2022-12-12','','01'),
 ('2528009900','Los demás','2022-12-12','','01'),
@@ -16998,7 +17030,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('2930100100','2-(NN-Dimetilamino)etanotiol','2022-12-12','','01'),
 ('2930200500','Etilen bis ditiocarbamato de manganeso (Maneb); Etilen bis ditiocarbamato de cinc (Zineb)','2022-12-12','','01'),
 ('2930200600','N-Metilditiocarbamato de sodio dihidratado','2022-12-12','','01'),
-('2930200700','Dipropiltiocarbamato de S-Propilo (Vernolato)','2022-12-12','','01'),
+('2930200700','Dipropiltiocarbamato de S-Propilo (Vernolato)','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('2930209900','Los demás','2022-12-12','','01'),
 ('2930300201','Mono-di-o tetrasulfuros de tetrametil de tetraetil de tetrabutil o de dipentametilen tiourama','2022-12-12','','01'),
 ('2930300299','Los demás','2022-12-12','','01'),
@@ -17998,7 +18032,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('3815110399','Los demás','2022-12-12','','01'),
 ('3815120301','A base de paladio aun cuando contenga carbón activado','2022-12-12','','01'),
 ('3815120399','Los demás','2022-12-12','','01'),
-('3815190100','A base de pentóxido de vanadio','2022-12-12','','01'),
+('3815190100','A base de pentóxido de vanadio','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('3815199900','Los demás','2022-12-12','','01'),
 ('3815900200','Iniciadores de polimerización a base de peróxidos o peroxidicarbonatos orgánicos','2022-12-12','','01'),
 ('3815909901','Iniciadores para preparación de siliconas','2022-12-12','','01'),
@@ -18998,7 +19034,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('4702000299','Las demás','2022-12-12','','01'),
 ('4703110301','Al sulfato excepto que se destinen a la fabricación de papel prensa o de cartón Kraft para envases desechables para leche','2022-12-12','','01'),
 ('4703110399','Las demás','2022-12-12','','01'),
-('4703190300','Distinta de la de coníferas','2022-12-12','','01'),
+('4703190300','Distinta de la de coníferas','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('4703210301','Al sulfato','2022-12-12','','01'),
 ('4703210302','A la sosa (soda)','2022-12-12','','01'),
 ('4703290301','Al sulfato','2022-12-12','','01'),
@@ -19998,7 +20036,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('6003300100','De fibras sintéticas','2022-12-12','','01'),
 ('6003400100','De fibras artificiales','2022-12-12','','01'),
 ('6003900100','De seda','2022-12-12','','01'),
-('6003909900','Los demás','2022-12-12','','01'),
+('6003909900','Los demás','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('6004100100','De seda','2022-12-12','','01'),
 ('6004109901','De algodón','2022-12-12','','01'),
 ('6004109902','De filamentos sintéticos excepto lo comprendido en el número de identificación comercial 6004109905','2022-12-12','','01'),
@@ -20998,7 +21038,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('6909120100','Artículos con una dureza equivalente a 9 o superior en la escala de Mohs','2022-12-12','','01'),
 ('6909199900','Los demás','2022-12-12','','01'),
 ('6909909900','Los demás','2022-12-12','','01'),
-('6910100100','De porcelana','2022-12-12','','01'),
+('6910100100','De porcelana','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('6910900100','Inodoros (retretes)','2022-12-12','','01'),
 ('6910909900','Los demás','2022-12-12','','01'),
 ('6911100100','Artículos para el servicio de mesa o cocina','2022-12-12','','01'),
@@ -21998,7 +22040,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('7321900700','Ensambles de puertas que incorporen más de uno de los siguientes componentes: paredes interiores paredes exteriores ventana aislamiento reconocibles como diseñados exclusivamente para lo comprendido en la fracción arancelaria 73211191','2022-12-12','','01'),
 ('7321909900','Los demás','2022-12-12','','01'),
 ('7322110200','De fundición','2022-12-12','','01'),
-('7322190100','Para naves aéreas','2022-12-12','','01'),
+('7322190100','Para naves aéreas','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('7322199900','Los demás','2022-12-12','','01'),
 ('7322900100','Reconocibles para naves aéreas incluidas sus partes','2022-12-12','','01'),
 ('7322909900','Los demás','2022-12-12','','01'),
@@ -22998,7 +23042,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('8422900599','Los demás','2022-12-12','','01'),
 ('8423100201','De personas incluidos los pesabebés','2022-12-12','','06'),
 ('8423100299','Los demás','2022-12-12','','06'),
-('8423200100','Automáticas con registro impresor provistas con mecanismo automático de control de velocidad y con peso superior o igual a 740 kg','2022-12-12','','06'),
+('8423200100','Automáticas con registro impresor provistas con mecanismo automático de control de velocidad y con peso superior o igual a 740 kg','2022-12-12','','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('8423209900','Los demás','2022-12-12','','06'),
 ('8423300201','Dosificadores o comprobadoras que funcionen por medio de peso patrón','2022-12-12','','06'),
 ('8423300299','Los demás','2022-12-12','','06'),
@@ -23998,7 +24044,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('8502209901','Con potencia superior a 1500 kVA pero inferior o igual a 2000 kVA','2022-12-12','','06'),
 ('8502209999','Los demás','2022-12-12','','06'),
 ('8502310100','Aerogeneradores','2022-12-12','','06'),
-('8502319900','Los demás','2022-12-12','','06'),
+('8502319900','Los demás','2022-12-12','','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('8502390100','Turbogeneradores (turbodinamos o turboalternadores) excepto lo comprendido en la fracción arancelaria 85023903','2022-12-12','','06'),
 ('8502390200','Sistemas de cogeneración de electricidad y vapor presentados como unidades móviles que formen un solo cuerpo','2022-12-12','','06'),
 ('8502390300','Turbogeneradores accionados por turbina a gas excepto los accionados por turbina de vapor de agua','2022-12-12','','06'),
@@ -24998,7 +25046,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('8708291900','Ensambles de puertas','2022-12-12','','06'),
 ('8708292000','Partes troqueladas para carrocería','2022-12-12','','06'),
 ('8708292200','Tableros de instrumentos incluso con instrumentos de medida o control para uso exclusivo en vehículos automóviles','2022-12-12','','06'),
-('8708292300','Dispositivos retractores y sus partes o piezas sueltas para cinturones de seguridad','2022-12-12','','06'),
+('8708292300','Dispositivos retractores y sus partes o piezas sueltas para cinturones de seguridad','2022-12-12','','06');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('8708292400','Dispositivos interiores (consolas) reconocibles como diseñados exclusivamente para vehículos automóviles hasta de diez plazas aún cuando se presenten con palancas al piso para cambios de velocidades','2022-12-12','','06'),
 ('8708299901','Compuerta trasera abatible para cajas `Pick-up`','2022-12-12','','06'),
 ('8708299902','Panel lateral de carrocería','2022-12-12','','06'),
@@ -25998,7 +26048,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('9802002300','Mercancías para el Programa de Promoción Sectorial de la Industria Siderúrgica cuando se trate de productores indirectos y las empresas cuenten con la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación conforme a los criterios que establezca la Secretaría de Economía excepto las comprendidas en el Anexo II del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación','2022-12-12','','01'),
 ('9802002400','Hilados de filamento de nailon rígidos de título inferior o igual a 44.4 decitex (40 deniers) e inferior o igual a 1.33 decitex (1.2 deniers) por filamento e hilados de filamento de nailon rígidos de título igual a 44.4 decitex (40 deniers) y 34 filamentos de título igual a 1.30 decitex (1.17 deniers) por filamento, de la fracción arancelaria 5402.45.99; hilados rígidos, de filamentos de poliéster (no TEXTurados), de título inferior o igual a 1.66 decitex (1.5 deniers) por filamento, de la fracción arancelaria 5402.47.91; hilados de filamentos de título igual a 75.48 decitex (68 deniers), teñidos en rígido brillante con 32 filamentos y torsión de 800 vueltas por metro e hilados de filamentos rígidos brillante, de poliéster catiónico de título igual a 305 decitex (274.53 deniers), con 96 filamentos y torsión de 120 vueltas por metro en S, de la fracción arancelaria 5402.62.02; fibra corta de poliéster de baja fusión (low melt), conformada por una fibra bicomponente de un centro de poliéster y una cubierta de copolímero de poliéster, con punto de fusión inferior a 180 grados centígrados, de la fracción arancelaria 5503.20.99, para el Programa de Promoción Sectorial de la Industria Textil y de la Confección, cuando las empresas cuenten con la autorización a que se refiere la Regla 8a de las Complementarias, para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación conforme a los criterios establecidos por la Secretaría de Economía.','2022-12-12','','01'),
 ('9802002500','Mercancías para el Programa de Promoción Sectorial de la Industria Alimentaria cuando las empresas cuenten con la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación conforme a los criterios que establezca la Secretaría de Economía excepto las comprendidas en el Anexo II del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación','2022-12-12','','01'),
-('9802002600','Mercancías al amparo de la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) conforme a los criterios que establezca la Secretaría de Economía clasificadas en las fracciones arancelarias cuya unidad de medida de la TIGIE se indique como Kg y listadas en el Anexo II Apartado A del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación','2022-12-12','','01'),
+('9802002600','Mercancías al amparo de la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) conforme a los criterios que establezca la Secretaría de Economía clasificadas en las fracciones arancelarias cuya unidad de medida de la TIGIE se indique como Kg y listadas en el Anexo II Apartado A del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación','2022-12-12','','01');
+
+INSERT INTO cce_fracciones_arancelarias VALUES
 ('9802002700','Mercancías al amparo de la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) conforme a los criterios que establezca la Secretaría de Economía clasificadas en las fracciones arancelarias cuya unidad de medida de la TIGIE se indique como Kg y listadas en el Anexo II Apartado B del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación','2022-12-12','','01'),
 ('9802002800','Mercancías al amparo de la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) conforme a los criterios que establezca la Secretaría de Economía clasificadas en las fracciones arancelarias cuya unidad de medida de la TIGIE se indique como Kg y listadas en el Anexo II Apartado C del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación excepto lo comprendido en la fracción 98020024','2022-12-12','','01'),
 ('9802002900','Mercancías al amparo de la autorización a que se refiere la Regla 8ª de las Complementarias para la interpretación y aplicación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE) conforme a los criterios que establezca la Secretaría de Economía clasificadas en las fracciones arancelarias cuya unidad de medida de la TIGIE se indique como M y listadas en el Anexo II Apartado C del Decreto para el Fomento de la Industria Manufacturera Maquiladora y de Servicios de Exportación','2022-12-12','','03'),
@@ -26036,3 +26088,4 @@ INSERT INTO cce_fracciones_arancelarias VALUES
 ('9901001500','Códigos arancelarios no catalogados en la tarifa','2022-01-01','','01'),
 ('9901001600','Códigos arancelarios no catalogados en la tarifa','2022-01-01','','01'),
 ('9902000100','Códigos arancelarios no catalogados en la tarifa','2022-01-01','','01');
+

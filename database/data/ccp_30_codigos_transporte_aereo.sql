@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_codigos_transporte_aereo VALUES 
+INSERT INTO ccp_30_codigos_transporte_aereo VALUES
 ('CA001','Asiáticas','All Nippon Airways LTD','ANA','2023-11-25',''),
 ('CA002','Asiáticas','Cathay Pacific Airways Limited','CPA','2023-11-25',''),
 ('CA003','Asiáticas','China Southern Airlines','CSN','2023-11-25',''),
@@ -159,3 +159,4 @@ INSERT INTO ccp_30_codigos_transporte_aereo VALUES
 ('CA158','Extranjeras','Servicio de Taxi Aéreo','NA','2023-11-25',''),
 ('CA159','Mexicanas','Servicios Privados No Comerciales','NA','2023-11-25',''),
 ('CA160','Extranjeras','Servicios Privados No Comerciales','NA','2023-11-25','');
+

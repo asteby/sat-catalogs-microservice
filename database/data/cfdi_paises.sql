@@ -1,4 +1,4 @@
-INSERT INTO cfdi_paises VALUES 
+INSERT INTO cfdi_paises VALUES
 ('AFG','Afganistán','','','',''),
 ('ALA','Islas Åland','','','',''),
 ('ALB','Albania','','','',''),
@@ -249,3 +249,4 @@ INSERT INTO cfdi_paises VALUES
 ('ZMB','Zambia','','','',''),
 ('ZWE','Zimbabue','','','',''),
 ('ZZZ','Países no declarados','','','','');
+

@@ -1,4 +1,4 @@
-INSERT INTO cce_20_localidades VALUES 
+INSERT INTO cce_20_localidades VALUES
 ('01','AGU','Aguascalientes','2024-01-18',''),
 ('01','BCN','Ensenada','2024-01-18',''),
 ('01','BCS','Ciudad Constitución','2024-01-18',''),
@@ -663,3 +663,4 @@ INSERT INTO cce_20_localidades VALUES
 ('67','VER','El Higo','2024-01-18',''),
 ('68','VER','Paso del Macho','2024-01-18',''),
 ('69','VER','Tlapacoyan','2024-01-18','');
+

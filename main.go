@@ -8,7 +8,6 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
-	"sync"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/driver/mysql"
@@ -99,14 +98,8 @@ func setupHandler(c *gin.Context) {
 		}
 		sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
 		sql = strings.ReplaceAll(sql, " text", " TEXT")
-		sql = normalizeSchemaSQL(sql)
 		sql = strings.ReplaceAll(sql, "\\r\\n", "\\n")
 		statements := splitSQLStatements(sql)
-		for i := range statements {
-			statements[i] = preprocessInsertStmt(statements[i], db)
-		}
-		// Group INSERT statements by table
-		insertsByTable := make(map[string][]string)
 		for _, stmt := range statements {
 			clean := strings.TrimSpace(stmt)
 			if clean == "" {
@@ -116,45 +109,10 @@ func setupHandler(c *gin.Context) {
 			if strings.HasPrefix(upper, "PRAGMA") || strings.HasPrefix(upper, "BEGIN TRANSACTION") || upper == "BEGIN" || strings.HasPrefix(upper, "COMMIT") {
 				continue
 			}
-			if strings.HasPrefix(upper, "INSERT INTO") {
-				re := regexp.MustCompile(`(?i)INSERT INTO (\w+) VALUES\s*\((.*?)\)`)
-				match := re.FindStringSubmatch(clean)
-				if len(match) >= 3 {
-					table := match[1]
-					values := match[2]
-					insertsByTable[table] = append(insertsByTable[table], "("+values+")")
-				}
+			if err := db.Exec(clean).Error; err != nil {
+				c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
+				return
 			}
-		}
-		// Execute batched INSERTs concurrently
-		var wg sync.WaitGroup
-		errChan := make(chan error, 1)
-		sem := make(chan struct{}, 10) // limit to 10 concurrent
-		for table, valueList := range insertsByTable {
-			if len(valueList) == 0 {
-				continue
-			}
-			wg.Add(1)
-			go func(t string, vl []string) {
-				defer wg.Done()
-				sem <- struct{}{}
-				defer func() { <-sem }()
-				batchedValues := strings.Join(vl, ",")
-				batchedStmt := fmt.Sprintf("INSERT INTO %s VALUES %s", t, batchedValues)
-				if err := db.Exec(batchedStmt).Error; err != nil {
-					select {
-					case errChan <- err:
-					default:
-					}
-				}
-			}(table, valueList)
-		}
-		wg.Wait()
-		select {
-		case err := <-errChan:
-			c.JSON(500, gin.H{"error": err.Error()})
-			return
-		default:
 		}
 		log.Printf("Data inserted successfully for %s", filepath.Base(file))
 	}
@@ -276,38 +234,28 @@ func splitSQLStatements(sql string) []string {
 	return statements
 }
 
-func preprocessInsertStmt(stmt string, db *gorm.DB) string {
-	if !strings.HasPrefix(strings.ToUpper(stmt), "INSERT INTO") {
-		return stmt
+func normalizeSchemaSQL(sql string) string {
+	rePK := regexp.MustCompile("(?i)PRIMARY\\s+KEY\\s*\\(([^)]+)\\)")
+	matches := rePK.FindAllStringSubmatch(sql, -1)
+	if len(matches) == 0 {
+		return sql
 	}
-	re := regexp.MustCompile(`(?i)INSERT INTO (\w+) VALUES\s*\((.*?)\)`)
-	match := re.FindStringSubmatch(stmt)
-	if len(match) < 3 {
-		return stmt
-	}
-	table := match[1]
-	valuesStr := match[2]
-	// Get column types
-	var columns []struct {
-		ColumnName string `gorm:"column:COLUMN_NAME"`
-		DataType   string `gorm:"column:DATA_TYPE"`
-	}
-	err := db.Table("INFORMATION_SCHEMA.COLUMNS").Where("TABLE_NAME = ? AND TABLE_SCHEMA = DATABASE()", table).Select("COLUMN_NAME, DATA_TYPE").Scan(&columns).Error
-	if err != nil {
-		log.Printf("Error getting columns for %s: %v", table, err)
-		return stmt
-	}
-	// Split values
-	values := strings.Split(valuesStr, ",")
-	for i := range values {
-		values[i] = strings.TrimSpace(values[i])
-	}
-	for i, val := range values {
-		if val == "''" && i < len(columns) && strings.ToLower(columns[i].DataType) == "int" {
-			values[i] = "0"
+	primaryCols := make(map[string]struct{})
+	for _, m := range matches {
+		cols := strings.Split(m[1], ",")
+		for _, col := range cols {
+			name := strings.TrimSpace(col)
+			name = strings.Trim(name, "`\"")
+			if name == "" {
+				continue
+			}
+			primaryCols[strings.ToLower(name)] = struct{}{}
 		}
 	}
-	newValuesStr := strings.Join(values, ",")
-	newStmt := fmt.Sprintf("INSERT INTO %s VALUES(%s)", table, newValuesStr)
-	return newStmt
+	updated := sql
+	for col := range primaryCols {
+		reCol := regexp.MustCompile("(?i)(`" + regexp.QuoteMeta(col) + "`\\s+)TEXT")
+		updated = reCol.ReplaceAllString(updated, "$1VARCHAR(255)")
+	}
+	return updated
 }

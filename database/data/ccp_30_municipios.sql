@@ -1,4 +1,4 @@
-INSERT INTO ccp_30_municipios VALUES 
+INSERT INTO ccp_30_municipios VALUES
 ('001','AGU','Aguascalientes','2023-11-25',''),
 ('001','BCN','Ensenada','2023-11-25',''),
 ('001','BCS','Comondú','2023-11-25',''),
@@ -998,7 +998,9 @@ INSERT INTO ccp_30_municipios VALUES
 ('042','MEX','Ixtlahuaca','2023-11-25',''),
 ('042','MIC','Ixtlán','2023-11-25',''),
 ('042','NLE','Los Ramones','2023-11-25',''),
-('042','OAX','Ixtlán de Juárez','2023-11-25',''),
+('042','OAX','Ixtlán de Juárez','2023-11-25','');
+
+INSERT INTO ccp_30_municipios VALUES
 ('042','PUE','Cuayuca de Andrade','2023-11-25',''),
 ('042','SLP','Tanquián de Escobedo','2023-11-25',''),
 ('042','SON','Navojoa','2023-11-25',''),
@@ -1998,7 +2000,9 @@ INSERT INTO ccp_30_municipios VALUES
 ('178','PUE','Tlacuilotepec','2023-11-25',''),
 ('178','VER','Tlacotalpan','2023-11-25',''),
 ('179','OAX','San Juan Bautista Jayacatlán','2023-11-25',''),
-('179','PUE','Tlachichuca','2023-11-25',''),
+('179','PUE','Tlachichuca','2023-11-25','');
+
+INSERT INTO ccp_30_municipios VALUES
 ('179','VER','Tlacotepec de Mejía','2023-11-25',''),
 ('180','OAX','San Juan Bautista Lo de Soto','2023-11-25',''),
 ('180','PUE','Tlahuapan','2023-11-25',''),
@@ -2462,3 +2466,4 @@ INSERT INTO ccp_30_municipios VALUES
 ('568','OAX','Zapotitlán Palmas','2023-11-25',''),
 ('569','OAX','Santa Inés de Zaragoza','2023-11-25',''),
 ('570','OAX','Zimatlán de Álvarez','2023-11-25','');
+

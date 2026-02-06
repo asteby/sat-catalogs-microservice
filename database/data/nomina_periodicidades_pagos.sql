@@ -1,4 +1,4 @@
-INSERT INTO nomina_periodicidades_pagos VALUES 
+INSERT INTO nomina_periodicidades_pagos VALUES
 ('01','Diario','2016-11-01',''),
 ('02','Semanal','2016-11-01',''),
 ('03','Catorcenal','2016-11-01',''),
@@ -10,3 +10,4 @@ INSERT INTO nomina_periodicidades_pagos VALUES
 ('09','Precio alzado','2016-11-01',''),
 ('10','Decenal','2017-01-19',''),
 ('99','Otra Periodicidad','2016-11-01','');
+

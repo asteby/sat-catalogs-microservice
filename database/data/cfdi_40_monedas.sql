@@ -1,4 +1,4 @@
-INSERT INTO cfdi_40_monedas VALUES 
+INSERT INTO cfdi_40_monedas VALUES
 ('AED','Dirham de EAU',2,5,'2022-01-01',''),
 ('AFN','Afghani',2,5,'2022-01-01',''),
 ('ALL','Lek',2,5,'2022-01-01',''),
@@ -182,3 +182,4 @@ INSERT INTO cfdi_40_monedas VALUES
 ('ZAR','Rand',2,5,'2022-01-01',''),
 ('ZMW','Kwacha zambiano',2,5,'2022-01-01',''),
 ('ZWL','Zimbabwe Dólar',2,5,'2022-01-01','');
+

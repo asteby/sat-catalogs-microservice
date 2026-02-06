@@ -1,4 +1,4 @@
-INSERT INTO nomina_tipos_contratos VALUES 
+INSERT INTO nomina_tipos_contratos VALUES
 ('01','Contrato de trabajo por tiempo indeterminado'),
 ('02','Contrato de trabajo para obra determinada'),
 ('03','Contrato de trabajo por tiempo determinado'),
@@ -10,3 +10,4 @@ INSERT INTO nomina_tipos_contratos VALUES
 ('09','Modalidades de contratación donde no existe relación de trabajo'),
 ('10','Jubilación, pensión, retiro.'),
 ('99','Otro contrato');
+

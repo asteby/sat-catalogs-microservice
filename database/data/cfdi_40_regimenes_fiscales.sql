@@ -1,4 +1,4 @@
-INSERT INTO cfdi_40_regimenes_fiscales VALUES 
+INSERT INTO cfdi_40_regimenes_fiscales VALUES
 ('601','General de Ley Personas Morales','',1,'2022-01-01',''),
 ('603','Personas Morales con Fines no Lucrativos','',1,'2022-01-01',''),
 ('605','Sueldos y Salarios e Ingresos Asimilados a Salarios',1,'','2022-01-01',''),
@@ -18,3 +18,4 @@ INSERT INTO cfdi_40_regimenes_fiscales VALUES
 ('624','Coordinados','',1,'2022-01-01',''),
 ('625','Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas',1,'','2022-01-01',''),
 ('626','Régimen Simplificado de Confianza',1,1,'2022-01-01','');
+

@@ -1,4 +1,4 @@
-INSERT INTO nomina_tipos_jornadas VALUES 
+INSERT INTO nomina_tipos_jornadas VALUES
 ('01','Diurna'),
 ('02','Nocturna'),
 ('03','Mixta'),
@@ -8,3 +8,4 @@ INSERT INTO nomina_tipos_jornadas VALUES
 ('07','Partida'),
 ('08','Por turnos'),
 ('99','Otra Jornada');
+
