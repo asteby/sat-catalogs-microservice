@@ -1,15 +1,13 @@
 package main
 
-import "gorm.io/gorm"
-
 // Pais model for cfdi_40_paises
 type Pais struct {
-	ID                        string `gorm:"primaryKey"`
-	Texto                     string
-	PatronCodigoPostal        string
-	PatronIdentidadTributaria string
+	ID                            string `gorm:"primaryKey"`
+	Texto                         string
+	PatronCodigoPostal            string
+	PatronIdentidadTributaria     string
 	ValidacionIdentidadTributaria string
-	Agrupaciones              string
+	Agrupaciones                  string
 }
 
 func (Pais) TableName() string {
@@ -108,13 +106,13 @@ func (Monedas) TableName() string {
 
 // UsosCFDI model for cfdi_40_usos_cfdi
 type UsosCFDI struct {
-	ID                           string `gorm:"primaryKey"`
-	Texto                        string
-	AplicaFisica                 int
-	AplicaMoral                  int
-	VigenciaDesde                string
-	VigenciaHasta                string
-	RegimenesFiscalesReceptores  string
+	ID                          string `gorm:"primaryKey"`
+	Texto                       string
+	AplicaFisica                int
+	AplicaMoral                 int
+	VigenciaDesde               string
+	VigenciaHasta               string
+	RegimenesFiscalesReceptores string
 }
 
 func (UsosCFDI) TableName() string {
