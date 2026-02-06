@@ -1,5 +1,6 @@
-INSERT INTO ccp_30_sectores_cofepris VALUES('01','Medicamento','','');
-INSERT INTO ccp_30_sectores_cofepris VALUES('02','Precursores y químicos de uso dual','','');
-INSERT INTO ccp_30_sectores_cofepris VALUES('03','Psicotrópicos y estupefacientes','','');
-INSERT INTO ccp_30_sectores_cofepris VALUES('04','Sustancias tóxicas','','');
-INSERT INTO ccp_30_sectores_cofepris VALUES('05','Plaguicidas y fertilizantes','','');
+INSERT INTO ccp_30_sectores_cofepris VALUES 
+('01','Medicamento','',''),
+('02','Precursores y químicos de uso dual','',''),
+('03','Psicotrópicos y estupefacientes','',''),
+('04','Sustancias tóxicas','',''),
+('05','Plaguicidas y fertilizantes','','');

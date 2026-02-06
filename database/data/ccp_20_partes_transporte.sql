@@ -1,12 +1,13 @@
-INSERT INTO ccp_20_partes_transporte VALUES('PT01','Camión unitario','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT02','Camión','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT03','Tractocamión','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT04','Remolque','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT05','Semirremolque','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT06','Vehículo ligero de carga','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT07','Grúa','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT08','Aeronave','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT09','Barco o buque','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT10','Carro o vagón','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT11','Contenedor','2021-12-01','');
-INSERT INTO ccp_20_partes_transporte VALUES('PT12','Locomotora','2021-12-01','');
+INSERT INTO ccp_20_partes_transporte VALUES 
+('PT01','Camión unitario','2021-12-01',''),
+('PT02','Camión','2021-12-01',''),
+('PT03','Tractocamión','2021-12-01',''),
+('PT04','Remolque','2021-12-01',''),
+('PT05','Semirremolque','2021-12-01',''),
+('PT06','Vehículo ligero de carga','2021-12-01',''),
+('PT07','Grúa','2021-12-01',''),
+('PT08','Aeronave','2021-12-01',''),
+('PT09','Barco o buque','2021-12-01',''),
+('PT10','Carro o vagón','2021-12-01',''),
+('PT11','Contenedor','2021-12-01',''),
+('PT12','Locomotora','2021-12-01','');

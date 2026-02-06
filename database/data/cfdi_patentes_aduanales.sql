@@ -1,3320 +1,3321 @@
-INSERT INTO cfdi_patentes_aduanales VALUES('0000','2000-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0074','2001-07-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0101','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0115','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0122','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0123','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0149','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0150','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0182','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0188','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0203','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0205','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0227','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0246','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0247','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0271','2001-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0273','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0276','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0289','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0294','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0309','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0310','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0312','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0316','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0318','2001-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0321','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0323','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0327','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0328','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0334','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0339','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0347','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0348','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0350','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0361','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0368','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0381','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0382','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0387','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0388','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0389','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0390','2001-08-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0394','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0398','2001-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0400','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0401','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0403','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0404','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0406','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0407','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0411','2001-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0412','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0413','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0414','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0418','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0419','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0420','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0424','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0425','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0426','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0427','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0428','2001-06-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0429','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0430','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0432','2001-06-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0438','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0440','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0441','2001-10-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0442','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0444','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0445','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0447','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0449','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0451','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0454','2001-06-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0457','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0460','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0462','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0464','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0465','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0467','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0469','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0472','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0474','2002-07-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0476','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0477','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0478','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0480','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0481','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0482','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0483','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0485','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0486','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0487','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0489','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0491','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0492','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0493','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0494','2001-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0496','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0498','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0499','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0500','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0501','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0503','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0504','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0506','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0508','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0509','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0510','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0512','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0513','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0519','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0520','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0521','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0522','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0523','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0524','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0525','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0526','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0527','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0528','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0529','2001-06-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0531','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0532','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0534','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0535','2001-08-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0537','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0538','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0539','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0540','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0544','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0546','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0547','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0548','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0549','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0551','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0552','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0553','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0554','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0555','2001-09-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0556','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0557','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0558','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0559','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0562','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0563','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0565','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0566','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0569','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0570','2001-08-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0571','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0572','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0573','2001-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0574','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0575','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0576','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0578','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0579','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0580','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0581','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0582','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0584','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0586','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0587','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0588','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0589','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0590','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0592','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0595','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0596','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0597','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0598','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0599','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0600','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0601','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0604','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0606','2001-06-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0607','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0608','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0609','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0610','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0611','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0613','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0614','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0615','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0617','2001-06-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0619','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0620','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0622','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0624','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0625','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0626','2003-04-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0627','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0628','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0629','2001-06-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0630','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0631','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0632','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0633','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0634','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0636','2002-10-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0637','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0638','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0639','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0640','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0641','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0643','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0644','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0645','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0646','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0647','2001-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0648','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0649','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0651','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0652','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0653','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0654','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0655','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0656','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0657','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0659','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0661','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0662','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0663','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0664','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0665','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0666','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0667','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0668','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0669','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0670','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0671','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0672','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0673','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0674','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0675','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0676','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0677','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0678','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0679','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0680','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0681','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0682','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0683','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0684','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0685','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0686','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0687','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0688','2002-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0689','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0690','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0691','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0692','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0693','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0695','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0696','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0697','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0699','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0700','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0701','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0702','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0705','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0706','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0707','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0708','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0709','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0710','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0711','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0712','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0713','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0714','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0715','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0716','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0717','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0718','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0719','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0720','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0721','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0722','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0723','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0724','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0725','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0726','2001-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0727','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0728','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0729','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0731','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0732','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0733','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0734','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0735','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0736','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0737','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0738','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0739','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0740','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0741','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0742','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0743','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0744','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0745','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0746','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0747','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0748','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0749','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0750','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0751','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0752','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0753','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0754','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0755','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0756','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0757','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0758','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0760','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0761','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0762','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0763','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0764','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0765','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0766','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0767','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0768','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0769','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0770','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0771','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0772','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0773','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0774','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0775','2001-09-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0776','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0777','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0778','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0779','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0780','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0781','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0782','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0783','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0784','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0785','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0786','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0787','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0788','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0790','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0792','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0794','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0795','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0796','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0797','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0798','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0799','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0800','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0801','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0803','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0804','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0805','2002-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0806','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0807','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0808','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0809','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0810','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0811','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0812','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0813','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0814','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0815','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0816','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0817','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0818','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0819','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0820','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0821','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0822','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0823','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0825','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0828','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0829','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0830','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0831','2002-06-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0832','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0833','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0834','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0835','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0836','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0837','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0838','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0839','2002-09-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0840','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0841','2001-11-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0842','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0843','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0844','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0845','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0846','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0847','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0848','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0849','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0850','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0851','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0852','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0853','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0854','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0855','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0856','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0857','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0858','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0859','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0860','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0862','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0863','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0864','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0867','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0868','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0869','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0870','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0871','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0872','2002-06-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0873','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0875','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0876','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0877','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0878','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0879','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0880','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0881','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0882','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0883','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0884','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0885','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0886','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0887','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0888','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0889','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0890','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0891','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0892','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0895','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0896','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0897','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0898','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0899','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0900','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0901','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0902','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0903','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0904','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0905','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0906','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0907','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0908','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0909','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0910','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0911','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0912','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0913','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0914','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0915','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0916','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0917','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0918','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0919','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0920','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0921','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0922','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0925','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0926','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0927','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0928','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0929','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0930','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0931','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0932','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0933','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0934','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0935','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0936','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0937','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0938','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0939','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0940','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0941','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0942','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0943','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0944','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0945','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0946','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0947','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0948','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0949','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0950','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0951','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0952','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0953','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0954','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0955','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0956','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0957','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0958','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0959','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0960','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0961','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0962','2001-09-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0963','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0964','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0965','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0966','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0967','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0968','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0969','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0970','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0971','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0972','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0973','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0974','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0975','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0976','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0977','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0978','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0979','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0980','2001-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0981','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0982','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0983','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0984','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0985','2002-08-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0986','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0987','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0988','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0989','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0990','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0991','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0992','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0993','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0994','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0995','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0997','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('0999','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1000','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1001','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1002','2002-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1003','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1004','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1005','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1006','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1007','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1008','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1009','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1010','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1011','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1012','2002-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1013','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1014','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1015','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1016','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1017','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1018','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1019','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1020','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1021','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1022','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1023','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1024','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1025','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1026','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1027','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1028','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1029','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1030','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1031','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1032','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1033','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1034','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1035','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1036','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1037','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1038','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1039','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1040','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1041','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1042','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1043','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1044','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1045','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1046','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1047','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1048','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1049','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1050','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1051','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1052','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1054','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1055','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1056','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1057','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1058','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1059','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1060','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1061','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1062','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1063','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1064','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1065','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1066','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1067','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1068','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1069','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1070','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1071','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1072','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1073','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1074','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1075','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1076','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1077','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1078','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1079','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1080','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1081','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1082','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1084','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1085','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1086','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1087','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1088','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1089','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1090','2002-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1092','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1094','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1095','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1096','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1097','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1098','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1099','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1100','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1102','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1103','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1104','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1105','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1106','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1107','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1108','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1109','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1111','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1112','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1113','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1114','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1115','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1116','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1117','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1120','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1121','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1122','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1123','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1124','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1125','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1126','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1127','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1128','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1129','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1130','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1132','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1136','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1137','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1138','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1139','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1141','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1142','2003-03-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1144','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1145','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1148','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1149','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1150','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1152','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1153','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1154','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1155','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1156','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1157','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1158','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1159','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1160','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1161','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1162','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1163','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1164','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1165','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1166','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1167','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1168','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1169','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1170','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1171','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1172','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1173','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1174','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1175','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1176','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1177','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1178','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1179','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1181','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1182','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1186','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1187','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1188','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1189','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1190','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1191','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1192','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1193','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1194','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1195','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1196','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1197','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1198','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1199','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1200','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1201','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1202','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1203','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1204','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1205','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1206','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1207','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1208','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1209','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1210','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1211','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1212','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1213','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1214','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1215','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1216','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1217','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1218','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1219','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1220','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1221','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1222','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1223','2002-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1224','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1225','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1226','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1227','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1228','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1229','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1230','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1231','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1232','2002-10-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1233','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1234','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1235','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1236','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1237','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1238','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1239','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1240','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1241','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1242','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1243','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1244','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1245','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1246','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1247','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1248','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1249','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1250','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1251','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1252','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1253','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1254','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1255','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1256','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1257','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1258','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1259','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1260','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1261','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1262','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1263','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1264','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1265','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1266','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1267','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1268','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1269','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1270','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1271','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1272','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1273','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1274','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1275','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1276','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1277','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1278','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1279','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1280','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1281','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1282','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1283','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1284','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1285','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1286','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1287','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1288','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1289','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1290','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1291','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1293','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1294','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1295','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1296','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1297','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1298','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1299','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1300','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1301','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1302','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1303','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1304','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1305','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1306','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1307','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1308','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1309','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1311','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1312','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1313','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1314','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1315','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1316','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1317','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1318','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1319','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1320','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1321','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1322','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1323','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1324','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1325','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1326','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1327','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1328','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1329','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1330','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1331','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1332','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1333','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1334','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1335','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1336','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1337','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1338','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1339','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1340','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1341','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1342','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1343','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1344','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1345','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1346','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1347','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1348','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1349','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1350','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1351','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1352','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1353','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1354','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1355','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1356','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1357','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1358','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1359','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1360','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1361','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1362','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1363','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1364','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1365','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1368','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1369','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1370','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1371','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1372','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1373','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1374','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1375','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1376','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1377','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1378','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1379','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1380','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1381','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1382','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1383','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1384','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1385','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1386','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1387','2001-06-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1388','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1389','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1390','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1391','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1392','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1393','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1394','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1395','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1396','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1397','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1398','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1399','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1400','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1401','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1402','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1403','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1404','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1405','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1406','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1407','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1408','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1409','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1410','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1411','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1412','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1413','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1414','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1415','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1416','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1417','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1418','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1419','2001-05-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1420','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1421','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1422','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1423','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1424','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1425','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1426','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1428','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1429','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1430','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1431','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1432','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1433','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1434','2001-09-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1435','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1436','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1437','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1438','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1439','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1440','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1441','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1442','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1443','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1444','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1445','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1446','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1447','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1448','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1449','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1450','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1451','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1452','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1453','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1454','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1455','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1456','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1457','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1458','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1459','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1460','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1461','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1462','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1463','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1464','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1465','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1466','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1467','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1468','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1469','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1470','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1471','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1472','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1473','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1474','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1475','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1476','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1477','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1478','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1479','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1480','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1481','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1482','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1483','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1484','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1485','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1486','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1487','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1488','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1489','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1490','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1491','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1492','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1493','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1494','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1495','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1496','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1497','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1498','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1499','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1500','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1501','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1502','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1503','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1504','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1505','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1506','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1507','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1508','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1509','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1510','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1511','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1512','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1513','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1514','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1515','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1516','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1517','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1518','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1519','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1520','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1521','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1522','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1523','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1524','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1525','2003-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1526','2006-10-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1527','2005-07-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1528','2005-07-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1529','2005-07-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1530','2005-07-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1531','2006-06-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1532','2006-06-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1533','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1534','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1535','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1536','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1537','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1538','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1539','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1540','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1541','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1542','2006-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1543','2006-09-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1544','2006-10-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1545','2006-11-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1546','2006-11-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1547','2006-11-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1548','2006-11-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1549','2006-11-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1550','2007-02-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1551','2007-02-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1552','2007-04-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1553','2007-05-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1554','2007-04-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1555','2007-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1556','2007-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1557','2007-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1558','2007-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1559','2007-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1560','2007-08-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1561','2007-08-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1562','2007-10-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1563','2007-10-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1564','2008-04-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1565','2007-12-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1566','2008-01-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1567','2008-02-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1568','2008-04-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1569','2008-05-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1570','2008-04-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1571','2008-04-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1572','2008-06-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1573','2008-07-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1574','2008-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1575','2008-08-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1576','2008-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1577','2008-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1578','2008-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1579','2008-10-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1580','2009-02-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1581','2009-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1582','2009-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1583','2009-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1584','2009-04-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1585','2009-06-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1586','2009-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1587','2009-07-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1588','2009-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1589','2009-09-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1590','2010-02-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1591','2010-02-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1592','2010-04-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1593','2010-04-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1594','2010-04-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1595','2010-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1596','2010-08-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1597','2010-08-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1598','2010-09-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1599','2010-09-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1600','2010-09-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1601','2010-09-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1602','2010-09-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1603','2010-09-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1604','2010-11-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1605','2010-11-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1606','2010-11-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1607','2011-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1608','2011-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1609','2011-02-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1610','2011-02-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1611','2011-03-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1612','2011-04-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1613','2011-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1614','2011-08-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1615','2011-08-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1616','2011-08-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1617','2011-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1618','2011-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1619','2011-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1620','2011-10-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1621','2011-10-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1622','2011-10-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1623','2012-02-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1624','2012-02-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1625','2012-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1626','2012-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1627','2012-03-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1628','2012-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1629','2012-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1630','2012-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1631','2012-06-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1632','2012-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1633','2012-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1634','2012-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1635','2012-10-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1636','2012-10-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1637','2012-10-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1638','2012-10-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1639','2012-10-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1640','2012-12-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1641','2012-12-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1642','2012-12-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1643','2012-12-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1644','2013-01-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1645','2013-02-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1646','2013-02-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1647','2013-03-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1648','2013-04-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1649','2013-04-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1650','2013-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1651','2013-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1652','2013-06-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1653','2013-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1654','2013-06-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1655','2013-06-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1656','2013-06-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1657','2013-08-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1658','2013-10-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1659','2013-10-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1660','2013-11-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1661','2014-02-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1662','2014-02-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1663','2014-02-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1664','2014-02-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1665','2014-02-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1666','2014-03-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1667','2014-03-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1668','2014-03-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1669','2014-03-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1670','2014-03-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1671','2014-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1672','2014-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1673','2014-06-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1674','2014-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1675','2014-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1676','2014-08-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1677','2014-08-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1678','2014-08-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1679','2014-08-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1680','2014-07-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1681','2014-09-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1682','2014-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1683','2014-09-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1684','2014-09-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1685','2014-11-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1686','2014-11-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1687','2014-11-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1688','2014-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1689','2014-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1690','2014-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1691','2014-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1692','2014-11-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1693','2015-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1694','2015-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1695','2015-04-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1696','2015-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1697','2015-04-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1698','2015-04-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1699','2015-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1700','2015-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1701','2015-06-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1702','2015-06-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1703','2015-06-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1704','2015-07-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1705','2015-07-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1706','2015-07-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1707','2015-10-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1708','2015-09-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1709','2015-11-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1710','2015-10-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1711','2015-11-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1712','2015-11-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1713','2015-11-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1714','2015-11-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1715','2015-12-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1716','2015-12-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1717','2015-12-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1718','2018-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1719','2019-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1720','2019-11-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1721','2019-04-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1723','2021-10-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1724','2018-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1725','2018-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1726','2018-10-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1727','2018-07-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1728','2018-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1729','2018-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1730','2016-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1731','2016-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1732','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1733','2016-09-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1734','2016-09-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1735','2016-09-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1736','2021-03-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1737','2017-09-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1738','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1739','2016-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1740','2016-12-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1741','2016-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1742','2016-10-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1743','2017-02-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1744','2016-12-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1745','2017-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1746','2017-02-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1747','2017-02-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1748','2017-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1749','2017-04-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1750','2017-03-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1751','2017-04-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1752','2017-04-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1753','2017-05-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1754','2019-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1755','2017-05-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1756','2017-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1757','2017-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1758','2017-06-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1759','2017-06-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1760','2017-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1761','2017-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1762','2017-09-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1763','2017-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1764','2017-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1765','2017-12-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1766','2017-11-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1767','2017-12-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1768','2017-12-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1769','2018-02-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1770','2018-01-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1771','2018-02-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1772','2018-03-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1773','2018-04-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1774','2018-09-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1775','2018-07-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1776','2018-09-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1777','2018-10-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1778','2018-10-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1779','2018-10-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1780','2018-11-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1781','2018-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1782','2018-10-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1783','2018-12-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1784','2018-12-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1785','2018-10-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1786','2018-10-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1787','2018-10-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1788','2018-10-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1789','2019-04-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1790','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1791','2019-12-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1792','2019-04-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1793','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1794','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1795','2018-11-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1796','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1797','2018-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1798','2020-02-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1799','2019-12-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1800','2019-05-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1801','2020-02-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1802','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1803','2020-02-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1804','2020-07-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1805','2020-01-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1806','2019-10-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1807','2020-04-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1808','2020-04-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1809','2019-10-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1810','2020-10-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1811','2020-06-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1812','2019-10-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1813','2020-05-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1814','2021-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1815','2020-07-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1816','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1817','2019-10-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1818','2021-03-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1819','2019-09-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1820','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1821','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1822','2021-03-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1823','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1824','2019-12-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1825','2020-12-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1826','2021-03-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1827','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1828','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1829','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1830','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1831','2021-07-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1832','2021-03-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1833','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1834','2021-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1836','2021-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1837','2021-05-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1838','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1839','2021-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1840','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1841','2021-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1842','2021-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1843','2021-03-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1844','2021-03-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1845','2021-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1846','2021-04-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1847','2021-03-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1848','2021-03-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1849','2021-03-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1850','2021-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1851','2021-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1852','2021-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1853','2021-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1854','2021-07-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1855','2021-04-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1856','2021-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1857','2021-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1858','2021-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1859','2021-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1860','2021-05-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1861','2021-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1862','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1863','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1864','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1865','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1866','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1867','2021-07-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1868','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1869','2021-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1870','2021-08-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1871','2021-08-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1872','2021-08-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1873','2021-07-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1874','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1875','2021-07-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1876','2021-07-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1877','2021-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1878','2021-07-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1879','2021-07-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1880','2022-04-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1881','2022-10-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('1882','2022-10-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3001','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3002','2002-07-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3003','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3005','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3006','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3007','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3008','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3009','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3010','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3011','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3012','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3013','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3014','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3015','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3016','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3017','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3018','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3019','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3020','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3021','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3022','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3023','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3024','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3025','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3026','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3027','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3028','2002-06-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3029','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3030','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3031','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3032','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3033','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3034','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3035','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3036','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3037','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3038','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3039','2001-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3040','2001-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3041','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3042','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3043','2001-09-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3044','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3046','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3047','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3048','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3049','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3050','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3051','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3052','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3053','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3055','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3057','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3060','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3061','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3062','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3063','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3064','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3065','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3066','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3067','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3068','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3069','2001-06-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3070','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3071','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3072','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3073','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3074','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3075','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3076','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3077','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3078','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3079','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3080','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3081','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3082','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3083','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3084','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3085','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3086','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3087','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3088','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3089','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3090','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3091','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3092','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3093','2002-09-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3094','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3095','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3096','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3097','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3098','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3099','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3100','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3101','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3102','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3103','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3104','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3105','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3106','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3107','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3108','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3109','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3110','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3111','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3112','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3114','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3115','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3116','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3117','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3118','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3119','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3120','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3121','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3122','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3123','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3124','2001-09-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3125','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3126','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3127','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3128','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3129','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3130','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3131','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3132','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3133','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3134','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3135','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3136','2002-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3137','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3138','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3139','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3140','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3141','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3142','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3143','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3144','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3145','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3146','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3147','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3148','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3149','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3151','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3152','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3153','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3154','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3155','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3156','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3157','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3158','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3159','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3160','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3162','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3163','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3164','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3165','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3166','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3167','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3168','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3169','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3170','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3171','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3172','2001-11-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3173','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3174','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3175','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3176','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3177','2002-07-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3178','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3179','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3180','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3182','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3183','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3184','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3185','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3186','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3187','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3188','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3189','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3190','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3191','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3192','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3193','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3194','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3195','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3197','2001-06-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3198','2001-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3199','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3200','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3201','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3202','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3203','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3204','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3205','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3206','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3207','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3208','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3209','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3210','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3211','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3212','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3213','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3214','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3215','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3216','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3217','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3218','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3219','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3220','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3221','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3222','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3223','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3224','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3226','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3227','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3229','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3230','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3231','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3232','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3233','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3234','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3235','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3236','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3237','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3238','2001-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3240','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3241','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3242','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3244','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3245','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3246','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3247','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3248','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3249','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3250','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3251','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3252','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3253','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3254','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3255','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3256','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3257','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3258','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3259','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3260','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3262','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3263','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3264','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3265','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3266','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3267','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3268','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3269','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3270','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3271','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3272','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3273','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3274','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3275','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3276','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3277','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3278','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3279','2002-01-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3280','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3281','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3283','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3284','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3285','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3286','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3287','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3288','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3289','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3290','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3291','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3292','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3293','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3294','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3295','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3296','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3297','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3298','2001-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3299','2001-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3300','2001-08-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3301','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3302','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3303','2001-06-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3305','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3306','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3308','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3309','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3311','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3312','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3313','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3314','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3315','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3316','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3317','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3319','2001-06-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3320','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3321','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3322','2002-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3323','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3324','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3325','2001-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3326','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3327','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3328','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3329','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3330','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3331','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3332','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3333','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3334','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3335','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3336','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3337','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3338','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3339','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3340','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3341','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3342','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3343','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3344','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3345','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3346','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3347','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3348','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3349','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3351','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3353','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3354','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3355','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3356','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3357','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3358','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3359','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3360','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3361','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3362','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3363','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3364','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3365','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3366','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3368','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3369','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3370','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3371','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3372','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3373','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3374','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3375','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3376','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3377','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3378','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3379','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3381','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3382','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3383','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3384','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3385','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3386','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3387','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3389','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3390','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3391','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3392','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3393','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3394','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3395','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3396','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3397','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3398','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3399','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3400','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3402','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3403','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3404','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3405','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3406','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3407','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3408','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3409','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3410','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3411','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3412','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3413','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3414','2002-10-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3415','2002-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3416','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3417','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3418','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3419','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3420','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3421','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3422','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3423','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3424','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3425','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3426','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3428','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3429','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3430','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3431','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3432','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3433','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3434','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3435','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3436','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3437','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3438','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3439','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3440','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3441','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3442','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3444','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3445','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3446','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3447','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3448','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3449','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3450','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3451','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3452','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3453','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3454','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3455','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3456','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3457','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3458','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3459','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3460','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3461','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3462','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3463','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3464','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3465','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3466','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3467','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3468','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3469','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3470','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3471','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3472','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3473','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3474','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3475','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3476','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3477','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3478','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3479','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3480','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3481','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3482','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3483','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3484','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3485','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3486','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3487','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3488','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3489','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3490','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3491','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3492','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3493','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3494','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3495','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3496','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3497','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3498','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3499','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3500','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3501','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3502','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3503','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3504','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3505','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3506','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3508','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3509','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3510','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3511','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3512','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3513','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3514','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3515','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3516','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3517','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3518','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3519','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3520','2002-02-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3521','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3522','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3524','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3525','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3526','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3527','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3528','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3529','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3530','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3532','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3533','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3535','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3536','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3537','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3538','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3539','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3540','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3541','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3542','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3543','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3544','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3545','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3546','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3547','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3549','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3550','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3551','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3552','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3553','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3554','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3555','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3556','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3557','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3558','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3559','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3560','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3561','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3562','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3563','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3564','2001-05-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3565','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3566','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3567','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3568','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3569','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3570','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3571','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3573','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3574','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3575','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3576','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3577','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3578','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3579','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3580','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3581','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3582','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3583','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3584','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3585','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3586','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3587','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3588','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3589','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3590','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3591','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3592','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3593','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3594','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3595','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3596','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3597','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3598','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3599','2001-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3600','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3601','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3602','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3603','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3604','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3605','2001-06-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3606','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3607','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3608','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3609','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3610','2001-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3611','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3612','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3613','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3614','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3615','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3616','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3617','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3618','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3619','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3620','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3621','2001-09-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3622','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3623','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3624','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3625','2001-09-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3626','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3627','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3628','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3629','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3630','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3631','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3632','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3633','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3634','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3635','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3636','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3637','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3638','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3639','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3640','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3642','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3643','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3644','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3645','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3646','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3647','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3648','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3649','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3650','2002-06-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3651','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3652','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3653','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3654','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3655','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3656','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3657','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3658','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3659','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3660','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3661','2002-08-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3662','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3663','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3664','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3665','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3666','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3667','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3668','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3669','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3670','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3671','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3672','2002-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3673','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3674','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3675','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3676','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3677','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3678','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3679','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3680','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3681','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3682','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3683','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3684','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3685','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3686','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3687','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3688','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3689','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3690','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3691','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3692','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3693','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3694','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3695','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3696','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3697','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3698','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3699','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3700','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3701','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3702','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3703','2001-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3704','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3705','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3706','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3707','2001-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3708','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3709','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3710','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3711','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3712','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3713','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3714','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3715','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3716','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3717','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3718','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3719','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3720','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3721','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3722','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3723','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3724','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3725','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3726','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3727','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3728','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3729','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3730','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3731','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3732','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3733','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3734','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3735','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3736','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3737','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3738','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3739','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3740','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3741','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3742','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3743','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3744','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3746','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3747','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3748','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3749','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3750','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3751','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3752','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3753','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3754','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3755','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3756','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3757','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3758','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3759','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3760','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3761','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3762','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3763','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3764','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3765','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3766','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3767','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3769','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3770','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3771','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3772','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3773','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3774','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3775','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3776','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3777','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3778','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3779','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3780','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3781','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3783','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3784','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3785','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3786','2001-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3787','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3788','2001-05-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3789','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3790','2001-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3791','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3792','2001-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3793','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3794','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3795','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3796','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3797','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3799','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3800','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3801','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3802','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3803','2001-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3804','2001-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3805','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3806','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3807','2001-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3808','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3809','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3810','2001-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3811','2001-05-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3812','2001-05-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3813','2001-06-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3814','2001-06-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3815','2001-07-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3816','2001-07-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3817','2001-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3818','2002-01-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3819','2002-01-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3820','2002-01-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3821','2002-01-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3822','2002-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3823','2002-01-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3824','2002-01-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3825','2002-01-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3826','2002-12-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3827','2005-07-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3828','2002-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3829','2002-09-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3830','2002-10-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3831','2002-10-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3832','2002-10-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3833','2002-10-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3834','2002-11-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3835','2002-11-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3836','2002-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3837','2002-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3838','2003-01-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3839','2002-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3840','2002-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3841','2003-01-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3842','2003-01-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3843','2003-01-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3844','2003-03-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3845','2003-03-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3846','2003-03-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3847','2003-04-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3848','2003-03-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3849','2003-03-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3850','2003-03-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3851','2003-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3852','2005-07-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3853','2003-05-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3854','2003-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3855','2003-05-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3856','2003-06-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3857','2003-06-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3858','2003-06-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3859','2004-05-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3860','2003-08-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3861','2003-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3862','2003-11-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3863','2003-11-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3864','2004-05-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3865','2004-04-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3866','2004-01-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3867','2004-05-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3868','2004-05-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3869','2004-09-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3870','2004-03-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3871','2004-05-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3872','2004-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3873','2005-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3874','2004-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3875','2004-10-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3876','2004-08-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3877','2004-10-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3878','2004-10-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3879','2005-05-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3880','2005-07-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3881','2005-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3882','2005-05-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3883','2005-02-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3884','2005-02-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3885','2005-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3886','2005-07-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3887','2005-08-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3888','2005-09-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3889','2005-11-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3890','2005-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3891','2005-09-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3892','2005-09-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3893','2005-09-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3894','2005-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3895','2005-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3896','2005-10-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3897','2006-03-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3898','2006-02-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3899','2006-03-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3900','2006-05-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3901','2006-07-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3902','2006-08-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3903','2006-08-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3904','2006-11-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3905','2006-10-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3906','2006-08-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3907','2006-08-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3908','2006-08-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3909','2006-10-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3910','2006-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3911','2006-11-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3912','2006-10-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3913','2006-11-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3914','2006-12-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3915','2007-03-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3916','2007-01-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3917','2007-01-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3918','2007-01-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3919','2007-04-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3920','2007-03-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3921','2007-04-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3922','2007-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3923','2007-05-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3924','2007-05-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3925','2007-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3926','2007-07-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3927','2007-09-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3928','2007-10-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3929','2007-08-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3930','2007-10-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3931','2007-10-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3932','2007-12-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3933','2008-01-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3934','2008-02-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3935','2008-03-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3936','2008-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3937','2008-04-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3938','2008-05-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3939','2008-05-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3940','2008-06-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3941','2008-07-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3942','2008-07-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3943','2008-07-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3944','2008-06-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3945','2008-07-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3946','2008-07-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3947','2008-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3948','2008-08-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3949','2008-09-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3950','2008-08-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3951','2008-09-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3952','2008-10-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3953','2008-09-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3954','2008-11-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3955','2008-10-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3956','2008-11-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3957','2008-10-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3958','2009-02-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3959','2008-10-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3960','2008-11-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3961','2008-12-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3962','2009-04-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3963','2009-03-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3964','2009-05-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3965','2009-06-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3966','2009-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3967','2009-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3968','2009-06-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3969','2009-06-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3970','2009-07-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3971','2009-07-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3972','2009-06-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3973','2009-10-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3974','2009-09-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3975','2009-09-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3976','2010-01-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3977','2009-10-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3978','2009-11-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3979','2010-01-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3980','2010-03-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3981','2010-03-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3982','2010-04-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3983','2010-04-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3984','2010-04-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3985','2010-09-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3986','2010-09-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3987','2010-10-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3988','2010-10-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3989','2010-11-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3990','2010-10-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3991','2010-10-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3992','2010-10-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3993','2010-12-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3994','2010-12-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3995','2011-01-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3996','2011-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3997','2011-01-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3998','2011-01-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('3999','2011-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4001','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4002','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4003','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4004','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4005','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4006','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4007','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4008','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4009','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4011','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4012','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4013','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4014','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4015','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4016','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4017','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4018','2001-12-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4019','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4020','2002-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4021','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4022','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4023','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4024','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4025','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4026','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4027','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4028','2004-04-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4029','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4030','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4031','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4032','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4033','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4035','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4036','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4037','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4038','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4039','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4040','2002-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4041','2002-10-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4042','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4043','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4044','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4045','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4046','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4047','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4048','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4049','2002-08-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4050','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4052','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4054','2002-10-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4055','2002-08-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4056','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4057','2002-07-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4058','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4059','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4060','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4061','2002-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4063','2001-12-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4064','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4066','2001-12-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4067','2001-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4068','2002-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4069','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4070','2002-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4071','2004-05-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4072','2004-05-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4073','2002-08-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4074','2003-05-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4075','2003-05-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4076','2003-11-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4078','2004-05-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4079','2004-06-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4080','2004-07-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4081','2004-08-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4082','2004-07-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4083','2005-04-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4084','2005-09-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4085','2008-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4086','2012-04-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4087','2011-12-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4088','2012-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4089','2005-03-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4090','2005-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4091','2006-06-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4092','2006-07-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4093','2006-11-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4094','2007-05-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4095','2007-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4096','2007-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4098','2008-01-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4099','2008-06-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4100','2008-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4101','2010-07-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4102','2010-06-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4103','2010-07-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4104','2010-12-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4105','2011-06-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4106','2011-09-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4107','2012-09-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4108','2012-10-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4109','2013-04-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4110','2013-03-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4111','2013-07-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4112','2013-09-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4113','2013-11-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4114','2014-04-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4115','2014-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4116','2016-06-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4117','2015-07-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('4118','2003-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5001','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5002','2002-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5003','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5004','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5005','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5006','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5007','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5008','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5009','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5010','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5011','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5012','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5013','2002-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5014','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5015','2002-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5016','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5017','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5018','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5019','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5020','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5021','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5022','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5023','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5024','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5025','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5026','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5027','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5028','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5029','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5030','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5031','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5032','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5033','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5034','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5035','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5036','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5037','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5038','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5039','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5040','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5041','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5042','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5043','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5044','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5045','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5046','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5047','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5048','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5049','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5050','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5051','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5052','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5053','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5054','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5055','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5056','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5057','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5058','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5059','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5060','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5061','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5062','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5063','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5064','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5065','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5066','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5067','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5068','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5069','2004-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5070','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5071','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5072','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5073','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5074','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5075','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5076','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5077','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5078','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5079','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5080','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5081','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5082','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5083','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5084','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5085','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5086','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5087','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5088','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5089','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5090','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5091','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5092','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5093','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5094','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5095','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5096','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5098','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5099','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5100','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5101','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5102','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5103','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5104','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5105','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5106','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5107','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5108','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5109','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5110','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5111','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5112','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5113','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5114','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5115','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5116','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5117','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5118','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5119','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5120','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5121','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5122','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5123','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5124','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5125','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5126','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5127','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5128','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5129','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5130','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5131','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5132','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5133','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5134','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5135','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5136','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5137','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5138','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5139','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5140','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5141','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5142','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5143','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5148','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5149','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5150','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5151','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5152','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5153','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5154','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5155','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5156','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5157','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5158','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5159','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5160','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5161','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5162','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5163','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5164','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5165','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5166','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5167','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5168','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5170','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5171','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5172','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5173','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5174','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5175','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5176','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5177','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5178','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5179','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5180','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5181','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5182','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5183','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5184','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5185','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5186','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5187','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5188','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5189','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5190','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5191','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5192','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5193','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5194','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5195','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5196','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5197','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5198','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5199','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5200','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5201','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5202','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5203','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5204','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5205','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5206','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5207','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5208','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5209','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5210','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5211','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5212','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5213','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5214','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5215','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5216','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5217','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5218','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5219','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5220','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5221','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5222','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5223','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5224','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5225','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5226','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5227','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5228','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5229','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5230','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5231','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5233','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5234','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5235','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5236','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5237','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5238','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5239','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5240','2004-04-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5241','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5242','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5243','2001-12-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5244','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5245','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5246','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5247','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5248','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5249','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5250','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5251','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5252','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5253','2002-08-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5254','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5255','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5256','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5257','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5258','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5259','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5260','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5261','2002-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5262','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5263','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5264','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5265','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5266','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5267','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5268','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5269','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5270','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5271','2002-05-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5272','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5273','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5274','2002-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5275','2002-10-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5276','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5277','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5278','2013-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5280','2013-09-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5281','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5282','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5283','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5284','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5286','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5287','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5288','2002-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5289','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5290','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5291','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5292','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5293','2002-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5294','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5295','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5296','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5297','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5298','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5299','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5300','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5302','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5303','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5304','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5305','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5307','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5308','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5309','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5310','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5311','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5312','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5313','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5314','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5315','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5316','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5317','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5318','2002-08-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5319','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5320','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5321','2002-08-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5322','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5323','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5324','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5325','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5326','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5327','2002-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5328','2002-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5330','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5331','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5332','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5333','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5334','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5335','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5338','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5339','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5340','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5341','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5342','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5343','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5344','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5345','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5346','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5348','2002-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5350','2002-08-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5351','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5352','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5353','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5354','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5355','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5356','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5357','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5358','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5359','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5360','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5361','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5362','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5363','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5364','2002-07-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5365','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5366','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5367','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5368','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5369','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5370','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5371','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5372','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5373','2002-10-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5374','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5375','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5376','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5377','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5378','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5379','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5380','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5381','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5382','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5383','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5384','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5385','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5386','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5387','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5388','2002-08-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5389','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5390','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5391','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5392','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5393','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5394','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5395','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5396','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5397','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5398','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5399','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5400','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5401','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5402','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5403','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5404','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5405','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5406','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5407','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5408','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5409','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5410','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5411','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5412','2002-08-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5413','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5414','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5415','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5416','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5417','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5418','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5419','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5420','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5421','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5422','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5423','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5424','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5425','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5426','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5427','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5428','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5429','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5430','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5431','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5432','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5433','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5434','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5435','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5436','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5437','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5438','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5439','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5440','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5441','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5443','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5444','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5445','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5446','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5447','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5448','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5449','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5450','2001-12-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5451','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5452','2002-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5453','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5454','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5455','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5456','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5457','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5458','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5459','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5460','2002-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5461','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5462','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5463','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5464','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5465','2002-08-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5466','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5467','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5468','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5469','2002-08-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5471','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5472','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5473','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5474','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5475','2001-01-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5477','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5478','2002-06-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5479','2002-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5480','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5481','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5482','2002-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5483','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5484','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5485','2002-08-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5486','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5487','2008-08-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5488','2002-08-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5489','2002-10-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5490','2002-09-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5491','2002-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5492','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5493','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5494','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5495','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5496','2002-05-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5497','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5498','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5499','2002-05-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5500','2002-05-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5501','2002-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5502','2002-08-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5503','2002-05-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5504','2002-05-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5505','2003-04-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5506','2002-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5507','2002-05-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5508','2002-10-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5509','2003-04-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5510','2002-09-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5512','2002-09-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5513','2003-03-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5514','2003-03-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5515','2003-03-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5516','2003-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5517','2003-07-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5518','2003-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5519','2003-09-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5520','2003-09-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5521','2003-09-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5522','2003-09-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5523','2003-09-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5524','2003-09-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5525','2003-10-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5526','2004-01-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5527','2004-03-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5528','2004-03-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5529','2004-03-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5530','2004-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5531','2004-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5532','2004-08-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5533','2004-07-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5534','2005-01-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5535','2005-01-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5536','2005-02-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5537','2005-02-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5538','2005-03-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5539','2005-04-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5540','2005-05-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5541','2005-05-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5542','2005-10-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5543','2006-02-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5544','2006-03-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5545','2006-04-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5546','2006-07-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5547','2006-06-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5548','2006-07-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5549','2006-07-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5550','2006-08-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5551','2006-09-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5552','2006-09-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5553','2006-11-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5554','2006-10-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5555','2006-11-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5556','2007-04-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5557','2006-12-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5558','2006-12-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5559','2007-02-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5560','2007-02-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5561','2007-02-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5562','2007-02-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5563','2007-02-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5564','2007-02-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5565','2007-04-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5566','2007-04-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5567','2007-05-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5568','2007-08-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5569','2007-07-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5570','2007-08-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5571','2007-10-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5572','2007-08-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5573','2007-09-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5574','2007-09-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5575','2007-10-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5576','2007-11-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5577','2007-12-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5578','2008-04-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5579','2008-01-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5580','2008-08-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5581','2008-09-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5582','2008-07-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5583','2008-07-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5584','2008-07-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5585','2013-01-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5586','2008-08-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5587','2008-08-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5588','2008-08-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5589','2008-09-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5590','2008-09-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5591','2008-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5592','2008-11-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5593','2009-04-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5594','2009-03-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5595','2009-04-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5596','2009-06-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5597','2009-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5598','2009-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5599','2009-07-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5600','2009-11-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5601','2010-03-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5602','2010-02-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5603','2010-02-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5604','2010-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5605','2010-06-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5606','2012-06-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5607','2010-07-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5608','2012-06-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5609','2010-08-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5610','2010-09-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5611','2012-06-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5612','2010-09-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5613','2011-03-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5614','2011-05-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5615','2011-09-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5616','2011-09-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5617','2013-09-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5618','2011-11-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5619','2011-11-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5620','2012-04-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5621','2012-06-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5622','2012-06-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5623','2012-07-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5624','2012-07-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5625','2012-07-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5626','2012-08-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5627','2012-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5628','2013-11-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5629','2012-11-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5630','2012-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5631','2012-12-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5632','2013-02-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5633','2013-03-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5634','2013-02-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5635','2013-03-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5636','2013-05-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5637','2013-09-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('5638','2013-10-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6001','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6002','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6003','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6004','2002-10-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6005','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6007','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6008','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6009','2002-10-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6010','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6011','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6012','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6013','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6014','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6015','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6016','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6017','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6018','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6019','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6020','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6021','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6022','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6023','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6024','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6025','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6026','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6027','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6028','2002-10-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6029','2002-10-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6030','2002-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6031','2002-10-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6032','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6033','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6034','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6035','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6036','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6037','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6038','2002-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6040','2002-10-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6041','2002-10-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6042','2002-10-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6043','2002-10-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6044','2002-10-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6045','2002-10-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6046','2002-10-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6047','2003-03-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6048','2003-04-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6049','2003-11-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6050','2003-11-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6051','2003-11-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6052','2004-01-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6053','2004-02-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6054','2004-09-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6055','2004-10-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6056','2004-12-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6057','2005-01-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6058','2005-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6059','2005-10-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6060','2006-04-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6061','2006-02-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6062','2006-07-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6063','2007-10-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6064','2007-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6065','2009-04-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6066','2008-12-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6067','2010-03-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6068','2010-02-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6069','2011-08-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6070','2012-02-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6071','2013-07-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6072','2014-05-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6073','2014-10-27','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6074','2016-04-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6075','2016-04-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6076','2016-04-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6077','2016-04-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6078','2016-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6079','2016-04-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6080','2016-04-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6081','2016-06-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6082','2016-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6083','2016-06-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6084','2016-06-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6085','2016-08-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6086','2016-09-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6087','2016-08-16','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6088','2016-09-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6089','2016-09-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6090','2016-09-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6091','2016-09-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6092','2016-12-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6093','2017-02-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6094','2017-02-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6095','2017-03-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6096','2017-03-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6097','2017-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6098','2017-05-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6099','2017-05-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6100','2017-06-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6101','2017-06-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6102','2017-07-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6103','2017-07-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6104','2017-09-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6105','2017-10-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6106','2017-10-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6107','2017-10-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6108','2017-12-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6109','2017-12-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6110','2020-11-17','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6111','2018-03-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6112','2018-03-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6113','2018-03-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6114','2018-07-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6115','2018-07-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6117','2018-10-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6118','2018-10-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6119','2018-12-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6120','2018-12-13','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6121','2019-01-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6122','2018-11-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6123','2018-12-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6124','2019-04-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6125','2019-04-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6126','2019-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6127','2019-06-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6128','2019-05-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6129','2019-06-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6130','2019-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6131','2019-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6133','2019-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6134','2019-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6135','2019-11-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6136','2019-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6141','2020-07-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('6143','2021-07-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7001','2006-10-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7002','2006-11-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7003','2007-01-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7004','2007-02-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7005','2008-10-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7006','2007-08-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7007','2007-09-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7008','2008-01-30','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7009','2008-08-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7010','2008-10-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7011','2008-08-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7012','2008-09-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7013','2008-09-18','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7014','2009-01-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7015','2008-10-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7016','2009-03-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7017','2009-08-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7018','2010-12-01','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7019','2009-11-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7020','2009-11-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7021','2009-11-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7022','2010-02-15','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7023','2010-03-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7024','2010-09-09','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7025','2010-12-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7026','2011-02-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7027','2011-03-23','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7028','2011-03-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7029','2011-05-24','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7030','2011-06-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7031','2011-09-22','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7032','2011-09-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7033','2012-01-31','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7034','2012-02-10','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7035','2012-01-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7036','2012-03-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7037','2012-06-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7038','2012-07-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7039','2012-12-19','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7041','2013-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7042','2013-12-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7043','2013-12-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7044','2014-01-06','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7602','2008-11-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7603','2009-08-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7604','2010-08-04','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7605','2011-02-14','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7606','2012-01-02','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7607','2012-01-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7608','2014-05-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7609','2016-06-21','');
-INSERT INTO cfdi_patentes_aduanales VALUES('7610','2017-01-25','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9001','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9002','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9003','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9004','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9005','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9006','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9007','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9008','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9009','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9010','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9011','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9012','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9013','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9014','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9015','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9016','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9017','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9018','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9019','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9020','2002-01-03','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9021','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9022','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9023','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9024','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9025','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9026','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9027','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9028','2002-08-20','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9029','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9030','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9031','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9033','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9034','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9035','2002-08-28','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9037','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9038','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9039','2002-08-12','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9040','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9041','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9042','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9043','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9044','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9045','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9046','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9047','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9048','2002-08-29','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9049','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9050','2002-01-07','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9051','2002-11-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9052','2003-07-11','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9053','2008-08-05','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9054','2012-04-26','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9055','2017-03-08','');
-INSERT INTO cfdi_patentes_aduanales VALUES('9999','2011-03-02','');
+INSERT INTO cfdi_patentes_aduanales VALUES 
+('0000','2000-01-01',''),
+('0074','2001-07-03',''),
+('0101','2001-05-21',''),
+('0115','2001-05-17',''),
+('0122','2001-05-14',''),
+('0123','2001-05-16',''),
+('0149','2001-05-21',''),
+('0150','2001-05-22',''),
+('0182','2001-05-21',''),
+('0188','2001-05-23',''),
+('0203','2001-05-18',''),
+('0205','2001-05-21',''),
+('0227','2001-05-17',''),
+('0246','2001-05-21',''),
+('0247','2001-05-23',''),
+('0271','2001-07-31',''),
+('0273','2001-05-11',''),
+('0276','2001-06-21',''),
+('0289','2001-05-17',''),
+('0294','2001-05-21',''),
+('0309','2001-05-21',''),
+('0310','2001-05-23',''),
+('0312','2001-05-14',''),
+('0316','2001-05-21',''),
+('0318','2001-07-31',''),
+('0321','2001-05-18',''),
+('0323','2001-05-18',''),
+('0327','2001-05-21',''),
+('0328','2001-05-18',''),
+('0334','2001-05-14',''),
+('0339','2001-05-15',''),
+('0347','2001-05-21',''),
+('0348','2001-05-15',''),
+('0350','2001-05-17',''),
+('0361','2001-06-12',''),
+('0368','2001-05-15',''),
+('0381','2001-05-16',''),
+('0382','2001-05-17',''),
+('0387','2001-05-22',''),
+('0388','2001-05-17',''),
+('0389','2001-05-21',''),
+('0390','2001-08-01',''),
+('0394','2001-05-18',''),
+('0398','2001-06-15',''),
+('0400','2001-05-22',''),
+('0401','2001-06-12',''),
+('0403','2001-05-16',''),
+('0404','2001-05-22',''),
+('0406','2001-05-21',''),
+('0407','2001-05-18',''),
+('0411','2001-07-31',''),
+('0412','2001-05-08',''),
+('0413','2001-05-15',''),
+('0414','2001-05-21',''),
+('0418','2001-05-18',''),
+('0419','2001-05-17',''),
+('0420','2001-05-16',''),
+('0424','2001-05-21',''),
+('0425','2001-05-16',''),
+('0426','2001-05-21',''),
+('0427','2001-05-16',''),
+('0428','2001-06-08',''),
+('0429','2001-05-18',''),
+('0430','2001-05-22',''),
+('0432','2001-06-18',''),
+('0438','2001-05-15',''),
+('0440','2001-05-18',''),
+('0441','2001-10-19',''),
+('0442','2001-05-22',''),
+('0444','2001-05-18',''),
+('0445','2001-05-18',''),
+('0447','2001-05-23',''),
+('0449','2001-05-21',''),
+('0451','2001-05-11',''),
+('0454','2001-06-29',''),
+('0457','2001-05-21',''),
+('0460','2001-05-21',''),
+('0462','2001-05-15',''),
+('0464','2001-05-21',''),
+('0465','2001-05-17',''),
+('0467','2001-05-15',''),
+('0469','2001-05-21',''),
+('0472','2001-05-16',''),
+('0474','2002-07-01',''),
+('0476','2001-05-22',''),
+('0477','2001-05-18',''),
+('0478','2001-05-22',''),
+('0480','2001-05-14',''),
+('0481','2001-05-21',''),
+('0482','2001-05-15',''),
+('0483','2001-05-15',''),
+('0485','2001-05-18',''),
+('0486','2001-05-18',''),
+('0487','2001-05-22',''),
+('0489','2001-05-18',''),
+('0491','2001-05-18',''),
+('0492','2001-05-14',''),
+('0493','2001-05-21',''),
+('0494','2001-08-23',''),
+('0496','2001-05-18',''),
+('0498','2001-05-23',''),
+('0499','2001-05-15',''),
+('0500','2001-05-14',''),
+('0501','2001-05-16',''),
+('0503','2001-05-15',''),
+('0504','2001-05-11',''),
+('0506','2001-05-14',''),
+('0508','2001-05-21',''),
+('0509','2001-05-23',''),
+('0510','2001-05-18',''),
+('0512','2001-05-18',''),
+('0513','2001-05-17',''),
+('0519','2001-06-12',''),
+('0520','2001-05-21',''),
+('0521','2001-05-17',''),
+('0522','2001-05-15',''),
+('0523','2001-05-17',''),
+('0524','2001-05-23',''),
+('0525','2001-05-14',''),
+('0526','2001-05-17',''),
+('0527','2001-05-18',''),
+('0528','2001-05-17',''),
+('0529','2001-06-18',''),
+('0531','2001-05-21',''),
+('0532','2001-05-15',''),
+('0534','2001-05-14',''),
+('0535','2001-08-01',''),
+('0537','2001-05-17',''),
+('0538','2001-05-21',''),
+('0539','2001-05-18',''),
+('0540','2001-05-21',''),
+('0544','2001-05-22',''),
+('0546','2001-05-21',''),
+('0547','2001-06-21',''),
+('0548','2001-05-18',''),
+('0549','2001-05-15',''),
+('0551','2001-05-16',''),
+('0552','2001-05-18',''),
+('0553','2001-05-17',''),
+('0554','2001-05-22',''),
+('0555','2001-09-03',''),
+('0556','2001-05-17',''),
+('0557','2001-05-16',''),
+('0558','2001-05-23',''),
+('0559','2001-05-17',''),
+('0562','2001-05-21',''),
+('0563','2001-05-21',''),
+('0565','2001-05-23',''),
+('0566','2001-05-21',''),
+('0569','2001-05-22',''),
+('0570','2001-08-01',''),
+('0571','2001-05-14',''),
+('0572','2001-05-22',''),
+('0573','2001-06-15',''),
+('0574','2001-05-21',''),
+('0575','2001-05-23',''),
+('0576','2001-05-16',''),
+('0578','2001-05-14',''),
+('0579','2001-05-17',''),
+('0580','2001-05-18',''),
+('0581','2001-05-14',''),
+('0582','2001-05-15',''),
+('0584','2001-05-14',''),
+('0586','2001-05-21',''),
+('0587','2001-05-16',''),
+('0588','2001-05-21',''),
+('0589','2001-05-18',''),
+('0590','2001-05-14',''),
+('0592','2001-05-14',''),
+('0595','2001-06-12',''),
+('0596','2001-05-18',''),
+('0597','2001-05-21',''),
+('0598','2001-05-18',''),
+('0599','2001-05-21',''),
+('0600','2001-05-14',''),
+('0601','2001-05-16',''),
+('0604','2001-05-15',''),
+('0606','2001-06-08',''),
+('0607','2001-05-21',''),
+('0608','2001-05-15',''),
+('0609','2001-05-18',''),
+('0610','2001-05-16',''),
+('0611','2001-05-14',''),
+('0613','2001-05-14',''),
+('0614','2001-05-16',''),
+('0615','2001-05-18',''),
+('0617','2001-06-29',''),
+('0619','2001-05-17',''),
+('0620','2001-05-15',''),
+('0622','2001-06-12',''),
+('0624','2001-05-15',''),
+('0625','2001-05-18',''),
+('0626','2003-04-09',''),
+('0627','2001-05-17',''),
+('0628','2001-05-21',''),
+('0629','2001-06-08',''),
+('0630','2001-05-14',''),
+('0631','2001-05-11',''),
+('0632','2001-05-22',''),
+('0633','2001-05-18',''),
+('0634','2001-05-21',''),
+('0636','2002-10-28',''),
+('0637','2001-05-18',''),
+('0638','2001-05-16',''),
+('0639','2001-05-23',''),
+('0640','2001-05-21',''),
+('0641','2001-05-16',''),
+('0643','2001-05-18',''),
+('0644','2001-06-21',''),
+('0645','2001-05-22',''),
+('0646','2001-05-18',''),
+('0647','2001-06-15',''),
+('0648','2001-05-18',''),
+('0649','2001-05-17',''),
+('0651','2001-05-17',''),
+('0652','2001-05-16',''),
+('0653','2001-05-21',''),
+('0654','2001-05-21',''),
+('0655','2001-05-11',''),
+('0656','2001-05-11',''),
+('0657','2001-05-18',''),
+('0659','2001-05-16',''),
+('0661','2001-05-14',''),
+('0662','2001-05-17',''),
+('0663','2001-05-23',''),
+('0664','2001-05-18',''),
+('0665','2001-05-14',''),
+('0666','2001-05-17',''),
+('0667','2001-05-11',''),
+('0668','2001-05-17',''),
+('0669','2001-05-21',''),
+('0670','2001-05-21',''),
+('0671','2001-05-18',''),
+('0672','2001-05-16',''),
+('0673','2001-05-14',''),
+('0674','2001-05-17',''),
+('0675','2001-05-11',''),
+('0676','2001-05-15',''),
+('0677','2001-05-21',''),
+('0678','2001-05-11',''),
+('0679','2001-05-21',''),
+('0680','2001-05-14',''),
+('0681','2001-05-22',''),
+('0682','2001-05-21',''),
+('0683','2001-05-16',''),
+('0684','2001-05-21',''),
+('0685','2001-05-16',''),
+('0686','2001-05-17',''),
+('0687','2001-05-18',''),
+('0688','2002-06-28',''),
+('0689','2001-05-17',''),
+('0690','2001-05-21',''),
+('0691','2001-05-18',''),
+('0692','2001-05-21',''),
+('0693','2001-05-16',''),
+('0695','2001-05-17',''),
+('0696','2001-05-17',''),
+('0697','2001-05-18',''),
+('0699','2001-05-15',''),
+('0700','2001-05-14',''),
+('0701','2001-05-14',''),
+('0702','2001-05-21',''),
+('0705','2001-05-21',''),
+('0706','2001-05-21',''),
+('0707','2001-05-17',''),
+('0708','2001-05-16',''),
+('0709','2001-05-18',''),
+('0710','2001-05-18',''),
+('0711','2001-05-14',''),
+('0712','2001-05-21',''),
+('0713','2001-05-21',''),
+('0714','2001-05-08',''),
+('0715','2001-05-15',''),
+('0716','2001-05-18',''),
+('0717','2001-05-22',''),
+('0718','2001-05-15',''),
+('0719','2001-05-21',''),
+('0720','2001-05-21',''),
+('0721','2001-05-23',''),
+('0722','2001-05-16',''),
+('0723','2001-05-15',''),
+('0724','2001-05-21',''),
+('0725','2001-05-15',''),
+('0726','2001-06-14',''),
+('0727','2001-05-21',''),
+('0728','2001-05-21',''),
+('0729','2001-05-23',''),
+('0731','2001-05-15',''),
+('0732','2001-05-21',''),
+('0733','2001-05-22',''),
+('0734','2001-05-21',''),
+('0735','2001-05-21',''),
+('0736','2001-05-18',''),
+('0737','2001-05-11',''),
+('0738','2001-05-23',''),
+('0739','2001-05-11',''),
+('0740','2001-05-21',''),
+('0741','2001-05-16',''),
+('0742','2001-05-18',''),
+('0743','2001-05-18',''),
+('0744','2001-05-22',''),
+('0745','2001-05-18',''),
+('0746','2001-06-21',''),
+('0747','2001-05-17',''),
+('0748','2001-05-21',''),
+('0749','2001-05-18',''),
+('0750','2001-05-14',''),
+('0751','2001-05-15',''),
+('0752','2001-05-21',''),
+('0753','2001-05-21',''),
+('0754','2001-05-17',''),
+('0755','2001-05-15',''),
+('0756','2001-05-15',''),
+('0757','2001-05-15',''),
+('0758','2001-05-14',''),
+('0760','2001-05-14',''),
+('0761','2001-05-16',''),
+('0762','2001-05-11',''),
+('0763','2001-05-21',''),
+('0764','2001-05-14',''),
+('0765','2001-05-18',''),
+('0766','2001-05-24',''),
+('0767','2001-05-23',''),
+('0768','2001-05-14',''),
+('0769','2001-05-15',''),
+('0770','2001-05-21',''),
+('0771','2001-05-21',''),
+('0772','2001-05-16',''),
+('0773','2001-05-17',''),
+('0774','2001-05-21',''),
+('0775','2001-09-06',''),
+('0776','2001-05-18',''),
+('0777','2001-05-21',''),
+('0778','2001-05-17',''),
+('0779','2001-05-21',''),
+('0780','2001-05-16',''),
+('0781','2001-05-21',''),
+('0782','2001-05-23',''),
+('0783','2001-05-11',''),
+('0784','2001-05-15',''),
+('0785','2001-05-16',''),
+('0786','2001-05-18',''),
+('0787','2001-05-18',''),
+('0788','2001-05-18',''),
+('0790','2001-05-15',''),
+('0792','2001-05-15',''),
+('0794','2001-05-22',''),
+('0795','2001-05-21',''),
+('0796','2001-05-14',''),
+('0797','2001-05-17',''),
+('0798','2001-05-16',''),
+('0799','2001-05-18',''),
+('0800','2001-05-21',''),
+('0801','2001-05-23',''),
+('0803','2001-05-16',''),
+('0804','2001-05-17',''),
+('0805','2002-05-29',''),
+('0806','2001-05-07',''),
+('0807','2001-05-14',''),
+('0808','2001-05-17',''),
+('0809','2001-05-21',''),
+('0810','2001-05-18',''),
+('0811','2001-05-21',''),
+('0812','2001-05-15',''),
+('0813','2001-05-21',''),
+('0814','2001-05-14',''),
+('0815','2001-05-23',''),
+('0816','2001-05-23',''),
+('0817','2001-05-16',''),
+('0818','2001-05-17',''),
+('0819','2001-05-15',''),
+('0820','2001-05-15',''),
+('0821','2001-05-16',''),
+('0822','2001-05-14',''),
+('0823','2001-05-21',''),
+('0825','2001-05-21',''),
+('0828','2001-05-14',''),
+('0829','2001-05-15',''),
+('0830','2001-05-23',''),
+('0831','2002-06-10',''),
+('0832','2001-05-21',''),
+('0833','2001-05-22',''),
+('0834','2001-05-14',''),
+('0835','2001-05-17',''),
+('0836','2001-05-15',''),
+('0837','2001-05-21',''),
+('0838','2001-05-21',''),
+('0839','2002-09-10',''),
+('0840','2001-05-17',''),
+('0841','2001-11-27',''),
+('0842','2001-05-11',''),
+('0843','2001-05-23',''),
+('0844','2001-05-21',''),
+('0845','2001-05-15',''),
+('0846','2001-05-15',''),
+('0847','2001-05-18',''),
+('0848','2001-05-15',''),
+('0849','2001-05-23',''),
+('0850','2001-05-15',''),
+('0851','2001-05-23',''),
+('0852','2001-05-22',''),
+('0853','2001-05-18',''),
+('0854','2001-05-17',''),
+('0855','2001-05-15',''),
+('0856','2001-05-18',''),
+('0857','2001-05-15',''),
+('0858','2001-05-21',''),
+('0859','2001-05-17',''),
+('0860','2001-05-21',''),
+('0862','2001-05-15',''),
+('0863','2001-05-21',''),
+('0864','2001-05-21',''),
+('0867','2001-05-23',''),
+('0868','2001-05-16',''),
+('0869','2001-05-15',''),
+('0870','2001-05-18',''),
+('0871','2001-05-17',''),
+('0872','2002-06-10',''),
+('0873','2001-05-22',''),
+('0875','2001-05-17',''),
+('0876','2001-05-21',''),
+('0877','2001-05-16',''),
+('0878','2001-05-07',''),
+('0879','2001-05-21',''),
+('0880','2001-05-11',''),
+('0881','2001-05-21',''),
+('0882','2001-05-17',''),
+('0883','2001-05-17',''),
+('0884','2001-05-21',''),
+('0885','2001-05-21',''),
+('0886','2001-05-22',''),
+('0887','2001-05-21',''),
+('0888','2001-05-23',''),
+('0889','2001-05-18',''),
+('0890','2001-05-16',''),
+('0891','2001-05-17',''),
+('0892','2001-05-21',''),
+('0895','2001-05-17',''),
+('0896','2001-05-18',''),
+('0897','2001-05-14',''),
+('0898','2001-05-14',''),
+('0899','2001-05-21',''),
+('0900','2001-05-16',''),
+('0901','2001-05-18',''),
+('0902','2001-05-15',''),
+('0903','2001-05-18',''),
+('0904','2001-05-18',''),
+('0905','2001-05-15',''),
+('0906','2001-05-23',''),
+('0907','2001-05-15',''),
+('0908','2001-05-18',''),
+('0909','2001-05-16',''),
+('0910','2001-05-17',''),
+('0911','2001-05-15',''),
+('0912','2001-05-18',''),
+('0913','2001-05-21',''),
+('0914','2001-05-08',''),
+('0915','2001-05-07',''),
+('0916','2001-05-21',''),
+('0917','2001-05-16',''),
+('0918','2001-05-23',''),
+('0919','2001-05-22',''),
+('0920','2001-05-16',''),
+('0921','2001-05-16',''),
+('0922','2001-05-14',''),
+('0925','2001-05-14',''),
+('0926','2001-05-21',''),
+('0927','2001-05-22',''),
+('0928','2001-05-18',''),
+('0929','2001-05-22',''),
+('0930','2001-05-18',''),
+('0931','2001-05-18',''),
+('0932','2001-05-17',''),
+('0933','2001-05-22',''),
+('0934','2001-05-14',''),
+('0935','2001-05-14',''),
+('0936','2001-05-14',''),
+('0937','2001-05-14',''),
+('0938','2001-05-17',''),
+('0939','2001-05-18',''),
+('0940','2001-05-14',''),
+('0941','2001-05-14',''),
+('0942','2001-05-14',''),
+('0943','2001-05-14',''),
+('0944','2001-05-16',''),
+('0945','2001-05-15',''),
+('0946','2001-05-17',''),
+('0947','2001-05-16',''),
+('0948','2001-05-18',''),
+('0949','2001-05-21',''),
+('0950','2001-05-17',''),
+('0951','2001-05-14',''),
+('0952','2001-05-22',''),
+('0953','2001-05-21',''),
+('0954','2001-05-22',''),
+('0955','2001-05-21',''),
+('0956','2001-05-21',''),
+('0957','2001-05-21',''),
+('0958','2001-05-11',''),
+('0959','2001-05-16',''),
+('0960','2001-05-21',''),
+('0961','2001-05-15',''),
+('0962','2001-09-03',''),
+('0963','2001-05-23',''),
+('0964','2001-05-21',''),
+('0965','2001-05-21',''),
+('0966','2001-05-16',''),
+('0967','2001-05-21',''),
+('0968','2001-05-21',''),
+('0969','2001-05-16',''),
+('0970','2001-05-22',''),
+('0971','2001-05-21',''),
+('0972','2001-05-16',''),
+('0973','2001-05-14',''),
+('0974','2001-05-23',''),
+('0975','2001-05-16',''),
+('0976','2001-05-21',''),
+('0977','2001-05-15',''),
+('0978','2001-05-21',''),
+('0979','2001-05-21',''),
+('0980','2001-08-23',''),
+('0981','2001-05-21',''),
+('0982','2001-05-07',''),
+('0983','2001-05-22',''),
+('0984','2001-05-16',''),
+('0985','2002-08-16',''),
+('0986','2001-05-14',''),
+('0987','2001-05-15',''),
+('0988','2001-05-18',''),
+('0989','2001-05-21',''),
+('0990','2001-05-17',''),
+('0991','2001-05-21',''),
+('0992','2001-05-16',''),
+('0993','2001-05-14',''),
+('0994','2001-05-14',''),
+('0995','2001-05-15',''),
+('0997','2001-05-17',''),
+('0999','2001-05-14',''),
+('1000','2001-05-14',''),
+('1001','2001-05-21',''),
+('1002','2002-05-29',''),
+('1003','2001-05-15',''),
+('1004','2001-05-23',''),
+('1005','2001-05-18',''),
+('1006','2001-05-16',''),
+('1007','2001-05-18',''),
+('1008','2001-05-16',''),
+('1009','2001-05-14',''),
+('1010','2001-05-18',''),
+('1011','2001-05-21',''),
+('1012','2002-12-09',''),
+('1013','2001-05-21',''),
+('1014','2001-05-21',''),
+('1015','2001-05-18',''),
+('1016','2001-05-18',''),
+('1017','2001-05-18',''),
+('1018','2001-05-15',''),
+('1019','2001-05-14',''),
+('1020','2001-05-15',''),
+('1021','2001-05-22',''),
+('1022','2001-05-16',''),
+('1023','2001-05-21',''),
+('1024','2001-05-21',''),
+('1025','2001-05-14',''),
+('1026','2001-05-18',''),
+('1027','2001-05-11',''),
+('1028','2001-05-17',''),
+('1029','2001-05-18',''),
+('1030','2001-05-18',''),
+('1031','2001-05-21',''),
+('1032','2001-05-17',''),
+('1033','2001-05-18',''),
+('1034','2001-05-16',''),
+('1035','2001-05-18',''),
+('1036','2001-05-11',''),
+('1037','2001-05-21',''),
+('1038','2001-05-18',''),
+('1039','2001-05-17',''),
+('1040','2001-05-16',''),
+('1041','2001-05-11',''),
+('1042','2001-05-21',''),
+('1043','2001-05-17',''),
+('1044','2001-05-21',''),
+('1045','2001-05-17',''),
+('1046','2001-05-15',''),
+('1047','2001-05-17',''),
+('1048','2001-05-15',''),
+('1049','2001-05-21',''),
+('1050','2001-05-11',''),
+('1051','2001-05-18',''),
+('1052','2001-05-18',''),
+('1054','2001-05-14',''),
+('1055','2001-05-17',''),
+('1056','2001-05-18',''),
+('1057','2001-05-14',''),
+('1058','2001-05-21',''),
+('1059','2001-05-23',''),
+('1060','2001-05-21',''),
+('1061','2001-05-22',''),
+('1062','2001-05-15',''),
+('1063','2001-05-15',''),
+('1064','2001-05-16',''),
+('1065','2001-05-16',''),
+('1066','2001-05-18',''),
+('1067','2001-05-17',''),
+('1068','2001-05-17',''),
+('1069','2001-05-18',''),
+('1070','2001-05-18',''),
+('1071','2001-05-17',''),
+('1072','2001-05-17',''),
+('1073','2001-05-17',''),
+('1074','2001-05-21',''),
+('1075','2001-05-18',''),
+('1076','2001-05-17',''),
+('1077','2001-05-17',''),
+('1078','2001-05-18',''),
+('1079','2001-05-17',''),
+('1080','2001-05-14',''),
+('1081','2001-05-21',''),
+('1082','2001-05-17',''),
+('1084','2001-05-21',''),
+('1085','2001-05-11',''),
+('1086','2001-05-17',''),
+('1087','2001-05-22',''),
+('1088','2001-05-16',''),
+('1089','2001-05-21',''),
+('1090','2002-05-29',''),
+('1092','2001-05-14',''),
+('1094','2001-05-17',''),
+('1095','2001-05-22',''),
+('1096','2001-05-15',''),
+('1097','2001-05-21',''),
+('1098','2001-05-21',''),
+('1099','2001-05-18',''),
+('1100','2001-05-15',''),
+('1102','2001-05-18',''),
+('1103','2001-05-16',''),
+('1104','2001-05-17',''),
+('1105','2001-05-15',''),
+('1106','2001-05-17',''),
+('1107','2001-05-22',''),
+('1108','2001-05-15',''),
+('1109','2001-05-17',''),
+('1111','2001-05-14',''),
+('1112','2001-05-24',''),
+('1113','2001-05-17',''),
+('1114','2001-05-16',''),
+('1115','2001-05-11',''),
+('1116','2001-05-21',''),
+('1117','2001-05-11',''),
+('1120','2001-05-15',''),
+('1121','2001-05-11',''),
+('1122','2001-05-07',''),
+('1123','2001-05-15',''),
+('1124','2001-05-21',''),
+('1125','2001-05-17',''),
+('1126','2001-05-21',''),
+('1127','2001-05-11',''),
+('1128','2001-05-11',''),
+('1129','2001-05-14',''),
+('1130','2001-05-17',''),
+('1132','2001-05-17',''),
+('1136','2001-05-14',''),
+('1137','2001-05-17',''),
+('1138','2001-05-15',''),
+('1139','2001-05-17',''),
+('1141','2001-05-14',''),
+('1142','2003-03-31',''),
+('1144','2001-05-18',''),
+('1145','2001-05-14',''),
+('1148','2001-05-07',''),
+('1149','2001-05-18',''),
+('1150','2001-05-07',''),
+('1152','2001-05-17',''),
+('1153','2001-05-21',''),
+('1154','2001-05-21',''),
+('1155','2001-05-07',''),
+('1156','2001-05-18',''),
+('1157','2001-05-23',''),
+('1158','2001-05-16',''),
+('1159','2001-05-18',''),
+('1160','2001-05-14',''),
+('1161','2001-05-11',''),
+('1162','2001-05-18',''),
+('1163','2001-05-11',''),
+('1164','2001-05-16',''),
+('1165','2001-05-18',''),
+('1166','2001-05-16',''),
+('1167','2001-05-17',''),
+('1168','2001-05-17',''),
+('1169','2001-05-22',''),
+('1170','2001-05-18',''),
+('1171','2001-05-21',''),
+('1172','2001-05-18',''),
+('1173','2001-05-18',''),
+('1174','2001-05-11',''),
+('1175','2001-05-16',''),
+('1176','2001-05-18',''),
+('1177','2001-05-18',''),
+('1178','2001-05-17',''),
+('1179','2001-05-14',''),
+('1181','2001-05-14',''),
+('1182','2001-05-22',''),
+('1186','2001-05-21',''),
+('1187','2001-05-21',''),
+('1188','2001-05-17',''),
+('1189','2001-05-21',''),
+('1190','2001-05-21',''),
+('1191','2001-05-22',''),
+('1192','2001-05-24',''),
+('1193','2001-05-18',''),
+('1194','2001-05-17',''),
+('1195','2001-05-17',''),
+('1196','2001-05-22',''),
+('1197','2001-05-16',''),
+('1198','2001-05-16',''),
+('1199','2001-05-21',''),
+('1200','2001-05-16',''),
+('1201','2001-05-16',''),
+('1202','2001-05-21',''),
+('1203','2001-05-15',''),
+('1204','2001-05-18',''),
+('1205','2001-05-17',''),
+('1206','2001-05-17',''),
+('1207','2001-05-21',''),
+('1208','2001-05-22',''),
+('1209','2001-05-14',''),
+('1210','2001-05-17',''),
+('1211','2001-05-18',''),
+('1212','2001-05-18',''),
+('1213','2001-05-21',''),
+('1214','2001-05-21',''),
+('1215','2001-05-15',''),
+('1216','2001-05-14',''),
+('1217','2001-05-18',''),
+('1218','2001-05-18',''),
+('1219','2001-05-21',''),
+('1220','2001-05-16',''),
+('1221','2001-05-16',''),
+('1222','2001-05-15',''),
+('1223','2002-03-13',''),
+('1224','2001-05-15',''),
+('1225','2001-05-14',''),
+('1226','2001-05-11',''),
+('1227','2001-05-18',''),
+('1228','2001-05-16',''),
+('1229','2001-05-21',''),
+('1230','2001-05-15',''),
+('1231','2001-05-18',''),
+('1232','2002-10-21',''),
+('1233','2001-05-21',''),
+('1234','2001-05-21',''),
+('1235','2001-05-21',''),
+('1236','2001-05-21',''),
+('1237','2001-05-21',''),
+('1238','2001-05-21',''),
+('1239','2001-05-21',''),
+('1240','2001-05-21',''),
+('1241','2001-05-21',''),
+('1242','2001-05-16',''),
+('1243','2001-05-24',''),
+('1244','2001-05-17',''),
+('1245','2001-05-15',''),
+('1246','2001-05-14',''),
+('1247','2001-05-14',''),
+('1248','2001-05-21',''),
+('1249','2001-05-21',''),
+('1250','2001-05-18',''),
+('1251','2001-05-21',''),
+('1252','2001-05-18',''),
+('1253','2001-05-21',''),
+('1254','2001-05-18',''),
+('1255','2001-05-21',''),
+('1256','2001-05-21',''),
+('1257','2001-05-21',''),
+('1258','2001-05-21',''),
+('1259','2001-05-22',''),
+('1260','2001-05-22',''),
+('1261','2001-05-16',''),
+('1262','2001-05-16',''),
+('1263','2001-05-16',''),
+('1264','2001-05-22',''),
+('1265','2001-05-16',''),
+('1266','2001-05-14',''),
+('1267','2001-05-15',''),
+('1268','2001-05-14',''),
+('1269','2001-05-15',''),
+('1270','2001-05-15',''),
+('1271','2001-05-18',''),
+('1272','2001-05-18',''),
+('1273','2001-05-21',''),
+('1274','2001-05-21',''),
+('1275','2001-05-21',''),
+('1276','2001-05-18',''),
+('1277','2001-05-18',''),
+('1278','2001-05-18',''),
+('1279','2001-05-17',''),
+('1280','2001-05-14',''),
+('1281','2001-05-14',''),
+('1282','2001-05-18',''),
+('1283','2001-05-22',''),
+('1284','2001-05-17',''),
+('1285','2001-05-17',''),
+('1286','2001-05-17',''),
+('1287','2001-05-14',''),
+('1288','2001-05-14',''),
+('1289','2001-05-11',''),
+('1290','2001-05-11',''),
+('1291','2001-05-11',''),
+('1293','2001-05-21',''),
+('1294','2001-05-15',''),
+('1295','2001-05-15',''),
+('1296','2001-05-22',''),
+('1297','2001-05-17',''),
+('1298','2001-05-15',''),
+('1299','2001-05-22',''),
+('1300','2001-05-16',''),
+('1301','2001-05-21',''),
+('1302','2001-05-14',''),
+('1303','2001-05-21',''),
+('1304','2001-05-11',''),
+('1305','2001-05-16',''),
+('1306','2001-05-14',''),
+('1307','2001-05-18',''),
+('1308','2001-05-11',''),
+('1309','2001-05-11',''),
+('1311','2001-05-21',''),
+('1312','2001-05-22',''),
+('1313','2001-05-15',''),
+('1314','2001-05-16',''),
+('1315','2001-05-14',''),
+('1316','2001-05-21',''),
+('1317','2001-05-23',''),
+('1318','2001-05-15',''),
+('1319','2001-05-17',''),
+('1320','2001-05-17',''),
+('1321','2001-05-15',''),
+('1322','2001-05-21',''),
+('1323','2001-05-18',''),
+('1324','2001-05-18',''),
+('1325','2001-05-18',''),
+('1326','2001-05-08',''),
+('1327','2001-05-11',''),
+('1328','2001-05-07',''),
+('1329','2001-05-07',''),
+('1330','2001-05-16',''),
+('1331','2001-05-16',''),
+('1332','2001-05-16',''),
+('1333','2001-05-18',''),
+('1334','2001-05-14',''),
+('1335','2001-05-16',''),
+('1336','2001-05-14',''),
+('1337','2001-05-21',''),
+('1338','2001-05-14',''),
+('1339','2001-05-15',''),
+('1340','2001-05-16',''),
+('1341','2001-05-15',''),
+('1342','2001-05-21',''),
+('1343','2001-05-15',''),
+('1344','2001-05-15',''),
+('1345','2001-05-22',''),
+('1346','2001-05-21',''),
+('1347','2001-05-21',''),
+('1348','2001-05-18',''),
+('1349','2001-05-17',''),
+('1350','2001-05-17',''),
+('1351','2001-05-17',''),
+('1352','2001-05-18',''),
+('1353','2001-05-14',''),
+('1354','2001-05-22',''),
+('1355','2001-05-22',''),
+('1356','2001-05-11',''),
+('1357','2001-05-11',''),
+('1358','2001-05-18',''),
+('1359','2001-05-16',''),
+('1360','2001-05-14',''),
+('1361','2001-05-14',''),
+('1362','2001-05-21',''),
+('1363','2001-05-16',''),
+('1364','2001-05-18',''),
+('1365','2001-05-21',''),
+('1368','2001-05-11',''),
+('1369','2001-05-14',''),
+('1370','2001-05-18',''),
+('1371','2001-05-18',''),
+('1372','2001-05-15',''),
+('1373','2001-05-17',''),
+('1374','2001-05-23',''),
+('1375','2001-05-14',''),
+('1376','2001-05-21',''),
+('1377','2001-05-11',''),
+('1378','2001-05-15',''),
+('1379','2001-05-14',''),
+('1380','2001-05-14',''),
+('1381','2001-05-16',''),
+('1382','2001-05-23',''),
+('1383','2001-05-18',''),
+('1384','2001-05-22',''),
+('1385','2001-05-15',''),
+('1386','2001-05-15',''),
+('1387','2001-06-25',''),
+('1388','2001-05-18',''),
+('1389','2001-05-18',''),
+('1390','2001-05-21',''),
+('1391','2001-05-17',''),
+('1392','2001-05-17',''),
+('1393','2001-05-21',''),
+('1394','2001-05-18',''),
+('1395','2001-05-18',''),
+('1396','2001-05-18',''),
+('1397','2001-05-21',''),
+('1398','2001-05-16',''),
+('1399','2001-05-17',''),
+('1400','2001-05-17',''),
+('1401','2001-05-14',''),
+('1402','2001-05-15',''),
+('1403','2001-05-21',''),
+('1404','2001-05-18',''),
+('1405','2001-05-14',''),
+('1406','2001-05-15',''),
+('1407','2001-05-18',''),
+('1408','2001-05-17',''),
+('1409','2001-05-22',''),
+('1410','2001-05-16',''),
+('1411','2001-05-21',''),
+('1412','2001-05-21',''),
+('1413','2001-05-14',''),
+('1414','2001-05-22',''),
+('1415','2001-05-14',''),
+('1416','2001-05-15',''),
+('1417','2001-05-15',''),
+('1418','2001-05-17',''),
+('1419','2001-05-09',''),
+('1420','2001-05-14',''),
+('1421','2001-05-14',''),
+('1422','2001-05-18',''),
+('1423','2001-05-21',''),
+('1424','2001-05-18',''),
+('1425','2001-05-17',''),
+('1426','2001-05-15',''),
+('1428','2001-05-22',''),
+('1429','2001-05-24',''),
+('1430','2001-05-07',''),
+('1431','2001-05-16',''),
+('1432','2001-05-17',''),
+('1433','2001-05-15',''),
+('1434','2001-09-03',''),
+('1435','2001-05-15',''),
+('1436','2001-05-11',''),
+('1437','2001-05-15',''),
+('1438','2001-05-18',''),
+('1439','2001-05-15',''),
+('1440','2001-05-18',''),
+('1441','2001-05-15',''),
+('1442','2001-05-11',''),
+('1443','2001-05-07',''),
+('1444','2001-05-18',''),
+('1445','2001-05-16',''),
+('1446','2001-05-17',''),
+('1447','2001-05-18',''),
+('1448','2001-05-11',''),
+('1449','2001-05-11',''),
+('1450','2001-05-17',''),
+('1451','2001-05-21',''),
+('1452','2001-05-21',''),
+('1453','2001-05-21',''),
+('1454','2001-05-21',''),
+('1455','2001-05-21',''),
+('1456','2001-05-22',''),
+('1457','2001-05-21',''),
+('1458','2001-05-22',''),
+('1459','2001-05-18',''),
+('1460','2001-05-07',''),
+('1461','2001-05-21',''),
+('1462','2001-05-23',''),
+('1463','2001-05-17',''),
+('1464','2001-05-21',''),
+('1465','2001-05-21',''),
+('1466','2001-05-17',''),
+('1467','2001-05-18',''),
+('1468','2001-05-18',''),
+('1469','2001-05-21',''),
+('1470','2001-05-14',''),
+('1471','2001-05-21',''),
+('1472','2001-05-14',''),
+('1473','2001-05-17',''),
+('1474','2001-05-18',''),
+('1475','2001-05-17',''),
+('1476','2001-05-18',''),
+('1477','2001-05-11',''),
+('1478','2001-05-16',''),
+('1479','2001-05-21',''),
+('1480','2001-05-21',''),
+('1481','2001-05-21',''),
+('1482','2001-05-18',''),
+('1483','2001-05-11',''),
+('1484','2001-05-14',''),
+('1485','2001-05-14',''),
+('1486','2001-05-18',''),
+('1487','2001-05-16',''),
+('1488','2001-05-16',''),
+('1489','2001-05-16',''),
+('1490','2001-05-17',''),
+('1491','2001-05-18',''),
+('1492','2001-05-21',''),
+('1493','2001-05-15',''),
+('1494','2001-05-18',''),
+('1495','2001-05-21',''),
+('1496','2001-05-15',''),
+('1497','2001-05-11',''),
+('1498','2001-05-22',''),
+('1499','2001-05-17',''),
+('1500','2001-05-22',''),
+('1501','2001-05-18',''),
+('1502','2001-05-15',''),
+('1503','2001-05-14',''),
+('1504','2001-05-17',''),
+('1505','2001-05-11',''),
+('1506','2001-05-18',''),
+('1507','2001-05-16',''),
+('1508','2001-05-21',''),
+('1509','2001-05-11',''),
+('1510','2001-05-17',''),
+('1511','2001-05-14',''),
+('1512','2001-05-15',''),
+('1513','2001-05-14',''),
+('1514','2001-05-18',''),
+('1515','2001-05-18',''),
+('1516','2001-05-14',''),
+('1517','2001-05-16',''),
+('1518','2001-05-18',''),
+('1519','2001-05-18',''),
+('1520','2001-05-11',''),
+('1521','2001-05-24',''),
+('1522','2001-05-18',''),
+('1523','2001-05-17',''),
+('1524','2001-05-15',''),
+('1525','2003-08-22',''),
+('1526','2006-10-13',''),
+('1527','2005-07-08',''),
+('1528','2005-07-08',''),
+('1529','2005-07-08',''),
+('1530','2005-07-18',''),
+('1531','2006-06-22',''),
+('1532','2006-06-22',''),
+('1533','2006-07-13',''),
+('1534','2006-07-13',''),
+('1535','2006-07-13',''),
+('1536','2006-07-13',''),
+('1537','2006-07-13',''),
+('1538','2006-07-13',''),
+('1539','2006-07-13',''),
+('1540','2006-07-13',''),
+('1541','2006-07-13',''),
+('1542','2006-07-13',''),
+('1543','2006-09-26',''),
+('1544','2006-10-23',''),
+('1545','2006-11-27',''),
+('1546','2006-11-27',''),
+('1547','2006-11-30',''),
+('1548','2006-11-30',''),
+('1549','2006-11-30',''),
+('1550','2007-02-12',''),
+('1551','2007-02-27',''),
+('1552','2007-04-10',''),
+('1553','2007-05-04',''),
+('1554','2007-04-27',''),
+('1555','2007-05-11',''),
+('1556','2007-06-14',''),
+('1557','2007-06-28',''),
+('1558','2007-06-28',''),
+('1559','2007-06-28',''),
+('1560','2007-08-16',''),
+('1561','2007-08-16',''),
+('1562','2007-10-02',''),
+('1563','2007-10-30',''),
+('1564','2008-04-29',''),
+('1565','2007-12-06',''),
+('1566','2008-01-28',''),
+('1567','2008-02-22',''),
+('1568','2008-04-10',''),
+('1569','2008-05-09',''),
+('1570','2008-04-24',''),
+('1571','2008-04-24',''),
+('1572','2008-06-05',''),
+('1573','2008-07-16',''),
+('1574','2008-08-08',''),
+('1575','2008-08-12',''),
+('1576','2008-10-10',''),
+('1577','2008-10-10',''),
+('1578','2008-10-10',''),
+('1579','2008-10-31',''),
+('1580','2009-02-25',''),
+('1581','2009-04-13',''),
+('1582','2009-04-13',''),
+('1583','2009-04-13',''),
+('1584','2009-04-14',''),
+('1585','2009-06-10',''),
+('1586','2009-06-15',''),
+('1587','2009-07-14',''),
+('1588','2009-08-26',''),
+('1589','2009-09-18',''),
+('1590','2010-02-05',''),
+('1591','2010-02-05',''),
+('1592','2010-04-12',''),
+('1593','2010-04-12',''),
+('1594','2010-04-12',''),
+('1595','2010-04-13',''),
+('1596','2010-08-24',''),
+('1597','2010-08-24',''),
+('1598','2010-09-20',''),
+('1599','2010-09-20',''),
+('1600','2010-09-20',''),
+('1601','2010-09-30',''),
+('1602','2010-09-30',''),
+('1603','2010-09-30',''),
+('1604','2010-11-04',''),
+('1605','2010-11-04',''),
+('1606','2010-11-25',''),
+('1607','2011-01-07',''),
+('1608','2011-01-07',''),
+('1609','2011-02-18',''),
+('1610','2011-02-18',''),
+('1611','2011-03-29',''),
+('1612','2011-04-20',''),
+('1613','2011-06-14',''),
+('1614','2011-08-11',''),
+('1615','2011-08-11',''),
+('1616','2011-08-11',''),
+('1617','2011-10-03',''),
+('1618','2011-10-03',''),
+('1619','2011-10-03',''),
+('1620','2011-10-18',''),
+('1621','2011-10-25',''),
+('1622','2011-10-25',''),
+('1623','2012-02-17',''),
+('1624','2012-02-17',''),
+('1625','2012-03-13',''),
+('1626','2012-03-13',''),
+('1627','2012-03-23',''),
+('1628','2012-05-17',''),
+('1629','2012-05-23',''),
+('1630','2012-06-06',''),
+('1631','2012-06-05',''),
+('1632','2012-07-31',''),
+('1633','2012-08-28',''),
+('1634','2012-08-28',''),
+('1635','2012-10-08',''),
+('1636','2012-10-23',''),
+('1637','2012-10-22',''),
+('1638','2012-10-23',''),
+('1639','2012-10-31',''),
+('1640','2012-12-11',''),
+('1641','2012-12-03',''),
+('1642','2012-12-11',''),
+('1643','2012-12-19',''),
+('1644','2013-01-30',''),
+('1645','2013-02-21',''),
+('1646','2013-02-19',''),
+('1647','2013-03-12',''),
+('1648','2013-04-24',''),
+('1649','2013-04-12',''),
+('1650','2013-05-22',''),
+('1651','2013-05-23',''),
+('1652','2013-06-05',''),
+('1653','2013-06-06',''),
+('1654','2013-06-17',''),
+('1655','2013-06-17',''),
+('1656','2013-06-17',''),
+('1657','2013-08-12',''),
+('1658','2013-10-16',''),
+('1659','2013-10-16',''),
+('1660','2013-11-27',''),
+('1661','2014-02-24',''),
+('1662','2014-02-24',''),
+('1663','2014-02-24',''),
+('1664','2014-02-24',''),
+('1665','2014-02-24',''),
+('1666','2014-03-18',''),
+('1667','2014-03-18',''),
+('1668','2014-03-18',''),
+('1669','2014-03-18',''),
+('1670','2014-03-18',''),
+('1671','2014-05-14',''),
+('1672','2014-05-14',''),
+('1673','2014-06-04',''),
+('1674','2014-05-14',''),
+('1675','2014-05-14',''),
+('1676','2014-08-07',''),
+('1677','2014-08-07',''),
+('1678','2014-08-07',''),
+('1679','2014-08-07',''),
+('1680','2014-07-30',''),
+('1681','2014-09-02',''),
+('1682','2014-11-28',''),
+('1683','2014-09-25',''),
+('1684','2014-09-25',''),
+('1685','2014-11-05',''),
+('1686','2014-11-05',''),
+('1687','2014-11-05',''),
+('1688','2014-11-28',''),
+('1689','2014-11-28',''),
+('1690','2014-11-28',''),
+('1691','2014-11-28',''),
+('1692','2014-11-26',''),
+('1693','2015-03-13',''),
+('1694','2015-03-13',''),
+('1695','2015-04-06',''),
+('1696','2015-03-13',''),
+('1697','2015-04-06',''),
+('1698','2015-04-06',''),
+('1699','2015-05-14',''),
+('1700','2015-05-14',''),
+('1701','2015-06-16',''),
+('1702','2015-06-24',''),
+('1703','2015-06-24',''),
+('1704','2015-07-15',''),
+('1705','2015-07-15',''),
+('1706','2015-07-20',''),
+('1707','2015-10-05',''),
+('1708','2015-09-21',''),
+('1709','2015-11-20',''),
+('1710','2015-10-30',''),
+('1711','2015-11-20',''),
+('1712','2015-11-20',''),
+('1713','2015-11-24',''),
+('1714','2015-11-24',''),
+('1715','2015-12-16',''),
+('1716','2015-12-16',''),
+('1717','2015-12-18',''),
+('1718','2018-11-28',''),
+('1719','2019-12-09',''),
+('1720','2019-11-07',''),
+('1721','2019-04-16',''),
+('1723','2021-10-28',''),
+('1724','2018-10-03',''),
+('1725','2018-10-03',''),
+('1726','2018-10-29',''),
+('1727','2018-07-09',''),
+('1728','2018-10-03',''),
+('1729','2018-11-28',''),
+('1730','2016-05-11',''),
+('1731','2016-11-28',''),
+('1732','2018-12-14',''),
+('1733','2016-09-13',''),
+('1734','2016-09-13',''),
+('1735','2016-09-08',''),
+('1736','2021-03-01',''),
+('1737','2017-09-04',''),
+('1738','2018-12-14',''),
+('1739','2016-11-28',''),
+('1740','2016-12-06',''),
+('1741','2016-11-28',''),
+('1742','2016-10-06',''),
+('1743','2017-02-07',''),
+('1744','2016-12-06',''),
+('1745','2017-12-14',''),
+('1746','2017-02-17',''),
+('1747','2017-02-17',''),
+('1748','2017-03-17',''),
+('1749','2017-04-20',''),
+('1750','2017-03-29',''),
+('1751','2017-04-20',''),
+('1752','2017-04-20',''),
+('1753','2017-05-03',''),
+('1754','2019-06-21',''),
+('1755','2017-05-03',''),
+('1756','2017-05-22',''),
+('1757','2017-05-22',''),
+('1758','2017-06-01',''),
+('1759','2017-06-30',''),
+('1760','2017-06-06',''),
+('1761','2017-07-31',''),
+('1762','2017-09-25',''),
+('1763','2017-06-15',''),
+('1764','2017-07-31',''),
+('1765','2017-12-12',''),
+('1766','2017-11-13',''),
+('1767','2017-12-04',''),
+('1768','2017-12-06',''),
+('1769','2018-02-01',''),
+('1770','2018-01-22',''),
+('1771','2018-02-12',''),
+('1772','2018-03-20',''),
+('1773','2018-04-16',''),
+('1774','2018-09-24',''),
+('1775','2018-07-09',''),
+('1776','2018-09-24',''),
+('1777','2018-10-12',''),
+('1778','2018-10-08',''),
+('1779','2018-10-25',''),
+('1780','2018-11-18',''),
+('1781','2018-10-17',''),
+('1782','2018-10-19',''),
+('1783','2018-12-05',''),
+('1784','2018-12-05',''),
+('1785','2018-10-04',''),
+('1786','2018-10-31',''),
+('1787','2018-10-04',''),
+('1788','2018-10-04',''),
+('1789','2019-04-16',''),
+('1790','2018-12-14',''),
+('1791','2019-12-19',''),
+('1792','2019-04-16',''),
+('1793','2018-12-14',''),
+('1794','2018-12-14',''),
+('1795','2018-11-07',''),
+('1796','2018-12-14',''),
+('1797','2018-12-14',''),
+('1798','2020-02-05',''),
+('1799','2019-12-19',''),
+('1800','2019-05-09',''),
+('1801','2020-02-05',''),
+('1802','2021-02-15',''),
+('1803','2020-02-05',''),
+('1804','2020-07-09',''),
+('1805','2020-01-31',''),
+('1806','2019-10-14',''),
+('1807','2020-04-27',''),
+('1808','2020-04-27',''),
+('1809','2019-10-14',''),
+('1810','2020-10-08',''),
+('1811','2020-06-25',''),
+('1812','2019-10-14',''),
+('1813','2020-05-25',''),
+('1814','2021-04-05',''),
+('1815','2020-07-09',''),
+('1816','2021-02-15',''),
+('1817','2019-10-14',''),
+('1818','2021-03-16',''),
+('1819','2019-09-20',''),
+('1820','2021-03-17',''),
+('1821','2021-02-15',''),
+('1822','2021-03-16',''),
+('1823','2021-03-17',''),
+('1824','2019-12-12',''),
+('1825','2020-12-01',''),
+('1826','2021-03-01',''),
+('1827','2021-03-17',''),
+('1828','2021-02-15',''),
+('1829','2021-02-15',''),
+('1830','2021-03-17',''),
+('1831','2021-07-05',''),
+('1832','2021-03-16',''),
+('1833','2021-02-15',''),
+('1834','2021-02-15',''),
+('1836','2021-04-05',''),
+('1837','2021-05-03',''),
+('1838','2021-03-17',''),
+('1839','2021-05-11',''),
+('1840','2021-03-17',''),
+('1841','2021-04-05',''),
+('1842','2021-04-05',''),
+('1843','2021-03-17',''),
+('1844','2021-03-05',''),
+('1845','2021-05-07',''),
+('1846','2021-04-12',''),
+('1847','2021-03-02',''),
+('1848','2021-03-22',''),
+('1849','2021-03-12',''),
+('1850','2021-05-11',''),
+('1851','2021-05-15',''),
+('1852','2021-04-05',''),
+('1853','2021-04-05',''),
+('1854','2021-07-05',''),
+('1855','2021-04-15',''),
+('1856','2021-06-28',''),
+('1857','2021-05-11',''),
+('1858','2021-05-17',''),
+('1859','2021-05-17',''),
+('1860','2021-05-27',''),
+('1861','2021-06-28',''),
+('1862','2021-08-09',''),
+('1863','2021-08-09',''),
+('1864','2021-08-09',''),
+('1865','2021-08-09',''),
+('1866','2021-08-09',''),
+('1867','2021-07-27',''),
+('1868','2021-08-09',''),
+('1869','2021-08-23',''),
+('1870','2021-08-19',''),
+('1871','2021-08-19',''),
+('1872','2021-08-19',''),
+('1873','2021-07-26',''),
+('1874','2021-08-09',''),
+('1875','2021-07-26',''),
+('1876','2021-07-26',''),
+('1877','2021-08-09',''),
+('1878','2021-07-05',''),
+('1879','2021-07-27',''),
+('1880','2022-04-07',''),
+('1881','2022-10-28',''),
+('1882','2022-10-31',''),
+('3001','2001-05-16',''),
+('3002','2002-07-02',''),
+('3003','2001-05-21',''),
+('3005','2001-05-22',''),
+('3006','2001-05-21',''),
+('3007','2001-05-22',''),
+('3008','2001-05-14',''),
+('3009','2001-05-21',''),
+('3010','2001-05-17',''),
+('3011','2001-05-15',''),
+('3012','2001-05-18',''),
+('3013','2001-05-17',''),
+('3014','2001-05-14',''),
+('3015','2001-05-14',''),
+('3016','2001-05-21',''),
+('3017','2001-05-14',''),
+('3018','2001-05-08',''),
+('3019','2001-05-21',''),
+('3020','2001-05-18',''),
+('3021','2001-05-23',''),
+('3022','2001-05-22',''),
+('3023','2001-05-18',''),
+('3024','2001-05-16',''),
+('3025','2001-05-15',''),
+('3026','2001-05-17',''),
+('3027','2001-05-14',''),
+('3028','2002-06-11',''),
+('3029','2001-05-18',''),
+('3030','2001-05-14',''),
+('3031','2001-05-11',''),
+('3032','2001-05-21',''),
+('3033','2001-05-07',''),
+('3034','2001-05-16',''),
+('3035','2001-05-18',''),
+('3036','2001-05-15',''),
+('3037','2001-05-17',''),
+('3038','2001-05-17',''),
+('3039','2001-07-31',''),
+('3040','2001-08-23',''),
+('3041','2001-05-21',''),
+('3042','2001-05-11',''),
+('3043','2001-09-03',''),
+('3044','2001-05-11',''),
+('3046','2001-05-21',''),
+('3047','2001-05-17',''),
+('3048','2001-05-14',''),
+('3049','2001-05-17',''),
+('3050','2001-05-23',''),
+('3051','2001-05-16',''),
+('3052','2001-05-21',''),
+('3053','2001-06-21',''),
+('3055','2001-05-18',''),
+('3057','2001-05-21',''),
+('3060','2001-05-21',''),
+('3061','2001-05-21',''),
+('3062','2001-05-17',''),
+('3063','2001-05-16',''),
+('3064','2001-05-18',''),
+('3065','2001-05-21',''),
+('3066','2001-05-16',''),
+('3067','2001-05-16',''),
+('3068','2001-05-17',''),
+('3069','2001-06-08',''),
+('3070','2001-05-21',''),
+('3071','2001-05-15',''),
+('3072','2001-05-16',''),
+('3073','2001-05-23',''),
+('3074','2001-05-15',''),
+('3075','2001-05-15',''),
+('3076','2001-05-14',''),
+('3077','2001-05-21',''),
+('3078','2001-05-21',''),
+('3079','2001-05-11',''),
+('3080','2001-05-08',''),
+('3081','2001-05-18',''),
+('3082','2001-05-15',''),
+('3083','2001-05-21',''),
+('3084','2001-05-17',''),
+('3085','2001-05-22',''),
+('3086','2001-05-16',''),
+('3087','2001-05-17',''),
+('3088','2001-05-14',''),
+('3089','2001-05-14',''),
+('3090','2001-05-15',''),
+('3091','2001-05-14',''),
+('3092','2001-05-23',''),
+('3093','2002-09-10',''),
+('3094','2001-05-16',''),
+('3095','2001-05-21',''),
+('3096','2001-05-22',''),
+('3097','2001-05-21',''),
+('3098','2001-05-21',''),
+('3099','2001-05-22',''),
+('3100','2001-05-21',''),
+('3101','2001-05-21',''),
+('3102','2001-06-12',''),
+('3103','2001-05-11',''),
+('3104','2001-05-21',''),
+('3105','2001-05-21',''),
+('3106','2001-05-21',''),
+('3107','2001-05-21',''),
+('3108','2001-05-21',''),
+('3109','2001-05-14',''),
+('3110','2001-05-21',''),
+('3111','2001-05-15',''),
+('3112','2001-05-14',''),
+('3114','2001-05-17',''),
+('3115','2001-05-18',''),
+('3116','2001-05-11',''),
+('3117','2001-05-14',''),
+('3118','2001-05-14',''),
+('3119','2001-05-21',''),
+('3120','2001-05-18',''),
+('3121','2001-05-21',''),
+('3122','2001-05-07',''),
+('3123','2001-05-17',''),
+('3124','2001-09-03',''),
+('3125','2001-05-17',''),
+('3126','2001-05-17',''),
+('3127','2001-05-14',''),
+('3128','2001-05-17',''),
+('3129','2001-05-22',''),
+('3130','2001-05-21',''),
+('3131','2001-05-21',''),
+('3132','2001-05-22',''),
+('3133','2001-05-16',''),
+('3134','2001-05-22',''),
+('3135','2001-05-17',''),
+('3136','2002-12-09',''),
+('3137','2001-05-22',''),
+('3138','2001-05-18',''),
+('3139','2001-05-22',''),
+('3140','2001-05-17',''),
+('3141','2001-05-21',''),
+('3142','2001-05-23',''),
+('3143','2001-05-21',''),
+('3144','2001-05-16',''),
+('3145','2001-05-16',''),
+('3146','2001-05-11',''),
+('3147','2001-05-21',''),
+('3148','2001-05-21',''),
+('3149','2001-05-21',''),
+('3151','2001-05-23',''),
+('3152','2001-05-21',''),
+('3153','2001-05-17',''),
+('3154','2001-05-11',''),
+('3155','2001-05-21',''),
+('3156','2001-05-14',''),
+('3157','2001-05-18',''),
+('3158','2001-05-15',''),
+('3159','2001-05-21',''),
+('3160','2001-05-21',''),
+('3162','2001-05-15',''),
+('3163','2001-05-17',''),
+('3164','2001-05-23',''),
+('3165','2001-05-21',''),
+('3166','2001-05-15',''),
+('3167','2001-05-21',''),
+('3168','2001-05-16',''),
+('3169','2001-05-15',''),
+('3170','2001-05-21',''),
+('3171','2001-05-16',''),
+('3172','2001-11-27',''),
+('3173','2001-05-21',''),
+('3174','2001-05-15',''),
+('3175','2001-05-21',''),
+('3176','2001-05-21',''),
+('3177','2002-07-01',''),
+('3178','2001-05-16',''),
+('3179','2001-05-21',''),
+('3180','2001-05-23',''),
+('3182','2001-05-15',''),
+('3183','2001-05-14',''),
+('3184','2001-05-23',''),
+('3185','2001-05-18',''),
+('3186','2001-05-16',''),
+('3187','2001-05-14',''),
+('3188','2001-05-18',''),
+('3189','2001-05-16',''),
+('3190','2001-05-15',''),
+('3191','2001-05-17',''),
+('3192','2001-05-17',''),
+('3193','2001-05-14',''),
+('3194','2001-05-16',''),
+('3195','2001-05-18',''),
+('3197','2001-06-08',''),
+('3198','2001-08-23',''),
+('3199','2001-05-11',''),
+('3200','2001-05-16',''),
+('3201','2001-05-16',''),
+('3202','2001-05-16',''),
+('3203','2001-05-21',''),
+('3204','2001-05-21',''),
+('3205','2001-05-16',''),
+('3206','2001-05-21',''),
+('3207','2001-05-21',''),
+('3208','2001-05-21',''),
+('3209','2001-05-21',''),
+('3210','2001-05-18',''),
+('3211','2001-05-21',''),
+('3212','2001-05-16',''),
+('3213','2001-05-16',''),
+('3214','2001-05-17',''),
+('3215','2001-05-22',''),
+('3216','2001-05-21',''),
+('3217','2001-05-21',''),
+('3218','2001-05-15',''),
+('3219','2001-05-21',''),
+('3220','2001-05-14',''),
+('3221','2001-05-15',''),
+('3222','2001-05-11',''),
+('3223','2001-05-14',''),
+('3224','2001-05-21',''),
+('3226','2001-05-17',''),
+('3227','2001-05-15',''),
+('3229','2001-05-17',''),
+('3230','2001-05-22',''),
+('3231','2001-05-18',''),
+('3232','2001-05-21',''),
+('3233','2001-05-17',''),
+('3234','2001-05-15',''),
+('3235','2001-05-14',''),
+('3236','2001-05-14',''),
+('3237','2001-05-17',''),
+('3238','2001-06-15',''),
+('3240','2001-05-17',''),
+('3241','2001-05-16',''),
+('3242','2001-05-22',''),
+('3244','2001-05-21',''),
+('3245','2001-05-18',''),
+('3246','2001-05-11',''),
+('3247','2001-05-21',''),
+('3248','2001-05-16',''),
+('3249','2001-05-23',''),
+('3250','2001-05-22',''),
+('3251','2001-05-14',''),
+('3252','2001-05-18',''),
+('3253','2001-05-14',''),
+('3254','2001-05-15',''),
+('3255','2001-05-17',''),
+('3256','2001-05-18',''),
+('3257','2001-05-15',''),
+('3258','2001-05-23',''),
+('3259','2001-05-18',''),
+('3260','2001-05-22',''),
+('3262','2001-05-14',''),
+('3263','2001-05-22',''),
+('3264','2001-05-18',''),
+('3265','2001-05-21',''),
+('3266','2001-05-17',''),
+('3267','2001-05-21',''),
+('3268','2001-05-15',''),
+('3269','2001-05-17',''),
+('3270','2001-05-17',''),
+('3271','2001-05-21',''),
+('3272','2001-05-21',''),
+('3273','2001-05-22',''),
+('3274','2001-05-18',''),
+('3275','2001-05-15',''),
+('3276','2001-05-21',''),
+('3277','2001-05-18',''),
+('3278','2001-05-16',''),
+('3279','2002-01-30',''),
+('3280','2001-05-18',''),
+('3281','2001-05-16',''),
+('3283','2001-05-21',''),
+('3284','2001-05-11',''),
+('3285','2001-05-15',''),
+('3286','2001-05-16',''),
+('3287','2001-05-14',''),
+('3288','2001-05-23',''),
+('3289','2001-06-12',''),
+('3290','2001-05-22',''),
+('3291','2001-05-18',''),
+('3292','2001-05-18',''),
+('3293','2001-05-17',''),
+('3294','2001-05-17',''),
+('3295','2001-05-18',''),
+('3296','2001-05-21',''),
+('3297','2001-05-17',''),
+('3298','2001-05-08',''),
+('3299','2001-06-14',''),
+('3300','2001-08-01',''),
+('3301','2001-05-18',''),
+('3302','2001-05-17',''),
+('3303','2001-06-18',''),
+('3305','2001-05-15',''),
+('3306','2001-05-18',''),
+('3308','2001-05-21',''),
+('3309','2001-05-15',''),
+('3311','2001-05-15',''),
+('3312','2001-05-14',''),
+('3313','2001-05-21',''),
+('3314','2001-05-17',''),
+('3315','2001-05-16',''),
+('3316','2001-05-15',''),
+('3317','2001-05-11',''),
+('3319','2001-06-29',''),
+('3320','2001-05-17',''),
+('3321','2001-05-21',''),
+('3322','2002-05-29',''),
+('3323','2001-05-18',''),
+('3324','2001-05-14',''),
+('3325','2001-07-31',''),
+('3326','2001-05-15',''),
+('3327','2001-05-14',''),
+('3328','2001-05-21',''),
+('3329','2001-05-14',''),
+('3330','2001-05-11',''),
+('3331','2001-05-21',''),
+('3332','2001-05-17',''),
+('3333','2001-05-15',''),
+('3334','2001-05-18',''),
+('3335','2001-05-18',''),
+('3336','2001-05-16',''),
+('3337','2001-05-17',''),
+('3338','2001-05-17',''),
+('3339','2001-05-21',''),
+('3340','2001-05-22',''),
+('3341','2001-05-22',''),
+('3342','2001-05-14',''),
+('3343','2001-05-15',''),
+('3344','2001-05-22',''),
+('3345','2001-05-15',''),
+('3346','2001-05-14',''),
+('3347','2001-05-16',''),
+('3348','2001-05-17',''),
+('3349','2001-05-16',''),
+('3351','2001-05-17',''),
+('3353','2001-05-15',''),
+('3354','2001-05-11',''),
+('3355','2001-05-16',''),
+('3356','2001-05-17',''),
+('3357','2001-05-14',''),
+('3358','2001-05-18',''),
+('3359','2001-05-21',''),
+('3360','2001-05-11',''),
+('3361','2001-05-21',''),
+('3362','2001-05-16',''),
+('3363','2001-05-16',''),
+('3364','2001-05-21',''),
+('3365','2001-05-18',''),
+('3366','2001-05-15',''),
+('3368','2001-05-21',''),
+('3369','2001-05-17',''),
+('3370','2001-05-14',''),
+('3371','2001-05-21',''),
+('3372','2001-05-21',''),
+('3373','2001-05-22',''),
+('3374','2001-05-17',''),
+('3375','2001-05-18',''),
+('3376','2001-05-22',''),
+('3377','2001-05-07',''),
+('3378','2001-05-16',''),
+('3379','2001-05-17',''),
+('3381','2001-05-21',''),
+('3382','2001-05-17',''),
+('3383','2001-05-18',''),
+('3384','2001-05-15',''),
+('3385','2001-05-18',''),
+('3386','2001-05-17',''),
+('3387','2001-05-21',''),
+('3389','2001-05-16',''),
+('3390','2001-05-21',''),
+('3391','2001-05-21',''),
+('3392','2001-05-16',''),
+('3393','2001-05-21',''),
+('3394','2001-05-21',''),
+('3395','2001-05-17',''),
+('3396','2001-05-22',''),
+('3397','2001-05-15',''),
+('3398','2001-05-15',''),
+('3399','2001-05-17',''),
+('3400','2001-05-21',''),
+('3402','2001-05-17',''),
+('3403','2001-05-21',''),
+('3404','2001-05-16',''),
+('3405','2001-05-11',''),
+('3406','2001-05-17',''),
+('3407','2001-05-16',''),
+('3408','2001-05-17',''),
+('3409','2001-05-15',''),
+('3410','2001-05-14',''),
+('3411','2001-05-21',''),
+('3412','2001-05-21',''),
+('3413','2001-05-21',''),
+('3414','2002-10-21',''),
+('3415','2002-05-29',''),
+('3416','2001-05-15',''),
+('3417','2001-05-21',''),
+('3418','2001-05-21',''),
+('3419','2001-05-21',''),
+('3420','2001-05-14',''),
+('3421','2001-05-21',''),
+('3422','2001-05-21',''),
+('3423','2001-05-17',''),
+('3424','2001-05-21',''),
+('3425','2001-05-17',''),
+('3426','2001-05-07',''),
+('3428','2001-05-22',''),
+('3429','2001-05-16',''),
+('3430','2001-05-17',''),
+('3431','2001-05-16',''),
+('3432','2001-05-14',''),
+('3433','2001-05-15',''),
+('3434','2001-05-21',''),
+('3435','2001-05-21',''),
+('3436','2001-05-18',''),
+('3437','2001-05-21',''),
+('3438','2001-05-21',''),
+('3439','2001-05-22',''),
+('3440','2001-05-21',''),
+('3441','2001-05-21',''),
+('3442','2001-05-14',''),
+('3444','2001-05-14',''),
+('3445','2001-05-11',''),
+('3446','2001-05-14',''),
+('3447','2001-05-21',''),
+('3448','2001-05-11',''),
+('3449','2001-05-18',''),
+('3450','2001-05-21',''),
+('3451','2001-05-11',''),
+('3452','2001-05-18',''),
+('3453','2001-05-16',''),
+('3454','2001-05-15',''),
+('3455','2001-05-14',''),
+('3456','2001-05-16',''),
+('3457','2001-05-11',''),
+('3458','2001-05-21',''),
+('3459','2001-05-14',''),
+('3460','2001-05-21',''),
+('3461','2001-05-21',''),
+('3462','2001-05-21',''),
+('3463','2001-05-15',''),
+('3464','2001-05-11',''),
+('3465','2001-05-22',''),
+('3466','2001-05-21',''),
+('3467','2001-05-14',''),
+('3468','2001-05-11',''),
+('3469','2001-05-11',''),
+('3470','2001-05-18',''),
+('3471','2001-05-17',''),
+('3472','2001-05-22',''),
+('3473','2001-05-16',''),
+('3474','2001-05-18',''),
+('3475','2001-05-15',''),
+('3476','2001-05-16',''),
+('3477','2001-05-16',''),
+('3478','2001-05-14',''),
+('3479','2001-05-18',''),
+('3480','2001-05-22',''),
+('3481','2001-05-16',''),
+('3482','2001-05-15',''),
+('3483','2001-05-18',''),
+('3484','2001-05-14',''),
+('3485','2001-05-11',''),
+('3486','2001-05-21',''),
+('3487','2001-05-15',''),
+('3488','2001-05-17',''),
+('3489','2001-05-21',''),
+('3490','2001-05-15',''),
+('3491','2001-05-14',''),
+('3492','2001-05-16',''),
+('3493','2001-05-24',''),
+('3494','2001-05-18',''),
+('3495','2001-05-14',''),
+('3496','2001-05-21',''),
+('3497','2001-05-17',''),
+('3498','2001-05-14',''),
+('3499','2001-05-15',''),
+('3500','2001-05-18',''),
+('3501','2001-05-17',''),
+('3502','2001-05-17',''),
+('3503','2001-05-11',''),
+('3504','2001-05-22',''),
+('3505','2001-05-22',''),
+('3506','2001-05-18',''),
+('3508','2001-05-21',''),
+('3509','2001-05-18',''),
+('3510','2001-05-21',''),
+('3511','2001-05-15',''),
+('3512','2001-05-14',''),
+('3513','2001-05-11',''),
+('3514','2001-05-21',''),
+('3515','2001-05-15',''),
+('3516','2001-05-14',''),
+('3517','2001-05-17',''),
+('3518','2001-05-21',''),
+('3519','2001-05-18',''),
+('3520','2002-02-12',''),
+('3521','2001-05-24',''),
+('3522','2001-05-17',''),
+('3524','2001-05-16',''),
+('3525','2001-05-21',''),
+('3526','2001-05-21',''),
+('3527','2001-05-16',''),
+('3528','2001-05-21',''),
+('3529','2001-05-21',''),
+('3530','2001-05-16',''),
+('3532','2001-05-21',''),
+('3533','2001-05-16',''),
+('3535','2001-05-15',''),
+('3536','2001-05-17',''),
+('3537','2001-05-17',''),
+('3538','2001-05-16',''),
+('3539','2001-05-14',''),
+('3540','2001-05-11',''),
+('3541','2001-05-18',''),
+('3542','2001-05-18',''),
+('3543','2001-05-21',''),
+('3544','2001-05-21',''),
+('3545','2001-05-17',''),
+('3546','2001-05-14',''),
+('3547','2001-05-21',''),
+('3549','2001-05-18',''),
+('3550','2001-05-15',''),
+('3551','2001-05-17',''),
+('3552','2001-05-14',''),
+('3553','2001-05-14',''),
+('3554','2001-05-15',''),
+('3555','2001-05-11',''),
+('3556','2001-05-14',''),
+('3557','2001-05-21',''),
+('3558','2001-05-16',''),
+('3559','2001-05-14',''),
+('3560','2001-05-14',''),
+('3561','2001-05-18',''),
+('3562','2001-05-14',''),
+('3563','2001-05-11',''),
+('3564','2001-05-09',''),
+('3565','2001-05-11',''),
+('3566','2001-05-21',''),
+('3567','2001-05-21',''),
+('3568','2001-05-24',''),
+('3569','2001-05-18',''),
+('3570','2001-05-16',''),
+('3571','2001-05-17',''),
+('3573','2001-05-16',''),
+('3574','2001-05-21',''),
+('3575','2001-05-21',''),
+('3576','2001-05-21',''),
+('3577','2001-05-18',''),
+('3578','2001-05-14',''),
+('3579','2001-05-14',''),
+('3580','2001-05-17',''),
+('3581','2001-05-16',''),
+('3582','2001-05-16',''),
+('3583','2001-05-21',''),
+('3584','2001-05-16',''),
+('3585','2001-05-21',''),
+('3586','2001-05-21',''),
+('3587','2001-05-21',''),
+('3588','2001-05-16',''),
+('3589','2001-05-14',''),
+('3590','2001-05-16',''),
+('3591','2001-05-21',''),
+('3592','2001-05-21',''),
+('3593','2001-05-23',''),
+('3594','2001-05-15',''),
+('3595','2001-05-18',''),
+('3596','2001-05-07',''),
+('3597','2001-05-21',''),
+('3598','2001-05-14',''),
+('3599','2001-06-12',''),
+('3600','2001-05-14',''),
+('3601','2001-05-11',''),
+('3602','2001-05-22',''),
+('3603','2001-05-18',''),
+('3604','2001-05-17',''),
+('3605','2001-06-18',''),
+('3606','2001-05-17',''),
+('3607','2001-05-15',''),
+('3608','2001-05-18',''),
+('3609','2001-05-11',''),
+('3610','2001-06-15',''),
+('3611','2001-05-15',''),
+('3612','2001-05-16',''),
+('3613','2001-05-15',''),
+('3614','2001-05-07',''),
+('3615','2001-05-16',''),
+('3616','2001-05-21',''),
+('3617','2001-05-14',''),
+('3618','2001-05-22',''),
+('3619','2001-05-15',''),
+('3620','2001-05-22',''),
+('3621','2001-09-03',''),
+('3622','2001-05-07',''),
+('3623','2001-05-18',''),
+('3624','2001-05-17',''),
+('3625','2001-09-06',''),
+('3626','2001-05-17',''),
+('3627','2001-05-22',''),
+('3628','2001-05-17',''),
+('3629','2001-05-21',''),
+('3630','2001-05-17',''),
+('3631','2001-05-18',''),
+('3632','2001-05-17',''),
+('3633','2001-05-15',''),
+('3634','2001-05-21',''),
+('3635','2001-05-15',''),
+('3636','2001-05-15',''),
+('3637','2001-05-16',''),
+('3638','2001-05-07',''),
+('3639','2001-05-24',''),
+('3640','2001-05-22',''),
+('3642','2001-05-15',''),
+('3643','2001-05-22',''),
+('3644','2001-05-18',''),
+('3645','2001-05-18',''),
+('3646','2001-05-18',''),
+('3647','2001-05-15',''),
+('3648','2001-05-21',''),
+('3649','2001-05-21',''),
+('3650','2002-06-10',''),
+('3651','2001-05-17',''),
+('3652','2001-05-18',''),
+('3653','2001-05-15',''),
+('3654','2001-05-21',''),
+('3655','2001-05-15',''),
+('3656','2001-05-18',''),
+('3657','2001-05-18',''),
+('3658','2001-05-14',''),
+('3659','2001-05-18',''),
+('3660','2001-05-18',''),
+('3661','2002-08-16',''),
+('3662','2001-05-16',''),
+('3663','2001-05-21',''),
+('3664','2001-05-15',''),
+('3665','2001-05-17',''),
+('3666','2001-05-18',''),
+('3667','2001-05-18',''),
+('3668','2001-05-21',''),
+('3669','2001-05-11',''),
+('3670','2001-05-23',''),
+('3671','2001-05-14',''),
+('3672','2002-03-13',''),
+('3673','2001-05-15',''),
+('3674','2001-05-22',''),
+('3675','2001-05-17',''),
+('3676','2001-05-11',''),
+('3677','2001-05-23',''),
+('3678','2001-05-17',''),
+('3679','2001-05-17',''),
+('3680','2001-05-22',''),
+('3681','2001-05-21',''),
+('3682','2001-05-14',''),
+('3683','2001-05-21',''),
+('3684','2001-05-21',''),
+('3685','2001-05-22',''),
+('3686','2001-05-22',''),
+('3687','2001-05-22',''),
+('3688','2001-05-15',''),
+('3689','2001-05-14',''),
+('3690','2001-05-21',''),
+('3691','2001-06-21',''),
+('3692','2001-05-15',''),
+('3693','2001-05-21',''),
+('3694','2001-05-17',''),
+('3695','2001-05-18',''),
+('3696','2001-05-15',''),
+('3697','2001-05-21',''),
+('3698','2001-05-21',''),
+('3699','2001-05-21',''),
+('3700','2001-05-11',''),
+('3701','2001-05-21',''),
+('3702','2001-05-14',''),
+('3703','2001-06-21',''),
+('3704','2001-05-21',''),
+('3705','2001-05-14',''),
+('3706','2001-05-22',''),
+('3707','2001-05-24',''),
+('3708','2001-05-22',''),
+('3709','2001-05-21',''),
+('3710','2001-05-21',''),
+('3711','2001-05-21',''),
+('3712','2001-05-15',''),
+('3713','2001-05-18',''),
+('3714','2001-05-16',''),
+('3715','2001-05-22',''),
+('3716','2001-05-15',''),
+('3717','2001-05-17',''),
+('3718','2001-05-22',''),
+('3719','2001-05-17',''),
+('3720','2001-05-17',''),
+('3721','2001-05-17',''),
+('3722','2001-05-14',''),
+('3723','2001-05-17',''),
+('3724','2001-05-16',''),
+('3725','2001-05-17',''),
+('3726','2001-05-15',''),
+('3727','2001-05-16',''),
+('3728','2001-05-15',''),
+('3729','2001-05-18',''),
+('3730','2001-05-21',''),
+('3731','2001-05-14',''),
+('3732','2001-05-14',''),
+('3733','2001-05-18',''),
+('3734','2001-05-18',''),
+('3735','2001-05-22',''),
+('3736','2001-05-21',''),
+('3737','2001-05-22',''),
+('3738','2001-05-21',''),
+('3739','2001-05-14',''),
+('3740','2001-05-17',''),
+('3741','2001-05-21',''),
+('3742','2001-05-21',''),
+('3743','2001-05-21',''),
+('3744','2001-05-21',''),
+('3746','2001-05-14',''),
+('3747','2001-05-15',''),
+('3748','2001-05-15',''),
+('3749','2001-05-15',''),
+('3750','2001-05-17',''),
+('3751','2001-05-18',''),
+('3752','2001-05-21',''),
+('3753','2001-05-17',''),
+('3754','2001-05-15',''),
+('3755','2001-05-18',''),
+('3756','2001-05-18',''),
+('3757','2001-05-14',''),
+('3758','2001-05-22',''),
+('3759','2001-05-21',''),
+('3760','2001-05-18',''),
+('3761','2001-05-17',''),
+('3762','2001-05-18',''),
+('3763','2001-05-15',''),
+('3764','2001-05-14',''),
+('3765','2001-05-14',''),
+('3766','2001-05-18',''),
+('3767','2001-05-17',''),
+('3769','2001-05-18',''),
+('3770','2001-05-14',''),
+('3771','2001-05-18',''),
+('3772','2001-05-21',''),
+('3773','2001-05-18',''),
+('3774','2001-05-17',''),
+('3775','2001-05-21',''),
+('3776','2001-05-07',''),
+('3777','2001-05-18',''),
+('3778','2001-05-16',''),
+('3779','2001-05-21',''),
+('3780','2001-05-18',''),
+('3781','2001-05-17',''),
+('3783','2001-05-17',''),
+('3784','2001-05-18',''),
+('3785','2001-05-07',''),
+('3786','2001-05-22',''),
+('3787','2001-05-17',''),
+('3788','2001-05-17',''),
+('3789','2001-05-11',''),
+('3790','2001-05-07',''),
+('3791','2001-05-14',''),
+('3792','2001-05-23',''),
+('3793','2001-05-18',''),
+('3794','2001-05-18',''),
+('3795','2001-05-18',''),
+('3796','2001-05-15',''),
+('3797','2001-05-14',''),
+('3799','2001-05-15',''),
+('3800','2001-05-11',''),
+('3801','2001-05-21',''),
+('3802','2001-05-14',''),
+('3803','2001-05-21',''),
+('3804','2001-05-15',''),
+('3805','2001-05-11',''),
+('3806','2001-05-18',''),
+('3807','2001-05-14',''),
+('3808','2001-05-11',''),
+('3809','2001-05-18',''),
+('3810','2001-05-16',''),
+('3811','2001-05-18',''),
+('3812','2001-05-11',''),
+('3813','2001-06-13',''),
+('3814','2001-06-13',''),
+('3815','2001-07-26',''),
+('3816','2001-07-20',''),
+('3817','2001-08-22',''),
+('3818','2002-01-29',''),
+('3819','2002-01-28',''),
+('3820','2002-01-10',''),
+('3821','2002-01-10',''),
+('3822','2002-10-17',''),
+('3823','2002-01-28',''),
+('3824','2002-01-24',''),
+('3825','2002-01-28',''),
+('3826','2002-12-16',''),
+('3827','2005-07-13',''),
+('3828','2002-08-28',''),
+('3829','2002-09-24',''),
+('3830','2002-10-11',''),
+('3831','2002-10-22',''),
+('3832','2002-10-14',''),
+('3833','2002-10-30',''),
+('3834','2002-11-15',''),
+('3835','2002-11-15',''),
+('3836','2002-12-09',''),
+('3837','2002-12-09',''),
+('3838','2003-01-14',''),
+('3839','2002-12-09',''),
+('3840','2002-12-09',''),
+('3841','2003-01-23',''),
+('3842','2003-01-22',''),
+('3843','2003-01-14',''),
+('3844','2003-03-20',''),
+('3845','2003-03-26',''),
+('3846','2003-03-26',''),
+('3847','2003-04-15',''),
+('3848','2003-03-20',''),
+('3849','2003-03-20',''),
+('3850','2003-03-20',''),
+('3851','2003-05-12',''),
+('3852','2005-07-01',''),
+('3853','2003-05-02',''),
+('3854','2003-05-12',''),
+('3855','2003-05-22',''),
+('3856','2003-06-03',''),
+('3857','2003-06-09',''),
+('3858','2003-06-04',''),
+('3859','2004-05-31',''),
+('3860','2003-08-14',''),
+('3861','2003-08-28',''),
+('3862','2003-11-14',''),
+('3863','2003-11-25',''),
+('3864','2004-05-26',''),
+('3865','2004-04-26',''),
+('3866','2004-01-19',''),
+('3867','2004-05-31',''),
+('3868','2004-05-10',''),
+('3869','2004-09-08',''),
+('3870','2004-03-19',''),
+('3871','2004-05-31',''),
+('3872','2004-06-14',''),
+('3873','2005-05-16',''),
+('3874','2004-06-21',''),
+('3875','2004-10-12',''),
+('3876','2004-08-30',''),
+('3877','2004-10-28',''),
+('3878','2004-10-06',''),
+('3879','2005-05-04',''),
+('3880','2005-07-12',''),
+('3881','2005-01-03',''),
+('3882','2005-05-06',''),
+('3883','2005-02-07',''),
+('3884','2005-02-09',''),
+('3885','2005-06-14',''),
+('3886','2005-07-04',''),
+('3887','2005-08-03',''),
+('3888','2005-09-05',''),
+('3889','2005-11-03',''),
+('3890','2005-10-10',''),
+('3891','2005-09-23',''),
+('3892','2005-09-20',''),
+('3893','2005-09-14',''),
+('3894','2005-10-03',''),
+('3895','2005-10-17',''),
+('3896','2005-10-24',''),
+('3897','2006-03-15',''),
+('3898','2006-02-20',''),
+('3899','2006-03-28',''),
+('3900','2006-05-03',''),
+('3901','2006-07-14',''),
+('3902','2006-08-02',''),
+('3903','2006-08-17',''),
+('3904','2006-11-09',''),
+('3905','2006-10-20',''),
+('3906','2006-08-17',''),
+('3907','2006-08-30',''),
+('3908','2006-08-30',''),
+('3909','2006-10-02',''),
+('3910','2006-10-03',''),
+('3911','2006-11-13',''),
+('3912','2006-10-20',''),
+('3913','2006-11-30',''),
+('3914','2006-12-14',''),
+('3915','2007-03-09',''),
+('3916','2007-01-09',''),
+('3917','2007-01-11',''),
+('3918','2007-01-10',''),
+('3919','2007-04-09',''),
+('3920','2007-03-23',''),
+('3921','2007-04-30',''),
+('3922','2007-05-15',''),
+('3923','2007-05-25',''),
+('3924','2007-05-21',''),
+('3925','2007-06-06',''),
+('3926','2007-07-23',''),
+('3927','2007-09-07',''),
+('3928','2007-10-02',''),
+('3929','2007-08-21',''),
+('3930','2007-10-26',''),
+('3931','2007-10-04',''),
+('3932','2007-12-10',''),
+('3933','2008-01-28',''),
+('3934','2008-02-08',''),
+('3935','2008-03-25',''),
+('3936','2008-05-12',''),
+('3937','2008-04-21',''),
+('3938','2008-05-19',''),
+('3939','2008-05-19',''),
+('3940','2008-06-13',''),
+('3941','2008-07-01',''),
+('3942','2008-07-16',''),
+('3943','2008-07-16',''),
+('3944','2008-06-27',''),
+('3945','2008-07-04',''),
+('3946','2008-07-28',''),
+('3947','2008-08-20',''),
+('3948','2008-08-04',''),
+('3949','2008-09-19',''),
+('3950','2008-08-25',''),
+('3951','2008-09-05',''),
+('3952','2008-10-16',''),
+('3953','2008-09-25',''),
+('3954','2008-11-03',''),
+('3955','2008-10-20',''),
+('3956','2008-11-06',''),
+('3957','2008-10-07',''),
+('3958','2009-02-03',''),
+('3959','2008-10-30',''),
+('3960','2008-11-03',''),
+('3961','2008-12-11',''),
+('3962','2009-04-01',''),
+('3963','2009-03-25',''),
+('3964','2009-05-15',''),
+('3965','2009-06-16',''),
+('3966','2009-05-14',''),
+('3967','2009-05-12',''),
+('3968','2009-06-08',''),
+('3969','2009-06-17',''),
+('3970','2009-07-01',''),
+('3971','2009-07-14',''),
+('3972','2009-06-25',''),
+('3973','2009-10-05',''),
+('3974','2009-09-22',''),
+('3975','2009-09-17',''),
+('3976','2010-01-29',''),
+('3977','2009-10-21',''),
+('3978','2009-11-17',''),
+('3979','2010-01-11',''),
+('3980','2010-03-12',''),
+('3981','2010-03-10',''),
+('3982','2010-04-23',''),
+('3983','2010-04-29',''),
+('3984','2010-04-29',''),
+('3985','2010-09-21',''),
+('3986','2010-09-13',''),
+('3987','2010-10-01',''),
+('3988','2010-10-20',''),
+('3989','2010-11-22',''),
+('3990','2010-10-19',''),
+('3991','2010-10-21',''),
+('3992','2010-10-11',''),
+('3993','2010-12-01',''),
+('3994','2010-12-01',''),
+('3995','2011-01-13',''),
+('3996','2011-01-07',''),
+('3997','2011-01-27',''),
+('3998','2011-01-26',''),
+('3999','2011-02-15',''),
+('4001','2001-12-21',''),
+('4002','2002-01-02',''),
+('4003','2001-12-21',''),
+('4004','2001-12-21',''),
+('4005','2001-12-21',''),
+('4006','2001-12-21',''),
+('4007','2001-12-21',''),
+('4008','2001-12-21',''),
+('4009','2001-12-21',''),
+('4011','2002-08-27',''),
+('4012','2001-12-21',''),
+('4013','2001-12-21',''),
+('4014','2001-12-21',''),
+('4015','2001-12-21',''),
+('4016','2001-12-21',''),
+('4017','2001-12-21',''),
+('4018','2001-12-31',''),
+('4019','2001-12-21',''),
+('4020','2002-08-22',''),
+('4021','2001-12-21',''),
+('4022','2001-12-21',''),
+('4023','2001-12-21',''),
+('4024','2001-12-21',''),
+('4025','2002-01-02',''),
+('4026','2001-12-21',''),
+('4027','2001-12-21',''),
+('4028','2004-04-07',''),
+('4029','2002-01-02',''),
+('4030','2002-01-02',''),
+('4031','2002-01-02',''),
+('4032','2002-01-02',''),
+('4033','2001-12-21',''),
+('4035','2002-01-02',''),
+('4036','2001-12-21',''),
+('4037','2002-01-02',''),
+('4038','2002-01-02',''),
+('4039','2002-01-02',''),
+('4040','2002-08-20',''),
+('4041','2002-10-15',''),
+('4042','2002-01-02',''),
+('4043','2002-01-02',''),
+('4044','2002-01-02',''),
+('4045','2002-01-02',''),
+('4046','2002-08-26',''),
+('4047','2002-01-02',''),
+('4048','2002-01-02',''),
+('4049','2002-08-12',''),
+('4050','2001-12-21',''),
+('4052','2002-01-02',''),
+('4054','2002-10-31',''),
+('4055','2002-08-19',''),
+('4056','2002-08-26',''),
+('4057','2002-07-25',''),
+('4058','2002-01-02',''),
+('4059','2002-01-02',''),
+('4060','2002-08-26',''),
+('4061','2002-08-20',''),
+('4063','2001-12-31',''),
+('4064','2002-01-02',''),
+('4066','2001-12-31',''),
+('4067','2001-12-21',''),
+('4068','2002-10-17',''),
+('4069','2002-01-02',''),
+('4070','2002-10-10',''),
+('4071','2004-05-19',''),
+('4072','2004-05-19',''),
+('4073','2002-08-21',''),
+('4074','2003-05-14',''),
+('4075','2003-05-30',''),
+('4076','2003-11-14',''),
+('4078','2004-05-19',''),
+('4079','2004-06-28',''),
+('4080','2004-07-06',''),
+('4081','2004-08-11',''),
+('4082','2004-07-23',''),
+('4083','2005-04-05',''),
+('4084','2005-09-05',''),
+('4085','2008-02-15',''),
+('4086','2012-04-24',''),
+('4087','2011-12-21',''),
+('4088','2012-05-29',''),
+('4089','2005-03-14',''),
+('4090','2005-06-21',''),
+('4091','2006-06-07',''),
+('4092','2006-07-04',''),
+('4093','2006-11-08',''),
+('4094','2007-05-03',''),
+('4095','2007-03-13',''),
+('4096','2007-08-22',''),
+('4098','2008-01-31',''),
+('4099','2008-06-11',''),
+('4100','2008-08-27',''),
+('4101','2010-07-01',''),
+('4102','2010-06-29',''),
+('4103','2010-07-26',''),
+('4104','2010-12-01',''),
+('4105','2011-06-13',''),
+('4106','2011-09-21',''),
+('4107','2012-09-17',''),
+('4108','2012-10-23',''),
+('4109','2013-04-26',''),
+('4110','2013-03-07',''),
+('4111','2013-07-23',''),
+('4112','2013-09-05',''),
+('4113','2013-11-04',''),
+('4114','2014-04-10',''),
+('4115','2014-05-16',''),
+('4116','2016-06-22',''),
+('4117','2015-07-06',''),
+('4118','2003-06-06',''),
+('5001','2001-01-01',''),
+('5002','2002-08-22',''),
+('5003','2001-01-01',''),
+('5004','2001-01-01',''),
+('5005','2001-01-01',''),
+('5006','2001-01-01',''),
+('5007','2001-01-01',''),
+('5008','2001-01-01',''),
+('5009','2001-01-01',''),
+('5010','2001-01-01',''),
+('5011','2001-01-01',''),
+('5012','2001-01-01',''),
+('5013','2002-08-22',''),
+('5014','2001-01-01',''),
+('5015','2002-08-22',''),
+('5016','2001-01-01',''),
+('5017','2001-01-01',''),
+('5018','2001-01-01',''),
+('5019','2001-01-01',''),
+('5020','2001-01-01',''),
+('5021','2001-01-01',''),
+('5022','2001-01-01',''),
+('5023','2001-01-01',''),
+('5024','2001-01-01',''),
+('5025','2001-01-01',''),
+('5026','2001-01-01',''),
+('5027','2001-01-01',''),
+('5028','2001-01-01',''),
+('5029','2001-01-01',''),
+('5030','2001-01-01',''),
+('5031','2001-01-01',''),
+('5032','2001-01-01',''),
+('5033','2001-01-01',''),
+('5034','2001-01-01',''),
+('5035','2001-01-01',''),
+('5036','2001-01-01',''),
+('5037','2001-01-01',''),
+('5038','2001-01-01',''),
+('5039','2001-01-01',''),
+('5040','2001-01-01',''),
+('5041','2001-01-01',''),
+('5042','2001-01-01',''),
+('5043','2001-01-01',''),
+('5044','2001-01-01',''),
+('5045','2001-01-01',''),
+('5046','2001-01-01',''),
+('5047','2001-01-01',''),
+('5048','2001-01-01',''),
+('5049','2001-01-01',''),
+('5050','2001-01-01',''),
+('5051','2001-01-01',''),
+('5052','2001-01-01',''),
+('5053','2001-01-01',''),
+('5054','2001-01-01',''),
+('5055','2001-01-01',''),
+('5056','2001-01-01',''),
+('5057','2001-01-01',''),
+('5058','2001-01-01',''),
+('5059','2001-01-01',''),
+('5060','2001-01-01',''),
+('5061','2001-01-01',''),
+('5062','2001-01-01',''),
+('5063','2001-01-01',''),
+('5064','2001-01-01',''),
+('5065','2001-01-01',''),
+('5066','2001-01-01',''),
+('5067','2001-01-01',''),
+('5068','2001-01-01',''),
+('5069','2004-04-13',''),
+('5070','2001-01-01',''),
+('5071','2001-01-01',''),
+('5072','2001-01-01',''),
+('5073','2001-01-01',''),
+('5074','2001-01-01',''),
+('5075','2001-01-01',''),
+('5076','2001-01-01',''),
+('5077','2001-01-01',''),
+('5078','2001-01-01',''),
+('5079','2001-01-01',''),
+('5080','2001-01-01',''),
+('5081','2001-01-01',''),
+('5082','2001-01-01',''),
+('5083','2001-01-01',''),
+('5084','2001-01-01',''),
+('5085','2001-01-01',''),
+('5086','2001-01-01',''),
+('5087','2001-01-01',''),
+('5088','2001-01-01',''),
+('5089','2001-01-01',''),
+('5090','2001-01-01',''),
+('5091','2001-01-01',''),
+('5092','2001-01-01',''),
+('5093','2001-01-01',''),
+('5094','2001-01-01',''),
+('5095','2001-01-01',''),
+('5096','2001-01-01',''),
+('5098','2001-01-01',''),
+('5099','2001-01-01',''),
+('5100','2001-01-01',''),
+('5101','2001-01-01',''),
+('5102','2001-01-01',''),
+('5103','2001-01-01',''),
+('5104','2001-01-01',''),
+('5105','2001-01-01',''),
+('5106','2001-01-01',''),
+('5107','2001-01-01',''),
+('5108','2001-01-01',''),
+('5109','2001-01-01',''),
+('5110','2001-01-01',''),
+('5111','2001-01-01',''),
+('5112','2001-01-01',''),
+('5113','2001-01-01',''),
+('5114','2001-01-01',''),
+('5115','2001-01-01',''),
+('5116','2001-01-01',''),
+('5117','2001-01-01',''),
+('5118','2001-01-01',''),
+('5119','2001-01-01',''),
+('5120','2001-01-01',''),
+('5121','2001-01-01',''),
+('5122','2001-01-01',''),
+('5123','2001-01-01',''),
+('5124','2001-01-01',''),
+('5125','2001-01-01',''),
+('5126','2001-01-01',''),
+('5127','2001-01-01',''),
+('5128','2001-01-01',''),
+('5129','2001-01-01',''),
+('5130','2002-08-08',''),
+('5131','2001-01-01',''),
+('5132','2001-01-01',''),
+('5133','2001-01-01',''),
+('5134','2001-01-01',''),
+('5135','2001-01-01',''),
+('5136','2001-01-01',''),
+('5137','2001-01-01',''),
+('5138','2001-01-01',''),
+('5139','2001-01-01',''),
+('5140','2001-01-01',''),
+('5141','2001-01-01',''),
+('5142','2001-01-01',''),
+('5143','2001-01-01',''),
+('5148','2001-01-01',''),
+('5149','2001-01-01',''),
+('5150','2001-01-01',''),
+('5151','2001-01-01',''),
+('5152','2001-01-01',''),
+('5153','2001-01-01',''),
+('5154','2001-01-01',''),
+('5155','2001-01-01',''),
+('5156','2001-01-01',''),
+('5157','2001-01-01',''),
+('5158','2001-01-01',''),
+('5159','2001-01-01',''),
+('5160','2001-01-01',''),
+('5161','2001-01-01',''),
+('5162','2001-01-01',''),
+('5163','2001-01-01',''),
+('5164','2001-01-01',''),
+('5165','2001-01-01',''),
+('5166','2001-01-01',''),
+('5167','2001-01-01',''),
+('5168','2001-01-01',''),
+('5170','2001-01-01',''),
+('5171','2001-01-01',''),
+('5172','2001-01-01',''),
+('5173','2001-01-01',''),
+('5174','2001-01-01',''),
+('5175','2001-01-01',''),
+('5176','2001-01-01',''),
+('5177','2001-01-01',''),
+('5178','2001-01-01',''),
+('5179','2001-01-01',''),
+('5180','2001-01-01',''),
+('5181','2001-01-01',''),
+('5182','2001-01-01',''),
+('5183','2001-01-01',''),
+('5184','2001-01-01',''),
+('5185','2001-01-01',''),
+('5186','2001-01-01',''),
+('5187','2001-01-01',''),
+('5188','2001-01-01',''),
+('5189','2001-01-01',''),
+('5190','2001-01-01',''),
+('5191','2001-01-01',''),
+('5192','2001-01-01',''),
+('5193','2001-01-01',''),
+('5194','2001-01-01',''),
+('5195','2001-01-01',''),
+('5196','2001-01-01',''),
+('5197','2001-01-01',''),
+('5198','2001-01-01',''),
+('5199','2001-01-01',''),
+('5200','2001-01-01',''),
+('5201','2001-01-01',''),
+('5202','2001-01-01',''),
+('5203','2001-01-01',''),
+('5204','2001-01-01',''),
+('5205','2001-01-01',''),
+('5206','2001-01-01',''),
+('5207','2001-01-01',''),
+('5208','2001-01-01',''),
+('5209','2001-01-01',''),
+('5210','2001-01-01',''),
+('5211','2001-01-01',''),
+('5212','2001-01-01',''),
+('5213','2001-01-01',''),
+('5214','2001-01-01',''),
+('5215','2001-01-01',''),
+('5216','2001-01-01',''),
+('5217','2001-01-01',''),
+('5218','2001-01-01',''),
+('5219','2001-01-01',''),
+('5220','2001-01-01',''),
+('5221','2001-01-01',''),
+('5222','2001-01-01',''),
+('5223','2001-01-01',''),
+('5224','2001-01-01',''),
+('5225','2001-01-01',''),
+('5226','2001-01-01',''),
+('5227','2001-01-01',''),
+('5228','2001-01-01',''),
+('5229','2001-01-01',''),
+('5230','2001-01-01',''),
+('5231','2001-01-01',''),
+('5233','2001-01-01',''),
+('5234','2001-01-01',''),
+('5235','2001-01-01',''),
+('5236','2001-01-01',''),
+('5237','2001-01-01',''),
+('5238','2001-01-01',''),
+('5239','2001-01-01',''),
+('5240','2004-04-15',''),
+('5241','2001-01-01',''),
+('5242','2001-01-01',''),
+('5243','2001-12-31',''),
+('5244','2001-01-01',''),
+('5245','2001-01-01',''),
+('5246','2001-01-01',''),
+('5247','2001-01-01',''),
+('5248','2001-01-01',''),
+('5249','2001-01-01',''),
+('5250','2001-01-01',''),
+('5251','2001-01-01',''),
+('5252','2001-01-01',''),
+('5253','2002-08-22',''),
+('5254','2002-08-23',''),
+('5255','2002-08-23',''),
+('5256','2001-01-01',''),
+('5257','2001-01-01',''),
+('5258','2001-01-01',''),
+('5259','2001-01-01',''),
+('5260','2001-01-01',''),
+('5261','2002-08-20',''),
+('5262','2001-01-01',''),
+('5263','2002-08-23',''),
+('5264','2002-08-23',''),
+('5265','2001-01-01',''),
+('5266','2002-08-23',''),
+('5267','2002-08-08',''),
+('5268','2001-01-01',''),
+('5269','2001-01-01',''),
+('5270','2001-01-01',''),
+('5271','2002-05-27',''),
+('5272','2002-08-23',''),
+('5273','2002-08-23',''),
+('5274','2002-08-28',''),
+('5275','2002-10-15',''),
+('5276','2002-08-23',''),
+('5277','2001-01-01',''),
+('5278','2013-08-20',''),
+('5280','2013-09-06',''),
+('5281','2002-08-08',''),
+('5282','2001-01-01',''),
+('5283','2002-08-08',''),
+('5284','2001-01-01',''),
+('5286','2001-01-01',''),
+('5287','2001-01-01',''),
+('5288','2002-08-09',''),
+('5289','2002-08-23',''),
+('5290','2002-01-02',''),
+('5291','2002-08-23',''),
+('5292','2002-08-23',''),
+('5293','2002-08-28',''),
+('5294','2001-01-01',''),
+('5295','2001-01-01',''),
+('5296','2001-01-01',''),
+('5297','2001-01-01',''),
+('5298','2001-01-01',''),
+('5299','2002-08-23',''),
+('5300','2001-01-01',''),
+('5302','2001-01-01',''),
+('5303','2002-08-23',''),
+('5304','2002-01-02',''),
+('5305','2002-08-23',''),
+('5307','2001-01-01',''),
+('5308','2001-01-01',''),
+('5309','2002-08-08',''),
+('5310','2002-08-23',''),
+('5311','2001-01-01',''),
+('5312','2001-01-01',''),
+('5313','2001-01-01',''),
+('5314','2002-08-23',''),
+('5315','2001-01-01',''),
+('5316','2001-01-01',''),
+('5317','2001-01-01',''),
+('5318','2002-08-21',''),
+('5319','2001-01-01',''),
+('5320','2001-01-01',''),
+('5321','2002-08-14',''),
+('5322','2002-08-27',''),
+('5323','2001-01-01',''),
+('5324','2001-01-01',''),
+('5325','2001-01-01',''),
+('5326','2001-01-01',''),
+('5327','2002-10-17',''),
+('5328','2002-08-20',''),
+('5330','2001-01-01',''),
+('5331','2002-08-26',''),
+('5332','2001-01-01',''),
+('5333','2002-08-26',''),
+('5334','2002-01-02',''),
+('5335','2002-08-27',''),
+('5338','2001-01-01',''),
+('5339','2001-01-01',''),
+('5340','2002-08-26',''),
+('5341','2001-01-01',''),
+('5342','2001-01-01',''),
+('5343','2002-08-26',''),
+('5344','2001-01-01',''),
+('5345','2001-01-01',''),
+('5346','2001-01-01',''),
+('5348','2002-01-01',''),
+('5350','2002-08-16',''),
+('5351','2002-08-23',''),
+('5352','2001-01-01',''),
+('5353','2002-01-02',''),
+('5354','2002-08-23',''),
+('5355','2002-08-23',''),
+('5356','2002-08-23',''),
+('5357','2002-08-23',''),
+('5358','2001-01-01',''),
+('5359','2001-01-01',''),
+('5360','2001-01-01',''),
+('5361','2001-01-01',''),
+('5362','2002-01-03',''),
+('5363','2002-08-23',''),
+('5364','2002-07-24',''),
+('5365','2002-08-23',''),
+('5366','2002-08-23',''),
+('5367','2001-01-01',''),
+('5368','2001-01-01',''),
+('5369','2001-01-01',''),
+('5370','2002-08-23',''),
+('5371','2002-08-23',''),
+('5372','2002-08-08',''),
+('5373','2002-10-15',''),
+('5374','2002-08-26',''),
+('5375','2001-01-01',''),
+('5376','2001-01-01',''),
+('5377','2001-01-01',''),
+('5378','2002-08-26',''),
+('5379','2001-01-01',''),
+('5380','2002-08-26',''),
+('5381','2002-08-26',''),
+('5382','2001-01-01',''),
+('5383','2001-01-01',''),
+('5384','2002-08-08',''),
+('5385','2001-01-01',''),
+('5386','2002-08-26',''),
+('5387','2002-08-26',''),
+('5388','2002-08-13',''),
+('5389','2001-01-01',''),
+('5390','2002-08-08',''),
+('5391','2001-01-01',''),
+('5392','2001-01-01',''),
+('5393','2002-08-26',''),
+('5394','2002-08-26',''),
+('5395','2002-08-26',''),
+('5396','2002-08-26',''),
+('5397','2002-08-26',''),
+('5398','2002-08-26',''),
+('5399','2001-01-01',''),
+('5400','2002-08-26',''),
+('5401','2001-01-01',''),
+('5402','2002-08-26',''),
+('5403','2001-01-01',''),
+('5404','2001-01-01',''),
+('5405','2001-01-01',''),
+('5406','2002-08-26',''),
+('5407','2001-01-01',''),
+('5408','2001-01-01',''),
+('5409','2001-01-01',''),
+('5410','2002-08-26',''),
+('5411','2001-01-01',''),
+('5412','2002-08-19',''),
+('5413','2001-01-01',''),
+('5414','2002-08-26',''),
+('5415','2002-08-26',''),
+('5416','2002-08-08',''),
+('5417','2002-08-27',''),
+('5418','2002-01-03',''),
+('5419','2001-01-01',''),
+('5420','2002-08-26',''),
+('5421','2001-01-01',''),
+('5422','2001-01-01',''),
+('5423','2002-01-03',''),
+('5424','2001-01-01',''),
+('5425','2002-08-23',''),
+('5426','2001-01-01',''),
+('5427','2001-01-01',''),
+('5428','2001-01-01',''),
+('5429','2001-01-01',''),
+('5430','2002-08-23',''),
+('5431','2001-01-01',''),
+('5432','2001-01-01',''),
+('5433','2002-08-26',''),
+('5434','2002-08-23',''),
+('5435','2001-01-01',''),
+('5436','2001-01-01',''),
+('5437','2001-01-01',''),
+('5438','2001-01-01',''),
+('5439','2002-08-27',''),
+('5440','2001-01-01',''),
+('5441','2001-01-01',''),
+('5443','2001-01-01',''),
+('5444','2001-01-01',''),
+('5445','2001-01-01',''),
+('5446','2001-01-01',''),
+('5447','2001-01-01',''),
+('5448','2002-01-02',''),
+('5449','2002-08-23',''),
+('5450','2001-12-31',''),
+('5451','2001-01-01',''),
+('5452','2002-08-26',''),
+('5453','2001-01-01',''),
+('5454','2002-08-23',''),
+('5455','2001-01-01',''),
+('5456','2001-01-01',''),
+('5457','2002-08-23',''),
+('5458','2001-01-01',''),
+('5459','2002-01-02',''),
+('5460','2002-08-28',''),
+('5461','2001-01-01',''),
+('5462','2001-01-01',''),
+('5463','2002-08-23',''),
+('5464','2002-08-23',''),
+('5465','2002-08-08',''),
+('5466','2001-01-01',''),
+('5467','2001-01-01',''),
+('5468','2001-01-01',''),
+('5469','2002-08-23',''),
+('5471','2001-01-01',''),
+('5472','2001-01-01',''),
+('5473','2001-01-01',''),
+('5474','2001-01-01',''),
+('5475','2001-01-01',''),
+('5477','2002-08-27',''),
+('5478','2002-06-04',''),
+('5479','2002-08-28',''),
+('5480','2002-08-27',''),
+('5481','2002-08-27',''),
+('5482','2002-05-24',''),
+('5483','2002-08-27',''),
+('5484','2002-08-27',''),
+('5485','2002-08-30',''),
+('5486','2002-05-23',''),
+('5487','2008-08-05',''),
+('5488','2002-08-30',''),
+('5489','2002-10-11',''),
+('5490','2002-09-11',''),
+('5491','2002-05-24',''),
+('5492','2002-05-23',''),
+('5493','2002-05-23',''),
+('5494','2002-05-23',''),
+('5495','2002-05-23',''),
+('5496','2002-05-28',''),
+('5497','2002-05-23',''),
+('5498','2002-05-23',''),
+('5499','2002-05-27',''),
+('5500','2002-05-27',''),
+('5501','2002-05-24',''),
+('5502','2002-08-27',''),
+('5503','2002-05-16',''),
+('5504','2002-05-27',''),
+('5505','2003-04-04',''),
+('5506','2002-05-24',''),
+('5507','2002-05-23',''),
+('5508','2002-10-02',''),
+('5509','2003-04-03',''),
+('5510','2002-09-23',''),
+('5512','2002-09-11',''),
+('5513','2003-03-31',''),
+('5514','2003-03-31',''),
+('5515','2003-03-31',''),
+('5516','2003-06-06',''),
+('5517','2003-07-18',''),
+('5518','2003-06-06',''),
+('5519','2003-09-25',''),
+('5520','2003-09-29',''),
+('5521','2003-09-26',''),
+('5522','2003-09-26',''),
+('5523','2003-09-29',''),
+('5524','2003-09-26',''),
+('5525','2003-10-23',''),
+('5526','2004-01-15',''),
+('5527','2004-03-09',''),
+('5528','2004-03-08',''),
+('5529','2004-03-08',''),
+('5530','2004-04-13',''),
+('5531','2004-06-14',''),
+('5532','2004-08-13',''),
+('5533','2004-07-28',''),
+('5534','2005-01-24',''),
+('5535','2005-01-21',''),
+('5536','2005-02-01',''),
+('5537','2005-02-16',''),
+('5538','2005-03-22',''),
+('5539','2005-04-15',''),
+('5540','2005-05-02',''),
+('5541','2005-05-02',''),
+('5542','2005-10-06',''),
+('5543','2006-02-27',''),
+('5544','2006-03-09',''),
+('5545','2006-04-10',''),
+('5546','2006-07-03',''),
+('5547','2006-06-30',''),
+('5548','2006-07-03',''),
+('5549','2006-07-03',''),
+('5550','2006-08-31',''),
+('5551','2006-09-20',''),
+('5552','2006-09-26',''),
+('5553','2006-11-01',''),
+('5554','2006-10-26',''),
+('5555','2006-11-06',''),
+('5556','2007-04-04',''),
+('5557','2006-12-08',''),
+('5558','2006-12-15',''),
+('5559','2007-02-26',''),
+('5560','2007-02-26',''),
+('5561','2007-02-26',''),
+('5562','2007-02-26',''),
+('5563','2007-02-26',''),
+('5564','2007-02-27',''),
+('5565','2007-04-13',''),
+('5566','2007-04-04',''),
+('5567','2007-05-30',''),
+('5568','2007-08-07',''),
+('5569','2007-07-17',''),
+('5570','2007-08-07',''),
+('5571','2007-10-19',''),
+('5572','2007-08-21',''),
+('5573','2007-09-14',''),
+('5574','2007-09-11',''),
+('5575','2007-10-16',''),
+('5576','2007-11-29',''),
+('5577','2007-12-19',''),
+('5578','2008-04-04',''),
+('5579','2008-01-29',''),
+('5580','2008-08-05',''),
+('5581','2008-09-10',''),
+('5582','2008-07-28',''),
+('5583','2008-07-25',''),
+('5584','2008-07-28',''),
+('5585','2013-01-16',''),
+('5586','2008-08-12',''),
+('5587','2008-08-13',''),
+('5588','2008-08-25',''),
+('5589','2008-09-15',''),
+('5590','2008-09-15',''),
+('5591','2008-10-10',''),
+('5592','2008-11-20',''),
+('5593','2009-04-14',''),
+('5594','2009-03-20',''),
+('5595','2009-04-01',''),
+('5596','2009-06-05',''),
+('5597','2009-07-31',''),
+('5598','2009-07-31',''),
+('5599','2009-07-31',''),
+('5600','2009-11-18',''),
+('5601','2010-03-03',''),
+('5602','2010-02-18',''),
+('5603','2010-02-18',''),
+('5604','2010-05-12',''),
+('5605','2010-06-25',''),
+('5606','2012-06-01',''),
+('5607','2010-07-26',''),
+('5608','2012-06-01',''),
+('5609','2010-08-09',''),
+('5610','2010-09-09',''),
+('5611','2012-06-12',''),
+('5612','2010-09-09',''),
+('5613','2011-03-03',''),
+('5614','2011-05-26',''),
+('5615','2011-09-14',''),
+('5616','2011-09-21',''),
+('5617','2013-09-13',''),
+('5618','2011-11-04',''),
+('5619','2011-11-04',''),
+('5620','2012-04-26',''),
+('5621','2012-06-19',''),
+('5622','2012-06-05',''),
+('5623','2012-07-12',''),
+('5624','2012-07-12',''),
+('5625','2012-07-12',''),
+('5626','2012-08-02',''),
+('5627','2012-10-10',''),
+('5628','2013-11-29',''),
+('5629','2012-11-15',''),
+('5630','2012-11-28',''),
+('5631','2012-12-07',''),
+('5632','2013-02-12',''),
+('5633','2013-03-13',''),
+('5634','2013-02-25',''),
+('5635','2013-03-07',''),
+('5636','2013-05-07',''),
+('5637','2013-09-09',''),
+('5638','2013-10-15',''),
+('6001','2002-01-02',''),
+('6002','2002-01-02',''),
+('6003','2002-01-02',''),
+('6004','2002-10-07',''),
+('6005','2002-01-02',''),
+('6007','2002-01-02',''),
+('6008','2002-01-02',''),
+('6009','2002-10-09',''),
+('6010','2002-01-02',''),
+('6011','2002-01-02',''),
+('6012','2002-01-02',''),
+('6013','2002-01-02',''),
+('6014','2002-01-02',''),
+('6015','2002-01-02',''),
+('6016','2002-01-02',''),
+('6017','2002-01-02',''),
+('6018','2002-01-02',''),
+('6019','2002-01-02',''),
+('6020','2002-01-03',''),
+('6021','2002-01-03',''),
+('6022','2002-01-03',''),
+('6023','2002-01-02',''),
+('6024','2002-01-02',''),
+('6025','2002-01-02',''),
+('6026','2002-01-03',''),
+('6027','2002-01-03',''),
+('6028','2002-10-09',''),
+('6029','2002-10-18',''),
+('6030','2002-10-17',''),
+('6031','2002-10-31',''),
+('6032','2002-01-03',''),
+('6033','2002-01-03',''),
+('6034','2002-01-02',''),
+('6035','2002-01-03',''),
+('6036','2002-01-03',''),
+('6037','2002-01-03',''),
+('6038','2002-01-02',''),
+('6040','2002-10-29',''),
+('6041','2002-10-29',''),
+('6042','2002-10-29',''),
+('6043','2002-10-17',''),
+('6044','2002-10-09',''),
+('6045','2002-10-08',''),
+('6046','2002-10-30',''),
+('6047','2003-03-28',''),
+('6048','2003-04-02',''),
+('6049','2003-11-27',''),
+('6050','2003-11-19',''),
+('6051','2003-11-18',''),
+('6052','2004-01-26',''),
+('6053','2004-02-03',''),
+('6054','2004-09-01',''),
+('6055','2004-10-25',''),
+('6056','2004-12-09',''),
+('6057','2005-01-31',''),
+('6058','2005-05-12',''),
+('6059','2005-10-14',''),
+('6060','2006-04-10',''),
+('6061','2006-02-27',''),
+('6062','2006-07-19',''),
+('6063','2007-10-05',''),
+('6064','2007-08-28',''),
+('6065','2009-04-22',''),
+('6066','2008-12-10',''),
+('6067','2010-03-29',''),
+('6068','2010-02-10',''),
+('6069','2011-08-29',''),
+('6070','2012-02-17',''),
+('6071','2013-07-23',''),
+('6072','2014-05-19',''),
+('6073','2014-10-27',''),
+('6074','2016-04-21',''),
+('6075','2016-04-21',''),
+('6076','2016-04-21',''),
+('6077','2016-04-21',''),
+('6078','2016-06-15',''),
+('6079','2016-04-11',''),
+('6080','2016-04-21',''),
+('6081','2016-06-15',''),
+('6082','2016-06-06',''),
+('6083','2016-06-29',''),
+('6084','2016-06-30',''),
+('6085','2016-08-05',''),
+('6086','2016-09-08',''),
+('6087','2016-08-16',''),
+('6088','2016-09-06',''),
+('6089','2016-09-07',''),
+('6090','2016-09-07',''),
+('6091','2016-09-07',''),
+('6092','2016-12-08',''),
+('6093','2017-02-01',''),
+('6094','2017-02-21',''),
+('6095','2017-03-07',''),
+('6096','2017-03-07',''),
+('6097','2017-05-24',''),
+('6098','2017-05-25',''),
+('6099','2017-05-29',''),
+('6100','2017-06-02',''),
+('6101','2017-06-13',''),
+('6102','2017-07-21',''),
+('6103','2017-07-21',''),
+('6104','2017-09-04',''),
+('6105','2017-10-12',''),
+('6106','2017-10-19',''),
+('6107','2017-10-25',''),
+('6108','2017-12-04',''),
+('6109','2017-12-05',''),
+('6110','2020-11-17',''),
+('6111','2018-03-05',''),
+('6112','2018-03-05',''),
+('6113','2018-03-08',''),
+('6114','2018-07-19',''),
+('6115','2018-07-19',''),
+('6117','2018-10-15',''),
+('6118','2018-10-21',''),
+('6119','2018-12-05',''),
+('6120','2018-12-13',''),
+('6121','2019-01-29',''),
+('6122','2018-11-28',''),
+('6123','2018-12-11',''),
+('6124','2019-04-29',''),
+('6125','2019-04-29',''),
+('6126','2019-05-08',''),
+('6127','2019-06-20',''),
+('6128','2019-05-08',''),
+('6129','2019-06-05',''),
+('6130','2019-06-21',''),
+('6131','2019-08-26',''),
+('6133','2019-08-26',''),
+('6134','2019-06-21',''),
+('6135','2019-11-11',''),
+('6136','2019-10-10',''),
+('6141','2020-07-20',''),
+('6143','2021-07-20',''),
+('7001','2006-10-19',''),
+('7002','2006-11-08',''),
+('7003','2007-01-23',''),
+('7004','2007-02-26',''),
+('7005','2008-10-29',''),
+('7006','2007-08-10',''),
+('7007','2007-09-26',''),
+('7008','2008-01-30',''),
+('7009','2008-08-12',''),
+('7010','2008-10-03',''),
+('7011','2008-08-26',''),
+('7012','2008-09-18',''),
+('7013','2008-09-18',''),
+('7014','2009-01-20',''),
+('7015','2008-10-10',''),
+('7016','2009-03-03',''),
+('7017','2009-08-06',''),
+('7018','2010-12-01',''),
+('7019','2009-11-19',''),
+('7020','2009-11-03',''),
+('7021','2009-11-19',''),
+('7022','2010-02-15',''),
+('7023','2010-03-08',''),
+('7024','2010-09-09',''),
+('7025','2010-12-10',''),
+('7026','2011-02-14',''),
+('7027','2011-03-23',''),
+('7028','2011-03-24',''),
+('7029','2011-05-24',''),
+('7030','2011-06-06',''),
+('7031','2011-09-22',''),
+('7032','2011-09-21',''),
+('7033','2012-01-31',''),
+('7034','2012-02-10',''),
+('7035','2012-01-12',''),
+('7036','2012-03-05',''),
+('7037','2012-06-14',''),
+('7038','2012-07-12',''),
+('7039','2012-12-19',''),
+('7041','2013-08-20',''),
+('7042','2013-12-12',''),
+('7043','2013-12-11',''),
+('7044','2014-01-06',''),
+('7602','2008-11-21',''),
+('7603','2009-08-05',''),
+('7604','2010-08-04',''),
+('7605','2011-02-14',''),
+('7606','2012-01-02',''),
+('7607','2012-01-26',''),
+('7608','2014-05-12',''),
+('7609','2016-06-21',''),
+('7610','2017-01-25',''),
+('9001','2002-01-03',''),
+('9002','2002-01-03',''),
+('9003','2002-01-03',''),
+('9004','2002-01-03',''),
+('9005','2002-01-03',''),
+('9006','2002-01-03',''),
+('9007','2002-01-03',''),
+('9008','2002-01-03',''),
+('9009','2002-01-03',''),
+('9010','2002-01-03',''),
+('9011','2002-01-03',''),
+('9012','2002-01-03',''),
+('9013','2002-01-03',''),
+('9014','2002-01-03',''),
+('9015','2002-01-03',''),
+('9016','2002-01-03',''),
+('9017','2002-01-03',''),
+('9018','2002-01-03',''),
+('9019','2002-01-03',''),
+('9020','2002-01-03',''),
+('9021','2002-01-07',''),
+('9022','2002-01-07',''),
+('9023','2002-01-07',''),
+('9024','2002-01-07',''),
+('9025','2002-01-07',''),
+('9026','2002-01-07',''),
+('9027','2002-01-07',''),
+('9028','2002-08-20',''),
+('9029','2002-01-07',''),
+('9030','2002-01-07',''),
+('9031','2002-01-07',''),
+('9033','2002-01-07',''),
+('9034','2002-01-07',''),
+('9035','2002-08-28',''),
+('9037','2002-01-07',''),
+('9038','2002-01-07',''),
+('9039','2002-08-12',''),
+('9040','2002-01-07',''),
+('9041','2002-01-07',''),
+('9042','2002-01-07',''),
+('9043','2002-01-07',''),
+('9044','2002-01-07',''),
+('9045','2002-01-07',''),
+('9046','2002-01-07',''),
+('9047','2002-01-07',''),
+('9048','2002-08-29',''),
+('9049','2002-01-07',''),
+('9050','2002-01-07',''),
+('9051','2002-11-26',''),
+('9052','2003-07-11',''),
+('9053','2008-08-05',''),
+('9054','2012-04-26',''),
+('9055','2017-03-08',''),
+('9999','2011-03-02','');

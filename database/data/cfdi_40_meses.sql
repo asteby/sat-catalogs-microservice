@@ -1,18 +1,19 @@
-INSERT INTO cfdi_40_meses VALUES('01','Enero','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('02','Febrero','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('03','Marzo','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('04','Abril','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('05','Mayo','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('06','Junio','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('07','Julio','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('08','Agosto','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('09','Septiembre','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('10','Octubre','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('11','Noviembre','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('12','Diciembre','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('13','Enero-Febrero','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('14','Marzo-Abril','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('15','Mayo-Junio','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('16','Julio-Agosto','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('17','Septiembre-Octubre','2022-01-01','');
-INSERT INTO cfdi_40_meses VALUES('18','Noviembre-Diciembre','2022-01-01','');
+INSERT INTO cfdi_40_meses VALUES 
+('01','Enero','2022-01-01',''),
+('02','Febrero','2022-01-01',''),
+('03','Marzo','2022-01-01',''),
+('04','Abril','2022-01-01',''),
+('05','Mayo','2022-01-01',''),
+('06','Junio','2022-01-01',''),
+('07','Julio','2022-01-01',''),
+('08','Agosto','2022-01-01',''),
+('09','Septiembre','2022-01-01',''),
+('10','Octubre','2022-01-01',''),
+('11','Noviembre','2022-01-01',''),
+('12','Diciembre','2022-01-01',''),
+('13','Enero-Febrero','2022-01-01',''),
+('14','Marzo-Abril','2022-01-01',''),
+('15','Mayo-Junio','2022-01-01',''),
+('16','Julio-Agosto','2022-01-01',''),
+('17','Septiembre-Octubre','2022-01-01',''),
+('18','Noviembre-Diciembre','2022-01-01','');

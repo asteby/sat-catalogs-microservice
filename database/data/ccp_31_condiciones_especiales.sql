@@ -1,4 +1,5 @@
-INSERT INTO ccp_31_condiciones_especiales VALUES('01','Congelados','','');
-INSERT INTO ccp_31_condiciones_especiales VALUES('02','Refrigerados','','');
-INSERT INTO ccp_31_condiciones_especiales VALUES('03','Temperatura controlada','','');
-INSERT INTO ccp_31_condiciones_especiales VALUES('04','Temperatura ambiente','','');
+INSERT INTO ccp_31_condiciones_especiales VALUES 
+('01','Congelados','',''),
+('02','Refrigerados','',''),
+('03','Temperatura controlada','',''),
+('04','Temperatura ambiente','','');

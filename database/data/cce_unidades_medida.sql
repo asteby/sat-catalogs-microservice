@@ -1,23 +1,24 @@
-INSERT INTO cce_unidades_medida VALUES('01','KILO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('02','GRAMO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('03','METRO LINEAL','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('04','METRO CUADRADO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('05','METRO CUBICO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('06','PIEZA','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('07','CABEZA','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('08','LITRO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('09','PAR','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('10','KILOWATT','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('11','MILLAR','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('12','JUEGO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('13','KILOWATT/HORA','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('14','TONELADA','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('15','BARRIL','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('16','GRAMO NETO','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('17','DECENAS','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('18','CIENTOS','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('19','DOCENAS','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('20','CAJA','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('21','BOTELLA','2017-01-01','');
-INSERT INTO cce_unidades_medida VALUES('22','CARAT','2021-01-11','');
-INSERT INTO cce_unidades_medida VALUES('99','SERVICIO','2017-01-01','');
+INSERT INTO cce_unidades_medida VALUES 
+('01','KILO','2017-01-01',''),
+('02','GRAMO','2017-01-01',''),
+('03','METRO LINEAL','2017-01-01',''),
+('04','METRO CUADRADO','2017-01-01',''),
+('05','METRO CUBICO','2017-01-01',''),
+('06','PIEZA','2017-01-01',''),
+('07','CABEZA','2017-01-01',''),
+('08','LITRO','2017-01-01',''),
+('09','PAR','2017-01-01',''),
+('10','KILOWATT','2017-01-01',''),
+('11','MILLAR','2017-01-01',''),
+('12','JUEGO','2017-01-01',''),
+('13','KILOWATT/HORA','2017-01-01',''),
+('14','TONELADA','2017-01-01',''),
+('15','BARRIL','2017-01-01',''),
+('16','GRAMO NETO','2017-01-01',''),
+('17','DECENAS','2017-01-01',''),
+('18','CIENTOS','2017-01-01',''),
+('19','DOCENAS','2017-01-01',''),
+('20','CAJA','2017-01-01',''),
+('21','BOTELLA','2017-01-01',''),
+('22','CARAT','2021-01-11',''),
+('99','SERVICIO','2017-01-01','');

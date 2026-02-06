@@ -1,5280 +1,5281 @@
-INSERT INTO ccp_30_estaciones VALUES('PM001','Rosarito','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM002','La Misión','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM003','El Sauzal','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM004','Marina Coral','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM005','Ensenada','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM006','Punta China','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM007','San Quintín','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM008','Isla Cedros','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM009','Venustiano Carranza','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM010','Bahía de los Ángeles','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM011','Puertecitos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM012','San Felipe','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM013','Costa Azul','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM014','Bahía Colonet','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM015','La Paz','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM016','Pichilingue','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM017','Puerto de Loreto','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM018','Puerto de Santa Rosalía','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM019','Puerto Escondido','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM020','San Carlos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM021','Cabo San Lucas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM022','Guerrero Negro','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM023','Santa María','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM024','Isla San Marcos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM025','Adolfo López Mateos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM026','San Juan de la Costa','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM027','Punta prieta','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM028','San José del Cabo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM029','Los Barriles','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM030','Mulege','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM031','Isla del Carmen','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM032','Campeche','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM033','Cayo Arcas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM034','Seybaplaya','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM035','Isla Arena','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM036','San Francisco','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM037','Lerma','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM038','Champotón','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM039','Sabancuy','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM040','Isla Aguada','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM041','Emiliano Zapata','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM042','Nuevo Campechito','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM043','Takuntah','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM044','Yúum K''ak Naab','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM045','Puerto Chiapas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM046','Manzanillo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM047','San Pedrito','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM048','Laguna de Cuyutlán','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM049','Acapulco','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM050','Zihuatanejo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM051','Butaba','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM052','Vicente Guerrero','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM053','Puerto Marqués','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM054','Puerto Vallarta','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM055','Barra de Navidad','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM056','Lázaro Cárdenas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM057','San Blas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM058','Nuevo Vallarta','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM059','Cruz de Huanacaxtle','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM060','Chacala','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM061','Salina Cruz','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM062','Bahías de Huatulco','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM063','Puerto Escondido','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM064','Puerto Angel','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM065','Puerto Juárez','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM066','Isla Mujeres isla','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM067','Cancún','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM068','Puerto Morelos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM069','Playa del Carmen','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM070','Punta Venado','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM071','Puerta Aventuras','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM072','Punta Allen','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM073','Majahual','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM074','La Aguada','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM075','Xcalac','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM076','Chetumal','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM077','Holbox','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM078','Mazatlán','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM079','Topolobampo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM080','Altata','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM081','El Sábalo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM082','Escuinapa','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM083','Teacapan','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM084','Guaymas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM085','Puerto Peñasco','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM086','Golfo de Santa Clara','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM087','Bahía Kino','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM088','Yavaros','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM089','Puerto Libertad','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM090','General Rodolfo Sánchez Toboada','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM091','San Carlos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM092','Dos Bocas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM093','Frontera','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM094','Chiltepec','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM095','Sanchez Magallanes','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM096','Puerto Altamira','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM097','Puerto Tampico','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM098','Puerto Matamoros','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM099','La Pesca','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM100','Puerto de Veracruz','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM101','Tuxpan','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM102','Coatzacoalcos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM103','Pajaritos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM104','Alvarado','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM105','Tlacotalpan','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM106','Nautla','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM107','Tecolutla','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM108','Puerto Progreso','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM109','Celestún','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM110','Sisal','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM111','Chuburná','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM112','Yucalpetén','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM113','Telchac','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM114','Chabihau','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM115','Dzilam de Bravo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM116','San Felipe','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM117','Río Lagartos','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM118','Las Coloradas','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM119','El Cuyo','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM120','Extranjera','02','Extranjera','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM121','Cozumel isla','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM122','Cozumel municipio','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PM123','Isla Mujeres municipio','02','México','','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0001','Konrad Adenauer','03','Alemania','CGN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0002','Rhein-Ruhr','03','Alemania','DUS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0003','Münster/Osnabrück','03','Alemania','FMO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0004','Rhein-Main','03','Alemania','FRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0005','Hannover','03','Alemania','HAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0006','Fuhlsbüttel','03','Alemania','HAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0007','Frankfurt-Hahn','03','Alemania','HHN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0008','Franz Josef Strauss','03','Alemania','MUC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0009','Nürnberg','03','Alemania','NUE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0010','Prince Mohammad Bin Abdulaziz','03','Arabia Saudita','MED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0011','Ingeniero Aeronáutico Ambrosio L.V. Taravella','03','Argentina','COR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0012','Ministro Pistarini','03','Argentina','EZE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0013','Astor Piazzolla','03','Argentina','MDQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0014','Gobernador Francisco Gabrielli','03','Argentina','MDZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0015','Teniente General Benjamín Matienzo','03','Argentina','TUC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0016','Vienna','03','Austria','VIE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0017','Grand Bahamas','03','Bahamas','FPO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0018','Lynden Pindling','03','Bahamas','NAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0019','San Salvador','03','Bahamas','ZSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0020','Grantley Adams','03','Barbados','BGI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0021','Brussels','03','Bélgica','BRU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0022','Liege','03','Bélgica','LGG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0023','Ostend-Brugge','03','Bélgica','OST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0024','Philip S.W. Goldson','03','Belice','BZE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0025','Jorge Wilsterman','03','Bolivia','CBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0026','El Trompillo','03','Bolivia','SRZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0027','Viru Viru','03','Bolivia','VVI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0028','Presidente Juscelino Kubitschek','03','Brasil','BSB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0029','Adalberto Mendes Da Silva','03','Brasil','CAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0030','Carutapera','03','Brasil','CTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0031','Afonso Pena','03','Brasil','CWB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0032','Pinto Martins','03','Brasil','FOR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0033','Antonio Carlos Jobim','03','Brasil','GIG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0034','Governador Andre Franco Montoro','03','Brasil','GRU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0035','Manaus','03','Brasil','MAO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0036','Santos Dumont','03','Brasil','PNG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0037','Salgado Filho','03','Brasil','POA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0038','Guararapes','03','Brasil','REC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0039','Santos Dumont','03','Brasil','SDU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0040','Professor Urbano Ernesto Stumpf','03','Brasil','SJK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0041','Deputado Luis Eduardo Magalhaes','03','Brasil','SSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0042','Viracopos-Campinas','03','Brasil','VCP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0043','Gladman Point','03','Canadá','CYUR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0044','Sault Ste. Marie','03','Canadá','YAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0045','Canadian Forces Base Shearwater','03','Canadá','YAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0046','Canadian Forces Base Bagotville','03','Canadá','YBG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0047','Brandon Municipal','03','Canadá','YBR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0048','Edmonton','03','Canadá','YEG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0049','Fredericton','03','Canadá','YFC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0050','John C. Munro','03','Canadá','YHM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0051','Robert L. Stanfield','03','Canadá','YHZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0052','Region Of Waterloo','03','Canadá','YKF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0053','Kelowna','03','Canadá','YLW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0054','Mary''s Harbour','03','Canadá','YMH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0055','Fort Mcmurray','03','Canadá','YMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0056','Montreal-Mirabel','03','Canadá','YMX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0057','Macdonald-Cartier','03','Canadá','YOW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0058','Jean Lesage','03','Canadá','YQB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0059','Windsor','03','Canadá','YQG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0060','Lethbridge County','03','Canadá','YQL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0061','Greater Moncton','03','Canadá','YQM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0062','Canadian Forces Base Comox','03','Canadá','YQQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0063','Regina','03','Canadá','YQR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0064','Thunder Bay','03','Canadá','YQT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0065','Gander','03','Canadá','YQX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0066','Sudbury','03','Canadá','YSB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0067','Saint John','03','Canadá','YSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0068','Billy Bishop','03','Canadá','YTZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0069','Pierre Elliott Trudeau','03','Canadá','YUL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0070','Rouyn-Noranda','03','Canadá','YUY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0071','Vancouver','03','Canadá','YVR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0072','James Armstrong Richardson','03','Canadá','YWG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0073','John G. Diefenbaker','03','Canadá','YXE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0074','Prince George','03','Canadá','YXS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0075','London','03','Canadá','YXU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0076','Abbotsford','03','Canadá','YXX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0077','Calgary','03','Canadá','YYC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0078','Victoria','03','Canadá','YYJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0079','Canadian Forces Base Goose Bay','03','Canadá','YYR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0080','St. John''s','03','Canadá','YYT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0081','Lester B. Pearson','03','Canadá','YYZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0082','Andres Sabella','03','Chile','ANF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0083','Carriel Sur','03','Chile','CCP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0084','Diego Aracena','03','Chile','IQQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0085','Arturo Merino Benítez','03','Chile','SCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0086','Baiyun','03','China','CAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0087','Changle','03','China','FOC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0088','Xiaoshan','03','China','HGH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0089','Lishe','03','China','NGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0090','Nanjing Lukou','03','China','NKG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0091','Capital','03','China','PEK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0092','Pudong','03','China','PVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0093','Gaoqi','03','China','XMN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0094','Gustavo Rojas Pinilla','03','Colombia','ADZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0095','Ernesto Cortissoz','03','Colombia','BAQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0096','El Nuevo Dorado','03','Colombia','BOG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0097','Alfonso Bonilla Aragón','03','Colombia','CLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0098','Rafael Nuñez','03','Colombia','CTG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0099','Jose Maria Córdova','03','Colombia','MDE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0100','Montelibano','03','Colombia','MTB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0101','Daniel Oduber Quiros','03','Costa Rica','LIR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0102','Juan Santamaría','03','Costa Rica','SJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0103','Jardines Del Rey','03','Cuba','CCC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0104','Ignacio Agramonte','03','Cuba','CMW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0105','Vilo Acuña','03','Cuba','CYO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0106','Jose Martí','03','Cuba','HAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0107','Frank País','03','Cuba','HOG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0108','Antonio Maceo','03','Cuba','SCU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0109','Abel Santamaría','03','Cuba','SNU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0110','Juan Gualberto Gomez','03','Cuba','VRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0111','Aalborg','03','Dinamarca','AAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0112','Billund','03','Dinamarca','BLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0113','København','03','Dinamarca','CPH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0114','Mariscal Lamar','03','Ecuador','CUE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0115','Jose Joaquín De Olmdeo','03','Ecuador','GYE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0116','Eloy Alfaro','03','Ecuador','MEC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0117','General Ulpiano Páez','03','Ecuador','SNC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0118','Mitad Del Mundo','03','Ecuador','UIO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0119','Monseñor Oscar Arnulfo Romero','03','El Salvador','SAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0120','Al Maktoum','03','Emiratos Árabes Unidos','DWC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0121','El Prat','03','España','BCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0122','Adolfo Suarez Madrid–Barajas','03','España','MAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0123','Son Sant Joan','03','España','PMI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0124','Manises','03','España','VLC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0125','Zaragoza','03','España','ZAZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0126','Albuquerque International','03','Estados Unidos','ABQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0127','Atlantic City International','03','Estados Unidos','ACY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0128','Addison','03','Estados Unidos','ADS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0129','Joint Base Andrews','03','Estados Unidos','ADW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0130','Alexandria International','03','Estados Unidos','AEX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0131','Fort Worth Alliance','03','Estados Unidos','AFW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0132','Albany International','03','Estados Unidos','ALB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0133','Waterloo Regional','03','Estados Unidos','ALO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0134','Rick Husband Amarillo International','03','Estados Unidos','AMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0135','Anniston Regional','03','Estados Unidos','ANB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0136','Ted Stevens','03','Estados Unidos','ANC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0137','Talladega Municipal','03','Estados Unidos','ASN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0138','Hartsfield - Jackson Atlanta International','03','Estados Unidos','ATL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0139','Appleton International','03','Estados Unidos','ATW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0140','Augusta State','03','Estados Unidos','AUG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0141','Austin-Bergstrom International','03','Estados Unidos','AUS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0142','Asheville Regional','03','Estados Unidos','AVL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0143','Phoenix-Mesa Gateway','03','Estados Unidos','AZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0144','Kalamazoo/Battle Creek International','03','Estados Unidos','AZO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0145','Bradley International','03','Estados Unidos','BDL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0146','Laurence G Hanscom','03','Estados Unidos','BED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0147','Boeing Field/King County International','03','Estados Unidos','BFI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0148','Meadows Field','03','Estados Unidos','BFL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0149','Bangor International','03','Estados Unidos','BGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0150','Birmingham-Shuttlesworth','03','Estados Unidos','BHM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0151','Biggs','03','Estados Unidos','BIF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0152','West Michigan Regional','03','Estados Unidos','BIV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0153','Central Il Regional Airport','03','Estados Unidos','BMI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0154','Nashville International','03','Estados Unidos','BNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0155','General Edward Lawrence Logan International','03','Estados Unidos','BOS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0156','Rafael Hernandez','03','Estados Unidos','BQN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0157','Brownsville/South Padre Island International','03','Estados Unidos','BRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0158','W K Kellogg','03','Estados Unidos','BTL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0159','Bert Mooney','03','Estados Unidos','BTM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0160','Buffalo Niagara International','03','Estados Unidos','BUF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0161','Warren County Regional','03','Estados Unidos','BWG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0162','Balt/Wash International Thurgood Marshall','03','Estados Unidos','BWI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0163','Columbia Metropolitan','03','Estados Unidos','CAE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0164','Akron-Canton Regional','03','Estados Unidos','CAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0165','Lovell','03','Estados Unidos','CHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0166','Charleston International','03','Estados Unidos','CHS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0167','The Eastern Iowa','03','Estados Unidos','CID','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0168','Cleveland-Hopkins International','03','Estados Unidos','CLE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0169','Easterwood','03','Estados Unidos','CLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0170','Charlotte/Douglas International','03','Estados Unidos','CLT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0171','John Glenn Columbus International','03','Estados Unidos','CMH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0172','University Of Illinois','03','Estados Unidos','CMI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0173','Aeropuerto de Columbia','03','Estados Unidos','COA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0174','Columbia Regional','03','Estados Unidos','COU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0175','Corpus Christi International','03','Estados Unidos','CRP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0176','Columbus','03','Estados Unidos','CSG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0177','Cincinnati/Northern Kentucky International','03','Estados Unidos','CVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0178','Dallas Love','03','Estados Unidos','DAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0179','James M Cox Dayton International','03','Estados Unidos','DAY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0180','Ronald Reagan','03','Estados Unidos','DCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0181','Denver International','03','Estados Unidos','DEN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0182','Dallas-Fort Worth International','03','Estados Unidos','DFW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0183','De Kalb Taylor Municipal','03','Estados Unidos','DKB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0184','Duluth International','03','Estados Unidos','DLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0185','Dupage','03','Estados Unidos','DPA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0186','Del Rio International','03','Estados Unidos','DRT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0187','Des Moines International','03','Estados Unidos','DSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0188','Denton Enterprise','03','Estados Unidos','DTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0189','Detroit Metropolitan','03','Estados Unidos','DTW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0190','Eagle County Regional','03','Estados Unidos','EGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0191','South Arkansas Regional','03','Estados Unidos','ELD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0192','El Paso International','03','Estados Unidos','ELP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0193','Evansville Regional','03','Estados Unidos','EVV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0194','Newark Liberty International','03','Estados Unidos','EWR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0195','Héctor International','03','Estados Unidos','FAR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0196','Fresno Yosemite International','03','Estados Unidos','FAT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0197','Frederick Regional','03','Estados Unidos','FDR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0198','Fort Lauderdale','03','Estados Unidos','FLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0199','Bishop International','03','Estados Unidos','FNT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0200','Topeka Regional','03','Estados Unidos','FOE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0201','Joe Foss','03','Estados Unidos','FSD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0202','Fort Wayne International','03','Estados Unidos','FWA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0203','Greeneville-Greene County Municipal','03','Estados Unidos','GCY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0204','Grand Forks International','03','Estados Unidos','GFK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0205','Grand Junction Regional','03','Estados Unidos','GJT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0206','Arlington Municipal','03','Estados Unidos','GKY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0207','Greenville Mid-Delta','03','Estados Unidos','GLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0208','Central Nebraska Regional','03','Estados Unidos','GRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0209','Gordon Municipal','03','Estados Unidos','GRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0210','Gerald R Ford International','03','Estados Unidos','GRR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0211','Piedmont Triad International','03','Estados Unidos','GSO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0212','Greenville Spartanburg International','03','Estados Unidos','GSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0213','Donaldson','03','Estados Unidos','GYH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0214','Gary/Chicago International','03','Estados Unidos','GYY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0215','Hagerstown Regional','03','Estados Unidos','HGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0216','Hawkins','03','Estados Unidos','HKS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0217','Hickory Regional','03','Estados Unidos','HKY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0218','Helena Regional','03','Estados Unidos','HLN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0219','Daniel K Inouye International','03','Estados Unidos','HNL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0220','William P Hobby','03','Estados Unidos','HOU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0221','Valley International','03','Estados Unidos','HRL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0222','Boone County','03','Estados Unidos','HRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0223','Carl T Jones Field','03','Estados Unidos','HSV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0224','Tri-State/Milton J Ferguson','03','Estados Unidos','HTS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0225','Terre Haute Regional','03','Estados Unidos','HUF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0226','Washington Dulles','03','Estados Unidos','IAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0227','Niagara Falls International','03','Estados Unidos','IAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0228','George Bush Intercontinental','03','Estados Unidos','IAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0229','Dwight D Eisenhower National','03','Estados Unidos','ICT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0230','Ankeny Regional','03','Estados Unidos','IKV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0231','Wilmington International','03','Estados Unidos','ILM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0232','Wilmington Air Park','03','Estados Unidos','ILN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0233','Immokalee Regional','03','Estados Unidos','IMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0234','Indianapolis International','03','Estados Unidos','IND','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0235','Jackson Hole','03','Estados Unidos','JAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0236','Jackson-Evers International','03','Estados Unidos','JAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0237','Jacksonville International','03','Estados Unidos','JAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0238','Jefferson City Memorial','03','Estados Unidos','JEF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0239','John F Kennedy International','03','Estados Unidos','JFK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0240','Capital Region International','03','Estados Unidos','LAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0241','Mccarran International','03','Estados Unidos','LAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0242','Los Angeles International','03','Estados Unidos','LAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0243','Lubbock Preston Smith International','03','Estados Unidos','LBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0244','Rickenbacker International','03','Estados Unidos','LCK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0245','Blue Grass','03','Estados Unidos','LEX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0246','Lafayette Regional','03','Estados Unidos','LFT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0247','Laguardia','03','Estados Unidos','LGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0248','Long Beach','03','Estados Unidos','LGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0249','Lagrange-Callaway','03','Estados Unidos','LGC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0250','Bill And Hillary Clinton National','03','Estados Unidos','LIT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0251','Facility','03','Estados Unidos','LJC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0252','Louisville Winston County','03','Estados Unidos','LMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0253','Bowman','03','Estados Unidos','LOU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0254','Laredo International','03','Estados Unidos','LRD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0255','La Crosse Regional','03','Estados Unidos','LSE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0256','Cincinnati Municipal','03','Estados Unidos','LUK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0257','Lawrenceville-Vincennes International','03','Estados Unidos','LWV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0258','Gwinnett County','03','Estados Unidos','LZU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0259','Mbs International','03','Estados Unidos','MBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0260','Kansas City International','03','Estados Unidos','MCI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0261','Orlando International','03','Estados Unidos','MCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0262','Chicago Midway International','03','Estados Unidos','MDW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0263','Key','03','Estados Unidos','MEI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0264','Memphis International','03','Estados Unidos','MEM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0265','Mansfield Lahm Regional','03','Estados Unidos','MFD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0266','Mcallen Miller International','03','Estados Unidos','MFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0267','Michigan City Municipal','03','Estados Unidos','MGC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0268','Montgomery Regional','03','Estados Unidos','MGM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0269','Miami International','03','Estados Unidos','MIA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0270','Charles B Wheeler Downtown','03','Estados Unidos','MKC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0271','General Mitchell International','03','Estados Unidos','MKE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0272','Quad City International','03','Estados Unidos','MLI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0273','Mobile Regional','03','Estados Unidos','MOB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0274','Smyrna','03','Estados Unidos','MQY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0275','Maury County','03','Estados Unidos','MRC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0276','Dane County Regional','03','Estados Unidos','MSN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0277','Minneapolis-St. Paul International','03','Estados Unidos','MSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0278','Louis Armstrong New Orleans International','03','Estados Unidos','MSY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0279','Montrose Regional','03','Estados Unidos','MTJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0280','Myrtle Beach International','03','Estados Unidos','MYR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0281','Metropolitan Oakland International','03','Estados Unidos','OAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0282','Ogden-Hinckley','03','Estados Unidos','OGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0283','Will Rogers','03','Estados Unidos','OKC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0284','Kokomo Municipal','03','Estados Unidos','OKK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0285','Nogales','03','Estados Unidos','OLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0286','Eppley','03','Estados Unidos','OMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0287','Ontario International','03','Estados Unidos','ONT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0288','Miami-Opa Locka Executive','03','Estados Unidos','OPF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0289','Chicago O''hare International','03','Estados Unidos','ORD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0290','Norfolk International','03','Estados Unidos','ORF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0291','Orlando Executive','03','Estados Unidos','ORL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0292','Oscoda-Wurtsmith','03','Estados Unidos','OSC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0293','Ottumwa Regional','03','Estados Unidos','OTM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0294','Palm Beach International','03','Estados Unidos','PBI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0295','Portage Creek','03','Estados Unidos','PCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0296','Portland International','03','Estados Unidos','PDX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0297','Newport News/Williamsburg International','03','Estados Unidos','PHF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0298','Philadelphia International','03','Estados Unidos','PHL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0299','Phoenix Sky Harbor','03','Estados Unidos','PHX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0300','General Downing - Peoria International','03','Estados Unidos','PIA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0301','Pittsburgh International','03','Estados Unidos','PIT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0302','Mid-Ohio Valley Regional','03','Estados Unidos','PKB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0303','Pease International','03','Estados Unidos','PSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0304','Palm Springs International','03','Estados Unidos','PSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0305','Oakland County International','03','Estados Unidos','PTK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0306','Theodore Francis Green','03','Estados Unidos','PVD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0307','Portland International','03','Estados Unidos','PWM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0308','Vail Van Service','03','Estados Unidos','QBF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0309','Ellsworth Air Force Base','03','Estados Unidos','RCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0310','Raleigh-Durham International','03','Estados Unidos','RDU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0311','Chicago/Rockford International','03','Estados Unidos','RFD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0312','Richmond International','03','Estados Unidos','RIC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0313','Reno/Tahoe International','03','Estados Unidos','RNO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0314','Greater Rochester International','03','Estados Unidos','ROC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0315','Rochester International','03','Estados Unidos','RST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0316','Southwest Florida International','03','Estados Unidos','RSW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0317','Rocky Mount-Wilson Regional','03','Estados Unidos','RWI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0318','Santa Fe Municipal','03','Estados Unidos','SAF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0319','San Diego International','03','Estados Unidos','SAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0320','San Antonio International','03','Estados Unidos','SAT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0321','San Bernardino International','03','Estados Unidos','SBD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0322','South Bend International','03','Estados Unidos','SBN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0323','Louisville International','03','Estados Unidos','SDF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0324','Brown Field Municipal','03','Estados Unidos','SDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0325','Seattle-Tacoma International','03','Estados Unidos','SEA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0326','Orlando Sanford International','03','Estados Unidos','SFB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0327','San Francisco International','03','Estados Unidos','SFO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0328','Sugar Land Regional','03','Estados Unidos','SGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0329','Stuttgart Municipal','03','Estados Unidos','SGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0330','Shreveport Regional','03','Estados Unidos','SHV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0331','San José International','03','Estados Unidos','SJC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0332','Luis Muñoz Marin','03','Estados Unidos','SJU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0333','Kelly','03','Estados Unidos','SKF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0334','Griffing Sandusky','03','Estados Unidos','SKY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0335','Salt Lake City International','03','Estados Unidos','SLC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0336','Sacramento International','03','Estados Unidos','SMF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0337','Santa Monica Municipal','03','Estados Unidos','SMO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0338','John Wayne Airport','03','Estados Unidos','SNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0339','St. Louis Lambert International','03','Estados Unidos','STL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0340','Spirit Of St. Louis','03','Estados Unidos','SUS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0341','Statesville Regional','03','Estados Unidos','SVH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0342','Stewart International','03','Estados Unidos','SWF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0343','Catalina Island','03','Estados Unidos','SXC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0344','Syracuse Hancock International','03','Estados Unidos','SYR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0345','Tuscaloosa Regional','03','Estados Unidos','TCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0346','Person County','03','Estados Unidos','TDF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0347','Teterboro','03','Estados Unidos','TEB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0348','Tullahoma Regional','03','Estados Unidos','THA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0349','Toledo Express','03','Estados Unidos','TOL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0350','Tampa International','03','Estados Unidos','TPA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0351','Raleigh Exec Jetport','03','Estados Unidos','TTA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0352','Tulsa International','03','Estados Unidos','TUL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0353','Tupelo Regional','03','Estados Unidos','TUP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0354','Tucson International','03','Estados Unidos','TUS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0355','Texarkana Regional','03','Estados Unidos','TXK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0356','Mcghee Tyson','03','Estados Unidos','TYS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0357','Quincy Regional','03','Estados Unidos','UIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0358','University-Oxford','03','Estados Unidos','UOX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0359','Van Nuys','03','Estados Unidos','VNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0360','Mcguire','03','Estados Unidos','WRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0361','Willow Run','03','Estados Unidos','YIP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0362','Youngstown-Warren Regional','03','Estados Unidos','YNG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0363','Yuma International','03','Estados Unidos','YUM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0364','Vantaa','03','Finlandia','HEL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0365','Euroairport Basel Mulhouse Freiburg','03','Francia','BSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0366','Felix Eboue','03','Francia','CAY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0367','Charles De Gaulle','03','Francia','CDG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0368','Euroairport Basel Mulhouse Freiburg','03','Francia','EAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0369','Martinique Aime Cesaire','03','Francia','FDF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0370','Lyon St-Exupery','03','Francia','LYS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0371','Euroairport Basel Mulhouse Freiburg','03','Francia','MLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0372','Marseille Provence','03','Francia','MRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0373','Côte D''azur','03','Francia','NCE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0374','Atlantique','03','Francia','NTE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0375','Orly','03','Francia','ORY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0376','Le Raizet','03','Francia','PTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0377','Toulouse Blagnac','03','Francia','TLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0378','Mundo Maya','03','Guatemala','FRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0379','La Aurora','03','Guatemala','GUA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0380','Antoine-Simon','03','Haiti','CYA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0381','Toussaint Louverture','03','Haití','PAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0382','Goloson','03','Honduras','LCE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0383','Juan Manuel Gálvez','03','Honduras','RTB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0384','Ramón Villeda Morales','03','Honduras','SAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0385','Toncontin','03','Honduras','TGU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0386','Chek Lap Kok','03','Hong Kong','HKG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0387','Budapest','03','Hungría','BUD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0388','Vadodara','03','India','BDQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0389','Dublín','03','Irlanda','DUB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0390','Shannon','03','Irlanda','SNN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0391','Keflavik','03','Islandia','KEF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0392','Owen Roberts','03','Islas Caimán','GCM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0393','Ben Gurion','03','Israel','TLV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0394','Bologna','03','Italia','BLQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0395','Cagliari-Elmas','03','Italia','CAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0396','Ciampino-Giovan Battista Pastine','03','Italia','CIA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0397','Leonardo Da Vinci','03','Italia','FCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0398','Genoa Cristoforo Colombo','03','Italia','GOA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0399','Malpensa','03','Italia','MXP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0400','Caselle','03','Italia','TRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0401','Marco Polo','03','Italia','VCE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0402','Villafranca','03','Italia','VRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0403','Norman Manley','03','Jamaica','KIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0404','Sangster','03','Jamaica','MBJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0405','New Sapporo','03','Japón','CTS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0406','Hachijojima','03','Japón','HAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0407','Kansai','03','Japón','KIX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0408','Narita','03','Japón','NRT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0409','Sendai','03','Japón','SDJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0410','Luxembourg','03','Luxemburgo','LUX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0411','Licenciado Jesus Teran Peredo','03','México','AGU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0412','General Alberto L. Salinas C.','03','México','ESE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0413','General Rodolfo Sanchez Taboada','03','México','MXL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0414','General Abelardo L. Rodriguez','03','México','TIJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0415','Cabo San Lucas','03','México','CSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0416','General Manuel Marquez De Leon','03','México','LAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0417','Loreto','03','México','LTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0418','Los Cabos','03','México','SJD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0419','Ciudad Del Carmen','03','México','CME','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0420','Ingeniero Alberto Acuña Ongay','03','México','CPE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0421','Palenque','03','México','PQM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0422','Tapachula','03','México','TAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0423','Angel Albino Corzo','03','México','TGZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0424','Abraham González','03','México','CJS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0425','General Roberto Fierro Villalobos','03','México','CUU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0426','Benito Juárez','03','México','MEX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0427','Ciudad Acuña','03','México','ACN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0428','Venustiano Carranza','03','México','LOV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0429','Piedras Negras','03','México','PDS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0430','Plan De Guadalupe','03','México','SLW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0431','Francisco Sarabia','03','México','TRC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0432','Licenciado Miguel De La Madrid','03','México','CLQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0433','Playa De Oro','03','México','ZLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0434','General Guadalupe Victoria','03','México','DGO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0435','Base Aérea Militar No.1 Santa Lucia','03','México','NLU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0436','Licenciado Adolfo Lopez Mateos','03','México','TLC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0437','Guanajuato','03','México','BJX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0438','General Juan N. Alvarez','03','México','ACA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0439','Ixtapa Zihuatanejo','03','México','ZIH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0440','Don Miguel Hidalgo Y Costilla','03','México','GDL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0441','Francisco Primo De Verdad','03','México','LOM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0442','Licenciado Gustavo Díaz Ordaz','03','México','PVR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0443','Lázaro Cárdenas','03','México','LZC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0444','General Francisco J. Mujica','03','México','MLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0445','Licenciado Y General Ignacio Lopez Rayón','03','México','UPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0446','General Mariano Matamoros','03','México','CVJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0447','Amado Nervo','03','México','TPQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0448','General Mariano Escobedo','03','México','MTY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0449','Aeropuerto Del Norte','03','México','NTR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0450','Bahías De Huatulco','03','México','HUX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0451','Ixtepec','03','México','IZT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0452','Xoxocotlan','03','México','OAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0453','Puerto Escondido','03','México','PXM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0454','Estación Aeronaval De Salina Cruz','03','México','SCX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0455','Hermanos Serdán','03','México','PBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0456','Ingeniero Fernando Espinoza Gutiérrez','03','México','QRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0457','Chetumal','03','México','CTM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0458','Cancún','03','México','CUN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0459','Cozumel','03','México','CZM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0460','Ponciano Arriaga','03','México','SLP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0461','Tamuin','03','México','TSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0462','Federal De Bachigualato','03','México','CUL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0463','Federal Del Valle Del Fuerte','03','México','LMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0464','General Rafael Buelna','03','México','MZT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0465','Ciudad Obregón','03','México','CEN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0466','General Jose Maria Yáñez','03','México','GYM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0467','General Ignacio Pesqueira Garcia','03','México','HMO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0468','Nogales','03','México','NOG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0469','Punta Peñasco','03','México','PPE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0470','C.P.A. Carlos Rovirosa Perez','03','México','VSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0471','General Pedro J. Méndez','03','México','CVM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0472','General Servando Canales','03','México','MAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0473','Quetzalcóatl','03','México','NLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0474','General Lucio Blanco','03','México','REX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0475','General Francisco Javier Mina','03','México','TAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0476','El Lencero','03','México','JAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0477','Minatitlán','03','México','MTT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0478','El Tajín','03','México','PAZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0479','General Heriberto Jara Corona','03','México','VER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0480','Chichen Itzá','03','México','CZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0481','Licenciado Manuel Crescencio Rejón','03','México','MID','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0482','General Leobardo C. Ruiz','03','México','ZCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0483','Ing. Juan Guillermo Villasana','03','México','PCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0484','Piedras Negras','03','México','PNG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0485','Aeropuerto Internacional de San Felipe','03','México','SFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0486','Bravo','03','México','AAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0487','Aero Agrícola El Caimanero','03','México','AAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0488','La Mezcalera','03','México','AAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0489','Agropecuaria Amparan','03','México','AAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0490','Ambas Aguas','03','México','AAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0491','Alisitos','03','México','AAT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0492','Albatros Residencial Aéreo','03','México','ABT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0493','Campo Berlín','03','México','ACB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0494','Aeródromo Cabo Cortes','03','México','ACC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0495','Cabo Cortés','03','México','ACC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0496','Carneros','03','México','ACF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0497','El Novillo De Guerrero','03','México','ACG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0498','San Antonio Chablé','03','México','ACH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0499','Aero Club Valle De Bravo, A.C.','03','México','ACJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0500','Aeródromo Cutzarondiro','03','México','ACK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0501','Col. Alamillo','03','México','ACN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0502','Acaponeta','03','México','ACP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0503','Acatita','03','México','ACT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0504','Cucuyulapa','03','México','ACU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0505','Divisadero Barrancas','03','México','ADB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0506','Agrodesarrollo Carbonera','03','México','ADC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0507','Las Adjuntas','03','México','ADJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0508','Acuagranjas','03','México','ADL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0509','Del Mayo','03','México','ADM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0510','Club Aereo Del Yaqui','03','México','ADY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0511','Aerodeportes','03','México','AED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0512','Ejido González','03','México','AEG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0513','El Jefe','03','México','AEJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0514','El Mázate','03','México','AEM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0515','Aerolandia','03','México','AER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0516','El Socorro','03','México','AES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0517','Rancho El Tinieblo','03','México','AET','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0518','Pista Aerodiaz','03','México','AEZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0519','Aerofumigaciones Castro','03','México','AFC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0520','Aero Fumigaciones Cessna','03','México','AFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0521','Club Aéreo Francisco Lobo','03','México','AFL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0522','Aerofumigaciones Maranatu','03','México','AFM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0523','Fertifum','03','México','AFR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0524','Aguaje Blanco','03','México','AGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0525','Agrícola Y Ganadera Gusalo','03','México','AGC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0526','Los Algodones','03','México','AGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0527','Lorenzos','03','México','AGK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0528','Aguaje Del Monte','03','México','AGM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0529','San Agustín','03','México','AGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0530','El Guayabo','03','México','AGY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0531','Agua Zarca De San Lucas','03','México','AGZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0532','El Ahijadero','03','México','AHO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0533','Husky','03','México','AHS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0534','Agrícola Las Isabeles','03','México','AIB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0535','Jova Agrícola','03','México','AJC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0536','Casa Acapulco','03','México','AKA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0537','Álamos','03','México','ALA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0538','Rancho Las Borregas','03','México','ALD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0539','Algodonera De Tapachula','03','México','ALG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0540','La Paz Sky Park','03','México','ALK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0541','Aerofumigaciones LÓpez','03','México','ALP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0542','Las Cartucheras','03','México','ALQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0543','Los Ojuelos','03','México','ALW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0544','Alizal','03','México','ALX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0545','Almoloya','03','México','ALY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0546','AmatlÁn De Jora','03','México','AMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0547','Las Alamandas','03','México','AMD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0548','Los Mezquites','03','México','AMK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0549','Amaculi','03','México','AMQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0550','Aero Club Manitoba','03','México','AMT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0551','General Miguel Alemán','03','México','AMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0552','And Port','03','México','ANP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0553','Anna','03','México','ANS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0554','Aéreo Servicio Nuñez','03','México','ANZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0555','Acocotla','03','México','AOC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0556','Apozolco','03','México','APJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0557','Mieleras','03','México','APS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0558','Aeropista Deportiva Tapalpa','03','México','APT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0559','Los Sapos','03','México','APU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0560','Pancho Villa','03','México','APV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0561','Rancho El Armadillo','03','México','ARL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0562','Aeromar','03','México','ARM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0563','Aerofumigaciones Sarabia','03','México','ASB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0564','Aerofumigaciones Solís','03','México','ASF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0565','Alicia','03','México','ASH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0566','Santa Inés','03','México','ASI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0567','Cabo Sky Tours','03','México','ASL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0568','Alfonsina''S Resort','03','México','ASN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0569','Rancho El Casco','03','México','ASO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0570','Hacienda San Rafael\n(Proyecto)','03','México','ASR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0571','Aguascalientes','03','México','ASS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0572','Aerofumigaciones Nayarit','03','México','AST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0573','Aeroservicios La Victoria','03','México','ASV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0574','Agrícola Santa Veneranda','03','México','ASX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0575','Tierra Blanca','03','México','ATB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0576','Aeródromo De Tonala, Chiapas','03','México','ATG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0577','Atotonilco','03','México','ATO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0578','Tigrito','03','México','ATO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0579','Autlán De Navarro','03','México','AUN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0580','Aeródromo Villa Hidalgo','03','México','AVH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0581','Los Ayuches','03','México','AYC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0582','Ayuquila','03','México','AYL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0583','La Azufrosa I','03','México','AZF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0584','Gral. Pablo L. Sidar','03','México','AZG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0585','El Zopilote','03','México','AZK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0586','Los Aztecas','03','México','AZT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0587','El Azulejo','03','México','AZU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0588','Baborigame','03','México','BAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0589','Bacadehuachi','03','México','BAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0590','La Tuna De Badiraguato','03','México','BAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0591','Barajas','03','México','BAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0592','Barranca Honda','03','México','BAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0593','Bacis','03','México','BAI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0594','El Bajío','03','México','BAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0595','Bacoachí','03','México','BAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0596','Bamopa','03','México','BAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0597','Los Barrancos','03','México','BAO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0598','Babunica','03','México','BAU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0599','Aeródromo Bahía De Los Ángeles','03','México','BAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0600','Banarey','03','México','BAY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0601','Rancho Bbb','03','México','BBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0602','Barbechitos','03','México','BBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0603','BahÍa De Las Ballenas','03','México','BBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0604','El Báculo','03','México','BCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0605','El Baztán','03','México','BCM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0606','Banco Chinchorro','03','México','BCQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0607','Bacubirito','03','México','BCU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0608','Bacayopa','03','México','BCY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0609','Bacayopa Ii','03','México','BCZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0610','El Bajío Del Oso','03','México','BDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0611','Las Brisas','03','México','BGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0612','Las Bugambilias','03','México','BGM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0613','Bahía','03','México','BHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0614','Bahía Kino','03','México','BHK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0615','Bachoco','03','México','BHO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0616','El Centenario','03','México','BJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0617','Pista Brekamaje','03','México','BKE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0618','Leo','03','México','BLB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0619','Aterrizaje De Muñoz','03','México','BLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0620','El Bolson','03','México','BLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0621','Balder','03','México','BLR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0622','El Bramadero','03','México','BMO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0623','Bahía Mujeres','03','México','BMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0624','Barra De Navidad','03','México','BND','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0625','Benny','03','México','BNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0626','Los Brasiles','03','México','BRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0627','El Barbechito','03','México','BRB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0628','Borders','03','México','BRD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0629','Las Brechas','03','México','BRE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0630','El Barro','03','México','BRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0631','El Brasil','03','México','BRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0632','Bazonopita De Abajo','03','México','BSN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0633','Bahía Soledad','03','México','BSO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0634','Bastantita','03','México','BST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0635','Bahía Asuncion','03','México','BSU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0636','Pista Aérea Batan','03','México','BTN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0637','Batopito','03','México','BTT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0638','Betty','03','México','BTY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0639','Buenavista','03','México','BUE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0640','Buenavista De Atascaderos','03','México','BVA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0641','Club De Aviones Ultraligeros De Hermosillo','03','México','CAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0642','La Campanilla','03','México','CAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0643','Canelas','03','México','CAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0644','Canoas\n(Proyecto)','03','México','CAO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0645','La Campana','03','México','CAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0646','Santa Barbara','03','México','CAT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0647','Campo Victoria','03','México','CAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0648','La Ceiba','03','México','CBA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0649','Cerro Bola','03','México','CBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0650','Cerro Bola','03','México','CBD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0651','Cabrera','03','México','CBT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0652','Calabazas','03','México','CBZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0653','Camargo','03','México','CCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0654','Ciudad Constitución','03','México','CCB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0655','Casa Colorada','03','México','CCC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0656','Casimiro Castillo','03','México','CCF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0657','La Concordia','03','México','CCJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0658','Casa Colorada','03','México','CCK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0659','Cuatro Caminos','03','México','CCM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0660','Campo Cuatro','03','México','CCQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0661','Campo Cortes','03','México','CCR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0662','Carricitos','03','México','CCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0663','Carlos Diaz Becerril','03','México','CDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0664','El Cedro','03','México','CDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0665','Chupadero Del Caballo','03','México','CDC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0666','Gral. Roberto Fierro','03','México','CDG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0667','Campo Diez','03','México','CDI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0668','Cadeje','03','México','CDJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0669','Las Huastecas','03','México','CDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0670','Cedro Solo','03','México','CDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0671','Colorado','03','México','CDQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0672','Cedros','03','México','CDS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0673','Ciénega Del Toro','03','México','CDT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0674','Campo David','03','México','CDV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0675','Cerro De Enmedio','03','México','CDW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0676','Copa De Oro','03','México','CDX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0677','Capitán Birotres','03','México','CEB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0678','Cerros Colorados','03','México','CEC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0679','Cedros','03','México','CED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0680','Los Cerritos','03','México','CEE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0681','El Crucero','03','México','CEO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0682','La Ciénega','03','México','CES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0683','Cap. Eduardo A. Toledo','03','México','CET','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0684','Rancho Santa María','03','México','CFF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0685','Rincón De María','03','México','CGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0686','La Cieneguita','03','México','CGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0687','Cacaraguas','03','México','CGU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0688','Campo Gaxiola','03','México','CGX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0689','Cap.P.A. José Covarrubias Pérez','03','México','CGZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0690','Charole','03','México','CHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0691','Chicorrabias','03','México','CHB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0692','Chiconcuac','03','México','CHC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0693','Chilicote','03','México','CHE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0694','Chapotan','03','México','CHF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0695','Chilpancingo','03','México','CHG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0696','Meza Y Tinaja','03','México','CHI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0697','Cusihuiriachi','03','México','CHI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0698','Chicuras','03','México','CHK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0699','La Cholla','03','México','CHL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0700','Chamela','03','México','CHM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0701','Cahuisori','03','México','CHR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0702','Chínipas','03','México','CHS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0703','Chavarín','03','México','CHV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0704','Coahuayana','03','México','CHY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0705','Chivato Bay','03','México','CIB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0706','Rancho El Cíbolo','03','México','CIC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0707','Ciénega De Araujo','03','México','CIE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0708','La Ciénega','03','México','CIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0709','La Ciruelilla','03','México','CIR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0710','Cuixmala','03','México','CIX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0711','El Cajoncito','03','México','CJC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0712','Jiménez','03','México','CJM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0713','Colonia Juárez Nuevo','03','México','CJN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0714','Cuajinicuilapa','03','México','CJP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0715','El Caracol','03','México','CJT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0716','La Colonia','03','México','CLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0717','Cinco Llagas','03','México','CLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0718','Pablo L. Sidar','03','México','CLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0719','Coluta','03','México','CLU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0720','Mosqueda','03','México','CMB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0721','5 De Mayo','03','México','CMF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0722','Camagüey','03','México','CMG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0723','Hacienda Cuajomulco','03','México','CML','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0724','Rancho La Mezquitosa','03','México','CMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0725','Cemetam','03','México','CMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0726','Centro Medico Nacional 20 De Noviembre','03','México','CMN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0727','Cumpas','03','México','CMP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0728','El Camarón','03','México','CMT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0729','Cananea','03','México','CNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0730','Ciénega De Los Beltrán','03','México','CNB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0731','Cielito Lindo','03','México','CND','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0732','Ciénega De Nuestra Señora','03','México','CNE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0733','Ciénega De Los Acosta','03','México','CNG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0734','Ciénega Prieta','03','México','CNP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0735','Las Canteras','03','México','CNR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0736','Las Cañas','03','México','CNZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0737','El Cobano','03','México','COB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0738','Cerro De Ortega','03','México','COG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0739','Costalegre','03','México','COJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0740','Concheros','03','México','CON','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0741','Pista Colorado','03','México','COR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0742','Insurgente Marcos Escobedo','03','México','COT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0743','Comedero','03','México','COW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0744','Campo Arcadia','03','México','CPA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0745','Campo Pesquero El Castillo','03','México','CPC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0746','El Capiro','03','México','CPG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0747','Campo 107','03','México','CPI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0748','Campo Puerto Rico','03','México','CPK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0749','Copalquin','03','México','CPQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0750','Club De Paracaidismo Atlixco','03','México','CPU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0751','Campo La Primavera','03','México','CPV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0752','Campo El Porvenir','03','México','CPW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0753','Cerros Prietos','03','México','CPZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0754','Candelaria','03','México','CRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0755','Carrizalejo','03','México','CRG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0756','El Carrizo Ahome','03','México','CRH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0757','Curachitos','03','México','CRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0758','El Carrizo','03','México','CRJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0759','Carrizal','03','México','CRM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0760','El Caimanero','03','México','CRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0761','El Carrizo De La Petaca','03','México','CRP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0762','El Corral Falso','03','México','CRR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0763','El Control','03','México','CRT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0764','Ing. Juan Antonio Perdomo Diaz','03','México','CRV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0765','El Cristo','03','México','CRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0766','El Carrizal','03','México','CRZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0767','Campo Ceuta','03','México','CSE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0768','La Constancia','03','México','CSI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0769','Rancho Las Palmas','03','México','CSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0770','Cabo San Lucas','03','México','CSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0771','Chapotito','03','México','CSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0772','Campo Santa Aurora','03','México','CSR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0773','Cuestecitas','03','México','CSS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0774','Ciénega De Silva','03','México','CSV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0775','Campo San Javier','03','México','CSX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0776','Chino De Los López','03','México','CSZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0777','Canoitas','03','México','CTC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0778','El Contadero','03','México','CTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0779','El Centenario','03','México','CTI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0780','Chantol','03','México','CTK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0781','Rancho Coyotillos','03','México','CTL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0782','Centro Turístico Mauros','03','México','CTU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0783','Constitucionalista','03','México','CUC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0784','Cuautla','03','México','CUJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0785','La Curva','03','México','CUV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0786','Covadonga','03','México','CVD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0787','Calaveras','03','México','CVE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0788','Campo Verde','03','México','CVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0789','Casa Vieja','03','México','CVI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0790','Calera','03','México','CVR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0791','Campo San Pablo','03','México','CWP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0792','Campeche','03','México','CXE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0793','Cap. Rogelio Castillo','03','México','CYA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0794','El Cayal','03','México','CYL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0795','Rancho El Coyote','03','México','CYO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0796','El Colomo Y La Arena','03','México','CYR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0797','Coyotes','03','México','CYS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0798','La Coyotera','03','México','CYT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0799','Cosalá','03','México','CZP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0800','Rancho El Durangueño','03','México','DAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0801','Dos Amigos','03','México','DAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0802','Rancho Dublán','03','México','DBN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0803','Ganadería 21 De Enero, S.A. De C.V.','03','México','DDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0804','El Diamante Del Mar','03','México','DDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0805','Delicias','03','México','DEI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0806','Rubén Prieto Chacón','03','México','DEL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0807','Desierto De Sonora','03','México','DES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0808','De Fontes','03','México','DFS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0809','San Diego','03','México','DIH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0810','Rancho De Lauro','03','México','DLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0811','Dolores','03','México','DLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0812','Los Terreros','03','México','DLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0813','Dolores Nay','03','México','DNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0814','Dificultades','03','México','DTS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0815','El Duraznito','03','México','DZN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0816','El Saucito','03','México','EAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0817','El Álamo','03','México','EAE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0818','El Águila Ranch','03','México','EAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0819','Aguaje','03','México','EAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0820','Elmore And Sthal','03','México','EAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0821','El Álamo','03','México','EAU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0822','El Bajío','03','México','EBA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0823','El Blanquillo','03','México','EBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0824','El Barril','03','México','EBI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0825','Rancho El Bajío','03','México','EBJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0826','El Bonito','03','México','EBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0827','El Buen Pastor','03','México','EBP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0828','El Cedrito','03','México','ECE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0829','El Cedroso','03','México','ECF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0830','Enrique Cárdenas González','03','México','ECG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0831','Esmeralda Comaltitlán','03','México','ECH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0832','Los Encinos','03','México','ECV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0833','El Capullo','03','México','ECW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0834','El Coyote','03','México','ECX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0835','El Dos De Abril','03','México','EDA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0836','El Duraznito De Choix','03','México','EDC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0837','El Dorado','03','México','EDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0838','El Cortijo De Guanetipa','03','México','EDG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0839','El Llano De La Vega Del Oso','03','México','EDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0840','El Desemboque','03','México','EDQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0841','El Dury','03','México','EDR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0842','El Alto Del Tejocote','03','México','EDT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0843','El Divisadero','03','México','EDV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0844','El Encino','03','México','EEC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0845','La Ensenada','03','México','EEG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0846','Ejido Eréndira','03','México','EER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0847','El Frater','03','México','EFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0848','Nuevo Ciudad Acuña','03','México','EFN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0849','El Fortín','03','México','EFO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0850','El Guamúchil','03','México','EGM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0851','La Herradura De México','03','México','EGO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0852','El Huerfanito','03','México','EHF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0853','Ex Hacienda Sinaloa','03','México','EHS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0854','El Chapote','03','México','EHT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0855','El Huajuco','03','México','EHU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0856','Rancho El Infante','03','México','EIF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0857','El Capulín','03','México','EIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0858','Ejido Juan Álvarez','03','México','EJJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0859','Mesa De San Rafael','03','México','EJL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0860','Ejido Oaxaca','03','México','EJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0861','Rancho El Jaralito','03','México','EJR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0862','El Capitán','03','México','EKP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0863','El Arenoso','03','México','ELA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0864','El Borrego','03','México','ELB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0865','El Coche','03','México','ELC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0866','Aerofumigaciones La 300','03','México','ELD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0867','El Limón De Los Peña','03','México','ELI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0868','El Cardal','03','México','ELJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0869','El Muchacho','03','México','ELM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0870','El Pelón','03','México','ELP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0871','C.P.A Jesús Ernesto Lozano Jiménez','03','México','ELQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0872','El Rosario','03','México','ELR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0873','El Salto','03','México','ELS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0874','El Toro','03','México','ELT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0875','El Viejo','03','México','ELV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0876','El Potrero','03','México','ELX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0877','El Limonal','03','México','ELY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0878','El Mambo','03','México','EMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0879','Ejido Mondongo','03','México','EMN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0880','El Amate','03','México','EMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0881','El Maguey Coyol','03','México','EMX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0882','El Maguey','03','México','EMY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0883','Las Encantadas','03','México','END','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0884','El Encinal','03','México','ENL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0885','La Encantada','03','México','ENT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0886','Palo Blanco','03','México','ENW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0887','Platanar','03','México','EPA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0888','El Pino Castañeda','03','México','EPH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0889','El Palmar','03','México','EPM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0890','El Pinto','03','México','EPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0891','El Pinal','03','México','EPP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0892','El Potrero','03','México','EPT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0893','El Puma','03','México','EPU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0894','El Pinalito','03','México','EPY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0895','La Esperanza','03','México','EPZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0896','El Rodeo','03','México','ERD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0897','El Ranchito','03','México','ERG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0898','Eréndira','03','México','ERN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0899','El Paraíso','03','México','ERP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0900','El Rodríguez','03','México','ERZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0901','Estrella','03','México','ESA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0902','Escárcega','03','México','ESC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0903','El Seco','03','México','ESE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0904','El Sauzal','03','México','ESL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0905','La Estrella','03','México','EST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0906','El Tigre','03','México','ETG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0907','Rancho El Tiro','03','México','ETI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0908','El Trapiche','03','México','ETN CHECAR SP 611','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0909','El Tigre','03','México','ETR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0910','Los Eucaliptos','03','México','ETS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0911','El Tule','03','México','ETT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0912','El Vikingo','03','México','EVK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0913','El Varal','03','México','EVL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0914','Guamúchil Évora','03','México','EVO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0915','El Verano','03','México','EVS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0916','El Carrizal','03','México','EXL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0917','El Zamora','03','México','EZM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0918','El Zorrillo','03','México','EZO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0919','El Carrizo','03','México','EZS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0920','Fumigaciones Aéreas De Abasolo','03','México','FAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0921','Fernando Amaya','03','México','FAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0922','Fumigaciones Aéreas Pérez','03','México','FAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0923','Pista Aérea José Galindo','03','México','FAR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0924','Francisco Bruno Barrera','03','México','FBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0925','Familia Baldenebro Jaimes','03','México','FBJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0926','Campo De Aviación Parral','03','México','FCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0927','Felipe Carrillo Puerto','03','México','FCQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0928','Rancho Los Flores','03','México','FFR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0929','Fertilizantes Y Fumigaciones Del Valle','03','México','FFV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0930','Pista El Álamo','03','México','FGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0931','Alhué','03','México','FLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0932','Finca La Isla','03','México','FLI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0933','Las Flores','03','México','FLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0934','El Fresnal','03','México','FNL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0935','El Fénix','03','México','FNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0936','La Alameda Mocorito','03','México','FRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0937','Feria','03','México','FRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0938','El Frijolar','03','México','FRJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0939','Farallón','03','México','FRL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0940','El Freno','03','México','FRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0941','José Ángel  Espinoza Ferrusquilla','03','México','FRR antes CHX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0942','Francisco Sarabia','03','México','FSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0943','Felipe Terrones Acosta','03','México','FTA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0944','El Fuerte','03','México','FTE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0945','La Fortuna','03','México','FTN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0946','La Platanera','03','México','FUP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0947','La Fortaleza','03','México','FZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0948','Rancho Santa Rosa','03','México','GAA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0949','Ganadería Cimarrón','03','México','GAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0950','Los Gavilanes','03','México','GAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0951','El Gargaliote','03','México','GBF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0952','Guayaberos','03','México','GBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0953','Gatos Bravos','03','México','GBV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0954','Guachochi','03','México','GCC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0955','Guamúchil','03','México','GCH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0956','La Gran China','03','México','GCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0957','Pista Gerónimo','03','México','GER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0958','Hualul','03','México','GGH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0959','La Gloria','03','México','GIA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0960','La Giralda\n(Poceso Cierre)','03','México','GIH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0961','El Gallito','03','México','GLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0962','La Gloria Ii','03','México','GLQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0963','Club Aerodeporte De Mazatlán','03','México','GMO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0964','Guadalupe Ocotan','03','México','GPE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0965','Granados','03','México','GRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0966','Aeropuerto Regional De Guerrero Negro','03','México','GRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0967','El Grullo','03','México','GRU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0968','Galancita','03','México','GSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0969','Golfo De Santa Clara','03','México','GSC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0970','Ganadería Santo Domingo','03','México','GSD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0971','La Guarida','03','México','GUA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0972','El Gavilán','03','México','GVN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0973','La Grulla','03','México','GYA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0974','Guayparime Ii','03','México','GYE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0975','Santa Amelia','03','México','GZI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0976','Almater','03','México','HAA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0977','Centro Medico Abc Santa Fe','03','México','HAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0978','Rancho Mariquita','03','México','HAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0979','Ava-Dim','03','México','HAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0980','Ángeles Espinosa Yglesias','03','México','HAE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0981','Atún Vi','03','México','HAF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0982','Agua','03','México','HAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0983','Hospital General Ajusco Medio','03','México','HAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0984','Helipuerto Agencia Estatal De Investigaciones Mty.','03','México','HAI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0985','Punta  Estrella','03','México','HAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0986','Atilano Castaño','03','México','HAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0987','Hospital Ángeles De Xalapa','03','México','HAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0988','Aristos México','03','México','HAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0989','Hospital Ángeles De Las Lomas','03','México','HAO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0990','Los Pirules','03','México','HAP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0991','Triangulo Las Animas','03','México','HAQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0992','Aero Servicios','03','México','HAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0993','El Hato','03','México','HAT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0994','Universidad De Las Américas','03','México','HAU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0995','Torre Bosques','03','México','HAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0996','Atún X','03','México','HAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0997','Unitec Acapulco','03','México','HAY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0998','Américas Country','03','México','HAZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0999','Plaza Corporativo Banamex','03','México','HBA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1000','Helipuerto Big Brother','03','México','HBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1001','Centro Bancomer','03','México','HBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1002','Bonnie','03','México','HBE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1003','Vgi Helipuerto','03','México','HBI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1004','Helipuerto Bicentenario Municipio Aguascalientes','03','México','HBM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1005','Plataforma Autoelevable Grijalva','03','México','HBN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1006','Plataforma Autoelevable Tonalá','03','México','HBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1007','Plataforma Autoelevable Panuco','03','México','HBP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1008','Plataforma Autoelevable Tuxpan','03','México','HBQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1009','Casa Blanca','03','México','HBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1010','Ángeles De Torreón','03','México','HBT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1011','Bachoco','03','México','HBU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1012','Coorporativo Blanco','03','México','HBV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1013','Buenaventura I','03','México','HBX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1014','Buenaventura Ii','03','México','HBY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1015','El Conchal','03','México','HCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1016','Centro Corporativo Bosques','03','México','HCB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1017','Coca Cola','03','México','HCC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1018','Donna Cristina','03','México','HCD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1019','Opción Santa Fe Iii','03','México','HCF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1020','Cooperativa Ensenada De Aviación','03','México','HCG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1021','Conquista','03','México','HCH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1022','Centro Insurgentes','03','México','HCI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1023','Cabo San Lucas','03','México','HCJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1024','Cabo Real','03','México','HCJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1025','Hotel Coral','03','México','HCK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1026','Torre Chiapas','03','México','HCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1027','Hospital Muguerza','03','México','HCM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1028','Helipuerto Montemayor','03','México','HCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1029','Car One','03','México','HCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1030','Cinépolis','03','México','HCP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1031','Plaza Caracol Dos','03','México','HCQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1032','Parque Reforma','03','México','HCR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1033','Centro Corporativo Santander','03','México','HCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1034','Unitec Campus Ecatepec','03','México','HCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1035','Torre Citadel\n(Proyecto)','03','México','HCT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1036','Sunset','03','México','HCU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1037','Club De Golf Cuernavaca','03','México','HCV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1038','Pegaso-Cozumel','03','México','HCZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1039','Hacienda El Caballo','03','México','HDC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1040','Hospital Cima','03','México','HDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1041','Destiladeras Cabo Este','03','México','HDE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1042','Dirección General De Seguridad Publica','03','México','HDG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1043','Hermod','03','México','HDH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1044','Hospital Ángeles De Ciudad Juárez','03','México','HDJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1045','Huerta De Los Carrillo','03','México','HDK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1046','Irla (Antes Drul)','03','México','HDL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1047','Dirección De Seguridad Pública Municipal','03','México','HDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1048','Damián Carmona','03','México','HDR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1049','Haddad Siria','03','México','HDS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1050','Bardahl Ajusco','03','México','HDT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1051','Palacio De Hierro Durango','03','México','HDX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1052','Helituna','03','México','HEA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1053','Editora','03','México','HED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1054','Creel','03','México','HEE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1055','El Dorado','03','México','HEF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1056','Espinosa Yglesias','03','México','HEF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1057','Empaques Novedosos','03','México','HEG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1058','Torre Empresarial','03','México','HEH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1059','Huejotitan','03','México','HEJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1060','Elektra','03','México','HEK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1061','Helipuerto Estado De México','03','México','HEM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1062','El Edén','03','México','HEN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1063','Los Encinos','03','México','HEO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1064','Compañía Periodística Esto','03','México','HEQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1065','Hacienda El Refugio','03','México','HER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1066','Servicios Aéreos De Estado De México','03','México','HES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1067','Torre Esmeralda Ii','03','México','HET','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1068','El Universal','03','México','HEU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1069','Ficonsa','03','México','HEV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1070','Televisa Chapultepec','03','México','HEW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1071','Fideicomiso 869','03','México','HFA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1072','Punta Santa Fe','03','México','HFC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1073','Femsa','03','México','HFD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1074','Lomas Altas','03','México','HFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1075','Francisco Garza','03','México','HFG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1076','Estación Pfp Iztapalapa','03','México','HFI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1077','Maíz Transforma','03','México','HFJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1078','Fiesta Americana','03','México','HFM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1079','Farallón','03','México','HFN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1080','Helipuerto El Florido\n(Proyecto)','03','México','HFO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1081','Polígono 3','03','México','HFP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1082','Magnocentro 26','03','México','HFR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1083','Hotel Plaza Mónaco','03','México','HFT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1084','Fundición Residencial','03','México','HFU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1085','Sea Fox 2','03','México','HFX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1086','Mónica','03','México','HFY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1087','Fiscalía Del Estado De Chiapas','03','México','HFY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1088','Franz','03','México','HFZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1089','Las Gaviotas','03','México','HGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1090','Hospital Ángeles León','03','México','HGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1091','Cuartel General','03','México','HGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1092','Centro Medico Del Potosí','03','México','HGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1093','Cerro De La Corona','03','México','HGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1094','Hospital General De 120 Camas\n(Proyecto)','03','México','HGF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1095','Hospital Ángeles Del Carmen','03','México','HGH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1096','Hospital Regional De Alta Especialidad Del Bajío','03','México','HGI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1097','Helipuerto Guadalajara','03','México','HGJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1098','Palacio De Gobierno','03','México','HGK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1099','Rancho Buena Suerte','03','México','HGL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1100','María Delia','03','México','HGM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1101','Torre Gan','03','México','HGN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1102','Higuera Gorda','03','México','HGO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1103','Gnp','03','México','HGP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1104','Helipuerto Tango','03','México','HGQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1105','Hospital General De Alta Resolución','03','México','HGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1106','Grupo Rio San Juan (Proyecto)','03','México','HGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1107','Tlaxcala','03','México','HGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1108','Hacienda Guadalupe','03','México','HGU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1109','Gral. Guadalupe Victoria','03','México','HGV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1110','Casa De Gobierno Tamaulipas','03','México','HGX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1111','Granja El Ángel','03','México','HGY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1112','Hospital Ángeles','03','México','HHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1113','Hospital Ángeles De Tijuana','03','México','HHB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1114','Hospital Dalinde','03','México','HHD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1115','Hotel Camino Real','03','México','HHE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1116','Corporativo 261','03','México','HHG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1117','Helipuerto Hacienda Huajuco','03','México','HHH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1118','Holiday Inn Express Puebla','03','México','HHI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1119','Torre Equss Sur','03','México','HHJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1120','Torre Equss Norte','03','México','HHK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1121','Humberto Lobo Morales','03','México','HHL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1122','Altos Hornos De México','03','México','HHM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1123','Secretaría de Marina (Oper. Civil En Emergencia)','03','México','HHN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1124','Torre Medica Hospital Puebla','03','México','HHP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1125','Hospital General De 24 Camas','03','México','HHQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1126','Camino Real México','03','México','HHR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1127','Hospital San José','03','México','HHS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1128','Issste Tultitlan','03','México','HHT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1129','Rancho El Girasol','03','México','HHV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1130','Hospital Issste Morelia','03','México','HHX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1131','Aero Turquesa Cozumel','03','México','HHZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1132','La Primavera','03','México','HIA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1133','Inmobiliaria Arcos Bosques\n(Proyecto)','03','México','HIB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1134','Huajimic','03','México','HIC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1135','Torre Ii','03','México','HID','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1136','Inite','03','México','HIE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1137','Interlomas Motors','03','México','HIF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1138','Itam Santa Teresa','03','México','HIG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1139','Itam Rio Hondo','03','México','HIH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1140','Centenario Gr','03','México','HII','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1141','Bicentenario','03','México','HIJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1142','Huachichil','03','México','HIL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1143','Centro Internacional De Medicina De Puebla','03','México','HIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1144','Mundo Infantil','03','México','HIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1145','Hospital ABC','03','México','HIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1146','Industria Del Hierro','03','México','HIQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1147','Infored','03','México','HIR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1148','Huerta Los Sauces','03','México','HIS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1149','Hsbc','03','México','HIT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1150','Issste Veracruz','03','México','HIV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1151','Iusa Ii','03','México','HIW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1152','Hospital De Alta Especialidad Ixtapaluca','03','México','HIX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1153','Tlatelolco Ii','03','México','HIY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1154','Issste Querétaro','03','México','HIZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1155','Ajalpa','03','México','HJA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1156','Edificio De Justicia Estatal','03','México','HJE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1157','Hospital San Javier','03','México','HJG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1158','Judith','03','México','HJH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1159','Jeannine','03','México','HJI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1160','Juan María De Salvatierra','03','México','HJR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1161','Hospital San José Tec De Monterrey','03','México','HJS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1162','Júpiter I','03','México','HJU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1163','J.W. Marriott','03','México','HJW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1164','Akalan Ii','03','México','HKB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1165','La Cascada','03','México','HKD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1166','K.N.','03','México','HKN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1167','Coca Cola Femsa','03','México','HKO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1168','Panzacola','03','México','HKP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1169','Arkos Ii Chiapas','03','México','HKS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1170','Elektra Ii','03','México','HKT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1171','Plaza Kukulcán','03','México','HKU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1172','Edificio Viviendas 1 Y 2','03','México','HKW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1173','Edificio Falcon','03','México','HKX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1174','Edificio Telcel','03','México','HKY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1175','Edificio Zúrich','03','México','HKZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1176','León','03','México','HLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1177','Mario López Valdez','03','México','HLB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1178','La Diferencia','03','México','HLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1179','Torre Libertad','03','México','HLI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1180','Lupe Del Mar','03','México','HLK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1181','Lic. Adolfo López Mateos','03','México','HLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1182','Terracota Cien','03','México','HLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1183','La Paloma Company','03','México','HLP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1184','Las Delicias','03','México','HLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1185','Torre Lomas','03','México','HLT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1186','Hospital Ángeles Lindavista','03','México','HLV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1187','María De La Paz','03','México','HLZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1188','Gpm Aeroservicio','03','México','HMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1189','Torre Banorte','03','México','HMB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1190','Mazpesca 2','03','México','HMC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1191','Milenio Diario Antes Novedades Editores','03','México','HMD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1192','Moliere 222','03','México','HME','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1193','María Fernanda','03','México','HMF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1194','Embarcadero (Cambio De Designador) Hmb','03','México','HMG(NUEVO)','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1195','María Rossana','03','México','HMH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1196','Moliere Dos22','03','México','HMI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1197','Playa Mujeres Resort','03','México','HMJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1198','Mazatun','03','México','HMK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1199','Mocel','03','México','HML','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1200','María Del Mar','03','México','HMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1201','Moliere 222 Ii','03','México','HMN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1202','Madeira','03','México','HMP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1203','Medica Sur','03','México','HMQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1204','Torre Morelos','03','México','HMR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1205','María Verónica','03','México','HMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1206','Torre Mayor','03','México','HMT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1207','María Luisa','03','México','HMU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1208','Moras','03','México','HMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1209','Micare','03','México','HMW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1210','Chac Mool','03','México','HMY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1211','Hospital Muguerza Saltillo','03','México','HMZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1212','Nair I','03','México','HNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1213','Nutec\n(Proyecto)','03','México','HNC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1214','Comandancia Norte','03','México','HND','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1215','Comisión Nacional Del Agua','03','México','HNF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1216','Torre Motomex','03','México','HNH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1217','Hotel Nikko','03','México','HNK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1218','Yautepec Nieto','03','México','HNM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1219','Helipuerto Hospiten Cancún','03','México','HNN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1220','La Prensa','03','México','HNP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1221','Nair Ii','03','México','HNR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1222','Nacozari','03','México','HNS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1223','Torre Medica Ángeles\n(Torre Clínica)','03','México','HNT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1224','Akumal','03','México','HNV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1225','Najucal','03','México','HNX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1226','Manzanilla','03','México','HNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1227','Olas Altas','03','México','HOA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1228','Dos Bocas','03','México','HOB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1229','Constituyentes','03','México','HOC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1230','Agua Dulce','03','México','HOD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1231','Organización Editorial Mexicana','03','México','HOE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1232','Opción Santa Fe Iv','03','México','HOF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1233','Holbox','03','México','HOL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1234','Omega','03','México','HOM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1235','Hospital Ángeles De Puebla','03','México','HOP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1236','Misión Del Sol','03','México','HOS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1237','Villa Ángeles I','03','México','HOV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1238','Puebla 2000','03','México','HOX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1239','Hotel Centro Histórico','03','México','HOY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1240','Helipuerto Cruz Azul','03','México','HOZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1241','Huizopa De Dolores','03','México','HPA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1242','Park Plaza I','03','México','HPD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1243','Plaza Insurgentes Sur (3)','03','México','HPE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1244','Plaza Insurgentes Sur (4)','03','México','HPF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1245','Gobierno Del Estado De Chiapas','03','México','HPG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1246','Puebla Inversionista','03','México','HPI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1247','Plaza Insurgentes Sur (2)\n(Proyecto)','03','México','HPK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1248','Torre Ejecutiva Pemex','03','México','HPM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1249','Nestlé','03','México','HPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1250','Cabo De Peñas','03','México','HPP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1251','Rancho La Parroquia','03','México','HPQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1252','Safe Regency','03','México','HPR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1253','Peñasquito','03','México','HPS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1254','Paseo Tec','03','México','HPT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1255','Huajupa','03','México','HPU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1256','Plaza Cuicuilco','03','México','HPV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1257','Gobierno Del Estado De Puebla','03','México','HPW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1258','Plaza Scotiabank','03','México','HPX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1259','Polycel','03','México','HPY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1260','Azteca 1','03','México','HQA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1261','Azteca 2','03','México','HQB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1262','Azteca 3','03','México','HQC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1263','Azteca 4','03','México','HQD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1264','Azteca 5','03','México','HQE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1265','Azteca 6','03','México','HQF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1266','Azteca 7','03','México','HQG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1267','Azteca 8','03','México','HQH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1268','Azteca 9','03','México','HQI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1269','Azteca 10','03','México','HQJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1270','Pesca Azteca','03','México','HQK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1271','Clipperton','03','México','HQL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1272','Hanna','03','México','HQN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1273','Reforma 211-213','03','México','HRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1274','El Roble','03','México','HRB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1275','Hércules','03','México','HRC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1276','Camino Real Monterrey','03','México','HRE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1277','Helipuerto Reforma','03','México','HRF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1278','Hernández Ranch','03','México','HRH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1279','Rancho La Fortuna','03','México','HRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1280','El Realito','03','México','HRJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1281','Arkos I Chiapas','03','México','HRK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1282','Samaria-Luna','03','México','HRL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1283','Revolución','03','México','HRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1284','Reforma Plus','03','México','HRP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1285','Reforma 115','03','México','HRQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1286','Marítima Y Servicios','03','México','HRV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1287','Residencial Del Bosque Ii','03','México','HRW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1288','Hotel Riu Palace\n(Proyecto)','03','México','HRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1289','Reforma 222','03','México','HRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1290','Torrey','03','México','HRY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1291','Santa Fe 443\n(Proyecto)','03','México','HSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1292','Atún Vii','03','México','HSC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1293','El Sol De Durango','03','México','HSD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1294','Selecciones De Color','03','México','HSE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1295','San Francisco','03','México','HSF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1296','Sarabia','03','México','HSH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1297','Helicopters Air Space','03','México','HSI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1298','Hacienda San Juan','03','México','HSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1299','Atún I','03','México','HSK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1300','Hotel Solaris','03','México','HSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1301','Helipuerto Secretaria De Seguridad Publica','03','México','HSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1302','Sind. Nacional De Los Trabajadores De La Educación','03','México','HSN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1303','Helipuerto Sefuver','03','México','HSO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1304','Palmore','03','México','HSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1305','Seguridad Publica De Cancún','03','México','HSQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1306','Selder','03','México','HSR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1307','Centro Nacional De Rehabilitación','03','México','HSS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1308','Alsavision','03','México','HSV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1309','Secretaria De Seguridad Pública','03','México','HSW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1310','Skytex','03','México','HSX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1311','Safe Hibernia','03','México','HSY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1312','Torre Acuario','03','México','HTA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1313','Torre Del Bosque','03','México','HTB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1314','Torre Caballito','03','México','HTC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1315','Bardahl Toluca','03','México','HTD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1316','Trans Caribe Cozumel','03','México','HTD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1317','Torre Esmeralda','03','México','HTE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1318','Torre Acueducto','03','México','HTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1319','Hospital 120 Camas Tláhuac','03','México','HTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1320','Toro Viejo','03','México','HTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1321','Helipuerto Tuxtla Gutiérrez\n(Proyecto)','03','México','HTG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1322','Unitec Guadalajara','03','México','HTG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1323','Torre Del Castillo','03','México','HTH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1324','Titanic','03','México','HTI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1325','Tribunal Superior De Justicia','03','México','HTJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1326','Macel','03','México','HTK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1327','Televisa Santa Fe','03','México','HTL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1328','Huetamo','03','México','HTM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1329','Hotel Tecnoparque','03','México','HTN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1330','Trans Caribe Nichupte','03','México','HTN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1331','Torre Optima','03','México','HTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1332','Aeroturquesa Cancún','03','México','HTQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1333','Pinfra (Antes Tribasa)','03','México','HTR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1334','Tlalpan','03','México','HTS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1335','Transpais','03','México','HTT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1336','Hotel Terranova','03','México','HTU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1337','Torre Providencia (Proyecto)','03','México','HTV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1338','Televisa San Ángel','03','México','HTW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1339','Torre Telmex','03','México','HTX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1340','El Tejocotal','03','México','HTY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1341','Huexca','03','México','HUC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1342','Banco Del Bajío','03','México','HUD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1343','Unefón','03','México','HUF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1344','Unitec Campus Sur','03','México','HUG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1345','María Antonieta','03','México','HUK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1346','Radio Capital','03','México','HUM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1347','Inmobiliaria Montes Urales 770','03','México','HUR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1348','Comandancia Sur','03','México','HUU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1349','Huapaverachi','03','México','HUV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1350','Helipuerto Royal','03','México','HUY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1351','Marina  Vallarta','03','México','HVA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1352','Villa Ángeles','03','México','HVB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1353','San Vicente','03','México','HVC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1354','Verónica','03','México','HVE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1355','Punto Central','03','México','HVF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1356','Casa Marlín','03','México','HVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1357','Hospital Ángeles De Villahermosa','03','México','HVI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1358','Theresa Janene','03','México','HVJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1359','Amatitlán','03','México','HVM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1360','Helivan','03','México','HVN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1361','Villa Ángeles Ii','03','México','HVO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1362','Huizopa','03','México','HVP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1363','Vertientes','03','México','HVS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1364','Variedades','03','México','HVS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1365','Villalta','03','México','HVX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1366','Vz Flights','03','México','HVZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1367','Atunera Gabiero','03','México','HWG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1368','I.M.S.S.','03','México','HWI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1369','Centro Corporativo World Plaza','03','México','HWP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1370','Rio Blanco','03','México','HWR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1371','María Guadalupe','03','México','HXG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1372','Xitle','03','México','HXI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1373','Moctezuma','03','México','HXM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1374','Ixcun','03','México','HXN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1375','Perla','03','México','HXP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1376','Senado De La Republica','03','México','HXR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1377','Scorpio','03','México','HXS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1378','Hospital General De Veracruz','03','México','HXY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1379','Corporativo Santa Fe 505','03','México','HYC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1380','Cartadedeces','03','México','HYI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1381','Huaynamota','03','México','HYM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1382','Toyota','03','México','HYT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1383','Helimaz','03','México','HZC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1384','El Huizache','03','México','HZH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1385','Aero Anáhuac','03','México','HZI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1386','Huazamota','03','México','HZM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1387','Torre Zentrum','03','México','HZN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1388','Hospital Cristus Muguerza','03','México','HZO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1389','Lic. Adolfo Ruiz Cortinez','03','México','HZR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1390','Tv Azteca','03','México','HZT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1391','Huatabampo','03','México','HZU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1392','El Estribo','03','México','IBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1393','Icarus','03','México','ICA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1394','Isla Cedros','03','México','ICD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1395','Isla Del Carmen','03','México','ICM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1396','Isaac Castro Sahade','03','México','ICS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1397','Isla Del Toro','03','México','IDT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1398','Laboratorio Del Desierto','03','México','IEM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1399','Club De Vuelo Cadereyta S.C.','03','México','IER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1400','San Ignacio 2','03','México','IGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1401','El Igualamo','03','México','IGL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1402','Ingenio De Huixtla','03','México','IHC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1403','Pista Iñiguez Ii','03','México','INZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1404','Las Islas','03','México','ISL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1405','San Marcos','03','México','ISM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1406','Isla Natividad','03','México','ISN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1407','Islita','03','México','ITA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1408','Ixtlán Ii','03','México','IXL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1409','Jagüeyes','03','México','JAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1410','Aeródromo Jbs','03','México','JBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1411','Jbt','03','México','JBT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1412','El Jacal','03','México','JCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1413','Jazmines De Coyultita','03','México','JCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1414','Jesús Javier Castro Soto','03','México','JCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1415','El Jardín','03','México','JDN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1416','Jorge Efraín','03','México','JEF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1417','Pista Leo','03','México','JEP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1418','Farías','03','México','JFV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1419','El Cuervo','03','México','JGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1420','El Jagüey','03','México','JGY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1421','Jalisquillo','03','México','JLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1422','Jorge Llerenas Silva','03','México','JLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1423','Jesús María','03','México','JMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1424','Jesús María','03','México','JMC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1425','José Magdaleno Jalavera Reyes','03','México','JMJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1426','Juan Murillo','03','México','JMR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1427','La Huerta  (Antes El Paraíso)','03','México','JMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1428','Mesa Loma Prieta','03','México','JMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1429','El Janeño','03','México','JNN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1430','Janitzio','03','México','JNZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1431','San Jorge','03','México','JOG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1432','José De Jesús Palacios López','03','México','JPL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1433','Pista De Jalpan','03','México','JPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1434','San José Del Progreso','03','México','JPT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1435','Juan Perdomo Medina','03','México','JPV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1436','Las Cruces','03','México','JRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1437','José Galindo Ruiz','03','México','JSG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1438','San Juanito','03','México','JTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1439','Pista Juárez Hermanos','03','México','JUH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1440','Ju-Bar','03','México','JUR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1441','La Chijolosa','03','México','JVA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1442','Campo San Javier','03','México','JVS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1443','La Joya','03','México','JYA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1444','La Joya Brun','03','México','JYB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1445','Cuautla De Huitzililla','03','México','KHU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1446','Kohunlinch','03','México','KLI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1447','La Base','03','México','LAA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1448','La Laguna','03','México','LAF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1449','La Joya','03','México','LAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1450','Las Lajas','03','México','LAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1451','Las Américas','03','México','LAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1452','La Misión','03','México','LAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1453','Los Ángeles','03','México','LAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1454','La Sierrita','03','México','LAO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1455','Las Arenas','03','México','LAR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1456','Las Azoteas','03','México','LAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1457','Las Águilas','03','México','LAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1458','La Brisca','03','México','LBA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1459','Los Bravos De Bonfil','03','México','LBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1460','La Begoña','03','México','LBG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1461','Loma Blanca','03','México','LBH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1462','Los Brasiles','03','México','LBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1463','Los Barajas','03','México','LBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1464','Los Lobos','03','México','LBX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1465','La Campana','03','México','LCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1466','La Candelaria Borders','03','México','LCD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1467','La Caridad','03','México','LCI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1468','Los Canarios','03','México','LCM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1469','La Candelaria','03','México','LCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1470','Las Carreras','03','México','LCQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1471','Las Cruces','03','México','LCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1472','Los Cuates','03','México','LCT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1473','Las Cuevas','03','México','LCV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1474','Las Cuevas','03','México','LCW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1475','Los Cerones','03','México','LCX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1476','El Limón De Badiraguato','03','México','LDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1477','Limón De Los Castañeda','03','México','LDC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1478','General Jesús Agustín Castro','03','México','LDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1479','Lo De Diarte','03','México','LDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1480','Lindavista','03','México','LDV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1481','La Esmeralda','03','México','LED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1482','La Esperanza I','03','México','LEE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1483','La Lechuguilla','03','México','LEH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1484','Leon''S','03','México','LEO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1485','La Escuadra','03','México','LEQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1486','Los Ébanos','03','México','LET','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1487','La Florida','03','México','LFA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1488','Los Fresnos','03','México','LFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1489','Los Frailes','03','México','LFS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1490','Las Flores','03','México','LFX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1491','La Gloria De Coahuila','03','México','LGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1492','Las Glorias','03','México','LGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1493','Llano Grande','03','México','LGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1494','Los González','03','México','LGF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1495','La Ciénega Del Ojito','03','México','LGG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1496','Los Gloriosos','03','México','LGI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1497','La Gloria','03','México','LGK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1498','La Guajolota','03','México','LGL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1499','Los González De Gorongoros','03','México','LGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1500','La Laguna','03','México','LGU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1501','La Guacamaya','03','México','LGY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1502','La Herradura','03','México','LHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1503','Los Halcones','03','México','LHC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1504','La Hermandad','03','México','LHE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1505','La Chalina','03','México','LHI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1506','La Horqueta','03','México','LHO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1507','C.P.A. Leonardo López Hernández','03','México','LHV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1508','El Liebrero','03','México','LIE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1509','Las Ilusiones','03','México','LIL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1510','El Limón De Copalquin','03','México','LIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1511','El Limoncito','03','México','LIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1512','Los Pilares','03','México','LIR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1513','La Jaiba','03','México','LJA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1514','Represito De Lujan','03','México','LJN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1515','La Coma','03','México','LKA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1516','La Calera','03','México','LKE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1517','Las Cruces','03','México','LKS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1518','El Llano','03','México','LLF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1519','La Laguna','03','México','LLG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1520','La Laguna','03','México','LLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1521','El Limón Las Coloradas','03','México','LLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1522','La Lomita\n(Acreditación Propietario)','03','México','LLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1523','Los Llanos','03','México','LLN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1524','La Loma','03','México','LLT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1525','La Lagunita','03','México','LLW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1526','La Manga','03','México','LMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1527','Rancho La Misión','03','México','LMB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1528','Los Mártires','03','México','LMF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1529','Las Mulas','03','México','LMH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1530','La Misión','03','México','LMI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1531','La Misión','03','México','LMK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1532','Lic. Francisco Primo De Verdad Y Ramos','03','México','LMO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1533','Lampazos','03','México','LMP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1534','Las Palmas De Guasave','03','México','LMQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1535','La Mesa Del Rodeo','03','México','LMR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1536','La Miseria','03','México','LMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1537','Rancho La Margarita','03','México','LMT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1538','Las Macayas','03','México','LMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1539','La Mesa','03','México','LMX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1540','Loma Linda','03','México','LNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1541','La Anacua','03','México','LNC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1542','Rancho La Encantada','03','México','LND','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1543','La Nueva Esperanza','03','México','LNE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1544','Las Ninfas','03','México','LNF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1545','Aerofumigaciones La Nanchi','03','México','LNL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1546','Los Pintos','03','México','LNP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1547','Las Norias','03','México','LNR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1548','Rancho La Nutria','03','México','LNU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1549','Rancho Laguna Vista','03','México','LNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1550','Los Lobos','03','México','LOB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1551','Los Olivos','03','México','LOC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1552','San Bernardino De Milpillas Chico','03','México','LOD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1553','Los Pipos','03','México','LOE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1554','Longoria','03','México','LOG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1555','Los Limones','03','México','LOL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1556','Lorena','03','México','LON','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1557','Pista López','03','México','LOP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1558','San Lorenzo Acuña','03','México','LOR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1559','Los Charcos','03','México','LOS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1560','Los Vasitos','03','México','LOV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1561','El Loreto','03','México','LOY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1562','La Piedad','03','México','LPD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1563','La Pesca Base Aeronaval','03','México','LPE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1564','La Paloma','03','México','LPF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1565','La Pichihuila','03','México','LPH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1566','La Poza','03','México','LPJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1567','La Palma','03','México','LPM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1568','Los Pinitos','03','México','LPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1569','La Palmosa','03','México','LPO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1570','La Laguna Del Palmar','03','México','LPR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1571','La Pajarera','03','México','LPV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1572','La Paz','03','México','LPW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1573','Los Pericos','03','México','LPX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1574','La Pitaya','03','México','LPY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1575','Liquidambar','03','México','LQA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1576','La Campana De San Quintín','03','México','LQN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1577','Las Reynas','03','México','LRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1578','Reyna Diana','03','México','LRJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1579','Lagarto','03','México','LRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1580','Laguna Del Rey','03','México','LRY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1581','La Soledad','03','México','LSD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1582','Las Higueras','03','México','LSH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1583','Laguna Seca','03','México','LSK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1584','Las Mesas','03','México','LSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1585','Los Perros','03','México','LSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1586','La Sierrita','03','México','LST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1587','La Angostura','03','México','LTA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1588','La Trinidad','03','México','LTB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1589','La Trinidad','03','México','LTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1590','Las Trancas','03','México','LTQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1591','Lomas Tristes','03','México','LTT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1592','Regional De Los Tuxtlas','03','México','LTX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1593','La Burra','03','México','LUA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1594','El Laurel','03','México','LUE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1595','El Cohete','03','México','LUK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1596','La Luna','03','México','LUN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1597','La Victoria','03','México','LVC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1598','La Villita','03','México','LVI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1599','La Vainilla','03','México','LVL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1600','Leona Vicario','03','México','LVO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1601','La Yesca De Hermosillo','03','México','LYH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1602','La Yesca','03','México','LYS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1603','La Suiza','03','México','LZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1604','Lorenzos De Baja','03','México','LZB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1605','Lázaro Cárdenas','03','México','LZC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1606','Los Aztecas I','03','México','LZS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1607','Mesa Bonita','03','México','MAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1608','Magdalena','03','México','MAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1609','Pista Magaña','03','México','MAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1610','Mesa Del Nayar','03','México','MAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1611','Gral. Gonzalo Curiel García','03','México','MAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1612','Malvinas','03','México','MAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1613','Miguel Alemán','03','México','MAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1614','Marina Beach','03','México','MBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1615','Mubarqui','03','México','MBQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1616','Manuel Benavides','03','México','MBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1617','Macho Bayo','03','México','MBY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1618','María Beatriz','03','México','MBZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1619','Manjarrez De Caborca','03','México','MCB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1620','Pista Municipal De Ciudad Cuauhtémoc','03','México','MCI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1621','Meza Del Barranco','03','México','MDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1622','Santa Rosalía','03','México','MDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1623','Mesa De Fronteras','03','México','MDF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1624','Montañas Del Gualul','03','México','MDG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1625','Mesa De Los Huicholes','03','México','MDH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1626','Mesa De Calera','03','México','MDK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1627','Mesa Del Álamo','03','México','MDL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1628','Mecatillo','03','México','MDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1629','Mesa Del Huracán','03','México','MDN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1630','Mina Dolores','03','México','MDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1631','Mineral De Polanco','03','México','MDP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1632','Mesa De Los Saucedo','03','México','MDS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1633','Mesa De Los Toros','03','México','MDT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1634','Las Carmenes','03','México','MES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1635','El Mezquite','03','México','MEZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1636','Toro Bravo','03','México','MFS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1637','Las Margaritas','03','México','MGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1638','Molango','03','México','MGO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1639','Margaritas','03','México','MGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1640','Los Mangos','03','México','MGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1641','La Michoacana','03','México','MHC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1642','Mochicahui','03','México','MHH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1643','Miguel Hidalgo','03','México','MHI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1644','Mahahual','03','México','MHL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1645','Miramar \n(Fallecimiento De Titular)','03','México','MIA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1646','El Milagro De San José','03','México','MIZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1647','Mesa Del Jarillal','03','México','MJR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1648','Santa Monika','03','México','MKA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1649','Mesa Larga','03','México','MLF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1650','Muller','03','México','MLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1651','San Manolo','03','México','MLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1652','Minera La Perla','03','México','MLP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1653','Campo Montelargo','03','México','MLR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1654','Los Miles','03','México','MLT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1655','Melgoza','03','México','MLZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1656','Masahiashi','03','México','MML','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1657','Medina','03','México','MNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1658','Meling','03','México','MNG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1659','Meliton Albañez','03','México','MOA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1660','Moctezuma','03','México','MOC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1661','Moctezuma','03','México','MOE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1662','El Mochomo','03','México','MOH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1663','Rancho La Montaña','03','México','MON','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1664','Morelos','03','México','MOR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1665','Santa María De Otaez','03','México','MOX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1666','Matarachi','03','México','MRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1667','Marabasco','03','México','MRB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1668','Mireles Hermanos','03','México','MRH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1669','Morris','03','México','MRI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1670','Marte R. Gómez','03','México','MRM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1671','Maran','03','México','MRP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1672','Moralar','03','México','MRR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1673','Mirador Santa Rosa','03','México','MSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1674','Mazfly S.C.','03','México','MSC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1675','Mesa Del Frijol','03','México','MSF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1676','La Mesa De San Juan','03','México','MSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1677','Valle De Los Ahuehuetes','03','México','MSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1678','Mesa Tortugas','03','México','MST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1679','Matancitas','03','México','MTB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1680','Mata Larga','03','México','MTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1681','Ing. Manuel Moreno Torres','03','México','MTH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1682','Maran Tijuana','03','México','MTJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1683','Montemorelos','03','México','MTM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1684','Rancho Medio Sitio','03','México','MTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1685','Monterrey','03','México','MTV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1686','Mututicachi','03','México','MUT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1687','Muzquiz','03','México','MUZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1688','Monteverde','03','México','MVE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1689','El Mixteco','03','México','MXT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1690','Mesa Colorada','03','México','MZC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1691','Mezquital','03','México','MZL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1692','Pista Mezquital','03','México','MZQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1693','Los Napuchis','03','México','NAA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1694','Nacori Chico','03','México','NAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1695','Nido De Águilas','03','México','NAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1696','Náhuatl','03','México','NAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1697','El Sinaí','03','México','NAI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1698','El Naranjito','03','México','NAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1699','Nicolas Bravo','03','México','NBT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1700','Nuevo Casas Grandes','03','México','NCG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1701','Pista San Fernando','03','México','NDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1702','Los Nogales','03','México','NGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1703','Nahual\n(Pista Del Estero De Juan José Ríos)','03','México','NHL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1704','El Naranjo','03','México','NJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1705','San Nicolas','03','México','NLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1706','Nueva Laguna Blanca, S.A. De C.V.','03','México','NLB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1707','No Le Hace','03','México','NLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1708','Nuevo México','03','México','NMX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1709','La Noria','03','México','NOA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1710','Norogachi','03','México','NOR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1711','Los Novillos','03','México','NOV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1712','Norotal','03','México','NRT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1713','San José Independencia','03','México','NSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1714','Nuestra Señora De Loreto','03','México','NSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1715','Nuevo Santa Rosa','03','México','NSR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1716','Nuevo Temalacaco','03','México','NTC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1717','Nuevo Horizonte','03','México','NUH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1718','Navojoa','03','México','NVJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1719','Pista Nuevo León Baja Ii','03','México','NVO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1720','El Pretexto','03','México','NWB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1721','El Escondido','03','México','NYZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1722','Oro Blanco','03','México','OBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1723','El Ochenta','03','México','OCH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1724','Los Ocaliptos','03','México','OCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1725','San Luis De Ocosingo','03','México','OCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1726','Ocotlán','03','México','OCT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1727','San Carlos','03','México','OFS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1728','Ojito De Camellones','03','México','OJC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1729','Campo El Patole','03','México','OLE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1730','Santa Patricia','03','México','ONE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1731','Oro Verde','03','México','ORV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1732','Isla Frontón','03','México','OZM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1733','Pista Aérea Cadenas','03','México','PAC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1734','La Palma','03','México','PAE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1735','El Paraíso','03','México','PAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1736','El Paija','03','México','PAI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1737','Paco','03','México','PAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1738','El Paraíso Villalobos','03','México','PAO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1739','Palmillas Del Rodeo','03','México','PAQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1740','Cap. P.A. Roberto Chávez Balderas','03','México','PAR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1741','San Lorenzo','03','México','PAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1742','Pavlovich Aviación','03','México','PAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1743','Pista Aérea Ton','03','México','PAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1744','Pista Baja','03','México','PBA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1745','Punta Bufeo','03','México','PBF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1746','Pista Base Huatabampo','03','México','PBH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1747','Pueblito','03','México','PBL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1748','Pista Base Navojoa','03','México','PBN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1749','Bonfil','03','México','PBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1750','Pueblo Yaqui','03','México','PBY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1751','Playa Del Carmen','03','México','PCE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1752','Punta Chivato','03','México','PCH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1753','Pista Calamajue','03','México','PCJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1754','La Pochoteca','03','México','PCK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1755','Punta Colorada','03','México','PCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1756','Puente De Camotlán','03','México','PCM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1757','Punta China','03','México','PCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1758','Pericos','03','México','PCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1759','Punta Colonet','03','México','PCT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1760','Potrero De Bejaranos','03','México','PDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1761','Pista Del Centro','03','México','PDC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1762','La Piedrera','03','México','PDE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1763','Portugués De Gálvez','03','México','PDG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1764','Palos Dulces','03','México','PDI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1765','Promesa','03','México','PDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1766','Platanar De Coluta','03','México','PDU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1767','Paredes','03','México','PDZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1768','Parras El Alto','03','México','PEA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1769','Pie De La Cuesta De La Bajada','03','México','PEB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1770','Pista Elizalde','03','México','PEE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1771','La Peñita','03','México','PEI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1772','Pie De La Cuesta De San Jerónimo','03','México','PEJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1773','Pista El Roció','03','México','PEY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1774','Punta Final','03','México','PFL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1775','Peña Flor','03','México','PFO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1776','Pfp','03','México','PFP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1777','Las Praderas','03','México','PGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1778','El Pedregal','03','México','PGL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1779','Del Pacifico','03','México','PGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1780','El Purgatorio','03','México','PGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1781','Pista Coahuila','03','México','PHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1782','El Pichol','03','México','PHL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1783','Palo Chino','03','México','PHO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1784','Pista Huachinera','03','México','PHU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1785','La Pista De Balancan','03','México','PIB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1786','Piedra De Cal','03','México','PIE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1787','Pista Aeroagricola Guayparime','03','México','PIG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1788','Las Pilas','03','México','PIL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1789','Los Pinos','03','México','PIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1790','El Pinocho','03','México','PIO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1791','Solidaridad Cajeme','03','México','PIS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1792','La Pinta','03','México','PIT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1793','Villa Juárez','03','México','PIV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1794','Pajacuaran','03','México','PJC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1795','Palmarejo','03','México','PJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1796','La Pequeña Joya','03','México','PJY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1797','Picacho','03','México','PKC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1798','Plan Bonito','03','México','PLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1799','Rancho Productor De Leche Villa Ahumada','03','México','PLE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1800','Piélagos','03','México','PLG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1801','Palmarejito','03','México','PLJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1802','Potrerillos','03','México','PLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1803','El Palmar Ranch','03','México','PLR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1804','Las Plomosas','03','México','PLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1805','Palula','03','México','PLU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1806','Plátano','03','México','PLX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1807','Pista Lázaro Cárdenas','03','México','PLZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1808','Playa De Magdalena','03','México','PMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1809','Pista Macuiles','03','México','PMC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1810','La Palma','03','México','PML','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1811','Pista Morgan','03','México','PMN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1812','El Palmoso','03','México','PMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1813','Potrero Del Mascabresto','03','México','PMT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1814','Pista Morelos','03','México','PMX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1815','Pista Aérea Agrícola Mayacoba','03','México','PMY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1816','El Pedernal','03','México','PNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1817','La Pinosa','03','México','PNC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1818','Piedras Blancas','03','México','PNL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1819','Hacienda Panoaya','03','México','PNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1820','El Potrero','03','México','POE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1821','Huapoca','03','México','POK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1822','Potrerillo','03','México','POL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1823','Potrero De Los Medina','03','México','POM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1824','Popota','03','México','POT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1825','Portezuelo','03','México','POU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1826','El Pozo','03','México','POX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1827','Punta Pescadero','03','México','PPC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1828','Punta Pájaros','03','México','PPS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1829','Pista Querétaro','03','México','PQR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1830','Puertecitos','03','México','PRC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1831','Paredones','03','México','PRD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1832','Progreso','03','México','PRG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1833','La Perla','03','México','PRL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1834','El Porvenir','03','México','PRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1835','La Providencia De Acapetahua','03','México','PRV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1836','La Presa','03','México','PRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1837','Pista Sonora','03','México','PSB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1838','Santa Elena','03','México','PSE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1839','Punta San Francisquito','03','México','PSF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1840','Punta San Carlos','03','México','PSK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1841','Punta Solimán','03','México','PSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1842','Perseverancia','03','México','PSV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1843','Pista Juárez','03','México','PSZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1844','Las Potrancas','03','México','PTA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1845','Santa Teresa','03','México','PTE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1846','Campo Patricia','03','México','PTI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1847','El Petacal','03','México','PTL antes PTJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1848','El Patrocinio','03','México','PTN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1849','El Puerto','03','México','PTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1850','Pista Ocampo','03','México','PTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1851','Pista Troncón','03','México','PTR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1852','Potosí','03','México','PTS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1853','La Pista','03','México','PTT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1854','Pulticub','03','México','PTU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1855','Patria Vieja','03','México','PTV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1856','Purépecha','03','México','PUR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1857','Pueblo Yaqui','03','México','PUY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1858','La Pava','03','México','PVA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1859','Ejido Pueblo Viejo','03','México','PVJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1860','Pista Valdez','03','México','PVL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1861','Aeródromo Vw','03','México','PVW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1862','Palma Sola','03','México','PXA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1863','Pista Campeche','03','México','PXE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1864','Pista Pancho Villa','03','México','PXV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1865','Palizada','03','México','PZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1866','Pista Zacatecas','03','México','PZC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1867','La Panza','03','México','PZS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1868','Aerofumigaciones Quila','03','México','QUI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1869','Rancho Agua Blanca','03','México','RAB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1870','Rancho Agua Dulce','03','México','RAD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1871','Rancho San Rafael','03','México','RAF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1872','Pista Rosales','03','México','RAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1873','Rancho San Antonio','03','México','RAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1874','Rancho Alto Bonito','03','México','RAQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1875','C.P.A. Rodolfo Amparan Rosales','03','México','RAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1876','Rancho Alejandrina','03','México','RAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1877','Agua Zarca','03','México','RAZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1878','Rancho El Bernal','03','México','RBL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1879','Rancho Bravo','03','México','RBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1880','Rancho Buenos Aires','03','México','RBU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1881','Los Bayos','03','México','RBY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1882','Rancho Del Carmen','03','México','RCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1883','Carboneras','03','México','RCB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1884','El Cuarenta','03','México','RCE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1885','Aeropista De La Región Carbonífera','03','México','RCF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1886','El Cangrejal','03','México','RCJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1887','Rancho El Campanero','03','México','RCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1888','Real Del Castillo','03','México','RCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1889','Rancho El Comandante','03','México','RCT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1890','El Llano','03','México','RCU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1891','Rancho Cerro Blanco','03','México','RCW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1892','Rancho San Cristóbal','03','México','RCX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1893','Rancho De Burgos','03','México','RDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1894','Delta','03','México','RDL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1895','El Roble Gordo','03','México','RDO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1896','Rancho Don Ricardo','03','México','RDT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1897','Rancho De Luna','03','México','RDU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1898','Hermanos Rodríguez','03','México','RDZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1899','Rancho Ébanos','03','México','REB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1900','Rancho La Escondida','03','México','REC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1901','El Jaralito','03','México','REJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1902','Las Abejas','03','México','REN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1903','Rancho El Piloto','03','México','REP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1904','Los Remedios','03','México','REW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1905','Los Ajos','03','México','RFB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1906','San Rafael','03','México','RFE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1907','La Reforma De Guerrero','03','México','RFG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1908','Rancho San Francisco','03','México','RFN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1909','El Refugio','03','México','RFU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1910','Guadalupe De Llera','03','México','RGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1911','Rancho Grande','03','México','RGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1912','Aguachile','03','México','RGH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1913','Guadalupe','03','México','RGP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1914','Rancho El Guaje','03','México','RGW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1915','Rincón De Los Garza','03','México','RGZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1916','Rancho La Joya','03','México','RHD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1917','Rancho Las Hermanas','03','México','RHZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1918','El Rincón','03','México','RIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1919','Rancho El Jabalí','03','México','RJA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1920','Rancho Viejo','03','México','RJD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1921','Rancho Joali','03','México','RJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1922','Rancho San José De Pedrero','03','México','RJS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1923','Rancho San Juan','03','México','RJU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1924','Hacienda Tulapan','03','México','RJV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1925','Rancho Casa Roja','03','México','RKR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1926','La Azufrosa','03','México','RLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1927','Rancho La Costa','03','México','RLC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1928','Rancho Los Chirriones','03','México','RLC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1929','La Escondida','03','México','RLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1930','Rancho La Gacha','03','México','RLG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1931','La Herradura','03','México','RLH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1932','Rancho Las Pilas','03','México','RLI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1933','Los Manueles','03','México','RLM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1934','Rancho La Peña','03','México','RLP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1935','Las Norias','03','México','RLQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1936','Rancho La Rosita','03','México','RLR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1937','Loma Roja','03','México','RLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1938','La Nueva Realidad','03','México','RLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1939','Rancho Los Sosa','03','México','RLT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1940','Rancho Loma Blanca','03','México','RLW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1941','La Equis','03','México','RLX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1942','Ramon López Velarde','03','México','RLY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1943','El Llorón','03','México','RLZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1944','Manantiales','03','México','RMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1945','Mesa De Cartujanos','03','México','RMC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1946','Rancho Madero','03','México','RMF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1947','Rancho Medio Kilo','03','México','RMK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1948','Rancho El Milagro','03','México','RML','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1949','Rogman','03','México','RMN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1950','Miradores','03','México','RMP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1951','Rancho María 4','03','México','RMQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1952','Rancho Marina Vieja','03','México','RMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1953','Rancho Marter','03','México','RMW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1954','Rancho San Matías','03','México','RMW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1955','La Mezquitosa','03','México','RMZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1956','Rancho San Antonio','03','México','RNA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1957','El Rincón','03','México','RNC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1958','Rinconada','03','México','RND','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1959','Rancho Puerto Ángel','03','México','RNF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1960','Rancho La Nogalera','03','México','RNG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1961','Rancho Santo Niño','03','México','RNS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1962','Rancho Santa Ana','03','México','RNT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1963','El Rodeo','03','México','ROD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1964','Rancho El Caracol','03','México','ROL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1965','El Roció','03','México','ROO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1966','Rancho Oaxaca','03','México','ROX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1967','Rancho El Pato','03','México','RPA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1968','Los Pecos','03','México','RPB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1969','Rancho El Papalote','03','México','RPE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1970','El Pillaje','03','México','RPH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1971','Rancho El Prior','03','México','RPO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1972','Rancho La Paloma','03','México','RPT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1973','Rancho Los Pinos','03','México','RPU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1974','Rancho El Porvenir','03','México','RPV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1975','Rancho Peñitas','03','México','RPW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1976','Rancho Providencia','03','México','RPX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1977','Rancho Agua Buena','03','México','RRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1978','Rancho Don Roberto','03','México','RRB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1979','Rancho Rio Grande','03','México','RRG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1980','Rancho San Isidro','03','México','RRM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1981','El Romance','03','México','RRN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1982','La Marismeña','03','México','RRV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1983','Rancho Corrales','03','México','RRZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1984','La Rosa','03','México','RSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1985','Rancho Sierra Hermosa','03','México','RSH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1986','Rancho San José','03','México','RSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1987','Rancho San Francisco','03','México','RSK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1988','Rancho Santa María','03','México','RSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1989','Rancho San José','03','México','RSU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1990','Rancho El Salado','03','México','RSX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1991','Rancho Santa Anita','03','México','RTA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1992','Rancho El Retiro','03','México','RTC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1993','Rancho El Trofis','03','México','RTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1994','Rancho El Tule','03','México','RTL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1995','El Rodeo De Tamazula','03','México','RTM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1996','El Retoño','03','México','RTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1997','El Tule','03','México','RTU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1998','Rancho El 13','03','México','RTZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1999','Rancho El Chicural','03','México','RUL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2000','Las Vegas','03','México','RVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2001','Revolución De 1910','03','México','RVN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2002','El Preson','03','México','RVP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2003','Campo Rio Verde','03','México','RVR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2004','La Raya','03','México','RYA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2005','Rancho Zapata','03','México','RZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2006','Rancho La Zorra','03','México','RZR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2007','Rancho Lanzarote','03','México','RZT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2008','Rodríguez','03','México','RZZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2009','San Ángel','03','México','SAE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2010','Sahuaripa','03','México','SAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2011','Sahuaripa 2','03','México','SAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2012','Las Salvias','03','México','SAL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2013','San António','03','México','SAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2014','Santa Ana Maloapan','03','México','SAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2015','San Antonio El Russio','03','México','SAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2016','Santa Cruz','03','México','SAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2017','Los Chirriones\n(Proyecto)','03','México','SAY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2018','Santa Blanca','03','México','SBK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2019','San Blas','03','México','SBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2020','Santa Cecilia','03','México','SCE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2021','Rancho San Carlos','03','México','SCK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2022','El Socorrito','03','México','SCO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2023','Santiago De Los Caballeros','03','México','SCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2024','Secretaria De Comunicaciones Y Transportes','03','México','SCT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2025','Santa Clara','03','México','SCV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2026','Santa Cruz','03','México','SCW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2027','San Miguel De Cruces','03','México','SCX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2028','Sierrita De Barraza','03','México','SDB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2029','San Juan De Camarones','03','México','SDC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2030','Rancho Santo Domingo','03','México','SDI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2031','Santo Domingo','03','México','SDM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2032','San José De Los Leones','03','México','SDN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2033','Santa Efigenia','03','México','SEF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2034','Santa Fe','03','México','SFC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2035','San Fernando\n(Proyecto)','03','México','SFD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2036','San Fernando','03','México','SFD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2037','San Francisco','03','México','SFF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2038','San Fernando','03','México','SFN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2039','San Francisco','03','México','SFO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2040','Pista San Francisco','03','México','SFP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2041','San Fernando','03','México','SFR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2042','Santa Christine','03','México','SFW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2043','San Fernando','03','México','SFX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2044','San Gregorio De Bozos','03','México','SGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2045','San Gabriel','03','México','SGB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2046','Saucito De Araujo','03','México','SGC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2047','Rancho San Gerardo','03','México','SGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2048','San Gabriel','03','México','SGL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2049','San Ignacio','03','México','SGN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2050','San Gregorio','03','México','SGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2051','Santiago','03','México','SGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2052','Santo Domingo','03','México','SGU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2053','La Mota','03','México','SHM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2054','Santa Cruz','03','México','SHX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2055','Sierrita','03','México','SIE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2056','San Ignacio','03','México','SIG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2057','San Isidro Labrador','03','México','SIL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2058','La Simiente','03','México','SIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2059','Santa Inés','03','México','SIN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2060','Sianori Ii','03','México','SIR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2061','Loma Bonita De Puerta Azul','03','México','SIT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2062','Silva','03','México','SIV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2063','Sianori','03','México','SIW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2064','San Ignacio','03','México','SIY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2065','San José','03','México','SJE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2066','San Juan De Frailes','03','México','SJF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2067','San Joaquín Redo','03','México','SJH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2068','San Jacinto','03','México','SJK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2069','San José Del Llano','03','México','SJL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2070','San José','03','México','SJO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2071','San Juan Peyotan','03','México','SJP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2072','San Jacinto Tlacotepec','03','México','SJT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2073','San Juan Nepomuceno','03','México','SJU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2074','San José De Valenzuela','03','México','SJV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2075','San Juan De Norotal','03','México','SJW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2076','San Juan Iztapalapa','03','México','SJX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2077','Santa Teresa','03','México','SKT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2078','Isla','03','México','SLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2079','Solidaridad','03','México','SLD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2080','San Luis Rio Colorado','03','México','SLR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2081','San Miguel De Allende','03','México','SMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2082','San Martin De Bolaños','03','México','SMB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2083','San Miguel Del Alto','03','México','SMD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2084','Santa María Paras','03','México','SMK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2085','Santa María De Mulege','03','México','SMM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2086','San Martin','03','México','SMP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2087','Rancho Santa Mónica','03','México','SMW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2088','San Mateo Yucutindoo','03','México','SMY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2089','Santa María Agrícola','03','México','SMZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2090','San Jorge','03','México','SNE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2091','Santa Fe','03','México','SNF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2092','San Marcos','03','México','SNM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2093','San Joaquín','03','México','SNQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2094','Santa Ana De Vanegas','03','México','SNV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2095','San Antonio','03','México','SNX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2096','Santa Anita Del Yaqui','03','México','SNY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2097','Sofia','03','México','SOF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2098','Sisoguichi','03','México','SOG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2099','Sianori','03','México','SOI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2100','La Soledad','03','México','SOL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2101','San Pedro Del Gallo','03','México','SPG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2102','San José Produce','03','México','SPJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2103','Sergio Perez De León','03','México','SPL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2104','San Pantaleón','03','México','SPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2105','San Pedro De Azafranes','03','México','SPX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2106','San Pedro','03','México','SPY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2107','Saucito De Pérez','03','México','SPZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2108','San Pedro De La Cueva','03','México','SQA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2109','Sierra Santa','03','México','SRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2110','San Roberto','03','México','SRE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2111','Santa Rosa De Hopelchén','03','México','SRH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2112','San Rafael','03','México','SRJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2113','Santa Rosa','03','México','SRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2114','Santa Rosa De Lima','03','México','SRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2115','Santa Rosa','03','México','SRW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2116','Santa Rita','03','México','SRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2117','San Rafael','03','México','SRY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2118','Santa Anita Sereasa','03','México','SSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2119','San Sebastián','03','México','SSB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2120','San Isidro Sereasa','03','México','SSI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2121','San José De Salsipuedes','03','México','SSS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2122','S. Coop. De Servicios Agropecuarios Tamaulipecos','03','México','SST','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2123','Santa Barbara','03','México','STB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2124','El Siete','03','México','STE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2125','Santa María','03','México','STH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2126','Santa Teresa','03','México','STJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2127','Santa Rita','03','México','STK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2128','Santo Niño','03','México','STN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2129','Santa Rosa','03','México','STR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2130','Santo Tomas','03','México','STT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2131','Santa María De Los Remedios','03','México','STV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2132','Santa Elena','03','México','STX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2133','San Luis','03','México','SUI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2134','Surutato','03','México','SUR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2135','Saul''Es','03','México','SUS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2136','San Valentín','03','México','SVA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2137','San Juan Viejo','03','México','SVI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2138','San Vicente','03','México','SVL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2139','Santa Cecilia','03','México','SXA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2140','San Pedro Xicoras','03','México','SXI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2141','Soyupa','03','México','SYU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2142','Aeródromo Municipal De Tepatitlán','03','México','TAA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2143','Tres Amigos De Guerrero','03','México','TAF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2144','Rancho El Gato','03','México','TAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2145','El Centenario','03','México','TAG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2146','Cabo Rojo','03','México','TAT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2147','Base Tamazula','03','México','TAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2148','Taxicaringa','03','México','TAX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2149','Tayoltita','03','México','TAY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2150','Tumbiscatio','03','México','TBC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2151','Pista Toboloto','03','México','TBO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2152','Tanchijol','03','México','TCJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2153','Tecuixiapa','03','México','TCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2154','Tecubichi','03','México','TEB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2155','Terminal','03','México','TEI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2156','Tecolotlan','03','México','TEO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2157','Tepachoipa','03','México','TEP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2158','Tequesquitengo','03','México','TEQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2159','Terrero De Basonopa','03','México','TER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2160','Tres Encinos','03','México','TES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2161','Rancho El 24','03','México','TFB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2162','El Tigre','03','México','TGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2163','La Tigrera','03','México','TGR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2164','Tigre','03','México','TGS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2165','Tampachiche','03','México','THI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2166','El Tigre','03','México','TIG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2167','Tizayuca\n(Fallecimiento De Titular)','03','México','TIZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2168','La Gloria','03','México','TKT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2169','Turismo Lago Guerrero','03','México','TLG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2170','Trinidad Ramos Valdez','03','México','TLJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2171','Tameapa','03','México','TME','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2172','Temoris\n(Proyecto)','03','México','TMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2173','Tancholin','03','México','TNH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2174','Topila','03','México','TOI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2175','Rancho El Tulillo','03','México','TOO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2176','Topia','03','México','TOP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2177','Torreón','03','México','TOR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2178','Tortugas\n(Proyecto)','03','México','TOT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2179','Tío Juan','03','México','TOU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2180','Tapias','03','México','TPI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2181','El Tapacal','03','México','TPK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2182','Tepozanes','03','México','TPO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2183','Tequila','03','México','TQJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2184','La Tasajera','03','México','TRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2185','El Trigo','03','México','TRG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2186','Kilo','03','México','TRM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2187','Terrero','03','México','TRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2188','Transpacífico','03','México','TRP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2189','El Terrero','03','México','TRR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2190','Trampa Santa Rosa','03','México','TRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2191','Terrenates','03','México','TRT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2192','Teras','03','México','TRX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2193','El Tasicuri','03','México','TSI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2194','Todos Santos','03','México','TSN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2195','El Tulillo','03','México','TTF','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2196','Tototan','03','México','TTO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2197','Tututepec','03','México','TTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2198','La Tuna','03','México','TUN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2199','Tulum Base Aeronaval','03','México','TUY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2200','Aeropista Tuxpan','03','México','TXP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2201','Tamazula','03','México','TZA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2202','El Temazcal','03','México','TZC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2203','Tancuzay','03','México','TZY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2204','Unitec Campus Atizapán','03','México','UCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2205','Ultraligeros Del Desierto','03','México','UDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2206','Unión De Ejidos (Proyecto)','03','México','UDE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2207','Úrsulo Galván','03','México','UGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2208','Unión De Granjas Elizabeth','03','México','UGE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2209','El Jabalí','03','México','UJI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2210','Vista Alegre','03','México','VAE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2211','Las Varas','03','México','VAS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2212','Valentín Barrera','03','México','VBB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2213','Valle De Banderas','03','México','VBS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2214','Valle Bonito','03','México','VBT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2215','Los Venados','03','México','VDS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2216','Venecia','03','México','VEA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2217','El Vergel','03','México','VEG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2218','Vallecillos','03','México','VES','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2219','Válgame Dios','03','México','VGD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2220','Vascogil','03','México','VGL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2221','Vista Hermosa','03','México','VHA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2222','San José De Viborillas','03','México','VIB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2223','Valle Colombia','03','México','VLC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2224','Vallecitos','03','México','VLL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2225','El Vallado','03','México','VLO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2226','Villas Mar De Cortez','03','México','VMC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2227','Las Gemelas','03','México','VMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2228','Villa De Ocampo','03','México','VOO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2229','La Vega Del Oso','03','México','VOS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2230','Vaquerías','03','México','VQS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2231','Valle Del Rosario','03','México','VRO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2232','Los Veneros','03','México','VRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2233','Viñedos San José','03','México','VSJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2234','Los Violines Poniente','03','México','VSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2235','Rancho San Lorenzo','03','México','VSZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2236','Valle De Tapachula','03','México','VTP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2237','El Verano','03','México','VVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2238','Viento Y Sol','03','México','VYS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2239','Vizcaino','03','México','VZM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2240','Hermanos Wong Cozain','03','México','WCN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2241','Héctor Raúl Bátiz Meza','03','México','WVL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2242','Paraíso\n(Proyecto)','03','México','WYN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2243','Xcalac','03','México','XCA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2244','Xicoténcatl','03','México','XIC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2245','Huixiopa De La Loma Colorada','03','México','XIO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2246','Xpujil','03','México','XJL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2247','Xóchilt La Sabana','03','México','XLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2248','Cruz Negra','03','México','XNE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2249','Xiquipilli','03','México','XQI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2250','Xcaret','03','México','XRT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2251','Francisco Sarabia Yajalon','03','México','YAJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2252','Yack','03','México','YAK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2253','Yecora','03','México','YEC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2254','La Rivera','03','México','YFA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2255','Yalcok','03','México','YLK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2256','Yamoriba','03','México','YMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2257','Yoquivo','03','México','YOQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2258','Yopori Norte','03','México','YPN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2259','Yucatán','03','México','YTN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2260','Zamora','03','México','ZAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2261','Zacacoyuca','03','México','ZKA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2262','El Zalate','03','México','ZLT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2263','Zapotiltic','03','México','ZPC','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2264','Zacapu','03','México','ZPU','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2265','El Zapatero','03','México','ZPV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2266','Zoquipan','03','México','ZQN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2267','Zarupa','03','México','ZRA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2268','Augusto Cesar Sandino','03','Nicaragua','MGA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2269','Flesland','03','Noruega','BGO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2270','Oslo','03','Noruega','OSL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2271','Sola','03','Noruega','SVG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2272','Vaernes','03','Noruega','TRD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2273','Woodbourne','03','Nueva Zelanda','BHE','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2274','Schiphol','03','Países Bajos','AMS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2275','Reina Beatrix','03','Países Bajos','AUA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2276','Hato','03','Países Bajos','CUR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2277','Princess Juliana','03','Países Bajos','SXM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2278','Panamá Pacifico','03','Panamá','BLB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2279','Enrique Malek','03','Panamá','DAV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2280','Tocumen','03','Panamá','PTY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2281','Sálamo','03','Papua-Nueva Guinea','SAM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2282','Guaraní','03','Paraguay','AGT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2283','Carlos Miguel Jiménez','03','Paraguay','PIL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2284','Capitán Fap José A. Quiñones González','03','Perú','CIX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2285','Jorge Chávez','03','Perú','LIM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2286','Capitán Fap Renán Elías Olivera','03','Perú','PIO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2287','Frederic Chopin','03','Polonia','WAW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2288','Humberto Delgado','03','Portugal','LIS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2289','Francisco Sa Carneiro','03','Portugal','OPO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2290','Santa María','03','Portugal','SMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2291','Aeroporto Das Lajes','03','Portugal','TER','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2292','Hamad','03','Qatar','DOH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2293','L.F. Wade','03','Reino Unido','BDA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2294','Belfast','03','Reino Unido','BFS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2295','George Best','03','Reino Unido','BHD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2296','Birmingham','03','Reino Unido','BHX','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2297','Bournemouth','03','Reino Unido','BOH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2298','Bristol','03','Reino Unido','BRS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2299','Cardiff','03','Reino Unido','CWL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2300','Doncaster Sheffield','03','Reino Unido','DSA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2301','Edinburgh','03','Reino Unido','EDI','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2302','East Midlands','03','Reino Unido','EMA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2303','Exeter','03','Reino Unido','EXT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2304','Abbotsinch','03','Reino Unido','GLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2305','Leeds Bradford','03','Reino Unido','LBA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2306','London City','03','Reino Unido','LCY','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2307','Gatwick','03','Reino Unido','LGW','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2308','Heathrow','03','Reino Unido','LHR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2309','Raf Lakenheath','03','Reino Unido','LKZ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2310','Ringway','03','Reino Unido','MAN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2311','Newcastle','03','Reino Unido','NCL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2312','Providenciales','03','Reino Unido','PLS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2313','Stansted','03','Reino Unido','STN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2314','Vaclav Havel','03','Republica Checa','PRG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2315','Incheon','03','Republica de Corea','ICN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2316','Samana El Catey','03','Republica Dominicana','AZS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2317','Casa De Campo','03','Republica Dominicana','LRM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2318','Gregorio Luperón','03','Republica Dominicana','POP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2319','Punta Cana','03','Republica Dominicana','PUJ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2320','Las Américas','03','Republica Dominicana','SDQ','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2321','Domodedovo','03','Rusia','DME','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2322','Pulkovo','03','Rusia','LED','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2323','Sheremetyevo','03','Rusia','SVO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2324','Vnukovo','03','Rusia','VKO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2325','O.R. Tambo','03','Sudáfrica','JNB','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2326','Arlanda','03','Suecia','ARN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2327','Landvetter','03','Suecia','GOT','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2328','Kalmar','03','Suecia','KLR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2329','Kallax','03','Suecia','LLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2330','Kungsängen','03','Suecia','NRK','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2331','Umeå','03','Suecia','UME','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2332','Zürich-Kloten','03','Suiza','ZRH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2333','Tainan','03','Taiwán','TNN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2334','Piarco International','03','Trinidad y Tobago','POS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2335','Carrasco/General Cesareo L. Berisso','03','Uruguay','MVD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2336','General José Antonio Anzoátegui','03','Venezuela','BLA','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2337','Jacinto Lara','03','Venezuela','BRM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2338','Simón Bolívar','03','Venezuela','CCS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2339','Josefa Camejo','03','Venezuela','LSP','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2340','La Chinita','03','Venezuela','MAR','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2341','Santiago Mariño','03','Venezuela','PMV','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2342','General Manuel Carlos Piar','03','Venezuela','PZO','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2343','Las Flecheras','03','Venezuela','SFD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2344','Juan Pablo Pérez Alfonso','03','Venezuela','VIG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2345','Arturo Michelena International','03','Venezuela','VLN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2346','Extranjera','03','Extranjera','1Y','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0736','SANTO NINO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC283','HUAXTITLA','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0486','TERRERO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC117.2','SAN COSME','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M271.1','ADELEIDA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TM7.2','AMARILLO','04','México','','TM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TG0','NAVOJOA','04','México','','TG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N490.7','ARISTEO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD170','LA VIBORA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0513','ATAROS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0154','LA BARCA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I569.6','PERIQUILLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F87.2','LOMA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI032','NAVOLATO','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB97.1','YARECUATO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z194.9','IVES','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0042','MOTZORONGO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA234.9','EJIDO MONTERREY','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1879','RANCHERIA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H116.1','SANTIAGO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0866','EL COBRE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB116.6','ERONGARICUARO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LA040','NARANJAL','04','México','','LA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC2.5','CENTRAL CAMIONERA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA299','CALABAZAS','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB17.5','TRES MEZQUITES','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0165','HUAMANTLA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE54.2','RIO CHICO','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LA33.4','ZUCIGA','04','México','','LA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0999','VERACRUZ ICAVE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1642.8','MOLINAR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA684','YIXMUCUY','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1417.3','LA ENRAMADA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0498','ALZADA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0254','LOS TIGRES','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0556','LAS PALMAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0915','SALTILLO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N340.8','EL PLAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA139','VILLA VERDE','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FX37','VALLADOLID','04','México','','FX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C167.3','HERMOSA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1120','MIELERAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A513.3','DOBLE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0708','TEMORIS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK123','CUAUTLA','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0197','PONCITLAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB24.2','SAN NICOLAS','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA476.7','BARREAL','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H108.7','OTLIMULCO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B174','EL ZAPOTE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0830','CEDRO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A664','TLACOTES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0327','GARZA VALDEZ','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB111.7','PUACUARO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos145.6','POLOTITLAN','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0625','CHIJOL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG35.1','MELVILLE','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD88','KANKABCHEN','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0802','LEON FONSECA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0937','ROSALES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S286.8','TENANGO DE RIO BLA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0523','TREVINO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE93','LOS ARTICULOS','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC34.1','GUADIANA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K435.7','CONGREGACION REFORMA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0173','LOMA BONITA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0182','TECOAC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1607','IXTLAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0616','PABELLON','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A443.9','SAN BARTOLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC134.4','ATOTONILCO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB15.2','NOPALTEPEC','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F236.8','BARITA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC11.2','LOS LOBOS','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK060','AYAPANGO','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0324','ESPINAZO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M764.3','POMONA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V63.8','OXTOTIPAC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN078','ZACAPU','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD155.1','MAGUEYAL','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A46.5','HUEHUETOCA NM','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P72.6','EJIDO QUERITA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LJ246','QUERETARO','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R89.2','SILENCIO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BF026','ESCOBEDO','04','México','','BF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC151.1','FRIO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C255.7','COCULA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB184','CARMELA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1274','SANCHEZ','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S145.6','TOCHA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX1.6','RIO PANUCO','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez76.1','TULA','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD199.8','AMERICANOS','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K209','MOJARRAS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TP8.7','APASCO','04','México','','TP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K319.3','LA PLAYA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0576','ARELLANO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0722','JULIO ORNELAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T434.6','PIEDRA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V446.6','LOMA DE IGUANA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0445','VAQUEROS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C171.6','VIDAL','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA89.3','HEROE DE MACOZARI','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA094','MOLINA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O83.9','CURUNGUEO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0334','POTRERO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HE4.2','SANTA ROSA','04','México','','HE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD50.4','BOQUILLAS','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1769.8','EL SUECO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC118.3','CANUTILLO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0073','CALERA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0535','CIUDAD OBREGON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC236.1','TETILLAS','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0199','HERMANAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC142.5','PRODUCTORA NACIONAL','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N171','PUERTO DE MEDINA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN104','ZIRONDARO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C245','METLAPA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA298.4','LA GLORIA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0546','ALBERTO ARENAL BANUET','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0065','MARTINICA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0377','LAS TABLAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0191','SAN JUAN DEL RIO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N51.6','JAJALPA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0080','TULA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC128.5','LODEMENA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB33.4','VALLE REDONDO','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA46','GENERAL VILLA','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0400','MAYTORENA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE118.1','COYOTES','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0285','ACAMBARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0039','TEMASCALAPA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0295','LA COSTURA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0381','PALMAR','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M464.6','SAN JUAN','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE6.4','BARAVITO','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C274.1','OLEA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N322.7','CORO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB136.2','EL JAGUEY','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB71.3','LOS PINOS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB167','CHIAPA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0414','FONTEZUELA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA712','PLACA KM FA-712','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M523.5','MONTERREY','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0265','HERCULES','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E344.2','MAGDALENA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA14','LA CONCHA','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M596','EL MILAGRO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0271','RUBIN','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SH13','TECAMAC','04','México','','SH','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q374.3','BUSTILLOS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA118.2','LAS VARAS','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC19.4','FRAILES','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FN1.9','CHUBURNA','04','México','','FN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0343','LOS BERROS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0292','SILOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0089','JALTEPEC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0237','TEPEYAHUALCO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG52.4','SAN CARLOS','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0011','NAUCALPAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1718.3','ARADOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0','NUEVO CARNERO','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M500.3','CERRITO LA SILLA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA235.9','CABALLO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L30.9','GALLARDO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0029','TRES JAGUEYES','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB31.6','LOPEZ','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA695.2','UAYAMON','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB8.5','GAS MEX TIJUANA','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0209','MASOCO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T514.7','CORRAL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0229','AGUSTIN ESPINOZA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0006','TACUBA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0363','COPALILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0351','PACHO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA642.2','SAN JUAN CARPIZO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0282','DEZAGO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB7.8','BARAJAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB106.2','OPONQUIO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E379.2','EL TULE','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1887.1','CANDELARIA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0660','BERRIOZABAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0040','CERVANTES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB040','GENERAL ZARAGOZA','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA362.3','PLACA KM FA-363','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N93','SANTA JUANA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UA000','CALEXICO','04','México','','UA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB48.7','MAGDACUARO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC235.6','JESUS NAZARENO','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0204','LOS LIRIOS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0265','RIO BRAVO','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E224.7','TECOMAVACA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S115.7','CALDERON','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H132.2','LAGUNA DEL CERRITO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S11.6','ESPUELA LA VILLA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA118','CIUDAD ACURA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0941','COLORADA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0833','LEDEZMA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB132','SANTA CLARA (ESTACION)','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1374','JIMENEZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0290','TINAJAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H70','SAN ANTONIO OZTOYUCA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F68.8','ALTAVISTA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DM6','ASARCO','04','México','','DM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB30.7','NUEVO COCUITE','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F100.1','BARRETOSA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD102.6','CAMARA','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1069','LOS TRIZAR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0046','AZUFRERA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0471','LA UNION','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA266.5','PINO SUAREZ','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M512.2','LINDAVISTA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA029','ZACATELCO','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP148.4','XOY','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K292.8','JERICO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A375.8','EL CERRITO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC267','PUENTA COLORADO','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q881.6','SUFRAGIO CHP','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0894','ENCANTADA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN41','ENCINAL','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M251.6','CERAMICA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0459','CAFETAL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0038','SAN MARTIN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C156.1','TREINTA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0319','HUINGO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA104.6','RINCON','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L593.2','VELASCO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL51.9','AMECA','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC39.2','MUZQUIZ','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB77.6','ZACAPU','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U457.4','LA PERA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0139','APIZACO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0429','LA LABOR','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0328','SANTA ANA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H138.9','PANFILO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L470.1','LA CHANGA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0365','VIEYRA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DM8.4','VELARDERA','04','México','','DM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0163','OCHOA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z271.6','GUICHIBE','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0097','MEDIAS AGUAS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T55','CUMERAL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0213','POMOCA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I168.8','SANTA INESIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE183','EL CAYACAL','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U522.7','BENJAMIN HILL','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E118','PATIO NUEVO CARNERO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB203.8','EL PRESIDIO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA494.1','CANDELARIA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0010','BERTA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0292','CELAYA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S6','TENAYUCA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('ZA008','GUANOMEX','04','México','','ZA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FN32.3','PROGRESO','04','México','','FN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F4.8','SAN NICOLAS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0997','VERACRUZ APIVER','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B196','MERCADOR','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC14.1','LA LABOR VIEJA','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0227','MARAVATIO OCAMPO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0344','LAS PALOMAS','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0217','SAN JUAN ATENCO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B294.4','COSIO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0470','TRINCHERAS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M50.9','LOS ENTEROS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB13.2','GARCIA','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z264.5','COMITANCILLO','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0779','AGUACALIENTE','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HA019','TELLEZ','04','México','','HA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0276','CRUZ BLANCA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0348','PASO DEL MACHO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA305.4','SAN NICOLAS','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE122.1','BAJIO ATASCOSO','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB112.2','NUEVO IDEAL','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L390.7','EL DURO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J28.2','EL FRESNO','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M67','LOS PLATANOS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1472','AURELIO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0887','FERROALEACIONES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD225.5','PRESA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N208.9','PATEO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LB056','LAS CRUCES','04','México','','LB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA21','MALAGA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TM23','LA CALABAZA','04','México','','TM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A429.1','EL POTRERITO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0428','ROJAS FXE','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T360.1','TAPIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA721.9','CAMPECHE','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G151.6','LAS PIÑAS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A409.3','FAUSTO RODRIGUEZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE76.9','COCONA','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0322','SANTA ISABEL','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0495','JESUS MARIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0077','TOLTECA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA309.2','SAN DIEGO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z102.4','ADOLFO RUIZ CORTINES','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC120','ATLACAHUALOYA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD17.3','NADADORES','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L55.9','BIMBALETES','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD41.5','CACALCHEN','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB51.4','LADERO PINELLI','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0391','APAZAPAM','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0675','LA MAROMA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1049','PERALTA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB9.1','MANZANA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0441','ZAPOTILTIC','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S69.5','XALA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD66.6','IZAMAL','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0315','MONTANA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA797.1','DZITBALCHE','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC073','PRESA DE LA CEBADA','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HE0.1','SOTOTLAN','04','México','','HE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0840','EDMUNDO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD150.3','ESPITA','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC3.6','CELIA','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TB016','CANANEA','04','México','','TB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K221.4','TRES PICOS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0624','INGENIERO FRANCISCO M TOGNO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA244.8','RIO NAZAS','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N102.7','TOXICO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z217.5','ALMOLOYA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P59.2','MORITA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T797.4','ZOPILOTE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K194.2','LA POLKA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0992','ALHUATE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA078','LA BOTA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0312','SANDOVAL','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC205.4','PASTELERA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N546.1','HOYO DEL AIRE','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0483','VICAM','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA280.8','TURICACHI','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA739.7','HAMPOLDI','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0189','MOCTEZUMA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE110.6','CRUZ DE PIEDRA','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0005','AMATLAN','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HC005','LA TRINIDAD','04','México','','HC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A592','PLACA KM A-592','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N33.5','LAUREL','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0706','ZACATECAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FN9','XCANATUN','04','México','','FN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB74.9','JAUJA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K279.1','EL CARMEN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1159','REDO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS56.8','SOTUTA','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE150','EL PANAMA','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD334.2','ESCALON','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB033','NANACAMILPA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD27.2','CELEMANIA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0399','CABORCA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BD019','SAN MIGUEL ALLENDE','04','México','','BD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA249.3','TORREON','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM047','HUEHUETOCA','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA74.5','RUEDA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N151.2','TEPEOLILCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP99.3','AKIL','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1342.7','MOTAJE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA61.6','ZORRILLA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M793.3','LA SECCION','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0210','ALJIBES','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0851','LA COLORADA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PA008','SANTA BARBARA','04','México','','PA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA173.3','PEDRICEÑA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N287','GENERAL FELIPE ANGELES','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0043','VICTORIA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC22.7','VALLE DE SANTIAGO','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U206','GUSTAVO SOTELO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1523','MEOQUI','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1019.5','DARIAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK074','TEPETLIXPA','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0307','CORTAZAR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0433','PATZCUARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M855.2','SANTA TERESA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0622','DIVISADERO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U523.4','BENJAMIN HILL SBC','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA478.9','PARAISO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE94.9','EL TORO','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB210.8','CARRERAS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0268','BOTA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0271','CELULOSA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A13','TLANEPANTLA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB106','GUASCUARO DE MUJICA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD267.7','QUIMBALETE','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F43.8','SAN JUAN','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0431','POTRERO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB110.7','MERCADO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J36.9','LA FE','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0057','MACLOVIO HERRERA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI006','LAS FLORES','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1927','SAMALAYUCA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0012','VALLE DE MEXICO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD116.1','LOS BELLOC','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC109.2','GUALTERIO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0010','NAUCALPAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA317.5','COLONIA MADERO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0884','AGUA NUEVA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0409','TEJERIA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0235','JESUS DE NAZARENO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1697','PARRITA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C154.3','SAN MIGUEL TREINTA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC3.5','BARROTERAN','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O50.5','OCAMPO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L641.3','EL CLARON','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC123.1','LOYOLA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK110','ATLATLAHUCAN','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0138','ESPIRITU SANTO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB125','PLACA KM IB-125','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N396.3','NORIEGA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0333','ESMERALDA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC15.1','MARGARO','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z277.7','JORDAN','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA84.6','EL GUANAL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1392','RUIZ','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K417.4','TAPACHULA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E322.6','LAS BEDAS','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M629.7','FRAUSTRO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K459','CIUDAD HIDALGO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0133','SANZ','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1460','IGNACIO BORREGO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0146','TOCHAC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M45','SAN CARLITOS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N458.8','AJAMBARAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB91.8','ANGEL','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z212.4','NIZA CONEJO','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N267.1','ARROYO DE LA LUNA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H14.2','CAJIBA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M200.1','LAVIN','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0673','ARBOL GRANDE','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA021','MAGDALENA','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB157','PLACA KM DB-157','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F215','LOS ALTOS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0051','ZOYAPETLAYOCA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC200.6','VIRATA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U256.5','IRIGOYEN','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0298','MOLINO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB74','DON HILARIO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0017','CUICHAPA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0345','QUIRIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q697.5','SOLEDAD','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA046','EL RODEO','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN116','ERONGARICUARO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A5.6','CEYLÁN CARGA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0361','CAMARON','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA63.4','TRASQUILLA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB163','GRAJALES','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C110.8','RAMON','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L123.6','SOTOL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K202.1','AMATES','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1727.8','MOCHO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA18.3','ZARAGOZA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P52','LA MANSA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1706','AMATITAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0496','LOS SALAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0242','LADRILLERA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB013','SAN CRISTOBAL','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N411.6','LA CAJA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1116','VILLALDAMA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q866.9','VEGA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0167','OBISPO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA779.3','HECELCHAKAN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1794','MOCTEZUMA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BA19','DELGADILLO','04','México','','BA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0037','TEOLOYUCAN','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA014','CONTLA','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0285','PEOTILLOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA35.7','SANTO TOMAS','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0190','DOBLADERO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T806.2','BAMDA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE45.8','PALOS COLORADOS','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K276','EL PROGRESO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD292.7','CARRILLO NUEVO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0261','BOCATOCHE','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0699','CATORCE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S103.4','TETLEPAYAC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA089','ESTANZUELA','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O73.7','PURUA','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N330.6','QUERENDARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0298','DYNATECH','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA521.3','MEZQUITE','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA77.2','LA BONITA','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0462','LOMA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LA042','RIO VERDE','04','México','','LA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1053.8','TANQUES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0486','TONILITA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B49','LIMITE TERRITORIAL','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AE016','NOCHE BUENA','04','México','','AE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA92.3','GAYTAN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A453.8','CORRAL BLANCO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0061','ACATLAN','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0174','LOPEZ CALLADA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0461','TAMSA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA072','JOACHIN','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0304','PALOMAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A519.4','SAN JUAN LOS LAGOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H79.8','ANIMAS','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P146.6','PALOMA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1027.3','CORTAVIA 9','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R62.6','LOS ROSALES','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0061','AYANCUAL','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0069','CORREA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LA018','PASTORA','04','México','','LA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD128','SANTA ROSA','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AK010','DINAMITA','04','México','','AK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA241.5','BELLAVISTA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA499.1','PEJE LAGARTO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN8.4','EL TANQUE','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB8','CAROLINA','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0584','CELIS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA46.4','TERESITA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0211','GARZA BLANCA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP78','PUSTUNICH','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N41.7','SALAZAR','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K341.1','ACAPETAHUA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL42.4','MATUTE','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z242.8','LA MATA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0691','WADLEY','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0030','LA ZAFRA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA040','SAN ANTONIO SOLEDAD','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP108.6','TEKAK','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0322','UNIVEX','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB71.4','LINEA DIVISORIA SUR','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0000','OJINAGA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A439.4','GUANAJAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C28.3','CONTRERAS','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0079','TAURO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0643','JOSEFA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0327','PARAJE NUEVO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BA50.9','SAN LUIS DE LA PAZ','04','México','','BA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q321','ARAIZA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1088.3','OLAJE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L130','EL JAIBITO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BA31','LOURDES','04','México','','BA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0811','BENAVIDES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0406','ESCAPE KM Q-406','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA773.1','POMUCH','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N439.8','PARCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0943','APASCO RAMOS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1169.6','MARAVASCO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA178.7','JOAQUIN GUTIERREZ','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TJ22.1','EL DORADO','04','México','','TJ','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0287','RIO BLANCO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA221.4','TACOTALPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0128','ESCANDON','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD147.3','LAS MONJAS','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I514.1','ESTANCIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0','COATZACOALCOS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0821','CAPOMAS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA011','SANTA CRUZ','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA007','INGENIERO A LIR ARCINIEGA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0050','TEZONTEPEC','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K163','SAN ANTOLIN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez245','LITION','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E276','ALMOLOYAS','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K256','NANCINAPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB5.2','BETTI','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1456.3','LA SECCION','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0582','ARISTA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C0005','JULIA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A719.4','PIMIENTA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L495.6','LAS CRUCITAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0926','VITARUTO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD13.5','XOCOPA','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B50','HUEHUETOCA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0253','MULLER','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K455.7','EL CAMPITO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0032','DELTA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0602','RAMOS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q14.6','SAN URIEL','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA051','EL MANTE','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB99.3','ESCOBILLAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q267.5','CHIHUAHUA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0071','CAMALOTE','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA235','CIMA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K447.3','TRES HERMANOS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0020','HORACIO P SANCHEZ','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB33.9','REDONDO','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B922','ZINCAMEX','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AM008','BAJIO FXE','04','México','','AM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q460.8','MINACA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AE9','LA CUESTA','04','México','','AE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0026','ALTAMIRA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB175','MANANTIALES','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0336','LAS ENCHILAYAS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1055','SALINAS VICTORIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos46.5','HUEHUETOCA','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0736','VICTOR ROSALES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1815.5','VADO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K392','HUEHUETAN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0090','PUERTA MEXICO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K389.4','CUYAMIAPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NF451','AJUNO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0066','TECAMACHALCO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0029','CUAUTITLAN','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA035','PANZACOLA','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK9.8','SAN JUAN DE ARAGON','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA812','BECAL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA105.6','PALMITO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA248.3','ELIAS CALLES','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P134.1','CATARINAS','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0268','CHICHP','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB216.7','TEPEHUANES','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA254','FRONTERAS','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R99.3','PUENTE NEGRO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V432.2','SALMORAL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE998','APM LAZARO','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC76.5','MATAMORES','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K240','JOAQUIN AMARON','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1359','LOLITA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0219','ROSA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E331.3','TELIXTLAHUACA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0142','TORRES B','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K97.9','LAS ANONAS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T729.9','FENOCHIO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA268.9','COCHUTA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0084','ACOPINALCO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0038','LOBOS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0283','SANTA ROSA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB005','ITURBIDE','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NA009','TLALNEPANTLA','04','México','','NA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA639.1','SAN DIMAS','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V53.2','ANTONIO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA0','APIZACO','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1104.1','NAZARENO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB47.1','CACALOTE','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1854.6','LUCERO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB074','BALTASAR','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC31.5','PORTEZUELO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L315','MONTAÑA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0335','ZINZIMEO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA745.5','MANAGUA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C237.1','IGUALA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC0','DURANGO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0502','QUINIENTOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E338.8','SULCHIQUITONGO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE138','EL SALVADOR','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB204.7','ESCAPE PRESIDIO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B65','CERRO JARDIN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0310','CARRIZOS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0976','SAN RAFAEL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P27.6','TROYA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0506','INTERPUERTO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL15.4','REFUGIO','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F227','SINAI','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA45.2','AMOZOQUILLO','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M798.6','MINERVA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M215','ZORRILLA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX46.7','LA PUENTE','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0461','ATENQUIQUE','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0110','LA GRANJA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB070','SAN MARTIN','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1202.3','PERONAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N591.8','MAGUIZABAL','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0884','VINEDO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1407.7','YAGO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA671.5','HOOL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0201','MAZARRAZA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB7.7','DIONISIA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0099','DEL RIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0868','PORVENIR','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E292.8','SANTA CATARINA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0839','EL FUERTE','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD46.7','BOKOBA','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0147','ESCAPE EL HULE','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA656','PLACA KM FA-656','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V298.1','NEGRO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0147','ZACATE','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E354','MAGOTE','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E335.5','HUITZO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G75.9','EL CARAVERAL','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC053','PUERTO CARROZAS','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R313.5','SIERRA AZUL','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0424','ESCONTRIA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB13.9','ESTACION GARCIA','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB116.7','CHUCANDIRAN','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0429','CARDEL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0979','SOLEDAD','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TG043','HUATABAMPO','04','México','','TG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0048','TEZONAPA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B118.6','RANCHO NUEVO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E193','ALDAMA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX74.4','MINCUINI','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V49.7','CHIPILTEPEC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL31.7','LA VEGA','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0141','ATLACOMULCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0271','JUANITA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA186.7','PICHUCALCO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V436.3','LA POSTA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0259','VENTURA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C212.2','VISTA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E385.1','GUELECE','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1603','MORSE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD67.4','CUATRO CIENEGAS','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0083','PEYOTES','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA660','SANTA CRUZ','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0093','EL DOCTOR','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P104.3','EMPALME DISTRITO FRISCO','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB34','CHACAL TIANGUIS','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0915','CAIMANERO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HB024','CIUDAD SAHAGUN','04','México','','HB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA100.5','TIERRA BLANCA','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0110','HERRERAS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I455.7','QUITO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V354.8','ROMA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LM245','LITION','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC296.2','MEZQUITE','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0260','ALTA LUZ','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB138','LOS REYES DE SALGADO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0115','LAS YAGUAS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0071','OLIVA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0356','SAN BARTOLO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N48.1','FRESNO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0165','TULTENANGO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0','LINEA DIVISORIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB10.2','VERDUZCO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J31.5','GILITA','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0279','MIGUEL G NAVARRO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I529.3','COQUIMATLAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0864','ACATITA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0304','SUMIDERO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB043','CONTADERO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1427','PANI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C14.6','SAN PEDRO DE LOS PINOS','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q325.7','BAEZA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX68.1','OZULUAMA','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez102.3','DAXTHI','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N2','EL ROSARIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R351.3','CARLOS PEREYRA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0871','BENJAMIN MENDEZ','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0421','CHAPULTEPEC','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1281','GACHO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TM12.6','PORTES GIL','04','México','','TM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez135','PACHUQUILLA','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BD011','MIGUEL HIDALGO','04','México','','BD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD12.7','MANUEL AGUIRRE','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC66.3','LA BALARZA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE73.3','EL FUERTE','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE034','LIMONCITO','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0244','REYNOSA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H74.9','TECAJETE','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD164.1','CALOTHUL','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD37.6','LAMADRID','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P93.5','FLUORITA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA135.2','CHUPADEROS','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0416','LEON','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0910','SANTA ROSA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0019','JALTOCAN','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0057','TEXISTEPEC','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB131.7','SALITRE','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N629.6','APATZINGAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA332','NUEVO CASAS GRANDES','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N351.1','CHARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C183.7','CACAHUAMILPA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H104.2','LOS ROMEROS','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0377','ATOYAC','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0510','LA PILA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C219.1','PIMENTEL','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V94.7','MAL PAIS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA021','XICOHTENCATL','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC87.5','VICENTE GUERRERO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0','IRAPUATO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K272.2','ECHEGARAY','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB110','PUEBLA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC249.5','SN ANTONIO SOLEDAD','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB009','EMBARCADERO CENTRAL','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T422','EMPALME SHOP','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1778.7','CHAVATITO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HC019','CADENA','04','México','','HC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB149','CITLALTEPEC','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0636','SAN RAFAEL','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E257.2','TOMELLIN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0061','HUIXCOLOTLA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U495.8','RUIZ DIAZ','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V231.4','TITIPANAPA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q359.3','ALDANA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z186','MOGOÑE','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB11.6','ZAACHILA','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U418','LA VENTANA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1222','ANAHUAC','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0310','LA JOYA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0049','SAN SIMON','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L24.6','JALTOMATE','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC276','VAQUERIA I','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP137.7','TZUCACAB','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1025','OBISPO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M840.3','GURZA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0063','MELCHOR OCAMPO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M54.5','CUAHUTEMOC','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0113','CUAYUCATEPEC','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0470','PLATANARILLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B56.3','SAN SEBASTIAN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0397','EL CARRIZAL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC28','BRANDE','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N618.8','PARACUARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I551.2','EL ROSARIO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA154.7','CEBADILLA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0444','BONILLA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0143','CIUDAD GENERAL ALEMAN','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AE12.6','TERESA','04','México','','AE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA025','GOMEZ','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD108.3','QUINTANA ROO','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez183.5','SAN JUAN DEL RIO','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LJ248','QUERETARO SID','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P82.9','MATURANA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O45.2','LA JUNTA','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0615','MANZANILLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0437','LAS CANOAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC063','SAN JOSE ITURBIDE','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F294.6','CONTROL','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0451','TUXPAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA240.5','LOMAS TRISTES','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA24.7','GUAYALEJO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0603','NAVOJOA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FN4.6','CORDEMEX','04','México','','FN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0645','ADAMES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0776','TALIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0085','CORTES','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0000','PASCUALITOS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA41.8','SAN LAZARO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R290.4','BAJAN','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA328.8','PALENQUE','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N195.7','COLORADO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB78.2','EL GUAYABO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA140.3','MADERA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB058','BAJIO','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0127','FALOMIR','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX71.1','PLACETAS','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez166.9','PALMILLAS','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0941','KIMBERLY RAMOS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I323.9','MASCOTA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC31.4','LA BOLSA','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA10.5','EL CONEJO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O42.4','EL SANUDO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB15.7','CASA BLANCA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0114','CERRITO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M435.5','TERAN','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0795','GUTIERREZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1657.3','QUEMADA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos245.1','QUERETARO','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AK2.7','AEDO','04','México','','AK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD187.5','MATRIMONIO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA471.9','LA MICOTEA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1137','ALIANZA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1584','MARQUESADO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0152','LAS PINAS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB048','SAN CRISTOBAL','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V125.2','LA LUZ','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0530','VALLES','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K299.3','LEON BRINDIS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q476','GONZALEZ','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK090','NEPOPUALCO','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC24.9','COVADONGA','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0863','ABELARDO RODRIGUEZ','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0252','TECHA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0302','CRUZ VERDE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HC026','PACHUCA DE SOTO','04','México','','HC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA443.9','SAN PEDRO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T604.3','BACABACHI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RH0.7','PALAU','04','México','','RH','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N457.3','COPANDARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA28.9','EL EJIDO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1905.7','LOS MEDANOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF001','BANANO','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF006','GELA','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA490','PLACA KM QA-490','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N20.7','MONTE','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0063','DONA ROSA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA71','MATACHIC','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K331.5','LA BONANZA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE79.2','EL CHICLE','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0055','ROSENDO MARQUEZ','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA51.5','TANCOCHAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B189.9','CAMBALACHE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z109.3','LAS TRES GARDENIAS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R246','FIERRO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M70.8','CHOCOY','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0165','COLONIAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE088','LOS CHIVOS','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0026','SANTA ROSA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0270','JUAN J FRANCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA051','TLALIXCOYAN','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T738.5','SAN BLAS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG62.3','AVALOS','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('OA3.9','ANGUANGEO','04','México','','OA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA91.6','NUEVA PALESTINA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N45','CARRETERA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB052','OJO SECO','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K92.5','CABESTRADA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB085','ANALCO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HC015','LA SOLEDAD','04','México','','HC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A529','PLACA KM A-529','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB21.3','LA RANCHERITA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0070','VITO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP87','YHOTOLIN','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE68.2','JAROCHO','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0613','NACAIBO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA201.6','DRAKE','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0293','DAVID S ALONSO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0481','RASCON','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K335.6','SOCOMUSCO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1039','EL CENTINELA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA568','EMPALME FF CC NM','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX38.7','CEBADILLA','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0007','CANTU','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0516','SAN MATEO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC43.3','TUITAN','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0573','HUARENITZIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RB3','ROSITA','04','México','','RB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N552.8','TIPITARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX18.9','AGRARIOS','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB69.9','MORENO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TP0','CERRO DE LA CRUZ','04','México','','TP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A904','LA SECCION','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0133','ALDAMAS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0230','LA FUENTE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0004','SAN MIGUELITO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T880.2','PALON BLANCOS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F117.7','LA PALMITA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0370','VILLALOBOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I313','VALENCIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA535.9','HARD','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0308','MAZATEPEC','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E252.3','CUICATLAN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0125','TEPETITLAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0318','CORDOBA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0000','PIEDRAS NEGRAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1446.4','SANTA ROSALIA CAMARGO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0757','DESCANSO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z179.6','BIXIDU','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1501','PANTANAL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD208.6','EL REY','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC2.5','CARCARA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0251','BOCA DEL MONTE','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0019','CERRO PRIETO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E399.3','TLACOLULA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0083','GENERAL MIGUEL ALEMAN','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T165.5','QUEROBABI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V240.6','PIZARRO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NF476','TINGAMBATO','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA502.6','MEDANOS','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA160.8','LA HERRADURA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0037','MAGUIXCO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE101','LAS CRUCES','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0110','SALINAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB026','VALENTIN','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I284.3','LOMAS DE TEJEDA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R270.9','GLORIA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB0.6','COMERCIAL','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1325','NUEVO ACAPONETA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC303','TECAMALUCAN','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0338','JALAPA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0876','PACHECO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B163.3','SAN JOSE DE ATLAN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FX8.1','BALATUN','04','México','','FX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E366.5','OAXACA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez130.9','DAZU','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA254.5','MACUSPANA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0353','BENITEZ','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0310','FORTIN','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD9.5','POZUELOS','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB60.8','MILPA VIEJA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK025','EMPALME DISTRITO TEXCOCO','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RL13.7','MARTIN G RODRIGUEZ','04','México','','RL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K17','JUCHITAN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K437.4','EL MANZANO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1221','RODRIGUEZ','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD54.8','TEKANTO','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0245','ESPERANZA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX29.7','LAGARTERO','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB21.3','FALCONI','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD20.3','CIMA DE TOGO','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0209','CARBO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0518','SANTA MARIA DE ENMEDIO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0088','TLACOTEPEC','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC249.3','SAN ANTONIO SOLEDAD','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA41.2','ALVARO OBREGON','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA162.3','AGUA VIEJA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C230.6','NARANJO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N360.6','ATAPANEO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1210.1','LABRADOS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0361','ANHELO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0400','LA CINTA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A503','PLACA KM A-503','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B969.6','LOS FIERROS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NF458','AGUA VERDE','04','México','','NF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA238','VILLA JUAREZ','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K7.7','IXTALTEPEC','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0319','MOLINO SARABIA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M104.7','EL BERNAL','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0189','POZA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z134','SUCHILAPA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0369','EL PIPILA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C138.6','EMILIANO ZAPATA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB60.1','CERVECERIA TECATE','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0017','CALZADAS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB038','ROSAL','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX59.1','TANCEME','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC247','LAS CUATROCIENEGAS','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD29.7','EUAN','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN28.3','CIENEGA DE LOS CABALLOS','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1560','CONDE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB124','SIGNORET','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0271','INCALPA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC34.1','SAN AGUSTIN HUIXAXTLA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T457','ALGODON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1237.1','ASTENGO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B240','NORIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F303.1','CAPOTE','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA18.9','CABRAS','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC104.5','LAGUNILLAS','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM120','ARAGON','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0069','LA MARGARITA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P141.8','PILONCILLOS','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L378.1','LOS ANTEOJOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0297','WILLARD','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD134.2','XUILUB','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD8.4','HUEYAPAN','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0129','MUNOZ','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA294.4','DOS ARROYOS','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0634','PUNTA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K62.4','SIDAR','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0311','EL SAHUARO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K186.2','ESMERALDA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K386.9','CHAMULAPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0295','CAMPO NUEVO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H145.5','TONALIXCO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0441','GUASIMAS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN55.2','REBOCIJO','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L454.6','ZACATE','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB19.8','ALFREDO','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BA12.1','MONTELONGO','04','México','','BA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB21.9','ZIMATLAN','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC136.1','LA PARADA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1601','ALBERTO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0227','LA CAPILLA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0575','SANCHEZ','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX5','PEBERNALES','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L82.8','LA HONDA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0308','VEGA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC122.6','VERGELITOS','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS22.3','HOCABA','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0399','MATA LOMA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C119.6','CUERNAVACA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0600','TEPALCATES','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0983','COSTA RICA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0539','PENASCO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB198.4','SANDIAS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD217.8','AVANTE AHMSA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H148.7','PEJAY','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C192.1','EL SUREÑO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O10.1','CAREDO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0648','CHIHUAHUICAME','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA806.9','TEPAKAM','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0493','FERNANDEZ','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA624.3','PUSTUNICH','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L274.4','POZO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1619','NUEVO GRACIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC80.8','MIER','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I80.4','LA MARAÑA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0763','LOS POZOS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0056','LAGUNITAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0185','SAN FRANCISCO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN13.9','TECUAN','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0219','TUNGAREO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB22.7','LOS ANGELES','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0285','NOGALES','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC17','GARMA','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1305.2','COPALES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0020','AGUA ZARCA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB055','TECAMATL','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0303','JOCOQUI','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0881','PALOS BLANCOS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FN18.6','SAN IGNACIO','04','México','','FN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E302.4','ANONA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA69.4','OTAPA','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L385.3','EL DIVISADERO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA417.2','MACTUN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0331','BANDERILLA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA020','EL TEJAR','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C126','PLACA KM C-126','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N476.9','PARANGUITIRO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LB077','EL GUANAME','04','México','','LB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB191.3','MANQUEROS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB37.4','LA CABRA','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA473.5','EL NARANJO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0076','RAMONES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q261.9','TABALAOPA CHP','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA204','EMPALME AGUA PRIETA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG38.5','LAS COTUCHAS','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1423.5','FLORIDO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A267.4','COACHITI','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0511','CASTRO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1314','CONCHA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0391','SANTA ROSA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0067','IMURIS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HB015','TLANALAPA','04','México','','HB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA354.1','SAN AGUSTIN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C107','ALARCON','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB105.9','ALISOS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA33.6','NOGALERA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L173.8','ARENAL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I98','LA MULA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1721','ARENAL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0345','LA BORREGUITA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA219','PLACA KM DA-219','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F2.9','LAS PUENTES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0522','ZIRACUARETIRO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J71.7','VIESCA','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB180.1','HERVIDEROS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB075','MOYOTZINGO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA271','CUEVITAS','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0956','CULIACAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM146','POLOTITLAN','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB29.5','SANTA INES YATZECHI','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0413','EL LAURELAL','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A537.2','ENCARNACIÓN','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX36.4','CHAPANCAL','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0612','CAMPOS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA002','COATZACOALCOS','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB15.4','TRINIDAD','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0951','HIGUERAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC17.6','RANCHO VIEJO','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB56.1','TAMAYO','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AE024','GUANAJUATO','04','México','','AE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA376.3','ZAPATA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A425','LA MORA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0176','ALBERTO GARDUNOC','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0121','LOS PIONEROS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HC018','LAS COLONIAS','04','México','','HC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0333','SALAMANCA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L444.9','ESPINAZO DE DIABLO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0551','TOMENDAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q490.3','VERGEL','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M9.8','GERMINAL','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1175','MAZATLAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB91.2','COMANJA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0994','ALKALI','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0657','TAMOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0564','CREEL','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1295','PALMAR','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB15.9','SAN ISIDRO','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1412','DIAZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T504.9','BACUM','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC108.6','ORGANO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC22.8','EL ZORRILLO','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC69.4','CARALES','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0551','BOCOYNA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0089','CHICALON','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE012','GAMBARA','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E234.2','QUIOTEPEC','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B705.6','POBLAZON','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA146','CUAUHTEMOC','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA157.6','MINA ORO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q747.2','JESUS CRUZ','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1012','LEONA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0926','ROJAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC17.6','TECUANIPAN','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC50.1','TRONCONAL','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0847','GOMEZ FARIAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U48.8','RIO COLORADO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1036','TOPO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM215','FERROSERVICIOS','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q461.1','MIRACA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K354.3','ZACUALPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB51.3','LA GRANJA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB120','AMALUCAN','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE046','LOS RANCHOS','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0285','LAS VIGAS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0221','SAN ANDRES','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L417.5','LA BOMBA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN030','VILLACHUATO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O60.3','TUXPAN','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E382.9','GUENDULAIN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('ZA012','MINATITLAN','04','México','','ZA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA225.1','CUMBRE','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0033','TEPEXPAN','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB094','CORONANGO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0106','PATTI','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA17.6','SAN ISIDRO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB051','DOLORES','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K315','BARRANCON','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX22','PALACHO','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A808.1','EL SAUCILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB30.3','CARPINTERO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1547','CERRO PELON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FX14.2','TINUN','04','México','','FX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1142','GOLONDRINA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA44.8','PUEBLA','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC159.7','SAN FELIPE','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TS008','CERRO LA CRUZ','04','México','','TS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD314.3','MERCURIO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA840.9','KOPOMA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0167','LIMON','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0417','RIO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC35.5','TEJALUCA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1135','TORREON','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R165.6','LECHUGUILLA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC24','GASPAR','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1225','CONEJOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0551','ABASOLITO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0059','LORETO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0565','TECOMAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1066','JIMULCO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN057','PANINDICUARO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K52','SAN DIONICIO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD28.6','AHUAZOTEPEC','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA651.8','ARELLANO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1149','NOE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos0','BUENAVISTA','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE128','LOS NEGROS','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0158','AURA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0417','EMPALME','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB64.4','POZOLE','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F21.1','PALMA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0028','XOLOX','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T591.2','MARGARITA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB147.8','HUIZACHE','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA425.4','EL AGUILA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1196','PRESIDIO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K319.9','SESECAPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0314','ESCOBEDO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q586.4','FEDERICO LOPEZ','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M338.3','CIMA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0032','CARTAGO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0320','COMONFORT','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1490','SAUCILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U141.1','TORRES BURCIGA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0760','INGENIERO LUIS COVA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1491','TEPIC','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P155.1','ROSARIO','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB72.9','SANTA RITA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA223.2','AGUILAR','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC29.6','MOLINOS','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L473.7','ABACATAN','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R334','LA POPA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1499','ARMENDARIZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0056','LA ESTRELLA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T67','PIERSON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B838.5','LA ZACATERA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0448','VARGAS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I137.9','VILLA NUEVA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H126','HUAPALCALCO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0118','MONTELEON','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD82.6','DIVISADERO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1621','CUILTY','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0478','PEDRO C MORALES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M654.4','SAUCEDA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA016','EL CHAPO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P119.7','BORJAS','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E314.6','ESCONDIDA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M548','CHIMPINQUE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0021','CANADA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0057','COAHUILA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C73.2','TEZOYO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0872','GREGORIO GARCIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C180.4','PUENTE DE IXTLA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L40.5','SAN JUAN DEL RIO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0455','SANTA FE AMIGO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA81.3','MAULAS','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC25','LA ESPERANZA','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0076','ALMAGRES','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA013','MASCARENAS','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE072','LAS CANAS','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0051','SAN GIL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F112.7','LA LAJA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0253','TOTALCO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD323.2','LORENZO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA0','VERACRUZ','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G108','GRANJA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC154','MELCHOR','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B253.4','CONEXION LINEA MORELOS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0153','ACOCOTLA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0534','TARETAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0277','CRUZ Y CRUZ','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0259','OTILLO MONTANO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC126.1','SAN PASCUAL','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA10.3','BASUCHIL','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O39.9','OYAMEL','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N593.6','EL MARQUES','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('ND9.8','EL ORO','04','México','','ND','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U120.5','LOS PIOMEROS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC029','CHICHIMEQUILLAS','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1561','FRANCISCO VILLA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q549.3','POBLADO BOCOYNA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N232.9','NICOLASITO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0229','BARRANCA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B105.4','MAGUA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB52.2','LA CIMA','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M48','EL ESFUERZO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BF009','LOS GARCIA','04','México','','BF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0117','SABINAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB60.5','TECATE','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA802.4','CALKINI','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S411.7','LAURELAL','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA54.8','FRANCISCO I MADERO','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C61.4','CIMA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0921','LOS MOCHIS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF011','SILVERIO','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB153','IXTENCO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB022','TETEPANGO','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I149.6','SALAMEA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0045','TEOTIHUACAN','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA84.7','ATASCADOR','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B86.6','NUEVO CARRASCO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB13.9','CHAMACUARO','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC52.4','BREÑA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0144','BARROTERAN','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB040','LA MONCADA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A564.3','PERUELAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V153.6','MENA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN076','VISCOSA','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA288','VIGIA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG43.6','JAZMINAL','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC20.1','EL CEDRO','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0052','REFUGIO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q881.5','SUFRAGIO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0367','VIEJO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD228.5','EMPALME SIERRA MOJADA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1413','NANCHI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB131.7','CHINACATES','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA223','CABULLONA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0423','CIMA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0226','SAN PEDRO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1134.2','TORREON PASS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0398','HUERTAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC22.6','REGISTRO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F307.3','TIMONES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA252.7','ALIANZA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA701.6','MUCUYCHACAN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N216.6','APEO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC253.8','LA VIEJA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB34.9','LAS TUZAS','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB59.8','ESTACION TECATE','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J45.5','CLAUDIO','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN092','COMANJA','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0129','LLANO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0266','SANTA ENGRACIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0391','JACUARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0094','TLACOYALCO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA463.5','SAN BLAS','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E386.9','ABASOLO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC38.3','ATLIXCO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1158.8','NOE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB67.2','BOULEVARD CELAYA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA154.8','CAMOAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA97.4','LUIS MOYA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI009','BACHIGUALATO','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1671.6','PIRALE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos135','PACHUQUILLA','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0162','XICOTENCATL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB65.5','VILLA JIMENEZ','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K375','HUIXTLA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A914.9','DPAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0239','PUERTO PENASCO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RK15.9','SIERRA MOJADA/ESMERALDA','04','México','','RK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0282','ENCINAR','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M146.4','ESCANDON','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA215.9','CHICO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0559','CALERAS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0423','CIUDAD GUZMAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0214','SAN NICOLAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C74.1','TRES CUMBRES','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0814','HURON','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD233.5','RINCON','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V393','TIGRILLOS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA244.9','AGUAJE','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA324.5','NACOZARI','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB62.6','ZIPIMEO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K14.8','LA PLANTA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1309','ASUNSOLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0190','JULIAN CARRILLO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA024','SANTA BARBARA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA147.7','PASAJE','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L349','EL TEJOCOTE','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0301','VILLAR','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E283.2','VENADO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0180','OCOTLAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA446.8','GUZMAN','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0062','METEPEC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB46.4','CURIMEO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0448','PEDRITO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z175.8','SARABIA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0099','EL CIEN','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA387.1','BOCA DEL CERRO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB24.9','EL ROBLE','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA15.5','CARMEN','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0014','CERRO BLANCO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C146','TETECALITA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TH030','GUASAVE','04','México','','TH','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA312.2','PURICA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V26.5','SAN VICENTE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB070','OCTOPAN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA894.4','MERIDA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA30.6','LA DEFENSA','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0263','MARISCALA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0505','LAGUNA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB080','SAN JUAN DE LA VEGA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V29','CUAUTLALPAN','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0861','URBIETA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K453.5','LOS FIDELES','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K26','GENERAL CHARIS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P0','CONEXION DISTRITO PARRAL','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0220','ADJUNTAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0416','TAMARINDO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB032','CORRAL','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0218','ORIENTAL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB26.5','SAN PABLO','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K143','AURORA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA189.2','OJO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N221.3','EL JEJERO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N620.5','EL JUNCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R397.8','LOS IXTLES','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0201','AZUETA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA095','FULGENCIO D VASQUEZ','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I465.8','PLATANAR','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N524.7','PATUAM','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0222','MELCHOR OCAMPO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0072','OLGLICA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1588.9','MAPULA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA168.9','JUAREZ','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB87.8','EL CORTIJO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0201','RINCONADA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB53.7','TAVICHE','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C189.5','CAJONES','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB128.4','LAS FLORES','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M166.8','FORLON','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB19.2','CIENEGA DE LOS CABALLOS','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0383','SILAO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0304','JOYA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0078','TETELA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z302.1','SALINA CRUZ','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC143.7','ABREGO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N615.5','ANTUNEZ','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q329.9','NOPALERA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V244.6','ARTESIANO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1709','OJO LAGUNA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA0','CALLES','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0093','APAN','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB080','LA POSTA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q503','PICHACHIC','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N539.7','LA PURISIMA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0770','ZEFERINO PAREDES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FN12.4','YAXCHE','04','México','','FN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB9.8','JALPAN','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0422','MONTEMORELOS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A708.2','EL BRILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0662','PRIETO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD73','SITILPECH','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0545','EL ABRA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B100','ENDO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC94.3','CHIETLA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0721','CANEDO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0853','SAN MIGUEL','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C264.2','TLANIPANTLAN','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0822','INGENIERO HERIBERTO VALDEZ','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P122.5','RONSESVALLES','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V107.9','VELOZ','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O34','ALVARADO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA106.5','MOSQUITERO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K347.9','ZORRILLO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB86.6','LA SOLEDAD','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0043','AJAJALPAN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0040','LA CIMA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0106','SANTA ANA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C57.2','PARRES','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L89.3','LA OLMA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN066','VILLA JIMENEZ','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z143.1','UBERO','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0190','NUEVO CADILLO','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O54','HERNANDEZ','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0330','MATAMOROS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I303.6','CRUZ VIEJA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA026','TEOLOCHOLCO','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0486','CONUY','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1095','PICARDIAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C200.7','SANTA FE','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0254','DOLOMITA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF5.6','BELA','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN0','PENJAMO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA26.8','EL SALVADOR','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA615.7','CARRILLO PUERTO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0786','CERES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD173.8','TIZIMIN NUEVO','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TF008','GUAYMAS','04','México','','TF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX26','QUEBRACHE','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N403.8','SAN JOSE COAPA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA314.8','ACHONDO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B150','MEJIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD304.5','LA MORITA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0145','MANTO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0008','LAGRANGE','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('PB012','SAN FRANCISCO DEL O','04','México','','PB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC57.2','TERUEL','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0199','VALADECES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E150','LIMITE TERRITORIAL','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0856','NOROTES','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M534.2','GENERAL ESCOBEDO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA67.4','COSPALAPAM','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0918','ALMACENES','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LJ230','LA GRIEGA','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0525','SAN LUIS POTOSI','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z164.3','PASO DE BUQUES','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L70','GENARO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0485','VILLA DE REYES','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB5.8','VANEGAS DE ABAJO','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z19.5','HORACIO P. SANCHEZ','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0779','MENDOZA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA29.9','DAVILA','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0013','COVARRUBIAS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0565','PENUELAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB165.5','SANTIAGO PAPASQUIARO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0688','DON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P75','BOMERA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC77.8','PARRILLA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A62.3','EL SALTO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C194.5','CASAHUATLAN','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0631','CHARCAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I300.7','TEPETATES','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA042','GUAYABO','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q114.3','PULPITO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L487','SAN DIEGUITO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0924','RUBEN JARAMILLO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB46.5','MATEHUALA','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K450.4','LA GLORIA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0394','MANLIO FAVIO ALTAMIRANO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB050','LAGUNITAS','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0686','SAN GERONIMO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B682.6','CORONADOS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0321','TORRES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB192.4','LOS CORRALES','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC125.8','GARCIA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0039','NAVAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q381.6','COLONIA ANAHUAC','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TC000','AGUA PRIETA','04','México','','TC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0102','TEMALACAYUCA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1261','JARITA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC128','PARRITAS','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A431.9','SAN FRANCISCO DEL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA183.1','BABICORA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB39','OCOTLAN','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L574.5','EL COCO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E244.3','LOS OBOS','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA030','AYOMETLA','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0159','FELICIANO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M132.1','PRETIL','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F50.7','MILPA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LJ058','HIDALGO TILH','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M262.2','MARTINEZ','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP130','KAXAYTUC','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K329.3','EL PATASTE','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0015','RIO HONDO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z283.5','TEHUANTEPEC','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R78.6','LAS BLANCAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB32.6','ESPUELA STAR GAS','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA171.3','COLONIA AÑO DE HIDALGO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0224','SELVA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0435','HUESCALAPA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0733','TIZOC','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K364.3','SALTILLO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J22.8','AGUANAVAL','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD140.6','AROCHA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E173.9','NOPALA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V98.8','CAMPERO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M700.6','BRISA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B21.7','LECHERÍA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB038','ARROYO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0092','LA PIEDAD','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE17','PLACA KM DE-17','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L277.9','LOS VENADITOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0074','VOLCANES','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M883.8','VIREDO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS35.2','HUHI','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0722','MORELOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC166.3','EL ARENAL','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0054','RANCHO TABLAS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H128.4','SOTOTLAN','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB031','EL GORRION','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB101','ESFUERZOS UNIDOS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA364.3','CHACAMAX','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0743','CACAMA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z157.8','TOLOSITA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0058','GUADALUPE DE REYES','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K231.2','RICARDO FLORES MAGON','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V383.6','SOUTER','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN134.8','AJUNO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I267.5','MOJONERA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R406.7','ZERTUCHE','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA347.7','LACANDON','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0757','ALGODON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1666','MAGDALENA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1042','LEAL','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0133','SAN FERNANDO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F317','LA GLORIA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0228','VARELA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA871.8','UMAN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I472.7','HIGUERA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0595','MOCTEZUMA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA113','CUEVITAS','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0105','TEPANCO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1444','CORTE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0323','PENUELA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E166.3','SAN SEBASTIAN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0999','DURAZNO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1280.6','BACHO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E309','PARIAN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB35.4','EL SABALO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX23.3','CARBONO','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0078','BOJAY','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0600','CHICALOTE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP75','TICUL','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0563','FUNDICION','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA101.8','PROGRESO','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L93.7','PERON BLANCO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP27.5','ACANCEH','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA301.4','MAYA ORTIZ','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP10','KANASIN','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0791','LORETO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0237','RODRIGUEZ CLARA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA126.6','TAMUIN','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM077','TULA','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M500','LIMITE TERRITORIAL','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0064','OJAPA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1750.3','GALLEGO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I215.6','CORONA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC289','ACULTZINGO','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0565','TAMUIN','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0024','JOAQUIN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1015','OSO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HE19.8','APULCO','04','México','','HE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z165.1','PALOMARES','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F141.2','DOCTOS COSS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K430.6','LOS TOROS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1550','BACHIMBA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0452','EMILIANO CARRANZA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z232','PLACA KM Z-232','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L507.8','PAGO PAGO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0257','ZAMORA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I547.2','MADRID','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC228','INDIOS','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA275.7','EL CEIBO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1121','POZOLE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA39.2','SN ANTONIO SOLEDAD','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1262','ESCUINAPA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD247.7','ESTANQUE','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC5.4','CHOLULA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0413','CASA COLORADA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0232','SANTA MARIA TECHICALCO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0160','HUICHAPAN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0104','TETLAPAYAC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC35.2','SAN FELIX','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I571.3','ARMERIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB4.7','AGUA CALIENTE','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN5.6','NAVIOS VIEJOS','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V47','AZTECA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN26.5','LA VENADA','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0279','APASEO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TE018','LA CAMPANA','04','México','','TE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0982','SYMON','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0681','IRIGOYEN','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0028','OMEALCA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA340.7','SAN MARCOS','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A357.9','ARANDAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E265.2','ORGANAL','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N385','COINZTZIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z105.4','MACAYA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0159','BENEMERITO JUAREZ','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0011','ENCINA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA0','POXILA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V423.6','PASO DE VARAS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P0109','EMPALME DISTRITO SANTA BARBARA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K284.1','MARGARITAS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S235.6','JESUS NAZARENO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K452','EL DORADO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0045','ROBLES','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O66.6','SIRAHUATO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1300','ESCALON','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB85.5','LAS OLAS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TM33.6','ETZATLAN','04','México','','TM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC87.2','COLON','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TM010','EL CARMEN','04','México','','TM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA054','SANTA CRUZ','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE128','INGENIERO J M AGUIRRE','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB024','TEPUENTE','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX44.2','SAN CARLOS','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA86','ALAMO GORDO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C46.2','AJUSCO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M822.2','NAZAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1121.3','BUSTAMANTE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K53.9','LA RIQUEZA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0901','ANGOSTURA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0264','LA CEIBA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA596.1','PIXOYAL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V294.7','LOMA DE TABLAS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0015','XALOSTOC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB3.1','XOXO','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K383.7','ISLAMAPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA073','MORENO NORTE','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I141.4','EL ALVARESO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0323','DEHESA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0930','RAMOS ARIZPE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA293.8','SANTA ROSA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0038','EL PARAISO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B50.5','EMBARCADERO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA714','CHINA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0504','CALTZONTZIN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1973','CIUDAD JUAREZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H121.9','TULANCINGO','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1142','GOMEZ PALACIO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K80','REFORMA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L37.4','VILLA JUAREZ','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0053','TLALTEPOXCO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E340.1','MIXTECA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD138.8','ZACATOZA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD166.6','LA CURVA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0304','ALVAREZ','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1455','MANGO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0626','LAS MORAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0061','SAN AGUSTIN','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V175.4','KIUMICHO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0566','VILLA MINA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K259','URBINA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA314','HIDALGO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0307','METLAC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC9.9','DALILA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1596','AHUACATLAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0084','TEOCALCO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0027','CUAUTITLAN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0554','PINTO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC24.5','SAN MARTIN TLAMAPA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T150','BEJAMIN HILL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C21.9','OLIVAR','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K123.3','ELIAS CASTRO ORTEGA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A451.1','CAROLINA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1355','BONITA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0639','CHILA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD18.6','TIXPEUAL','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0256','GALERA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE85.2','PURISIMA','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB17.7','SAN AGUSTIN','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN047','CURIMEO','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA830.9','MAXCANU','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1854.8','JUAN JOSE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0021','LECHERIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0329','RINCONCILLO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA86.7','TEMOSACHIC','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0681','TRANCOSO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G13','LOS ANGELES','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1764.5','GUADALAJARA FCP','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A289.5','CRUCERO A CELAYA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB139','ACAJETE','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0372','LINARES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1010','SANTA CATARINA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA083','JICARO','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM055','TLALTEPOXCO','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q349','SAN ANDRES','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC34.4','ATOTONILCO','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I407.3','NICOLAS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N543','CHUPANGUJO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA515.3','LUNA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0278','BALASTRERA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0526','ESPERANZA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q625.9','POSADA BARRANCAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L646.9','OCHOA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1248','YERMO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T450.2','MAPOLI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP59.8','HUNASCHEN','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K444.3','EJIDO 20 DE NOVIEMBRE','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF020','PRESIDENTE JUAREZ','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0271','EL TUNAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA555.9','ESCARCEGA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O3.4','CHAMUCO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0118','CARNERO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0317','SAN MIGUEL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A80','TULA CGA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0163','IPINA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA260.2','RIBA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez57.4','TLALTEPOXCO','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K216.3','ANDRES','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I112.7','MIRANDILLAS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA111.8','ZANAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA315.6','LA UNION','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0381','ANAHUAC','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1006','LA MANCHA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD59','PLACA KM AD-59','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N555.6','LAS PILAS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0558','VELDERRAIN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP49','XCANCHAKAN','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S164.4','HUAMATLAN','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA167','NACO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD5.6','CUAUTEPEC','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0033','POCITOS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC192.6','SANTA MONICA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0076','EL CANAVERAL','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD33.4','BERISTAIN','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K449.8','EL SILENCIO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M254.3','CARBONERO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1027','CALVO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0037','CHINAMECA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA396.3','TENOSIQUE','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB021','GUZMAN','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MB18','PUERTO INDUST. ALTAMIRA','04','México','','MB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N446.3','SAN PABLO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K404.7','22 DE MAYO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M240.9','LA MISION','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0257','ALACRANES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0711','MARTE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0078','LAS ANIMAS','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB029','SALVATIERRA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B988.2','GARCIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0721','VANEGAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA23.5','LLANO GRANDE DE LINARES','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HD0.3','VENTOQUIPA','04','México','','HD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0006','NOGALES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1762','GUADALAJARA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B246.7','CRUCERO A VIBORILLAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0585','AGUASCALIENTES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0889','TECHA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0055','CUAUHTEMOC','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0292','ORIZABA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB6.1','SAN ISIDRO','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P38','BACA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J51.2','OJO DE AGUA','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V76.3','EL MAGUEYAL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA114','PLACA KM DA-114','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N455.3','LAGO ZIRAHUEN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0469','VERACRUZ','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA100.3','YEPOMERA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1544.2','HONDONADA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0539','MONTERREY FERROMEX','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL22.5','CUICILLOS','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0050','PENJAMO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB169.5','SEBMA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0192','EL GRANDE','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J26','ESPUELA ARENERA','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC51.9','CHAMPUSCO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0291','CALERA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB0.2','TIJUANA','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0031','HIBUERAS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N400.1','TIRIPETIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0059','SIERRA MOJARRA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G299.9','MEDIAS AGUAS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos215.5','AHORCADO','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B248.6','LA GRIEGA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0237','ALDAMA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0272','MALTRATA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE184','LAZARO CARDENAS','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0533','SAN JUANITO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L178.6','EL VIEJO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF016','TUXTEPEC','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE102.7','LLANO PIOCODE','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M722.7','VENUS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M313.1','GRANDE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0061','MINA MANA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I530.6','CONQUINATLAN PUEBLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0078','AGUATEPEC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0110','SOLTEPEC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0187','CONTEPEC','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0082','PALMILLAS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC91.4','SAN JOSE DEL MOLINO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0893','DERRAMADERO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TG25','BACOBAMPO','04','México','','TG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA486.7','PAJARAL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC100.9','EL SUCHIL','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB58.3','CANATLAN','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0014','BERNAL DIAZ','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0907','CERRILLOS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0032','GENERAL GONZALEZ','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA3','PORTEZUELO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N566.8','NUEVO URECHP','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LB109','CHARCOS','04','México','','LB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I410.6','MANZANO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD127.3','JUNCAL','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA38','EL CHORRO','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1318','RELLANO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP34.9','TECOH','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H143.1','CANALES','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA30.4','LAS OVEJAS','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A949','FUERTES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA880.8','CIUDAD INDUSTRIAL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0711','COLLADO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB147','LOS PINALES','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0113','SAYULA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0246','JIMBA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0093','TIERRA BLANCA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA78.8','SAN CARLOS','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M385.8','ALTA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O38.2','ARGUELLO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z237.6','NIZANDA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L624.3','CHI JOL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U370.4','LOS SAPOS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0605','AUZA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0737','LA TRUEBA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC237.8','PICOTELLO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB77.6','MENDOZA','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB088','XOXTLA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS47.8','XLETRA','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M591.4','IXTLE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N609.3','EL CERIDOR','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0098','PAZOLTEPEC','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1192.2','SIERRITA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0036','EL TULE','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q174.5','ENCANTADA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA853.6','CHOCHOLA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0483','CADEREYTA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0286','CIUDAD INDUSTRIAL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0364','SAN MIGUEL DEL ZAPOTE','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC32.4','TOTOMETLA DE JUAREZ','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0170','INGENIERO ANTONIO GUTIERR','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DF3.6','RAMON BARAJAS','04','México','','DF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N119.1','VAQUERIA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H148.9','AMAPOLAS','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1328.2','MUGOZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N257.6','ARENA BLANCA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B256','LA PEDRERA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK063','AMECAMECA','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0451','LA JUNTA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0793','SAN SALVADOR','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P123.6','PEINADO','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B863','GUILLERMO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0207','VEGA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E180.2','VENTA SALADA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J56.8','HORNOS','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0367','MESA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AE7','CUARTA PARTE','04','México','','AE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0540','CUESTA PRIETA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0531','PINERIA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H82.9','SAN VICENTE','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0080','EL AZUFRE','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R102.1','BLANCO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G144.6','PAPALOPAN','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1144.6','EL VERGEL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A924.5','CARLOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0046','BUENAVENTURA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1267','CEBALLOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC60.1','TEPEOJURA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0260','GUADALAJARA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA60.5','QUINTERO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos183.5','SAN JUAN DEL RIO','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P64.3','ADELA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB19.2','MATANUCO','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN49.7','LA CRUZ','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0087','MAGDALENA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE168','LAS MINAS','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0604','SAN FRANCISCO DE LOS ROMO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F252','CORRALES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0134','TRES VALLES','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB126','LOMITAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P80','GENERAL ANGELES','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB87.9','COTIJA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF017','ADOLFO LOPEZ MATEOS','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0176','TAMARIZ','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0071','CRUZ AZUL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0609','PAREDON','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M465','SAN JUAN1','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0022','ECATEPEC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB175.4','BARRAZAS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB81.5','ORTEGA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N557.8','EL JABALI','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD226.8','EL ORO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB183','LOS HERRERAS','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0338','ATOYAC','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA274','ESQUEDA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD31','POLKA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N561.6','MIRADOR','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0357','LA GOLETA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K310.9','MAPASTEPEC','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I567.2','LA BASCULA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA144.9','EL PORVENIR','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0624','RINCON DE ROMOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q727.3','TACUINA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC8.4','LAS ESPERANZAS','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H115.3','FABRICA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA571.7','CIUDAD JUAREZ','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA104','SAUCEDA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BD042','JOSEFA ORTIZ DE DOMINGUEZ','04','México','','BD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1652','TERRAZAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA282.2','SALTO DE AGUA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos245','FERROSERVICIOS','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC97.4','ATENCINGO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T143.8','NORIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N577','CASILDA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1162.6','CADENA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E341.5','LACHIXOLANA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0168','ATLAN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0044','LA MULA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S322.4','PERUELA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F287','LOS OLMOS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HC009','XOCHIHUACAN','04','México','','HC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB75.5','VISCOSA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E200','IGNACIO MEJIA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0352','MORENO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA21.1','DURANGO','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC178.3','EL MIRASOL','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I135','LOS PILARES','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF008','BARTOLOME','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0893','GENERAL BANDA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD76','PLACA KM RD-76','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB8.2','MONTE PRIETO','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0199','GARROBO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1224.2','MATADERO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB200.8','LA CANDELA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A708.8','EL GRILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0018','RIO ESCONDIDO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB70.2','TARIACURI','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M318.3','CAMPOAMOR','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA163','LAS MERCEDES','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0204','CONSTANCIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0061','LERMA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB170','SESMA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0221','ISLA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0074','TOLUCA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q292.4','SALAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1614','GRACIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C261.3','APIPILULCO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E118.3','NUEVO CARNERO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V192.4','CERON','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K199.4','CABAÑA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0231','ANZALDUAS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0147','LA TRASQUILA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q530.3','PINERA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L630.2','MENDEZ','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB092','ZOQUIAPAN','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS15.8','XUCU','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA127.1','INGENIERO ROBERTO AYALA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD119.8','DZITAS','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0182','RAYON','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H86.6','SOMORRIEL','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0339','EL GATO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C30.7','ESLAVA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA14.8','CHAPO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE021','CAPIRIO','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1779','CHIVATITO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK094','SAN SEBASTIAN','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0046','HUEHUETOCA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA287.5','RUCIO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N471.5','TARASCON','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC19.2','ALCALDE','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q192.2','MORREON','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N312.1','ANDOCUTIN','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P111','LA VENCEDORA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0052','ALLENDE','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC257','LA CANADA MORELOS','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0504','SAN MIGUEL','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB9.7','PEDRERA KM DB-10','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L620.3','FERRONALES','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB179','VICENCIO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K301.9','VALDIVIA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R401.4','HIGO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0664','MIMO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI0','CULIACAN','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0273','TENACITAS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0899','CONSTANCIA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0602','PITORREAL','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AE13','SANTA TERESA','04','México','','AE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1942','DESIERTO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA48.3','BORRADOS','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB56.1','PANINDICUARO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A548.4','EL TIGRE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA160.7','CARDONA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1534','BORBOLLON','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0030','CHAPO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC27.7','TLAMAPA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0161','GUADA VICTOR','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N22.8','SAN BARTOLITO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0534','NICOLASITO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B195.3','MERCADER','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M850.2','LA DALIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK027','LOS REYES','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0475','LAGOS DE MORENO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0433','SAN FRANCISCO DEL R','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0535','TOPO GRANDE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN22.8','LOS BANCOS','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB84.6','GUARACHA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0786','NARANJO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA103.2','COLONIA INDEPENDENCIA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0193','AGUA BUENA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0128','TEHUACAN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HB028','IROLO','04','México','','HB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0007','PANTACO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG58.6','SAN MIGUEL','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M494','BELLA VISTA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S55.4','OTUMBA MEXICANO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N62.8','DOÑA ROSA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C8.2','LOS MORALES','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB042','BENITO JUAREZ','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0814','FELIPE PESCADOR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA787.1','POCBOC','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N11.3','MOLINITO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1145','CERRO COLORADO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1137.5','MARMOL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC256.1','LA CAÑADA MORELOS','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C77.7','EL PARQUE','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0907','RETES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O18.7','TARIMORO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G82.9','LAS PRIETAS','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC163.6','FELIPE CARRILLO PUERTO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB29.2','COCUITE','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1832','CARRIZAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0847','CONCORDIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HB011','SANTA INES','04','México','','HB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1244','HUIZACHITO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB048','TLAXIACA','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA836.5','SAN BERNARDO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F153.9','ARROYO LOBO','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB49','ARIO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E373.8','NEGRITOS','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez0','BUENAVISTA','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA241','C F E','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U441.1','LA VERBENA','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0262','ANGOSTURA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0807','LA LAGUNA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP152.8','PETO','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N586.5','LOMBARDIA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0350','ZACOALCO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK1.8','XALOSTOC','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K225.6','INDALECIO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1372','MORADA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA50.1','DOMINGUEZ','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1679','CUERVO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0083','RANCHO CHICO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O16.3','SEGUIO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0352','EL COYOTE','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RK0','EMPALME SIERRA MOJADA','04','México','','RK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB24.1','CEDRAL','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0180','CAMARGO','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HE12.1','TORTUGAS','04','México','','HE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0097','GONZALEZ','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC219.2','RIO GRANDE','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L448.7','VENASTEQUI','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0279','LAS ADJUNTAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RK21.5','MINAS','04','México','','RK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K46.9','YOLANDA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD325.2','LA INDIA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0104','AMAPA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA033','LOS ROBLES','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1743','LA VENTA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0239','SAN ANTONIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez57','HIDALGO TILH','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0070','VICENTE','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B11.4','VALLE DE MEXICO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1290','NUEVO LAREDO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E357.7','HACIENDA BLANCA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0017','MIRAMAR','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB52.8','DAVALOS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK055','TENANGO','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1538','CONSUELO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0426','PEDERNALES','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M860.6','SANTO NIÑO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P0046','DORADO','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1215','BANDERAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z292.7','PEARSON','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA128.1','EL PRESON','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA33.6','CAÑADA','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1179','BERMEJILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0340','CATARINA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0298','RAMIREZ','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RK16','SIERRA MOJADA','04','México','','RK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA50.3','ESPERANZA','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q885','CHARAY','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0141','CALLES','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX12.5','TOPILA','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0423','GUAYABAL','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z285.1','REOLOTECA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N482.6','ZURUMUCAPIO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RF0.9','AGUJITA','04','México','','RF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA10','MORELOS','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O88.3','ZITACUARO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1127.2','LA PERLA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0358','ALBORADA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LA012','LA ANGOSTURA','04','México','','LA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0149','SANCHEZ','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M409.9','PARAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N378.2','LA HUERTA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0614','VENADO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K324.1','ULAPA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H150.2','HONEY','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB019','MAZAPA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA546.9','DIVISION NORTE','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0038','TEPEACA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0039','CORRALEJO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0266','PEROTE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VL12.2','SAN RAFAEL','04','México','','VL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0067','DORANTES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB93.4','BARRIO ALTO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA24.2','PASO TORO','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA151.3','EL RASTRO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC173.5','CANTUNA','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0092','CHILICOTE','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB118.1','TINGUINDIN','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0282','FRESNO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA34','PUEBLO VIEJO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B926.6','RAMIRO E MARTINEZ','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NF486','SAN ANDRES','04','México','','NF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA507.4','MIGUEL ALEMAN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q44','LA HULA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0238','LOS REYES','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB103','LA UNION','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0508','SALVADOR','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA59.6','TEJOLOCACHIC','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0009','TULTEPEC','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I308.4','LOS BAÑOS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0141','NOPALA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA76.8','GUADALUPE VICTORIA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1191','NARANJO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX63.7','CORONEL MASCAREÑAS','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0033','ABASOLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0464','TAMASOPO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1756','JOCOTAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0145','PAPALOAPAN','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('J12.7','SAN JULIAN','04','México','','J','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B133','ARAGON','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE60.6','OTINAPA','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V361.3','EL CHICO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX55.1','LOS MANANTIALES','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0276','BELLACO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0580','ENRAMADA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I196.8','POCITLAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N53.5','OCOYOACAC','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0674','DONA CECILIA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG74.1','MARGARITA','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB14.5','LA CALLE','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I173.2','EL PEDREGAL','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0319','ROSITA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1607.6','TABALAOPA NM','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA301','EL TAJO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB15.3','LAS FUENTES','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB145.5','FRANCISCO JAVIER LEYVA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC118.1','COAYUCA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0415','CARDENAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1483','CONCHO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0937','SANTA MARIA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE113','INFIERNILLO','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB058','TLALOC','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC181.6','SAIN ALTO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC102.2','AHUEHUETZINGO','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1090','AMADOR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T451.7','NAPOLI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B658.9','BERRENDO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RK10.8','LA PUERTA','04','México','','RK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0016','APODACA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0258','LA CANADA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA48','PLACA KM DA-48','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L633','LAZARO CARDENAS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0252','ZIRIZICUARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK18.2','XOCHIACA','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1077.6','JALISCO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1329','MUNOZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC121','EL CERRITO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA121','DEL RIO','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0244','PESQUEIRA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K135.4','SAN RAMON','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0450','EL BALCON','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SC311.5','ENCINAR','04','México','','SC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB61.4','CHAVINDA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0280','CANALES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0548','CHIPINQUE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB28.7','TORCAZAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0674','HIPOLITO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB26','RANCHOYA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N158.6','VENTA DEL AIRE','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0998','VERACRUZ CICE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB18.7','MORCILLO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC83.5','ZOLOQUIAPA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA149.8','LA CRIMEA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0242','ALONSO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0754','MADERO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1514','LAS DELICIAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0342','SAN ALEJO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N244','GIGANTES','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0246','VIBORILLAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD85.9','UALACTUN','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I256','GUADALAJARA CARGA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1957','MESETA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K253.2','COLONIA CENTRAL','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0285','ALMEJAS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0548','TANINUL','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0401','CUAUHTEMOC','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL003','ORENDAIN','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H91','SAN JOAQUIN','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1104','DIMAS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA430.2','BARITA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T471.5','OROZ','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RL0','EL REY','04','México','','RL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA40.9','CARDENAS','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0418','CHICHICAXTLE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD24.1','TIXKOKOB','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0702','FRANCISCO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('KA13.8','PUERTO MADERO','04','México','','KA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V441.3','PUREZA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC009','CONEXION VIBORILLAS','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C248.3','MEXTITLAN','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA172','LA CALERA','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1579','LOS MARTINEZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1504','ROSETILLA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC10','TEHUILOYOCA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O6','CAMPO HERMOSO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A21','LECHERIA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC262.1','FELIPE PESCADOR','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RG1.4','CLOETE','04','México','','RG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM216','AHORCADO','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0096','LIBERTAD','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0454','SANTA FE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0916','JIQUILPAN','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0288','TLAJOMULCO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E195.4','SAN ANTONIO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G60.8','ACATLAN DE PREZ F','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK109.3','ATLATLAHUACAN','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC26.2','NAVARRO','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F276.6','CHARCO AZUL','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K442.5','CAHUACAN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M874.6','LUJAN','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0807','BAMOA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA231.5','POANA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L204.7','OJO ZARCO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB042','ZAMORA DE HIDALGO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('XX76.5','MAGOSAL','04','México','','XX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z125.9','JESUS CARRANZA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E342.5','DON BENITO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0696','RAFAEL S MARTINEZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD102.6','SOCORRO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1682','ENCINALLAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD177.2','TIZIMIN','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0006','VILLA DE FUENTE','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H71.5','PUEBLILLA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N535.9','PLAN SEXENAL','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HA005','DIEC DE MARZO','04','México','','HA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA11','MIAHUATLAN','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K351.3','LA ACACIA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1743','LOAEZA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0063','RIITO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA207.2','TEAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0942','TOPOLOBAMPO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP39.7','LEPAN','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC48.4','GAVANA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA578.1','COLORADO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0999','ACACIO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0669','TAMPICO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0117','ITURBE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0376','ORTIZ','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB59.2','SAN ELIAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H135','ANITA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TH0','NARANJO','04','México','','TH','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos130.9','DAÑU','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K232.1','LOS PATOS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0524','BALCON','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0519','ESPANITA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R29','PLACA KM R-29','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos166.9','PALMILLAS','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI024','YEVAVITO','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC12.7','MANUEL AGUIRRE','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA88.9','IGNACIO ALLENDE','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB177.6','EL BARRIAL','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1032','RAMON TREVINO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS9.9','SEYE','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0538','ENCARNACION','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB33.2','ESPUELA Z GAS','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB11.2','CIENEGUITAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0042','CASITA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB063','CONCEPCION','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0395','SAYULA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0353','IRAPUATO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0153','TOLOSA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A990.6','RYVAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F211.4','VENECIA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA261.1','AGUA BLANCA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1341.3','MONTAJE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IC9.9','ZULA','04','México','','IC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K440.4','LA SOLEDAD','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0219','ATEQUIZA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0253','LA JUNTA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K264.1','PIJIJIAPAN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B624.7','LABORCILLA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HB005','VENTA DE CRUZ','04','México','','HB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB29.3','VILLACHUATO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E392.9','GUELAVIA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0374','MORELIA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD89.7','DOBLONES','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0662','CUITECO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0028','PESQUERIA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1670','SAUZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0658','EL CUBO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA408.3','ESPERANZA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M499.5','CERRO DE LA SILLA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0248','CABALLEROS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0238','CIUDAD FRONTERA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP119','TICUM','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0277','HERMOSILLO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RL16.2','QUIMICA DEL REY','04','México','','RL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B824.8','SANTA ELENA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0428','TZURUMUTARO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA136.9','MEZCALAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1454.3','LA CRUZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1843','AHUMADA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0186','MANUEL M RODRIGUEZ','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0806','LA VENTURA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK105','SAN JUAN TEXCALPAN','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F34.1','FRANCISCO VILLA PESQUERIA','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NC006','URUAPAN','04','México','','NC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V454.6','LIMITE TERRITORIAL SANTA FE','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FX23.8','UAYMA','04','México','','FX','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A610.6','GARABATO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA550','MENDEZ','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I527.9','COQUIMATLAN PUEBLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1469','AGUIRRE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0742','SUFRAGIO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1636','CORRAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0673','PALMIRA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB40.2','SAN JOSE DE LAS TROJES','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M493.8','BELLAVISTA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I277.5','OROZCO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N28','DOS RIOS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA269.6','EL ZOPO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H5.7','CARTAGENA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0205','BERNAL','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1614','CHIHUAHUA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0764','FRESNILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K288.9','POLMORADA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V69.6','OTUMBA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE999','HPH LAZARO','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C132.1','MANGO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z286','LA CANTERA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC175.2','EL FRESNO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0407','LOS IDOLOS','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1438','ROSETA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I370','TECHALUTA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R377','BRAVO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1804.5','LAS MINAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I296.4','FLORES','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE27.6','CIENEGUITA','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0686','LETONA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0382','SOLEDAD','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AC036','JARAL DEL PROGRESO','04','México','','AC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0039','TEXCOCO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K29.7','SALINERAS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA29.9','ACALAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB10.3','ATARJEA','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE36.6','NEVERIA','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V35.9','CHAPINGO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R65.6','CALATRAVA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0155','BASSOCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0008','LA PATRONA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q139.5','PICACHOS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N480.2','LAS PALOMAS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0126','YURECUARO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S39.4','XOMETLA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z255.4','IXTEPEC','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA524.3','DON SAMUEL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0054','RELINAS','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S381.8','SOLEDAD DE DOBLADO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0148','EMPALME DISTRITO PRESIDENTE JUAREZ','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC29.5','EMPALME PALAU','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z226.2','CHIVELA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0936','CAMACHO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LA023','CIRIO','04','México','','LA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0129','SANCHEZ ISLAS','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C67','TORO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK042','HUITZILZINGO','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC19.2','RANCHERIA','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L474.5','TAMBACA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E159.3','ALTEPEXI','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K371.4','MONTECRISTO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Juárez119.7','ARAGON','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA11.7','LABOR','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB128','AMOZOC','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0142','LA HUERTA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA017','SANTA ANA','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB186.9','PEDRERA KM DB-187','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B956.4','LA MARIPOSA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0134','VILLANUEVA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FD94.9','TUNKAS','04','México','','FD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1566.1','HORCASITAS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0804','MEZQUITE','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA28.4','CUICHAPA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0053','PORRERO RUBIN','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA532.4','SAPELLO','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0770','EL SALADO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE101.8','BORCELANO','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA461.7','EL TRIUNFO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB39.3','CASOMALDAPAN','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1164','BRASIL','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0340','CHAVARRIA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BB7.9','TEPICHE','04','México','','BB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0025','GUASUNTLAN','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RK14.5','QUIMICA DEL REY','04','México','','RK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L290','SAN IGNACIO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0390','SILAO FERROMEX','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z203.1','MATIAS ROMERO','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA228.8','LA GOMA','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD290.7','ESCAPE CARRILLO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC26.5','CENTAURO','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0116','CALDERON NORTE','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0007','CIUDAD MADERO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0753','SAN VICENTE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K175.2','TONALA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC098','INGENIERO BUCHANAN LOPEZ','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RB3.3','SABINAS','04','México','','RB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V190.3','SANTO DOMINGO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0','AMOZOC','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S129','MUROZ','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P100.4','ZENZONTLE','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0750','OJUELOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K457.4','LA PLATANERA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0221','ARGUELLES','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK097','LA CANADA','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('SA008','SAN MANUEL','04','México','','SA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB189.3','PASCUALES','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L505.3','MICOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0478','VILLEGAS','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K379.1','TUZANTAN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0046','OCOTITLAN','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA817.4','HALACHO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0373','MATA DE AGUA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA198.9','DIEGO','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC112','PIEDRA DE LUMBRE','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB34.2','SANTIAGO','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0880','EL COMPAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q550.2','BOCOYNA POBLADO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB42.8','EL SABINO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I386.7','CARMELITA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0365','CHAVARRILLO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C142.6','TEZOYUCA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F0208','GUSTAVO DIAZ ORDAZ','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I413.1','PROVIDENCIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V93.6','SANTA CLARA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA585.5','5 DE FEBRERO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R384.5','MESILLAS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B220.1','LA LLAVE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E0070','ALSESECA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0287','MARISCALA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1176','LAMPAZOS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0521','SAN JUAN DE LOS LAGOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N602.1','CUSSI','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1574','VALLE VERDE','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C223.9','LOS AMANTES','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA250','GONZALEZ','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0147','NEGRETE','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0','CORDOBA','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI013','AGUARUTO','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0209','TAPADO','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0605','CORONDIRO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA025','PASO DEL TORO','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E255.5','SAN PEDRITO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I319.5','BALASTRE','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1057.3','OTTO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L672.8','DORA CECILIA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA40.2','EL LIMON','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA309.6','LOS LLANOS','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0669','BAHUICHIVO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0212','ESTANZUELA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M636','PLACA KM M-636','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N30.4','NAVA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE029','BALSAS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TA36.3','MARTINEZ','04','México','','TA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VK96.7','LA CARADA','04','México','','VK','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA440.3','EL POZO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1239','EL ROSARIO','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E236.3','TANQUE KM E-237','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA82.1','CALIXTO CONTRERAS','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H97.5','LAS LAJAS','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC211.8','FELIPE','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S113.5','COBRITO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1524','COMPOSTELA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0502','LOGISTIK','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0405','SANTA RITA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0112','IXTLAHUACA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('AB015','TLAXCOAPAN','04','México','','AB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BG19.8','SALITRE','04','México','','BG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HA4.5','19 DE MARZO','04','México','','HA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O31.3','APORO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I407.7','NICOLAS BRAVO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N518.7','CANACHA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T175.3','CAMOU','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0438','ANTIGUA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1658','LA QUEMADA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A373.6','PICO DE ORO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V442','MATILLO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0024','XUCHILES','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA123.9','YERBANIS','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB157.2','JARA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1064','MORALES','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1239.1','EL BOLSON','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0584','CUYUTLAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BC171','PRONAPADE','04','México','','BC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BA22.8','SIETE REALES','04','México','','BA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0235','EL CASTILLO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1374.8','EMPALME DISTRITO DE PARRAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA245.2','CHANGO SANTO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA011','CANGREJERA','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0834','SAN PEDRO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q210.5','TRANCAS','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q437.6','ROSARIO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1276.7','SECCION SANCHEZ','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M618.3','AMARGOS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC13.2','MOTA','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB104','ZIRONDARO','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB91.3','LA SOLEDAD','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0895','ALAMILLO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1076','LA CRUZ','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0182','SAN MARCOS','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UA14','PASCUALITOS','04','México','','UA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L650.2','FERROAUTLAN','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0310','VILLAGRAN','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB103.5','UNION','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z30.1','HIGUERAS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UA004','MEXICALI','04','México','','UA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P129.7','CUEVAS','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB136','TEPATLAXCO','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1507','COSTILLA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA056','PIEDRAS NEGRAS','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FS28.1','SANAHCAT','04','México','','FS','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0614','EBANO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD160.2','BOOSTER','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q686.6','PARAJES','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C257.7','EL PUENTE','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD290.8','CARRILLO VIEJO','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L0328','CERRITOS','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC56.3','TEYUCA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0124','GUADALUPE','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U239','PUERTO PERASCO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V42.8','SAN ANDRES','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('HE8.4','ACOCUL','04','México','','HE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E204.3','MEJIA VIEJO','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA71.9','LA GAVIA','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA060','MADEREROS','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0648','LAGUNA SECA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0959','SAN ISIDRO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IN018','TRES MEZQUITES','04','México','','IN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA77.6','LOMA','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0598','NUEVA ITALIA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('QA23.7','GIRASOL','04','México','','QA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB11.3','COYOL','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1039','ABUYA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0260','TARANDACUAO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0541','JALA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P0090','PARRAL','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA138.9','SAN MANUEL','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DN35.4','ARDILLON','04','México','','DN','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FP90.4','OXKUTZCAB','04','México','','FP','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L269.1','CORCOVADA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB18.7','MADERERÍA ACEVEDO','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1628','BARRANCAS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0341','GENERAL COSS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BA60.4','POZOS','04','México','','BA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L196','PALMAR PRIMERO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q0698','CEROCAHUI','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P42.6','MARPORTIN','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C161.2','JUAN PAGAZA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P68.6','EL COBERO','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0396','ROCA','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA761.6','TENABO','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0041','EMPALME EL REY','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K66.3','LAS PALMAS','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E348.6','ETLA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M35.4','COLONIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0093','CARRASCO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0081','MANUEL','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE063','LA VINATA','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0212','SAN JACINTO','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N511.9','CIENFUEGOS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0402','TRINIDAD','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E216.7','LOS CUES','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0946','OJO CALIENTE','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB93.8','GUATIMAPE','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B132.9','CONEXION ARAGON','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0286','ACHOTAL','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0585','KM T585','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0307','JILOTEPEC','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0068','OMETUSCO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K246.7','SAN ISIDRO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TG24.6','BACOBAMBO','04','México','','TG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC3','PALAU','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L185.7','EL CORTE','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA12.6','EL CONEJITO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB49.3','LUCIA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0150','BENJAMIN HILL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0135','FLOR DE MARIA','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E318','PLACA KM E-318','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('BJ8.4','NUEVO LAREDO','04','México','','BJ','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NE997','LC LOGISTICA GPS','04','México','','NE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC14.3','MARIA','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('FA736.8','KOBEN','04','México','','FA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RA105.2','EL PILAR','04','México','','RA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0965','RINCONADA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TL14','TALA','04','México','','TL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA35.7','LAS AGUILAS','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB0.3','ESTACION TIJUANA','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA209.5','CHOCOLATE','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1447','SANTA ROSALIA CAMAR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0047','HUEHUETOCA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1693','TEQUILA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C204.2','SAMANO','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I532','CONQUINATLAN','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K152.2','ARRIAGA','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A388.1','NAPOLES','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1154.6','CANDELA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z213','LAGUNAS','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0183','ARROYO CLARO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S0062','LA PALMA','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DE90','PLACA KM DE-90','04','México','','DE','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F202.1','LOS VILLARREAS','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1285','ZAVALZA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('C253.4','XONACATLA','04','México','','C','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('O24.7','IRIMBO','04','México','','O','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA079','MORENO SUR','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z154.9','DONAJI','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('G0035','PRESIDIO','04','México','','G','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DF8.6','SOMBRERETE','04','México','','DF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1083','EL PUERTO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD3','ESCALON','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K112.5','CHAHUITES','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB010','CALPULALPAN','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N3.2','TLATILCO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0843','GUAMUCHIL','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I16.2','RIVERA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V52.2','XOMETLA','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1842.9','AHUAMADA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1477','MORA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RC36.6','ZAMORA','04','México','','RC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1393.3','LA REFORMA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TM019','AHUALULCO DE MERCADO','04','México','','TM','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0086','JUILE','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TI018','SAN PEDRO','04','México','','TI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Morelos229.1','LA GRIEGA','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0170','VELASCO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K37.1','UNION HIDALGO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0173','OBAYOS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EB45.6','GUEBESCHE','04','México','','EB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0646','MASIACA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K361.6','DESPOBLADO','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0067','TEPA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0300','CRESPO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H0034','PAULA','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q151.7','SAN SOSTENES','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VC114.7','AXOCHIAPAN','04','México','','VC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD176.2','PEDRO ORTEGON','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA43.1','EL SALADO','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M457','CAÑA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0567','BOCAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0344','CHICO','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B36','TEOLOYUCAN','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('TG033','ETCHOJOA','04','México','','TG','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M300.5','PUERTO DEL AIRE','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V58','PIRAMIDES','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1555.9','ABRAHAM GONZALEZ','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R118.3','MEZQUITAL','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('P13','LA CUADRILLA','04','México','','P','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB101','LOS ARCOS','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0118','ROSILLO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB172.2','TAMBOR','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GF004','TORO BRAVO','04','México','','GF','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('UB69.8','LINDERO','04','México','','UB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA41.5','GARCIAS','04','México','','EA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1340','CORRALITOS','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1646','AGUA FRIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1608','TABALAOPA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z0043','JALTIPAN','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A0915','OPAL','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GB40.8','SAN GABRIEL','04','México','','GB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB122.6','ANGELITA','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z71.2','OLOLICA','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('F283.3','EBANITO NUEVO','04','México','','F','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T333.6','LUJAN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM103','DAXTHI','04','México','','Morelos','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1729','EMPALME DE ORENDAIN','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DC61.2','POANAS','04','México','','DC','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('NB41.4','PANALES','04','México','','NB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LB013','EL COLORADO','04','México','','LB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M358.8','MAGUIRAS','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('S77.9','IROLO MEXICANO','04','México','','S','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA155.7','EL CENTRO','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T1008','QUILA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Z115','SUCHIL','04','México','','Z','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('GA014','ESPARTAL','04','México','','GA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q127','FALOMIA','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA95','CLAVO DE ORO','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('R0257','CASTANOS','04','México','','R','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0520','COLIMA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0576','SANTINI','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0157','IGNACIO ZARAGOZA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('LJ254','TLACOTE','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('H60.4','SAN AGUSTIN ZAPOTL','04','México','','H','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RI0','HERCULES','04','México','','RI','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('RD25.5','AGUILA','04','México','','RD','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DB43.8','NICOLAS BRAVO','04','México','','DB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B560.9','ARRIOLA','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('E250.2','LA VENTA','04','México','','E','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B0067','APAXCO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0469','JUJUCATO','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T243.2','PESQUERIA','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L417.1','LA PRESA','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0361','VERDIA','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('K358.9','VILLA DE COMALTITLAN','04','México','','K','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('DA188.5','HUARICHI','04','México','','DA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1022','MONTERREY','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('Q757','DESCANGO','04','México','','Q','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('U0413','PITIQUITO','04','México','','U','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VB94','SANTA CLARA','04','México','','VB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('VL1.8','ESPUELA HARINERA','04','México','','VL','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('MA116.7','CEIBA','04','México','','MA','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('I0182','CAMCEL','04','México','','I','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0235','CIUDAD VICTORIA','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('IB38.3','TUNILLAS','04','México','','IB','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('M0558','HIDALGO','04','México','','M','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T906.1','REYES','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B720.8','VENEGAS','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('JM167','PALMILLAS','04','México','','Juárez','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A483.1','MIRA','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('L27.2','AMAPOLA DEL RIO','04','México','','L','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('A1063','LA FLOR','04','México','','A','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('B1104','ALAMO','04','México','','B','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('T0666','LUIS','04','México','','T','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('N0407','LAGUNILLAS','04','México','','N','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('V0102','SAN LORENZO','04','México','','V','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EF0001','Extranjera','04','Extranjera','','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES 
+('PM001','Rosarito','02','México','','','2023-11-25',''),
+('PM002','La Misión','02','México','','','2023-11-25',''),
+('PM003','El Sauzal','02','México','','','2023-11-25',''),
+('PM004','Marina Coral','02','México','','','2023-11-25',''),
+('PM005','Ensenada','02','México','','','2023-11-25',''),
+('PM006','Punta China','02','México','','','2023-11-25',''),
+('PM007','San Quintín','02','México','','','2023-11-25',''),
+('PM008','Isla Cedros','02','México','','','2023-11-25',''),
+('PM009','Venustiano Carranza','02','México','','','2023-11-25',''),
+('PM010','Bahía de los Ángeles','02','México','','','2023-11-25',''),
+('PM011','Puertecitos','02','México','','','2023-11-25',''),
+('PM012','San Felipe','02','México','','','2023-11-25',''),
+('PM013','Costa Azul','02','México','','','2023-11-25',''),
+('PM014','Bahía Colonet','02','México','','','2023-11-25',''),
+('PM015','La Paz','02','México','','','2023-11-25',''),
+('PM016','Pichilingue','02','México','','','2023-11-25',''),
+('PM017','Puerto de Loreto','02','México','','','2023-11-25',''),
+('PM018','Puerto de Santa Rosalía','02','México','','','2023-11-25',''),
+('PM019','Puerto Escondido','02','México','','','2023-11-25',''),
+('PM020','San Carlos','02','México','','','2023-11-25',''),
+('PM021','Cabo San Lucas','02','México','','','2023-11-25',''),
+('PM022','Guerrero Negro','02','México','','','2023-11-25',''),
+('PM023','Santa María','02','México','','','2023-11-25',''),
+('PM024','Isla San Marcos','02','México','','','2023-11-25',''),
+('PM025','Adolfo López Mateos','02','México','','','2023-11-25',''),
+('PM026','San Juan de la Costa','02','México','','','2023-11-25',''),
+('PM027','Punta prieta','02','México','','','2023-11-25',''),
+('PM028','San José del Cabo','02','México','','','2023-11-25',''),
+('PM029','Los Barriles','02','México','','','2023-11-25',''),
+('PM030','Mulege','02','México','','','2023-11-25',''),
+('PM031','Isla del Carmen','02','México','','','2023-11-25',''),
+('PM032','Campeche','02','México','','','2023-11-25',''),
+('PM033','Cayo Arcas','02','México','','','2023-11-25',''),
+('PM034','Seybaplaya','02','México','','','2023-11-25',''),
+('PM035','Isla Arena','02','México','','','2023-11-25',''),
+('PM036','San Francisco','02','México','','','2023-11-25',''),
+('PM037','Lerma','02','México','','','2023-11-25',''),
+('PM038','Champotón','02','México','','','2023-11-25',''),
+('PM039','Sabancuy','02','México','','','2023-11-25',''),
+('PM040','Isla Aguada','02','México','','','2023-11-25',''),
+('PM041','Emiliano Zapata','02','México','','','2023-11-25',''),
+('PM042','Nuevo Campechito','02','México','','','2023-11-25',''),
+('PM043','Takuntah','02','México','','','2023-11-25',''),
+('PM044','Yúum K''ak Naab','02','México','','','2023-11-25',''),
+('PM045','Puerto Chiapas','02','México','','','2023-11-25',''),
+('PM046','Manzanillo','02','México','','','2023-11-25',''),
+('PM047','San Pedrito','02','México','','','2023-11-25',''),
+('PM048','Laguna de Cuyutlán','02','México','','','2023-11-25',''),
+('PM049','Acapulco','02','México','','','2023-11-25',''),
+('PM050','Zihuatanejo','02','México','','','2023-11-25',''),
+('PM051','Butaba','02','México','','','2023-11-25',''),
+('PM052','Vicente Guerrero','02','México','','','2023-11-25',''),
+('PM053','Puerto Marqués','02','México','','','2023-11-25',''),
+('PM054','Puerto Vallarta','02','México','','','2023-11-25',''),
+('PM055','Barra de Navidad','02','México','','','2023-11-25',''),
+('PM056','Lázaro Cárdenas','02','México','','','2023-11-25',''),
+('PM057','San Blas','02','México','','','2023-11-25',''),
+('PM058','Nuevo Vallarta','02','México','','','2023-11-25',''),
+('PM059','Cruz de Huanacaxtle','02','México','','','2023-11-25',''),
+('PM060','Chacala','02','México','','','2023-11-25',''),
+('PM061','Salina Cruz','02','México','','','2023-11-25',''),
+('PM062','Bahías de Huatulco','02','México','','','2023-11-25',''),
+('PM063','Puerto Escondido','02','México','','','2023-11-25',''),
+('PM064','Puerto Angel','02','México','','','2023-11-25',''),
+('PM065','Puerto Juárez','02','México','','','2023-11-25',''),
+('PM066','Isla Mujeres isla','02','México','','','2023-11-25',''),
+('PM067','Cancún','02','México','','','2023-11-25',''),
+('PM068','Puerto Morelos','02','México','','','2023-11-25',''),
+('PM069','Playa del Carmen','02','México','','','2023-11-25',''),
+('PM070','Punta Venado','02','México','','','2023-11-25',''),
+('PM071','Puerta Aventuras','02','México','','','2023-11-25',''),
+('PM072','Punta Allen','02','México','','','2023-11-25',''),
+('PM073','Majahual','02','México','','','2023-11-25',''),
+('PM074','La Aguada','02','México','','','2023-11-25',''),
+('PM075','Xcalac','02','México','','','2023-11-25',''),
+('PM076','Chetumal','02','México','','','2023-11-25',''),
+('PM077','Holbox','02','México','','','2023-11-25',''),
+('PM078','Mazatlán','02','México','','','2023-11-25',''),
+('PM079','Topolobampo','02','México','','','2023-11-25',''),
+('PM080','Altata','02','México','','','2023-11-25',''),
+('PM081','El Sábalo','02','México','','','2023-11-25',''),
+('PM082','Escuinapa','02','México','','','2023-11-25',''),
+('PM083','Teacapan','02','México','','','2023-11-25',''),
+('PM084','Guaymas','02','México','','','2023-11-25',''),
+('PM085','Puerto Peñasco','02','México','','','2023-11-25',''),
+('PM086','Golfo de Santa Clara','02','México','','','2023-11-25',''),
+('PM087','Bahía Kino','02','México','','','2023-11-25',''),
+('PM088','Yavaros','02','México','','','2023-11-25',''),
+('PM089','Puerto Libertad','02','México','','','2023-11-25',''),
+('PM090','General Rodolfo Sánchez Toboada','02','México','','','2023-11-25',''),
+('PM091','San Carlos','02','México','','','2023-11-25',''),
+('PM092','Dos Bocas','02','México','','','2023-11-25',''),
+('PM093','Frontera','02','México','','','2023-11-25',''),
+('PM094','Chiltepec','02','México','','','2023-11-25',''),
+('PM095','Sanchez Magallanes','02','México','','','2023-11-25',''),
+('PM096','Puerto Altamira','02','México','','','2023-11-25',''),
+('PM097','Puerto Tampico','02','México','','','2023-11-25',''),
+('PM098','Puerto Matamoros','02','México','','','2023-11-25',''),
+('PM099','La Pesca','02','México','','','2023-11-25',''),
+('PM100','Puerto de Veracruz','02','México','','','2023-11-25',''),
+('PM101','Tuxpan','02','México','','','2023-11-25',''),
+('PM102','Coatzacoalcos','02','México','','','2023-11-25',''),
+('PM103','Pajaritos','02','México','','','2023-11-25',''),
+('PM104','Alvarado','02','México','','','2023-11-25',''),
+('PM105','Tlacotalpan','02','México','','','2023-11-25',''),
+('PM106','Nautla','02','México','','','2023-11-25',''),
+('PM107','Tecolutla','02','México','','','2023-11-25',''),
+('PM108','Puerto Progreso','02','México','','','2023-11-25',''),
+('PM109','Celestún','02','México','','','2023-11-25',''),
+('PM110','Sisal','02','México','','','2023-11-25',''),
+('PM111','Chuburná','02','México','','','2023-11-25',''),
+('PM112','Yucalpetén','02','México','','','2023-11-25',''),
+('PM113','Telchac','02','México','','','2023-11-25',''),
+('PM114','Chabihau','02','México','','','2023-11-25',''),
+('PM115','Dzilam de Bravo','02','México','','','2023-11-25',''),
+('PM116','San Felipe','02','México','','','2023-11-25',''),
+('PM117','Río Lagartos','02','México','','','2023-11-25',''),
+('PM118','Las Coloradas','02','México','','','2023-11-25',''),
+('PM119','El Cuyo','02','México','','','2023-11-25',''),
+('PM120','Extranjera','02','Extranjera','','','2023-11-25',''),
+('PM121','Cozumel isla','02','México','','','2023-11-25',''),
+('PM122','Cozumel municipio','02','México','','','2023-11-25',''),
+('PM123','Isla Mujeres municipio','02','México','','','2023-11-25',''),
+('EA0001','Konrad Adenauer','03','Alemania','CGN','','2023-11-25',''),
+('EA0002','Rhein-Ruhr','03','Alemania','DUS','','2023-11-25',''),
+('EA0003','Münster/Osnabrück','03','Alemania','FMO','','2023-11-25',''),
+('EA0004','Rhein-Main','03','Alemania','FRA','','2023-11-25',''),
+('EA0005','Hannover','03','Alemania','HAJ','','2023-11-25',''),
+('EA0006','Fuhlsbüttel','03','Alemania','HAM','','2023-11-25',''),
+('EA0007','Frankfurt-Hahn','03','Alemania','HHN','','2023-11-25',''),
+('EA0008','Franz Josef Strauss','03','Alemania','MUC','','2023-11-25',''),
+('EA0009','Nürnberg','03','Alemania','NUE','','2023-11-25',''),
+('EA0010','Prince Mohammad Bin Abdulaziz','03','Arabia Saudita','MED','','2023-11-25',''),
+('EA0011','Ingeniero Aeronáutico Ambrosio L.V. Taravella','03','Argentina','COR','','2023-11-25',''),
+('EA0012','Ministro Pistarini','03','Argentina','EZE','','2023-11-25',''),
+('EA0013','Astor Piazzolla','03','Argentina','MDQ','','2023-11-25',''),
+('EA0014','Gobernador Francisco Gabrielli','03','Argentina','MDZ','','2023-11-25',''),
+('EA0015','Teniente General Benjamín Matienzo','03','Argentina','TUC','','2023-11-25',''),
+('EA0016','Vienna','03','Austria','VIE','','2023-11-25',''),
+('EA0017','Grand Bahamas','03','Bahamas','FPO','','2023-11-25',''),
+('EA0018','Lynden Pindling','03','Bahamas','NAS','','2023-11-25',''),
+('EA0019','San Salvador','03','Bahamas','ZSA','','2023-11-25',''),
+('EA0020','Grantley Adams','03','Barbados','BGI','','2023-11-25',''),
+('EA0021','Brussels','03','Bélgica','BRU','','2023-11-25',''),
+('EA0022','Liege','03','Bélgica','LGG','','2023-11-25',''),
+('EA0023','Ostend-Brugge','03','Bélgica','OST','','2023-11-25',''),
+('EA0024','Philip S.W. Goldson','03','Belice','BZE','','2023-11-25',''),
+('EA0025','Jorge Wilsterman','03','Bolivia','CBB','','2023-11-25',''),
+('EA0026','El Trompillo','03','Bolivia','SRZ','','2023-11-25',''),
+('EA0027','Viru Viru','03','Bolivia','VVI','','2023-11-25',''),
+('EA0028','Presidente Juscelino Kubitschek','03','Brasil','BSB','','2023-11-25',''),
+('EA0029','Adalberto Mendes Da Silva','03','Brasil','CAC','','2023-11-25',''),
+('EA0030','Carutapera','03','Brasil','CTP','','2023-11-25',''),
+('EA0031','Afonso Pena','03','Brasil','CWB','','2023-11-25',''),
+('EA0032','Pinto Martins','03','Brasil','FOR','','2023-11-25',''),
+('EA0033','Antonio Carlos Jobim','03','Brasil','GIG','','2023-11-25',''),
+('EA0034','Governador Andre Franco Montoro','03','Brasil','GRU','','2023-11-25',''),
+('EA0035','Manaus','03','Brasil','MAO','','2023-11-25',''),
+('EA0036','Santos Dumont','03','Brasil','PNG','','2023-11-25',''),
+('EA0037','Salgado Filho','03','Brasil','POA','','2023-11-25',''),
+('EA0038','Guararapes','03','Brasil','REC','','2023-11-25',''),
+('EA0039','Santos Dumont','03','Brasil','SDU','','2023-11-25',''),
+('EA0040','Professor Urbano Ernesto Stumpf','03','Brasil','SJK','','2023-11-25',''),
+('EA0041','Deputado Luis Eduardo Magalhaes','03','Brasil','SSA','','2023-11-25',''),
+('EA0042','Viracopos-Campinas','03','Brasil','VCP','','2023-11-25',''),
+('EA0043','Gladman Point','03','Canadá','CYUR','','2023-11-25',''),
+('EA0044','Sault Ste. Marie','03','Canadá','YAM','','2023-11-25',''),
+('EA0045','Canadian Forces Base Shearwater','03','Canadá','YAW','','2023-11-25',''),
+('EA0046','Canadian Forces Base Bagotville','03','Canadá','YBG','','2023-11-25',''),
+('EA0047','Brandon Municipal','03','Canadá','YBR','','2023-11-25',''),
+('EA0048','Edmonton','03','Canadá','YEG','','2023-11-25',''),
+('EA0049','Fredericton','03','Canadá','YFC','','2023-11-25',''),
+('EA0050','John C. Munro','03','Canadá','YHM','','2023-11-25',''),
+('EA0051','Robert L. Stanfield','03','Canadá','YHZ','','2023-11-25',''),
+('EA0052','Region Of Waterloo','03','Canadá','YKF','','2023-11-25',''),
+('EA0053','Kelowna','03','Canadá','YLW','','2023-11-25',''),
+('EA0054','Mary''s Harbour','03','Canadá','YMH','','2023-11-25',''),
+('EA0055','Fort Mcmurray','03','Canadá','YMM','','2023-11-25',''),
+('EA0056','Montreal-Mirabel','03','Canadá','YMX','','2023-11-25',''),
+('EA0057','Macdonald-Cartier','03','Canadá','YOW','','2023-11-25',''),
+('EA0058','Jean Lesage','03','Canadá','YQB','','2023-11-25',''),
+('EA0059','Windsor','03','Canadá','YQG','','2023-11-25',''),
+('EA0060','Lethbridge County','03','Canadá','YQL','','2023-11-25',''),
+('EA0061','Greater Moncton','03','Canadá','YQM','','2023-11-25',''),
+('EA0062','Canadian Forces Base Comox','03','Canadá','YQQ','','2023-11-25',''),
+('EA0063','Regina','03','Canadá','YQR','','2023-11-25',''),
+('EA0064','Thunder Bay','03','Canadá','YQT','','2023-11-25',''),
+('EA0065','Gander','03','Canadá','YQX','','2023-11-25',''),
+('EA0066','Sudbury','03','Canadá','YSB','','2023-11-25',''),
+('EA0067','Saint John','03','Canadá','YSJ','','2023-11-25',''),
+('EA0068','Billy Bishop','03','Canadá','YTZ','','2023-11-25',''),
+('EA0069','Pierre Elliott Trudeau','03','Canadá','YUL','','2023-11-25',''),
+('EA0070','Rouyn-Noranda','03','Canadá','YUY','','2023-11-25',''),
+('EA0071','Vancouver','03','Canadá','YVR','','2023-11-25',''),
+('EA0072','James Armstrong Richardson','03','Canadá','YWG','','2023-11-25',''),
+('EA0073','John G. Diefenbaker','03','Canadá','YXE','','2023-11-25',''),
+('EA0074','Prince George','03','Canadá','YXS','','2023-11-25',''),
+('EA0075','London','03','Canadá','YXU','','2023-11-25',''),
+('EA0076','Abbotsford','03','Canadá','YXX','','2023-11-25',''),
+('EA0077','Calgary','03','Canadá','YYC','','2023-11-25',''),
+('EA0078','Victoria','03','Canadá','YYJ','','2023-11-25',''),
+('EA0079','Canadian Forces Base Goose Bay','03','Canadá','YYR','','2023-11-25',''),
+('EA0080','St. John''s','03','Canadá','YYT','','2023-11-25',''),
+('EA0081','Lester B. Pearson','03','Canadá','YYZ','','2023-11-25',''),
+('EA0082','Andres Sabella','03','Chile','ANF','','2023-11-25',''),
+('EA0083','Carriel Sur','03','Chile','CCP','','2023-11-25',''),
+('EA0084','Diego Aracena','03','Chile','IQQ','','2023-11-25',''),
+('EA0085','Arturo Merino Benítez','03','Chile','SCL','','2023-11-25',''),
+('EA0086','Baiyun','03','China','CAN','','2023-11-25',''),
+('EA0087','Changle','03','China','FOC','','2023-11-25',''),
+('EA0088','Xiaoshan','03','China','HGH','','2023-11-25',''),
+('EA0089','Lishe','03','China','NGB','','2023-11-25',''),
+('EA0090','Nanjing Lukou','03','China','NKG','','2023-11-25',''),
+('EA0091','Capital','03','China','PEK','','2023-11-25',''),
+('EA0092','Pudong','03','China','PVG','','2023-11-25',''),
+('EA0093','Gaoqi','03','China','XMN','','2023-11-25',''),
+('EA0094','Gustavo Rojas Pinilla','03','Colombia','ADZ','','2023-11-25',''),
+('EA0095','Ernesto Cortissoz','03','Colombia','BAQ','','2023-11-25',''),
+('EA0096','El Nuevo Dorado','03','Colombia','BOG','','2023-11-25',''),
+('EA0097','Alfonso Bonilla Aragón','03','Colombia','CLO','','2023-11-25',''),
+('EA0098','Rafael Nuñez','03','Colombia','CTG','','2023-11-25',''),
+('EA0099','Jose Maria Córdova','03','Colombia','MDE','','2023-11-25',''),
+('EA0100','Montelibano','03','Colombia','MTB','','2023-11-25',''),
+('EA0101','Daniel Oduber Quiros','03','Costa Rica','LIR','','2023-11-25',''),
+('EA0102','Juan Santamaría','03','Costa Rica','SJO','','2023-11-25',''),
+('EA0103','Jardines Del Rey','03','Cuba','CCC','','2023-11-25',''),
+('EA0104','Ignacio Agramonte','03','Cuba','CMW','','2023-11-25',''),
+('EA0105','Vilo Acuña','03','Cuba','CYO','','2023-11-25',''),
+('EA0106','Jose Martí','03','Cuba','HAV','','2023-11-25',''),
+('EA0107','Frank País','03','Cuba','HOG','','2023-11-25',''),
+('EA0108','Antonio Maceo','03','Cuba','SCU','','2023-11-25',''),
+('EA0109','Abel Santamaría','03','Cuba','SNU','','2023-11-25',''),
+('EA0110','Juan Gualberto Gomez','03','Cuba','VRA','','2023-11-25',''),
+('EA0111','Aalborg','03','Dinamarca','AAL','','2023-11-25',''),
+('EA0112','Billund','03','Dinamarca','BLL','','2023-11-25',''),
+('EA0113','København','03','Dinamarca','CPH','','2023-11-25',''),
+('EA0114','Mariscal Lamar','03','Ecuador','CUE','','2023-11-25',''),
+('EA0115','Jose Joaquín De Olmdeo','03','Ecuador','GYE','','2023-11-25',''),
+('EA0116','Eloy Alfaro','03','Ecuador','MEC','','2023-11-25',''),
+('EA0117','General Ulpiano Páez','03','Ecuador','SNC','','2023-11-25',''),
+('EA0118','Mitad Del Mundo','03','Ecuador','UIO','','2023-11-25',''),
+('EA0119','Monseñor Oscar Arnulfo Romero','03','El Salvador','SAL','','2023-11-25',''),
+('EA0120','Al Maktoum','03','Emiratos Árabes Unidos','DWC','','2023-11-25',''),
+('EA0121','El Prat','03','España','BCN','','2023-11-25',''),
+('EA0122','Adolfo Suarez Madrid–Barajas','03','España','MAD','','2023-11-25',''),
+('EA0123','Son Sant Joan','03','España','PMI','','2023-11-25',''),
+('EA0124','Manises','03','España','VLC','','2023-11-25',''),
+('EA0125','Zaragoza','03','España','ZAZ','','2023-11-25',''),
+('EA0126','Albuquerque International','03','Estados Unidos','ABQ','','2023-11-25',''),
+('EA0127','Atlantic City International','03','Estados Unidos','ACY','','2023-11-25',''),
+('EA0128','Addison','03','Estados Unidos','ADS','','2023-11-25',''),
+('EA0129','Joint Base Andrews','03','Estados Unidos','ADW','','2023-11-25',''),
+('EA0130','Alexandria International','03','Estados Unidos','AEX','','2023-11-25',''),
+('EA0131','Fort Worth Alliance','03','Estados Unidos','AFW','','2023-11-25',''),
+('EA0132','Albany International','03','Estados Unidos','ALB','','2023-11-25',''),
+('EA0133','Waterloo Regional','03','Estados Unidos','ALO','','2023-11-25',''),
+('EA0134','Rick Husband Amarillo International','03','Estados Unidos','AMA','','2023-11-25',''),
+('EA0135','Anniston Regional','03','Estados Unidos','ANB','','2023-11-25',''),
+('EA0136','Ted Stevens','03','Estados Unidos','ANC','','2023-11-25',''),
+('EA0137','Talladega Municipal','03','Estados Unidos','ASN','','2023-11-25',''),
+('EA0138','Hartsfield - Jackson Atlanta International','03','Estados Unidos','ATL','','2023-11-25',''),
+('EA0139','Appleton International','03','Estados Unidos','ATW','','2023-11-25',''),
+('EA0140','Augusta State','03','Estados Unidos','AUG','','2023-11-25',''),
+('EA0141','Austin-Bergstrom International','03','Estados Unidos','AUS','','2023-11-25',''),
+('EA0142','Asheville Regional','03','Estados Unidos','AVL','','2023-11-25',''),
+('EA0143','Phoenix-Mesa Gateway','03','Estados Unidos','AZA','','2023-11-25',''),
+('EA0144','Kalamazoo/Battle Creek International','03','Estados Unidos','AZO','','2023-11-25',''),
+('EA0145','Bradley International','03','Estados Unidos','BDL','','2023-11-25',''),
+('EA0146','Laurence G Hanscom','03','Estados Unidos','BED','','2023-11-25',''),
+('EA0147','Boeing Field/King County International','03','Estados Unidos','BFI','','2023-11-25',''),
+('EA0148','Meadows Field','03','Estados Unidos','BFL','','2023-11-25',''),
+('EA0149','Bangor International','03','Estados Unidos','BGR','','2023-11-25',''),
+('EA0150','Birmingham-Shuttlesworth','03','Estados Unidos','BHM','','2023-11-25',''),
+('EA0151','Biggs','03','Estados Unidos','BIF','','2023-11-25',''),
+('EA0152','West Michigan Regional','03','Estados Unidos','BIV','','2023-11-25',''),
+('EA0153','Central Il Regional Airport','03','Estados Unidos','BMI','','2023-11-25',''),
+('EA0154','Nashville International','03','Estados Unidos','BNA','','2023-11-25',''),
+('EA0155','General Edward Lawrence Logan International','03','Estados Unidos','BOS','','2023-11-25',''),
+('EA0156','Rafael Hernandez','03','Estados Unidos','BQN','','2023-11-25',''),
+('EA0157','Brownsville/South Padre Island International','03','Estados Unidos','BRO','','2023-11-25',''),
+('EA0158','W K Kellogg','03','Estados Unidos','BTL','','2023-11-25',''),
+('EA0159','Bert Mooney','03','Estados Unidos','BTM','','2023-11-25',''),
+('EA0160','Buffalo Niagara International','03','Estados Unidos','BUF','','2023-11-25',''),
+('EA0161','Warren County Regional','03','Estados Unidos','BWG','','2023-11-25',''),
+('EA0162','Balt/Wash International Thurgood Marshall','03','Estados Unidos','BWI','','2023-11-25',''),
+('EA0163','Columbia Metropolitan','03','Estados Unidos','CAE','','2023-11-25',''),
+('EA0164','Akron-Canton Regional','03','Estados Unidos','CAK','','2023-11-25',''),
+('EA0165','Lovell','03','Estados Unidos','CHA','','2023-11-25',''),
+('EA0166','Charleston International','03','Estados Unidos','CHS','','2023-11-25',''),
+('EA0167','The Eastern Iowa','03','Estados Unidos','CID','','2023-11-25',''),
+('EA0168','Cleveland-Hopkins International','03','Estados Unidos','CLE','','2023-11-25',''),
+('EA0169','Easterwood','03','Estados Unidos','CLL','','2023-11-25',''),
+('EA0170','Charlotte/Douglas International','03','Estados Unidos','CLT','','2023-11-25',''),
+('EA0171','John Glenn Columbus International','03','Estados Unidos','CMH','','2023-11-25',''),
+('EA0172','University Of Illinois','03','Estados Unidos','CMI','','2023-11-25',''),
+('EA0173','Aeropuerto de Columbia','03','Estados Unidos','COA','','2023-11-25',''),
+('EA0174','Columbia Regional','03','Estados Unidos','COU','','2023-11-25',''),
+('EA0175','Corpus Christi International','03','Estados Unidos','CRP','','2023-11-25',''),
+('EA0176','Columbus','03','Estados Unidos','CSG','','2023-11-25',''),
+('EA0177','Cincinnati/Northern Kentucky International','03','Estados Unidos','CVG','','2023-11-25',''),
+('EA0178','Dallas Love','03','Estados Unidos','DAL','','2023-11-25',''),
+('EA0179','James M Cox Dayton International','03','Estados Unidos','DAY','','2023-11-25',''),
+('EA0180','Ronald Reagan','03','Estados Unidos','DCA','','2023-11-25',''),
+('EA0181','Denver International','03','Estados Unidos','DEN','','2023-11-25',''),
+('EA0182','Dallas-Fort Worth International','03','Estados Unidos','DFW','','2023-11-25',''),
+('EA0183','De Kalb Taylor Municipal','03','Estados Unidos','DKB','','2023-11-25',''),
+('EA0184','Duluth International','03','Estados Unidos','DLH','','2023-11-25',''),
+('EA0185','Dupage','03','Estados Unidos','DPA','','2023-11-25',''),
+('EA0186','Del Rio International','03','Estados Unidos','DRT','','2023-11-25',''),
+('EA0187','Des Moines International','03','Estados Unidos','DSM','','2023-11-25',''),
+('EA0188','Denton Enterprise','03','Estados Unidos','DTO','','2023-11-25',''),
+('EA0189','Detroit Metropolitan','03','Estados Unidos','DTW','','2023-11-25',''),
+('EA0190','Eagle County Regional','03','Estados Unidos','EGE','','2023-11-25',''),
+('EA0191','South Arkansas Regional','03','Estados Unidos','ELD','','2023-11-25',''),
+('EA0192','El Paso International','03','Estados Unidos','ELP','','2023-11-25',''),
+('EA0193','Evansville Regional','03','Estados Unidos','EVV','','2023-11-25',''),
+('EA0194','Newark Liberty International','03','Estados Unidos','EWR','','2023-11-25',''),
+('EA0195','Héctor International','03','Estados Unidos','FAR','','2023-11-25',''),
+('EA0196','Fresno Yosemite International','03','Estados Unidos','FAT','','2023-11-25',''),
+('EA0197','Frederick Regional','03','Estados Unidos','FDR','','2023-11-25',''),
+('EA0198','Fort Lauderdale','03','Estados Unidos','FLL','','2023-11-25',''),
+('EA0199','Bishop International','03','Estados Unidos','FNT','','2023-11-25',''),
+('EA0200','Topeka Regional','03','Estados Unidos','FOE','','2023-11-25',''),
+('EA0201','Joe Foss','03','Estados Unidos','FSD','','2023-11-25',''),
+('EA0202','Fort Wayne International','03','Estados Unidos','FWA','','2023-11-25',''),
+('EA0203','Greeneville-Greene County Municipal','03','Estados Unidos','GCY','','2023-11-25',''),
+('EA0204','Grand Forks International','03','Estados Unidos','GFK','','2023-11-25',''),
+('EA0205','Grand Junction Regional','03','Estados Unidos','GJT','','2023-11-25',''),
+('EA0206','Arlington Municipal','03','Estados Unidos','GKY','','2023-11-25',''),
+('EA0207','Greenville Mid-Delta','03','Estados Unidos','GLH','','2023-11-25',''),
+('EA0208','Central Nebraska Regional','03','Estados Unidos','GRI','','2023-11-25',''),
+('EA0209','Gordon Municipal','03','Estados Unidos','GRN','','2023-11-25',''),
+('EA0210','Gerald R Ford International','03','Estados Unidos','GRR','','2023-11-25',''),
+('EA0211','Piedmont Triad International','03','Estados Unidos','GSO','','2023-11-25',''),
+('EA0212','Greenville Spartanburg International','03','Estados Unidos','GSP','','2023-11-25',''),
+('EA0213','Donaldson','03','Estados Unidos','GYH','','2023-11-25',''),
+('EA0214','Gary/Chicago International','03','Estados Unidos','GYY','','2023-11-25',''),
+('EA0215','Hagerstown Regional','03','Estados Unidos','HGR','','2023-11-25',''),
+('EA0216','Hawkins','03','Estados Unidos','HKS','','2023-11-25',''),
+('EA0217','Hickory Regional','03','Estados Unidos','HKY','','2023-11-25',''),
+('EA0218','Helena Regional','03','Estados Unidos','HLN','','2023-11-25',''),
+('EA0219','Daniel K Inouye International','03','Estados Unidos','HNL','','2023-11-25',''),
+('EA0220','William P Hobby','03','Estados Unidos','HOU','','2023-11-25',''),
+('EA0221','Valley International','03','Estados Unidos','HRL','','2023-11-25',''),
+('EA0222','Boone County','03','Estados Unidos','HRO','','2023-11-25',''),
+('EA0223','Carl T Jones Field','03','Estados Unidos','HSV','','2023-11-25',''),
+('EA0224','Tri-State/Milton J Ferguson','03','Estados Unidos','HTS','','2023-11-25',''),
+('EA0225','Terre Haute Regional','03','Estados Unidos','HUF','','2023-11-25',''),
+('EA0226','Washington Dulles','03','Estados Unidos','IAD','','2023-11-25',''),
+('EA0227','Niagara Falls International','03','Estados Unidos','IAG','','2023-11-25',''),
+('EA0228','George Bush Intercontinental','03','Estados Unidos','IAH','','2023-11-25',''),
+('EA0229','Dwight D Eisenhower National','03','Estados Unidos','ICT','','2023-11-25',''),
+('EA0230','Ankeny Regional','03','Estados Unidos','IKV','','2023-11-25',''),
+('EA0231','Wilmington International','03','Estados Unidos','ILM','','2023-11-25',''),
+('EA0232','Wilmington Air Park','03','Estados Unidos','ILN','','2023-11-25',''),
+('EA0233','Immokalee Regional','03','Estados Unidos','IMM','','2023-11-25',''),
+('EA0234','Indianapolis International','03','Estados Unidos','IND','','2023-11-25',''),
+('EA0235','Jackson Hole','03','Estados Unidos','JAC','','2023-11-25',''),
+('EA0236','Jackson-Evers International','03','Estados Unidos','JAN','','2023-11-25',''),
+('EA0237','Jacksonville International','03','Estados Unidos','JAX','','2023-11-25',''),
+('EA0238','Jefferson City Memorial','03','Estados Unidos','JEF','','2023-11-25',''),
+('EA0239','John F Kennedy International','03','Estados Unidos','JFK','','2023-11-25',''),
+('EA0240','Capital Region International','03','Estados Unidos','LAN','','2023-11-25',''),
+('EA0241','Mccarran International','03','Estados Unidos','LAS','','2023-11-25',''),
+('EA0242','Los Angeles International','03','Estados Unidos','LAX','','2023-11-25',''),
+('EA0243','Lubbock Preston Smith International','03','Estados Unidos','LBB','','2023-11-25',''),
+('EA0244','Rickenbacker International','03','Estados Unidos','LCK','','2023-11-25',''),
+('EA0245','Blue Grass','03','Estados Unidos','LEX','','2023-11-25',''),
+('EA0246','Lafayette Regional','03','Estados Unidos','LFT','','2023-11-25',''),
+('EA0247','Laguardia','03','Estados Unidos','LGA','','2023-11-25',''),
+('EA0248','Long Beach','03','Estados Unidos','LGB','','2023-11-25',''),
+('EA0249','Lagrange-Callaway','03','Estados Unidos','LGC','','2023-11-25',''),
+('EA0250','Bill And Hillary Clinton National','03','Estados Unidos','LIT','','2023-11-25',''),
+('EA0251','Facility','03','Estados Unidos','LJC','','2023-11-25',''),
+('EA0252','Louisville Winston County','03','Estados Unidos','LMS','','2023-11-25',''),
+('EA0253','Bowman','03','Estados Unidos','LOU','','2023-11-25',''),
+('EA0254','Laredo International','03','Estados Unidos','LRD','','2023-11-25',''),
+('EA0255','La Crosse Regional','03','Estados Unidos','LSE','','2023-11-25',''),
+('EA0256','Cincinnati Municipal','03','Estados Unidos','LUK','','2023-11-25',''),
+('EA0257','Lawrenceville-Vincennes International','03','Estados Unidos','LWV','','2023-11-25',''),
+('EA0258','Gwinnett County','03','Estados Unidos','LZU','','2023-11-25',''),
+('EA0259','Mbs International','03','Estados Unidos','MBS','','2023-11-25',''),
+('EA0260','Kansas City International','03','Estados Unidos','MCI','','2023-11-25',''),
+('EA0261','Orlando International','03','Estados Unidos','MCO','','2023-11-25',''),
+('EA0262','Chicago Midway International','03','Estados Unidos','MDW','','2023-11-25',''),
+('EA0263','Key','03','Estados Unidos','MEI','','2023-11-25',''),
+('EA0264','Memphis International','03','Estados Unidos','MEM','','2023-11-25',''),
+('EA0265','Mansfield Lahm Regional','03','Estados Unidos','MFD','','2023-11-25',''),
+('EA0266','Mcallen Miller International','03','Estados Unidos','MFE','','2023-11-25',''),
+('EA0267','Michigan City Municipal','03','Estados Unidos','MGC','','2023-11-25',''),
+('EA0268','Montgomery Regional','03','Estados Unidos','MGM','','2023-11-25',''),
+('EA0269','Miami International','03','Estados Unidos','MIA','','2023-11-25',''),
+('EA0270','Charles B Wheeler Downtown','03','Estados Unidos','MKC','','2023-11-25',''),
+('EA0271','General Mitchell International','03','Estados Unidos','MKE','','2023-11-25',''),
+('EA0272','Quad City International','03','Estados Unidos','MLI','','2023-11-25',''),
+('EA0273','Mobile Regional','03','Estados Unidos','MOB','','2023-11-25',''),
+('EA0274','Smyrna','03','Estados Unidos','MQY','','2023-11-25',''),
+('EA0275','Maury County','03','Estados Unidos','MRC','','2023-11-25',''),
+('EA0276','Dane County Regional','03','Estados Unidos','MSN','','2023-11-25',''),
+('EA0277','Minneapolis-St. Paul International','03','Estados Unidos','MSP','','2023-11-25',''),
+('EA0278','Louis Armstrong New Orleans International','03','Estados Unidos','MSY','','2023-11-25',''),
+('EA0279','Montrose Regional','03','Estados Unidos','MTJ','','2023-11-25',''),
+('EA0280','Myrtle Beach International','03','Estados Unidos','MYR','','2023-11-25',''),
+('EA0281','Metropolitan Oakland International','03','Estados Unidos','OAK','','2023-11-25',''),
+('EA0282','Ogden-Hinckley','03','Estados Unidos','OGD','','2023-11-25',''),
+('EA0283','Will Rogers','03','Estados Unidos','OKC','','2023-11-25',''),
+('EA0284','Kokomo Municipal','03','Estados Unidos','OKK','','2023-11-25',''),
+('EA0285','Nogales','03','Estados Unidos','OLS','','2023-11-25',''),
+('EA0286','Eppley','03','Estados Unidos','OMA','','2023-11-25',''),
+('EA0287','Ontario International','03','Estados Unidos','ONT','','2023-11-25',''),
+('EA0288','Miami-Opa Locka Executive','03','Estados Unidos','OPF','','2023-11-25',''),
+('EA0289','Chicago O''hare International','03','Estados Unidos','ORD','','2023-11-25',''),
+('EA0290','Norfolk International','03','Estados Unidos','ORF','','2023-11-25',''),
+('EA0291','Orlando Executive','03','Estados Unidos','ORL','','2023-11-25',''),
+('EA0292','Oscoda-Wurtsmith','03','Estados Unidos','OSC','','2023-11-25',''),
+('EA0293','Ottumwa Regional','03','Estados Unidos','OTM','','2023-11-25',''),
+('EA0294','Palm Beach International','03','Estados Unidos','PBI','','2023-11-25',''),
+('EA0295','Portage Creek','03','Estados Unidos','PCA','','2023-11-25',''),
+('EA0296','Portland International','03','Estados Unidos','PDX','','2023-11-25',''),
+('EA0297','Newport News/Williamsburg International','03','Estados Unidos','PHF','','2023-11-25',''),
+('EA0298','Philadelphia International','03','Estados Unidos','PHL','','2023-11-25',''),
+('EA0299','Phoenix Sky Harbor','03','Estados Unidos','PHX','','2023-11-25',''),
+('EA0300','General Downing - Peoria International','03','Estados Unidos','PIA','','2023-11-25',''),
+('EA0301','Pittsburgh International','03','Estados Unidos','PIT','','2023-11-25',''),
+('EA0302','Mid-Ohio Valley Regional','03','Estados Unidos','PKB','','2023-11-25',''),
+('EA0303','Pease International','03','Estados Unidos','PSM','','2023-11-25',''),
+('EA0304','Palm Springs International','03','Estados Unidos','PSP','','2023-11-25',''),
+('EA0305','Oakland County International','03','Estados Unidos','PTK','','2023-11-25',''),
+('EA0306','Theodore Francis Green','03','Estados Unidos','PVD','','2023-11-25',''),
+('EA0307','Portland International','03','Estados Unidos','PWM','','2023-11-25',''),
+('EA0308','Vail Van Service','03','Estados Unidos','QBF','','2023-11-25',''),
+('EA0309','Ellsworth Air Force Base','03','Estados Unidos','RCA','','2023-11-25',''),
+('EA0310','Raleigh-Durham International','03','Estados Unidos','RDU','','2023-11-25',''),
+('EA0311','Chicago/Rockford International','03','Estados Unidos','RFD','','2023-11-25',''),
+('EA0312','Richmond International','03','Estados Unidos','RIC','','2023-11-25',''),
+('EA0313','Reno/Tahoe International','03','Estados Unidos','RNO','','2023-11-25',''),
+('EA0314','Greater Rochester International','03','Estados Unidos','ROC','','2023-11-25',''),
+('EA0315','Rochester International','03','Estados Unidos','RST','','2023-11-25',''),
+('EA0316','Southwest Florida International','03','Estados Unidos','RSW','','2023-11-25',''),
+('EA0317','Rocky Mount-Wilson Regional','03','Estados Unidos','RWI','','2023-11-25',''),
+('EA0318','Santa Fe Municipal','03','Estados Unidos','SAF','','2023-11-25',''),
+('EA0319','San Diego International','03','Estados Unidos','SAN','','2023-11-25',''),
+('EA0320','San Antonio International','03','Estados Unidos','SAT','','2023-11-25',''),
+('EA0321','San Bernardino International','03','Estados Unidos','SBD','','2023-11-25',''),
+('EA0322','South Bend International','03','Estados Unidos','SBN','','2023-11-25',''),
+('EA0323','Louisville International','03','Estados Unidos','SDF','','2023-11-25',''),
+('EA0324','Brown Field Municipal','03','Estados Unidos','SDM','','2023-11-25',''),
+('EA0325','Seattle-Tacoma International','03','Estados Unidos','SEA','','2023-11-25',''),
+('EA0326','Orlando Sanford International','03','Estados Unidos','SFB','','2023-11-25',''),
+('EA0327','San Francisco International','03','Estados Unidos','SFO','','2023-11-25',''),
+('EA0328','Sugar Land Regional','03','Estados Unidos','SGR','','2023-11-25',''),
+('EA0329','Stuttgart Municipal','03','Estados Unidos','SGT','','2023-11-25',''),
+('EA0330','Shreveport Regional','03','Estados Unidos','SHV','','2023-11-25',''),
+('EA0331','San José International','03','Estados Unidos','SJC','','2023-11-25',''),
+('EA0332','Luis Muñoz Marin','03','Estados Unidos','SJU','','2023-11-25',''),
+('EA0333','Kelly','03','Estados Unidos','SKF','','2023-11-25',''),
+('EA0334','Griffing Sandusky','03','Estados Unidos','SKY','','2023-11-25',''),
+('EA0335','Salt Lake City International','03','Estados Unidos','SLC','','2023-11-25',''),
+('EA0336','Sacramento International','03','Estados Unidos','SMF','','2023-11-25',''),
+('EA0337','Santa Monica Municipal','03','Estados Unidos','SMO','','2023-11-25',''),
+('EA0338','John Wayne Airport','03','Estados Unidos','SNA','','2023-11-25',''),
+('EA0339','St. Louis Lambert International','03','Estados Unidos','STL','','2023-11-25',''),
+('EA0340','Spirit Of St. Louis','03','Estados Unidos','SUS','','2023-11-25',''),
+('EA0341','Statesville Regional','03','Estados Unidos','SVH','','2023-11-25',''),
+('EA0342','Stewart International','03','Estados Unidos','SWF','','2023-11-25',''),
+('EA0343','Catalina Island','03','Estados Unidos','SXC','','2023-11-25',''),
+('EA0344','Syracuse Hancock International','03','Estados Unidos','SYR','','2023-11-25',''),
+('EA0345','Tuscaloosa Regional','03','Estados Unidos','TCL','','2023-11-25',''),
+('EA0346','Person County','03','Estados Unidos','TDF','','2023-11-25',''),
+('EA0347','Teterboro','03','Estados Unidos','TEB','','2023-11-25',''),
+('EA0348','Tullahoma Regional','03','Estados Unidos','THA','','2023-11-25',''),
+('EA0349','Toledo Express','03','Estados Unidos','TOL','','2023-11-25',''),
+('EA0350','Tampa International','03','Estados Unidos','TPA','','2023-11-25',''),
+('EA0351','Raleigh Exec Jetport','03','Estados Unidos','TTA','','2023-11-25',''),
+('EA0352','Tulsa International','03','Estados Unidos','TUL','','2023-11-25',''),
+('EA0353','Tupelo Regional','03','Estados Unidos','TUP','','2023-11-25',''),
+('EA0354','Tucson International','03','Estados Unidos','TUS','','2023-11-25',''),
+('EA0355','Texarkana Regional','03','Estados Unidos','TXK','','2023-11-25',''),
+('EA0356','Mcghee Tyson','03','Estados Unidos','TYS','','2023-11-25',''),
+('EA0357','Quincy Regional','03','Estados Unidos','UIN','','2023-11-25',''),
+('EA0358','University-Oxford','03','Estados Unidos','UOX','','2023-11-25',''),
+('EA0359','Van Nuys','03','Estados Unidos','VNY','','2023-11-25',''),
+('EA0360','Mcguire','03','Estados Unidos','WRI','','2023-11-25',''),
+('EA0361','Willow Run','03','Estados Unidos','YIP','','2023-11-25',''),
+('EA0362','Youngstown-Warren Regional','03','Estados Unidos','YNG','','2023-11-25',''),
+('EA0363','Yuma International','03','Estados Unidos','YUM','','2023-11-25',''),
+('EA0364','Vantaa','03','Finlandia','HEL','','2023-11-25',''),
+('EA0365','Euroairport Basel Mulhouse Freiburg','03','Francia','BSL','','2023-11-25',''),
+('EA0366','Felix Eboue','03','Francia','CAY','','2023-11-25',''),
+('EA0367','Charles De Gaulle','03','Francia','CDG','','2023-11-25',''),
+('EA0368','Euroairport Basel Mulhouse Freiburg','03','Francia','EAP','','2023-11-25',''),
+('EA0369','Martinique Aime Cesaire','03','Francia','FDF','','2023-11-25',''),
+('EA0370','Lyon St-Exupery','03','Francia','LYS','','2023-11-25',''),
+('EA0371','Euroairport Basel Mulhouse Freiburg','03','Francia','MLH','','2023-11-25',''),
+('EA0372','Marseille Provence','03','Francia','MRS','','2023-11-25',''),
+('EA0373','Côte D''azur','03','Francia','NCE','','2023-11-25',''),
+('EA0374','Atlantique','03','Francia','NTE','','2023-11-25',''),
+('EA0375','Orly','03','Francia','ORY','','2023-11-25',''),
+('EA0376','Le Raizet','03','Francia','PTP','','2023-11-25',''),
+('EA0377','Toulouse Blagnac','03','Francia','TLS','','2023-11-25',''),
+('EA0378','Mundo Maya','03','Guatemala','FRS','','2023-11-25',''),
+('EA0379','La Aurora','03','Guatemala','GUA','','2023-11-25',''),
+('EA0380','Antoine-Simon','03','Haiti','CYA','','2023-11-25',''),
+('EA0381','Toussaint Louverture','03','Haití','PAP','','2023-11-25',''),
+('EA0382','Goloson','03','Honduras','LCE','','2023-11-25',''),
+('EA0383','Juan Manuel Gálvez','03','Honduras','RTB','','2023-11-25',''),
+('EA0384','Ramón Villeda Morales','03','Honduras','SAP','','2023-11-25',''),
+('EA0385','Toncontin','03','Honduras','TGU','','2023-11-25',''),
+('EA0386','Chek Lap Kok','03','Hong Kong','HKG','','2023-11-25',''),
+('EA0387','Budapest','03','Hungría','BUD','','2023-11-25',''),
+('EA0388','Vadodara','03','India','BDQ','','2023-11-25',''),
+('EA0389','Dublín','03','Irlanda','DUB','','2023-11-25',''),
+('EA0390','Shannon','03','Irlanda','SNN','','2023-11-25',''),
+('EA0391','Keflavik','03','Islandia','KEF','','2023-11-25',''),
+('EA0392','Owen Roberts','03','Islas Caimán','GCM','','2023-11-25',''),
+('EA0393','Ben Gurion','03','Israel','TLV','','2023-11-25',''),
+('EA0394','Bologna','03','Italia','BLQ','','2023-11-25',''),
+('EA0395','Cagliari-Elmas','03','Italia','CAG','','2023-11-25',''),
+('EA0396','Ciampino-Giovan Battista Pastine','03','Italia','CIA','','2023-11-25',''),
+('EA0397','Leonardo Da Vinci','03','Italia','FCO','','2023-11-25',''),
+('EA0398','Genoa Cristoforo Colombo','03','Italia','GOA','','2023-11-25',''),
+('EA0399','Malpensa','03','Italia','MXP','','2023-11-25',''),
+('EA0400','Caselle','03','Italia','TRN','','2023-11-25',''),
+('EA0401','Marco Polo','03','Italia','VCE','','2023-11-25',''),
+('EA0402','Villafranca','03','Italia','VRN','','2023-11-25',''),
+('EA0403','Norman Manley','03','Jamaica','KIN','','2023-11-25',''),
+('EA0404','Sangster','03','Jamaica','MBJ','','2023-11-25',''),
+('EA0405','New Sapporo','03','Japón','CTS','','2023-11-25',''),
+('EA0406','Hachijojima','03','Japón','HAC','','2023-11-25',''),
+('EA0407','Kansai','03','Japón','KIX','','2023-11-25',''),
+('EA0408','Narita','03','Japón','NRT','','2023-11-25',''),
+('EA0409','Sendai','03','Japón','SDJ','','2023-11-25',''),
+('EA0410','Luxembourg','03','Luxemburgo','LUX','','2023-11-25',''),
+('EA0411','Licenciado Jesus Teran Peredo','03','México','AGU','','2023-11-25',''),
+('EA0412','General Alberto L. Salinas C.','03','México','ESE','','2023-11-25',''),
+('EA0413','General Rodolfo Sanchez Taboada','03','México','MXL','','2023-11-25',''),
+('EA0414','General Abelardo L. Rodriguez','03','México','TIJ','','2023-11-25',''),
+('EA0415','Cabo San Lucas','03','México','CSL','','2023-11-25',''),
+('EA0416','General Manuel Marquez De Leon','03','México','LAP','','2023-11-25',''),
+('EA0417','Loreto','03','México','LTO','','2023-11-25',''),
+('EA0418','Los Cabos','03','México','SJD','','2023-11-25',''),
+('EA0419','Ciudad Del Carmen','03','México','CME','','2023-11-25',''),
+('EA0420','Ingeniero Alberto Acuña Ongay','03','México','CPE','','2023-11-25',''),
+('EA0421','Palenque','03','México','PQM','','2023-11-25',''),
+('EA0422','Tapachula','03','México','TAP','','2023-11-25',''),
+('EA0423','Angel Albino Corzo','03','México','TGZ','','2023-11-25',''),
+('EA0424','Abraham González','03','México','CJS','','2023-11-25',''),
+('EA0425','General Roberto Fierro Villalobos','03','México','CUU','','2023-11-25',''),
+('EA0426','Benito Juárez','03','México','MEX','','2023-11-25',''),
+('EA0427','Ciudad Acuña','03','México','ACN','','2023-11-25',''),
+('EA0428','Venustiano Carranza','03','México','LOV','','2023-11-25',''),
+('EA0429','Piedras Negras','03','México','PDS','','2023-11-25',''),
+('EA0430','Plan De Guadalupe','03','México','SLW','','2023-11-25',''),
+('EA0431','Francisco Sarabia','03','México','TRC','','2023-11-25',''),
+('EA0432','Licenciado Miguel De La Madrid','03','México','CLQ','','2023-11-25',''),
+('EA0433','Playa De Oro','03','México','ZLO','','2023-11-25',''),
+('EA0434','General Guadalupe Victoria','03','México','DGO','','2023-11-25',''),
+('EA0435','Base Aérea Militar No.1 Santa Lucia','03','México','NLU','','2023-11-25',''),
+('EA0436','Licenciado Adolfo Lopez Mateos','03','México','TLC','','2023-11-25',''),
+('EA0437','Guanajuato','03','México','BJX','','2023-11-25',''),
+('EA0438','General Juan N. Alvarez','03','México','ACA','','2023-11-25',''),
+('EA0439','Ixtapa Zihuatanejo','03','México','ZIH','','2023-11-25',''),
+('EA0440','Don Miguel Hidalgo Y Costilla','03','México','GDL','','2023-11-25',''),
+('EA0441','Francisco Primo De Verdad','03','México','LOM','','2023-11-25',''),
+('EA0442','Licenciado Gustavo Díaz Ordaz','03','México','PVR','','2023-11-25',''),
+('EA0443','Lázaro Cárdenas','03','México','LZC','','2023-11-25',''),
+('EA0444','General Francisco J. Mujica','03','México','MLM','','2023-11-25',''),
+('EA0445','Licenciado Y General Ignacio Lopez Rayón','03','México','UPN','','2023-11-25',''),
+('EA0446','General Mariano Matamoros','03','México','CVJ','','2023-11-25',''),
+('EA0447','Amado Nervo','03','México','TPQ','','2023-11-25',''),
+('EA0448','General Mariano Escobedo','03','México','MTY','','2023-11-25',''),
+('EA0449','Aeropuerto Del Norte','03','México','NTR','','2023-11-25',''),
+('EA0450','Bahías De Huatulco','03','México','HUX','','2023-11-25',''),
+('EA0451','Ixtepec','03','México','IZT','','2023-11-25',''),
+('EA0452','Xoxocotlan','03','México','OAX','','2023-11-25',''),
+('EA0453','Puerto Escondido','03','México','PXM','','2023-11-25',''),
+('EA0454','Estación Aeronaval De Salina Cruz','03','México','SCX','','2023-11-25',''),
+('EA0455','Hermanos Serdán','03','México','PBC','','2023-11-25',''),
+('EA0456','Ingeniero Fernando Espinoza Gutiérrez','03','México','QRO','','2023-11-25',''),
+('EA0457','Chetumal','03','México','CTM','','2023-11-25',''),
+('EA0458','Cancún','03','México','CUN','','2023-11-25',''),
+('EA0459','Cozumel','03','México','CZM','','2023-11-25',''),
+('EA0460','Ponciano Arriaga','03','México','SLP','','2023-11-25',''),
+('EA0461','Tamuin','03','México','TSL','','2023-11-25',''),
+('EA0462','Federal De Bachigualato','03','México','CUL','','2023-11-25',''),
+('EA0463','Federal Del Valle Del Fuerte','03','México','LMM','','2023-11-25',''),
+('EA0464','General Rafael Buelna','03','México','MZT','','2023-11-25',''),
+('EA0465','Ciudad Obregón','03','México','CEN','','2023-11-25',''),
+('EA0466','General Jose Maria Yáñez','03','México','GYM','','2023-11-25',''),
+('EA0467','General Ignacio Pesqueira Garcia','03','México','HMO','','2023-11-25',''),
+('EA0468','Nogales','03','México','NOG','','2023-11-25',''),
+('EA0469','Punta Peñasco','03','México','PPE','','2023-11-25',''),
+('EA0470','C.P.A. Carlos Rovirosa Perez','03','México','VSA','','2023-11-25',''),
+('EA0471','General Pedro J. Méndez','03','México','CVM','','2023-11-25',''),
+('EA0472','General Servando Canales','03','México','MAM','','2023-11-25',''),
+('EA0473','Quetzalcóatl','03','México','NLD','','2023-11-25',''),
+('EA0474','General Lucio Blanco','03','México','REX','','2023-11-25',''),
+('EA0475','General Francisco Javier Mina','03','México','TAM','','2023-11-25',''),
+('EA0476','El Lencero','03','México','JAL','','2023-11-25',''),
+('EA0477','Minatitlán','03','México','MTT','','2023-11-25',''),
+('EA0478','El Tajín','03','México','PAZ','','2023-11-25',''),
+('EA0479','General Heriberto Jara Corona','03','México','VER','','2023-11-25',''),
+('EA0480','Chichen Itzá','03','México','CZA','','2023-11-25',''),
+('EA0481','Licenciado Manuel Crescencio Rejón','03','México','MID','','2023-11-25',''),
+('EA0482','General Leobardo C. Ruiz','03','México','ZCL','','2023-11-25',''),
+('EA0483','Ing. Juan Guillermo Villasana','03','México','PCA','','2023-11-25',''),
+('EA0484','Piedras Negras','03','México','PNG','','2023-11-25',''),
+('EA0485','Aeropuerto Internacional de San Felipe','03','México','SFE','','2023-11-25',''),
+('EA0486','Bravo','03','México','AAB','','2023-11-25',''),
+('EA0487','Aero Agrícola El Caimanero','03','México','AAC','','2023-11-25',''),
+('EA0488','La Mezcalera','03','México','AAD','','2023-11-25',''),
+('EA0489','Agropecuaria Amparan','03','México','AAP','','2023-11-25',''),
+('EA0490','Ambas Aguas','03','México','AAS','','2023-11-25',''),
+('EA0491','Alisitos','03','México','AAT','','2023-11-25',''),
+('EA0492','Albatros Residencial Aéreo','03','México','ABT','','2023-11-25',''),
+('EA0493','Campo Berlín','03','México','ACB','','2023-11-25',''),
+('EA0494','Aeródromo Cabo Cortes','03','México','ACC','','2023-11-25',''),
+('EA0495','Cabo Cortés','03','México','ACC','','2023-11-25',''),
+('EA0496','Carneros','03','México','ACF','','2023-11-25',''),
+('EA0497','El Novillo De Guerrero','03','México','ACG','','2023-11-25',''),
+('EA0498','San Antonio Chablé','03','México','ACH','','2023-11-25',''),
+('EA0499','Aero Club Valle De Bravo, A.C.','03','México','ACJ','','2023-11-25',''),
+('EA0500','Aeródromo Cutzarondiro','03','México','ACK','','2023-11-25',''),
+('EA0501','Col. Alamillo','03','México','ACN','','2023-11-25',''),
+('EA0502','Acaponeta','03','México','ACP','','2023-11-25',''),
+('EA0503','Acatita','03','México','ACT','','2023-11-25',''),
+('EA0504','Cucuyulapa','03','México','ACU','','2023-11-25',''),
+('EA0505','Divisadero Barrancas','03','México','ADB','','2023-11-25',''),
+('EA0506','Agrodesarrollo Carbonera','03','México','ADC','','2023-11-25',''),
+('EA0507','Las Adjuntas','03','México','ADJ','','2023-11-25',''),
+('EA0508','Acuagranjas','03','México','ADL','','2023-11-25',''),
+('EA0509','Del Mayo','03','México','ADM','','2023-11-25',''),
+('EA0510','Club Aereo Del Yaqui','03','México','ADY','','2023-11-25',''),
+('EA0511','Aerodeportes','03','México','AED','','2023-11-25',''),
+('EA0512','Ejido González','03','México','AEG','','2023-11-25',''),
+('EA0513','El Jefe','03','México','AEJ','','2023-11-25',''),
+('EA0514','El Mázate','03','México','AEM','','2023-11-25',''),
+('EA0515','Aerolandia','03','México','AER','','2023-11-25',''),
+('EA0516','El Socorro','03','México','AES','','2023-11-25',''),
+('EA0517','Rancho El Tinieblo','03','México','AET','','2023-11-25',''),
+('EA0518','Pista Aerodiaz','03','México','AEZ','','2023-11-25',''),
+('EA0519','Aerofumigaciones Castro','03','México','AFC','','2023-11-25',''),
+('EA0520','Aero Fumigaciones Cessna','03','México','AFE','','2023-11-25',''),
+('EA0521','Club Aéreo Francisco Lobo','03','México','AFL','','2023-11-25',''),
+('EA0522','Aerofumigaciones Maranatu','03','México','AFM','','2023-11-25',''),
+('EA0523','Fertifum','03','México','AFR','','2023-11-25',''),
+('EA0524','Aguaje Blanco','03','México','AGB','','2023-11-25',''),
+('EA0525','Agrícola Y Ganadera Gusalo','03','México','AGC','','2023-11-25',''),
+('EA0526','Los Algodones','03','México','AGD','','2023-11-25',''),
+('EA0527','Lorenzos','03','México','AGK','','2023-11-25',''),
+('EA0528','Aguaje Del Monte','03','México','AGM','','2023-11-25',''),
+('EA0529','San Agustín','03','México','AGS','','2023-11-25',''),
+('EA0530','El Guayabo','03','México','AGY','','2023-11-25',''),
+('EA0531','Agua Zarca De San Lucas','03','México','AGZ','','2023-11-25',''),
+('EA0532','El Ahijadero','03','México','AHO','','2023-11-25',''),
+('EA0533','Husky','03','México','AHS','','2023-11-25',''),
+('EA0534','Agrícola Las Isabeles','03','México','AIB','','2023-11-25',''),
+('EA0535','Jova Agrícola','03','México','AJC','','2023-11-25',''),
+('EA0536','Casa Acapulco','03','México','AKA','','2023-11-25',''),
+('EA0537','Álamos','03','México','ALA','','2023-11-25',''),
+('EA0538','Rancho Las Borregas','03','México','ALD','','2023-11-25',''),
+('EA0539','Algodonera De Tapachula','03','México','ALG','','2023-11-25',''),
+('EA0540','La Paz Sky Park','03','México','ALK','','2023-11-25',''),
+('EA0541','Aerofumigaciones LÓpez','03','México','ALP','','2023-11-25',''),
+('EA0542','Las Cartucheras','03','México','ALQ','','2023-11-25',''),
+('EA0543','Los Ojuelos','03','México','ALW','','2023-11-25',''),
+('EA0544','Alizal','03','México','ALX','','2023-11-25',''),
+('EA0545','Almoloya','03','México','ALY','','2023-11-25',''),
+('EA0546','AmatlÁn De Jora','03','México','AMA','','2023-11-25',''),
+('EA0547','Las Alamandas','03','México','AMD','','2023-11-25',''),
+('EA0548','Los Mezquites','03','México','AMK','','2023-11-25',''),
+('EA0549','Amaculi','03','México','AMQ','','2023-11-25',''),
+('EA0550','Aero Club Manitoba','03','México','AMT','','2023-11-25',''),
+('EA0551','General Miguel Alemán','03','México','AMV','','2023-11-25',''),
+('EA0552','And Port','03','México','ANP','','2023-11-25',''),
+('EA0553','Anna','03','México','ANS','','2023-11-25',''),
+('EA0554','Aéreo Servicio Nuñez','03','México','ANZ','','2023-11-25',''),
+('EA0555','Acocotla','03','México','AOC','','2023-11-25',''),
+('EA0556','Apozolco','03','México','APJ','','2023-11-25',''),
+('EA0557','Mieleras','03','México','APS','','2023-11-25',''),
+('EA0558','Aeropista Deportiva Tapalpa','03','México','APT','','2023-11-25',''),
+('EA0559','Los Sapos','03','México','APU','','2023-11-25',''),
+('EA0560','Pancho Villa','03','México','APV','','2023-11-25',''),
+('EA0561','Rancho El Armadillo','03','México','ARL','','2023-11-25',''),
+('EA0562','Aeromar','03','México','ARM','','2023-11-25',''),
+('EA0563','Aerofumigaciones Sarabia','03','México','ASB','','2023-11-25',''),
+('EA0564','Aerofumigaciones Solís','03','México','ASF','','2023-11-25',''),
+('EA0565','Alicia','03','México','ASH','','2023-11-25',''),
+('EA0566','Santa Inés','03','México','ASI','','2023-11-25',''),
+('EA0567','Cabo Sky Tours','03','México','ASL','','2023-11-25',''),
+('EA0568','Alfonsina''S Resort','03','México','ASN','','2023-11-25',''),
+('EA0569','Rancho El Casco','03','México','ASO','','2023-11-25',''),
+('EA0570','Hacienda San Rafael\n(Proyecto)','03','México','ASR','','2023-11-25',''),
+('EA0571','Aguascalientes','03','México','ASS','','2023-11-25',''),
+('EA0572','Aerofumigaciones Nayarit','03','México','AST','','2023-11-25',''),
+('EA0573','Aeroservicios La Victoria','03','México','ASV','','2023-11-25',''),
+('EA0574','Agrícola Santa Veneranda','03','México','ASX','','2023-11-25',''),
+('EA0575','Tierra Blanca','03','México','ATB','','2023-11-25',''),
+('EA0576','Aeródromo De Tonala, Chiapas','03','México','ATG','','2023-11-25',''),
+('EA0577','Atotonilco','03','México','ATO','','2023-11-25',''),
+('EA0578','Tigrito','03','México','ATO','','2023-11-25',''),
+('EA0579','Autlán De Navarro','03','México','AUN','','2023-11-25',''),
+('EA0580','Aeródromo Villa Hidalgo','03','México','AVH','','2023-11-25',''),
+('EA0581','Los Ayuches','03','México','AYC','','2023-11-25',''),
+('EA0582','Ayuquila','03','México','AYL','','2023-11-25',''),
+('EA0583','La Azufrosa I','03','México','AZF','','2023-11-25',''),
+('EA0584','Gral. Pablo L. Sidar','03','México','AZG','','2023-11-25',''),
+('EA0585','El Zopilote','03','México','AZK','','2023-11-25',''),
+('EA0586','Los Aztecas','03','México','AZT','','2023-11-25',''),
+('EA0587','El Azulejo','03','México','AZU','','2023-11-25',''),
+('EA0588','Baborigame','03','México','BAB','','2023-11-25',''),
+('EA0589','Bacadehuachi','03','México','BAC','','2023-11-25',''),
+('EA0590','La Tuna De Badiraguato','03','México','BAD','','2023-11-25',''),
+('EA0591','Barajas','03','México','BAG','','2023-11-25',''),
+('EA0592','Barranca Honda','03','México','BAH','','2023-11-25',''),
+('EA0593','Bacis','03','México','BAI','','2023-11-25',''),
+('EA0594','El Bajío','03','México','BAJ','','2023-11-25',''),
+('EA0595','Bacoachí','03','México','BAK','','2023-11-25',''),
+('EA0596','Bamopa','03','México','BAM','','2023-11-25',''),
+('EA0597','Los Barrancos','03','México','BAO','','2023-11-25',''),
+('EA0598','Babunica','03','México','BAU','','2023-11-25',''),
+('EA0599','Aeródromo Bahía De Los Ángeles','03','México','BAX','','2023-11-25',''),
+('EA0600','Banarey','03','México','BAY','','2023-11-25',''),
+('EA0601','Rancho Bbb','03','México','BBB','','2023-11-25',''),
+('EA0602','Barbechitos','03','México','BBC','','2023-11-25',''),
+('EA0603','BahÍa De Las Ballenas','03','México','BBS','','2023-11-25',''),
+('EA0604','El Báculo','03','México','BCL','','2023-11-25',''),
+('EA0605','El Baztán','03','México','BCM','','2023-11-25',''),
+('EA0606','Banco Chinchorro','03','México','BCQ','','2023-11-25',''),
+('EA0607','Bacubirito','03','México','BCU','','2023-11-25',''),
+('EA0608','Bacayopa','03','México','BCY','','2023-11-25',''),
+('EA0609','Bacayopa Ii','03','México','BCZ','','2023-11-25',''),
+('EA0610','El Bajío Del Oso','03','México','BDO','','2023-11-25',''),
+('EA0611','Las Brisas','03','México','BGA','','2023-11-25',''),
+('EA0612','Las Bugambilias','03','México','BGM','','2023-11-25',''),
+('EA0613','Bahía','03','México','BHA','','2023-11-25',''),
+('EA0614','Bahía Kino','03','México','BHK','','2023-11-25',''),
+('EA0615','Bachoco','03','México','BHO','','2023-11-25',''),
+('EA0616','El Centenario','03','México','BJO','','2023-11-25',''),
+('EA0617','Pista Brekamaje','03','México','BKE','','2023-11-25',''),
+('EA0618','Leo','03','México','BLB','','2023-11-25',''),
+('EA0619','Aterrizaje De Muñoz','03','México','BLM','','2023-11-25',''),
+('EA0620','El Bolson','03','México','BLO','','2023-11-25',''),
+('EA0621','Balder','03','México','BLR','','2023-11-25',''),
+('EA0622','El Bramadero','03','México','BMO','','2023-11-25',''),
+('EA0623','Bahía Mujeres','03','México','BMS','','2023-11-25',''),
+('EA0624','Barra De Navidad','03','México','BND','','2023-11-25',''),
+('EA0625','Benny','03','México','BNY','','2023-11-25',''),
+('EA0626','Los Brasiles','03','México','BRA','','2023-11-25',''),
+('EA0627','El Barbechito','03','México','BRB','','2023-11-25',''),
+('EA0628','Borders','03','México','BRD','','2023-11-25',''),
+('EA0629','Las Brechas','03','México','BRE','','2023-11-25',''),
+('EA0630','El Barro','03','México','BRO','','2023-11-25',''),
+('EA0631','El Brasil','03','México','BRX','','2023-11-25',''),
+('EA0632','Bazonopita De Abajo','03','México','BSN','','2023-11-25',''),
+('EA0633','Bahía Soledad','03','México','BSO','','2023-11-25',''),
+('EA0634','Bastantita','03','México','BST','','2023-11-25',''),
+('EA0635','Bahía Asuncion','03','México','BSU','','2023-11-25',''),
+('EA0636','Pista Aérea Batan','03','México','BTN','','2023-11-25',''),
+('EA0637','Batopito','03','México','BTT','','2023-11-25',''),
+('EA0638','Betty','03','México','BTY','','2023-11-25',''),
+('EA0639','Buenavista','03','México','BUE','','2023-11-25',''),
+('EA0640','Buenavista De Atascaderos','03','México','BVA','','2023-11-25',''),
+('EA0641','Club De Aviones Ultraligeros De Hermosillo','03','México','CAG','','2023-11-25',''),
+('EA0642','La Campanilla','03','México','CAM','','2023-11-25',''),
+('EA0643','Canelas','03','México','CAN','','2023-11-25',''),
+('EA0644','Canoas\n(Proyecto)','03','México','CAO','','2023-11-25',''),
+('EA0645','La Campana','03','México','CAP','','2023-11-25',''),
+('EA0646','Santa Barbara','03','México','CAT','','2023-11-25',''),
+('EA0647','Campo Victoria','03','México','CAW','','2023-11-25',''),
+('EA0648','La Ceiba','03','México','CBA','','2023-11-25',''),
+('EA0649','Cerro Bola','03','México','CBB','','2023-11-25',''),
+('EA0650','Cerro Bola','03','México','CBD','','2023-11-25',''),
+('EA0651','Cabrera','03','México','CBT','','2023-11-25',''),
+('EA0652','Calabazas','03','México','CBZ','','2023-11-25',''),
+('EA0653','Camargo','03','México','CCA','','2023-11-25',''),
+('EA0654','Ciudad Constitución','03','México','CCB','','2023-11-25',''),
+('EA0655','Casa Colorada','03','México','CCC','','2023-11-25',''),
+('EA0656','Casimiro Castillo','03','México','CCF','','2023-11-25',''),
+('EA0657','La Concordia','03','México','CCJ','','2023-11-25',''),
+('EA0658','Casa Colorada','03','México','CCK','','2023-11-25',''),
+('EA0659','Cuatro Caminos','03','México','CCM','','2023-11-25',''),
+('EA0660','Campo Cuatro','03','México','CCQ','','2023-11-25',''),
+('EA0661','Campo Cortes','03','México','CCR','','2023-11-25',''),
+('EA0662','Carricitos','03','México','CCS','','2023-11-25',''),
+('EA0663','Carlos Diaz Becerril','03','México','CDB','','2023-11-25',''),
+('EA0664','El Cedro','03','México','CDB','','2023-11-25',''),
+('EA0665','Chupadero Del Caballo','03','México','CDC','','2023-11-25',''),
+('EA0666','Gral. Roberto Fierro','03','México','CDG','','2023-11-25',''),
+('EA0667','Campo Diez','03','México','CDI','','2023-11-25',''),
+('EA0668','Cadeje','03','México','CDJ','','2023-11-25',''),
+('EA0669','Las Huastecas','03','México','CDM','','2023-11-25',''),
+('EA0670','Cedro Solo','03','México','CDO','','2023-11-25',''),
+('EA0671','Colorado','03','México','CDQ','','2023-11-25',''),
+('EA0672','Cedros','03','México','CDS','','2023-11-25',''),
+('EA0673','Ciénega Del Toro','03','México','CDT','','2023-11-25',''),
+('EA0674','Campo David','03','México','CDV','','2023-11-25',''),
+('EA0675','Cerro De Enmedio','03','México','CDW','','2023-11-25',''),
+('EA0676','Copa De Oro','03','México','CDX','','2023-11-25',''),
+('EA0677','Capitán Birotres','03','México','CEB','','2023-11-25',''),
+('EA0678','Cerros Colorados','03','México','CEC','','2023-11-25',''),
+('EA0679','Cedros','03','México','CED','','2023-11-25',''),
+('EA0680','Los Cerritos','03','México','CEE','','2023-11-25',''),
+('EA0681','El Crucero','03','México','CEO','','2023-11-25',''),
+('EA0682','La Ciénega','03','México','CES','','2023-11-25',''),
+('EA0683','Cap. Eduardo A. Toledo','03','México','CET','','2023-11-25',''),
+('EA0684','Rancho Santa María','03','México','CFF','','2023-11-25',''),
+('EA0685','Rincón De María','03','México','CGB','','2023-11-25',''),
+('EA0686','La Cieneguita','03','México','CGT','','2023-11-25',''),
+('EA0687','Cacaraguas','03','México','CGU','','2023-11-25',''),
+('EA0688','Campo Gaxiola','03','México','CGX','','2023-11-25',''),
+('EA0689','Cap.P.A. José Covarrubias Pérez','03','México','CGZ','','2023-11-25',''),
+('EA0690','Charole','03','México','CHA','','2023-11-25',''),
+('EA0691','Chicorrabias','03','México','CHB','','2023-11-25',''),
+('EA0692','Chiconcuac','03','México','CHC','','2023-11-25',''),
+('EA0693','Chilicote','03','México','CHE','','2023-11-25',''),
+('EA0694','Chapotan','03','México','CHF','','2023-11-25',''),
+('EA0695','Chilpancingo','03','México','CHG','','2023-11-25',''),
+('EA0696','Meza Y Tinaja','03','México','CHI','','2023-11-25',''),
+('EA0697','Cusihuiriachi','03','México','CHI','','2023-11-25',''),
+('EA0698','Chicuras','03','México','CHK','','2023-11-25',''),
+('EA0699','La Cholla','03','México','CHL','','2023-11-25',''),
+('EA0700','Chamela','03','México','CHM','','2023-11-25',''),
+('EA0701','Cahuisori','03','México','CHR','','2023-11-25',''),
+('EA0702','Chínipas','03','México','CHS','','2023-11-25',''),
+('EA0703','Chavarín','03','México','CHV','','2023-11-25',''),
+('EA0704','Coahuayana','03','México','CHY','','2023-11-25',''),
+('EA0705','Chivato Bay','03','México','CIB','','2023-11-25',''),
+('EA0706','Rancho El Cíbolo','03','México','CIC','','2023-11-25',''),
+('EA0707','Ciénega De Araujo','03','México','CIE','','2023-11-25',''),
+('EA0708','La Ciénega','03','México','CIM','','2023-11-25',''),
+('EA0709','La Ciruelilla','03','México','CIR','','2023-11-25',''),
+('EA0710','Cuixmala','03','México','CIX','','2023-11-25',''),
+('EA0711','El Cajoncito','03','México','CJC','','2023-11-25',''),
+('EA0712','Jiménez','03','México','CJM','','2023-11-25',''),
+('EA0713','Colonia Juárez Nuevo','03','México','CJN','','2023-11-25',''),
+('EA0714','Cuajinicuilapa','03','México','CJP','','2023-11-25',''),
+('EA0715','El Caracol','03','México','CJT','','2023-11-25',''),
+('EA0716','La Colonia','03','México','CLD','','2023-11-25',''),
+('EA0717','Cinco Llagas','03','México','CLL','','2023-11-25',''),
+('EA0718','Pablo L. Sidar','03','México','CLM','','2023-11-25',''),
+('EA0719','Coluta','03','México','CLU','','2023-11-25',''),
+('EA0720','Mosqueda','03','México','CMB','','2023-11-25',''),
+('EA0721','5 De Mayo','03','México','CMF','','2023-11-25',''),
+('EA0722','Camagüey','03','México','CMG','','2023-11-25',''),
+('EA0723','Hacienda Cuajomulco','03','México','CML','','2023-11-25',''),
+('EA0724','Rancho La Mezquitosa','03','México','CMM','','2023-11-25',''),
+('EA0725','Cemetam','03','México','CMM','','2023-11-25',''),
+('EA0726','Centro Medico Nacional 20 De Noviembre','03','México','CMN','','2023-11-25',''),
+('EA0727','Cumpas','03','México','CMP','','2023-11-25',''),
+('EA0728','El Camarón','03','México','CMT','','2023-11-25',''),
+('EA0729','Cananea','03','México','CNA','','2023-11-25',''),
+('EA0730','Ciénega De Los Beltrán','03','México','CNB','','2023-11-25',''),
+('EA0731','Cielito Lindo','03','México','CND','','2023-11-25',''),
+('EA0732','Ciénega De Nuestra Señora','03','México','CNE','','2023-11-25',''),
+('EA0733','Ciénega De Los Acosta','03','México','CNG','','2023-11-25',''),
+('EA0734','Ciénega Prieta','03','México','CNP','','2023-11-25',''),
+('EA0735','Las Canteras','03','México','CNR','','2023-11-25',''),
+('EA0736','Las Cañas','03','México','CNZ','','2023-11-25',''),
+('EA0737','El Cobano','03','México','COB','','2023-11-25',''),
+('EA0738','Cerro De Ortega','03','México','COG','','2023-11-25',''),
+('EA0739','Costalegre','03','México','COJ','','2023-11-25',''),
+('EA0740','Concheros','03','México','CON','','2023-11-25',''),
+('EA0741','Pista Colorado','03','México','COR','','2023-11-25',''),
+('EA0742','Insurgente Marcos Escobedo','03','México','COT','','2023-11-25',''),
+('EA0743','Comedero','03','México','COW','','2023-11-25',''),
+('EA0744','Campo Arcadia','03','México','CPA','','2023-11-25',''),
+('EA0745','Campo Pesquero El Castillo','03','México','CPC','','2023-11-25',''),
+('EA0746','El Capiro','03','México','CPG','','2023-11-25',''),
+('EA0747','Campo 107','03','México','CPI','','2023-11-25',''),
+('EA0748','Campo Puerto Rico','03','México','CPK','','2023-11-25',''),
+('EA0749','Copalquin','03','México','CPQ','','2023-11-25',''),
+('EA0750','Club De Paracaidismo Atlixco','03','México','CPU','','2023-11-25',''),
+('EA0751','Campo La Primavera','03','México','CPV','','2023-11-25',''),
+('EA0752','Campo El Porvenir','03','México','CPW','','2023-11-25',''),
+('EA0753','Cerros Prietos','03','México','CPZ','','2023-11-25',''),
+('EA0754','Candelaria','03','México','CRA','','2023-11-25',''),
+('EA0755','Carrizalejo','03','México','CRG','','2023-11-25',''),
+('EA0756','El Carrizo Ahome','03','México','CRH','','2023-11-25',''),
+('EA0757','Curachitos','03','México','CRI','','2023-11-25',''),
+('EA0758','El Carrizo','03','México','CRJ','','2023-11-25',''),
+('EA0759','Carrizal','03','México','CRM','','2023-11-25',''),
+('EA0760','El Caimanero','03','México','CRO','','2023-11-25',''),
+('EA0761','El Carrizo De La Petaca','03','México','CRP','','2023-11-25',''),
+('EA0762','El Corral Falso','03','México','CRR','','2023-11-25',''),
+('EA0763','El Control','03','México','CRT','','2023-11-25',''),
+('EA0764','Ing. Juan Antonio Perdomo Diaz','03','México','CRV','','2023-11-25',''),
+('EA0765','El Cristo','03','México','CRX','','2023-11-25',''),
+('EA0766','El Carrizal','03','México','CRZ','','2023-11-25',''),
+('EA0767','Campo Ceuta','03','México','CSE','','2023-11-25',''),
+('EA0768','La Constancia','03','México','CSI','','2023-11-25',''),
+('EA0769','Rancho Las Palmas','03','México','CSJ','','2023-11-25',''),
+('EA0770','Cabo San Lucas','03','México','CSL','','2023-11-25',''),
+('EA0771','Chapotito','03','México','CSM','','2023-11-25',''),
+('EA0772','Campo Santa Aurora','03','México','CSR','','2023-11-25',''),
+('EA0773','Cuestecitas','03','México','CSS','','2023-11-25',''),
+('EA0774','Ciénega De Silva','03','México','CSV','','2023-11-25',''),
+('EA0775','Campo San Javier','03','México','CSX','','2023-11-25',''),
+('EA0776','Chino De Los López','03','México','CSZ','','2023-11-25',''),
+('EA0777','Canoitas','03','México','CTC','','2023-11-25',''),
+('EA0778','El Contadero','03','México','CTF','','2023-11-25',''),
+('EA0779','El Centenario','03','México','CTI','','2023-11-25',''),
+('EA0780','Chantol','03','México','CTK','','2023-11-25',''),
+('EA0781','Rancho Coyotillos','03','México','CTL','','2023-11-25',''),
+('EA0782','Centro Turístico Mauros','03','México','CTU','','2023-11-25',''),
+('EA0783','Constitucionalista','03','México','CUC','','2023-11-25',''),
+('EA0784','Cuautla','03','México','CUJ','','2023-11-25',''),
+('EA0785','La Curva','03','México','CUV','','2023-11-25',''),
+('EA0786','Covadonga','03','México','CVD','','2023-11-25',''),
+('EA0787','Calaveras','03','México','CVE','','2023-11-25',''),
+('EA0788','Campo Verde','03','México','CVG','','2023-11-25',''),
+('EA0789','Casa Vieja','03','México','CVI','','2023-11-25',''),
+('EA0790','Calera','03','México','CVR','','2023-11-25',''),
+('EA0791','Campo San Pablo','03','México','CWP','','2023-11-25',''),
+('EA0792','Campeche','03','México','CXE','','2023-11-25',''),
+('EA0793','Cap. Rogelio Castillo','03','México','CYA','','2023-11-25',''),
+('EA0794','El Cayal','03','México','CYL','','2023-11-25',''),
+('EA0795','Rancho El Coyote','03','México','CYO','','2023-11-25',''),
+('EA0796','El Colomo Y La Arena','03','México','CYR','','2023-11-25',''),
+('EA0797','Coyotes','03','México','CYS','','2023-11-25',''),
+('EA0798','La Coyotera','03','México','CYT','','2023-11-25',''),
+('EA0799','Cosalá','03','México','CZP','','2023-11-25',''),
+('EA0800','Rancho El Durangueño','03','México','DAG','','2023-11-25',''),
+('EA0801','Dos Amigos','03','México','DAS','','2023-11-25',''),
+('EA0802','Rancho Dublán','03','México','DBN','','2023-11-25',''),
+('EA0803','Ganadería 21 De Enero, S.A. De C.V.','03','México','DDD','','2023-11-25',''),
+('EA0804','El Diamante Del Mar','03','México','DDM','','2023-11-25',''),
+('EA0805','Delicias','03','México','DEI','','2023-11-25',''),
+('EA0806','Rubén Prieto Chacón','03','México','DEL','','2023-11-25',''),
+('EA0807','Desierto De Sonora','03','México','DES','','2023-11-25',''),
+('EA0808','De Fontes','03','México','DFS','','2023-11-25',''),
+('EA0809','San Diego','03','México','DIH','','2023-11-25',''),
+('EA0810','Rancho De Lauro','03','México','DLA','','2023-11-25',''),
+('EA0811','Dolores','03','México','DLD','','2023-11-25',''),
+('EA0812','Los Terreros','03','México','DLM','','2023-11-25',''),
+('EA0813','Dolores Nay','03','México','DNY','','2023-11-25',''),
+('EA0814','Dificultades','03','México','DTS','','2023-11-25',''),
+('EA0815','El Duraznito','03','México','DZN','','2023-11-25',''),
+('EA0816','El Saucito','03','México','EAC','','2023-11-25',''),
+('EA0817','El Álamo','03','México','EAE','','2023-11-25',''),
+('EA0818','El Águila Ranch','03','México','EAG','','2023-11-25',''),
+('EA0819','Aguaje','03','México','EAJ','','2023-11-25',''),
+('EA0820','Elmore And Sthal','03','México','EAS','','2023-11-25',''),
+('EA0821','El Álamo','03','México','EAU','','2023-11-25',''),
+('EA0822','El Bajío','03','México','EBA','','2023-11-25',''),
+('EA0823','El Blanquillo','03','México','EBC','','2023-11-25',''),
+('EA0824','El Barril','03','México','EBI','','2023-11-25',''),
+('EA0825','Rancho El Bajío','03','México','EBJ','','2023-11-25',''),
+('EA0826','El Bonito','03','México','EBO','','2023-11-25',''),
+('EA0827','El Buen Pastor','03','México','EBP','','2023-11-25',''),
+('EA0828','El Cedrito','03','México','ECE','','2023-11-25',''),
+('EA0829','El Cedroso','03','México','ECF','','2023-11-25',''),
+('EA0830','Enrique Cárdenas González','03','México','ECG','','2023-11-25',''),
+('EA0831','Esmeralda Comaltitlán','03','México','ECH','','2023-11-25',''),
+('EA0832','Los Encinos','03','México','ECV','','2023-11-25',''),
+('EA0833','El Capullo','03','México','ECW','','2023-11-25',''),
+('EA0834','El Coyote','03','México','ECX','','2023-11-25',''),
+('EA0835','El Dos De Abril','03','México','EDA','','2023-11-25',''),
+('EA0836','El Duraznito De Choix','03','México','EDC','','2023-11-25',''),
+('EA0837','El Dorado','03','México','EDD','','2023-11-25',''),
+('EA0838','El Cortijo De Guanetipa','03','México','EDG','','2023-11-25',''),
+('EA0839','El Llano De La Vega Del Oso','03','México','EDO','','2023-11-25',''),
+('EA0840','El Desemboque','03','México','EDQ','','2023-11-25',''),
+('EA0841','El Dury','03','México','EDR','','2023-11-25',''),
+('EA0842','El Alto Del Tejocote','03','México','EDT','','2023-11-25',''),
+('EA0843','El Divisadero','03','México','EDV','','2023-11-25',''),
+('EA0844','El Encino','03','México','EEC','','2023-11-25',''),
+('EA0845','La Ensenada','03','México','EEG','','2023-11-25',''),
+('EA0846','Ejido Eréndira','03','México','EER','','2023-11-25',''),
+('EA0847','El Frater','03','México','EFE','','2023-11-25',''),
+('EA0848','Nuevo Ciudad Acuña','03','México','EFN','','2023-11-25',''),
+('EA0849','El Fortín','03','México','EFO','','2023-11-25',''),
+('EA0850','El Guamúchil','03','México','EGM','','2023-11-25',''),
+('EA0851','La Herradura De México','03','México','EGO','','2023-11-25',''),
+('EA0852','El Huerfanito','03','México','EHF','','2023-11-25',''),
+('EA0853','Ex Hacienda Sinaloa','03','México','EHS','','2023-11-25',''),
+('EA0854','El Chapote','03','México','EHT','','2023-11-25',''),
+('EA0855','El Huajuco','03','México','EHU','','2023-11-25',''),
+('EA0856','Rancho El Infante','03','México','EIF','','2023-11-25',''),
+('EA0857','El Capulín','03','México','EIN','','2023-11-25',''),
+('EA0858','Ejido Juan Álvarez','03','México','EJJ','','2023-11-25',''),
+('EA0859','Mesa De San Rafael','03','México','EJL','','2023-11-25',''),
+('EA0860','Ejido Oaxaca','03','México','EJO','','2023-11-25',''),
+('EA0861','Rancho El Jaralito','03','México','EJR','','2023-11-25',''),
+('EA0862','El Capitán','03','México','EKP','','2023-11-25',''),
+('EA0863','El Arenoso','03','México','ELA','','2023-11-25',''),
+('EA0864','El Borrego','03','México','ELB','','2023-11-25',''),
+('EA0865','El Coche','03','México','ELC','','2023-11-25',''),
+('EA0866','Aerofumigaciones La 300','03','México','ELD','','2023-11-25',''),
+('EA0867','El Limón De Los Peña','03','México','ELI','','2023-11-25',''),
+('EA0868','El Cardal','03','México','ELJ','','2023-11-25',''),
+('EA0869','El Muchacho','03','México','ELM','','2023-11-25',''),
+('EA0870','El Pelón','03','México','ELP','','2023-11-25',''),
+('EA0871','C.P.A Jesús Ernesto Lozano Jiménez','03','México','ELQ','','2023-11-25',''),
+('EA0872','El Rosario','03','México','ELR','','2023-11-25',''),
+('EA0873','El Salto','03','México','ELS','','2023-11-25',''),
+('EA0874','El Toro','03','México','ELT','','2023-11-25',''),
+('EA0875','El Viejo','03','México','ELV','','2023-11-25',''),
+('EA0876','El Potrero','03','México','ELX','','2023-11-25',''),
+('EA0877','El Limonal','03','México','ELY','','2023-11-25',''),
+('EA0878','El Mambo','03','México','EMA','','2023-11-25',''),
+('EA0879','Ejido Mondongo','03','México','EMN','','2023-11-25',''),
+('EA0880','El Amate','03','México','EMV','','2023-11-25',''),
+('EA0881','El Maguey Coyol','03','México','EMX','','2023-11-25',''),
+('EA0882','El Maguey','03','México','EMY','','2023-11-25',''),
+('EA0883','Las Encantadas','03','México','END','','2023-11-25',''),
+('EA0884','El Encinal','03','México','ENL','','2023-11-25',''),
+('EA0885','La Encantada','03','México','ENT','','2023-11-25',''),
+('EA0886','Palo Blanco','03','México','ENW','','2023-11-25',''),
+('EA0887','Platanar','03','México','EPA','','2023-11-25',''),
+('EA0888','El Pino Castañeda','03','México','EPH','','2023-11-25',''),
+('EA0889','El Palmar','03','México','EPM','','2023-11-25',''),
+('EA0890','El Pinto','03','México','EPN','','2023-11-25',''),
+('EA0891','El Pinal','03','México','EPP','','2023-11-25',''),
+('EA0892','El Potrero','03','México','EPT','','2023-11-25',''),
+('EA0893','El Puma','03','México','EPU','','2023-11-25',''),
+('EA0894','El Pinalito','03','México','EPY','','2023-11-25',''),
+('EA0895','La Esperanza','03','México','EPZ','','2023-11-25',''),
+('EA0896','El Rodeo','03','México','ERD','','2023-11-25',''),
+('EA0897','El Ranchito','03','México','ERG','','2023-11-25',''),
+('EA0898','Eréndira','03','México','ERN','','2023-11-25',''),
+('EA0899','El Paraíso','03','México','ERP','','2023-11-25',''),
+('EA0900','El Rodríguez','03','México','ERZ','','2023-11-25',''),
+('EA0901','Estrella','03','México','ESA','','2023-11-25',''),
+('EA0902','Escárcega','03','México','ESC','','2023-11-25',''),
+('EA0903','El Seco','03','México','ESE','','2023-11-25',''),
+('EA0904','El Sauzal','03','México','ESL','','2023-11-25',''),
+('EA0905','La Estrella','03','México','EST','','2023-11-25',''),
+('EA0906','El Tigre','03','México','ETG','','2023-11-25',''),
+('EA0907','Rancho El Tiro','03','México','ETI','','2023-11-25',''),
+('EA0908','El Trapiche','03','México','ETN CHECAR SP 611','','2023-11-25',''),
+('EA0909','El Tigre','03','México','ETR','','2023-11-25',''),
+('EA0910','Los Eucaliptos','03','México','ETS','','2023-11-25',''),
+('EA0911','El Tule','03','México','ETT','','2023-11-25',''),
+('EA0912','El Vikingo','03','México','EVK','','2023-11-25',''),
+('EA0913','El Varal','03','México','EVL','','2023-11-25',''),
+('EA0914','Guamúchil Évora','03','México','EVO','','2023-11-25',''),
+('EA0915','El Verano','03','México','EVS','','2023-11-25',''),
+('EA0916','El Carrizal','03','México','EXL','','2023-11-25',''),
+('EA0917','El Zamora','03','México','EZM','','2023-11-25',''),
+('EA0918','El Zorrillo','03','México','EZO','','2023-11-25',''),
+('EA0919','El Carrizo','03','México','EZS','','2023-11-25',''),
+('EA0920','Fumigaciones Aéreas De Abasolo','03','México','FAB','','2023-11-25',''),
+('EA0921','Fernando Amaya','03','México','FAC','','2023-11-25',''),
+('EA0922','Fumigaciones Aéreas Pérez','03','México','FAP','','2023-11-25',''),
+('EA0923','Pista Aérea José Galindo','03','México','FAR','','2023-11-25',''),
+('EA0924','Francisco Bruno Barrera','03','México','FBB','','2023-11-25',''),
+('EA0925','Familia Baldenebro Jaimes','03','México','FBJ','','2023-11-25',''),
+('EA0926','Campo De Aviación Parral','03','México','FCO','','2023-11-25',''),
+('EA0927','Felipe Carrillo Puerto','03','México','FCQ','','2023-11-25',''),
+('EA0928','Rancho Los Flores','03','México','FFR','','2023-11-25',''),
+('EA0929','Fertilizantes Y Fumigaciones Del Valle','03','México','FFV','','2023-11-25',''),
+('EA0930','Pista El Álamo','03','México','FGD','','2023-11-25',''),
+('EA0931','Alhué','03','México','FLH','','2023-11-25',''),
+('EA0932','Finca La Isla','03','México','FLI','','2023-11-25',''),
+('EA0933','Las Flores','03','México','FLO','','2023-11-25',''),
+('EA0934','El Fresnal','03','México','FNL','','2023-11-25',''),
+('EA0935','El Fénix','03','México','FNY','','2023-11-25',''),
+('EA0936','La Alameda Mocorito','03','México','FRA','','2023-11-25',''),
+('EA0937','Feria','03','México','FRI','','2023-11-25',''),
+('EA0938','El Frijolar','03','México','FRJ','','2023-11-25',''),
+('EA0939','Farallón','03','México','FRL','','2023-11-25',''),
+('EA0940','El Freno','03','México','FRN','','2023-11-25',''),
+('EA0941','José Ángel  Espinoza Ferrusquilla','03','México','FRR antes CHX','','2023-11-25',''),
+('EA0942','Francisco Sarabia','03','México','FSA','','2023-11-25',''),
+('EA0943','Felipe Terrones Acosta','03','México','FTA','','2023-11-25',''),
+('EA0944','El Fuerte','03','México','FTE','','2023-11-25',''),
+('EA0945','La Fortuna','03','México','FTN','','2023-11-25',''),
+('EA0946','La Platanera','03','México','FUP','','2023-11-25',''),
+('EA0947','La Fortaleza','03','México','FZA','','2023-11-25',''),
+('EA0948','Rancho Santa Rosa','03','México','GAA','','2023-11-25',''),
+('EA0949','Ganadería Cimarrón','03','México','GAB','','2023-11-25',''),
+('EA0950','Los Gavilanes','03','México','GAV','','2023-11-25',''),
+('EA0951','El Gargaliote','03','México','GBF','','2023-11-25',''),
+('EA0952','Guayaberos','03','México','GBS','','2023-11-25',''),
+('EA0953','Gatos Bravos','03','México','GBV','','2023-11-25',''),
+('EA0954','Guachochi','03','México','GCC','','2023-11-25',''),
+('EA0955','Guamúchil','03','México','GCH','','2023-11-25',''),
+('EA0956','La Gran China','03','México','GCN','','2023-11-25',''),
+('EA0957','Pista Gerónimo','03','México','GER','','2023-11-25',''),
+('EA0958','Hualul','03','México','GGH','','2023-11-25',''),
+('EA0959','La Gloria','03','México','GIA','','2023-11-25',''),
+('EA0960','La Giralda\n(Poceso Cierre)','03','México','GIH','','2023-11-25',''),
+('EA0961','El Gallito','03','México','GLL','','2023-11-25',''),
+('EA0962','La Gloria Ii','03','México','GLQ','','2023-11-25',''),
+('EA0963','Club Aerodeporte De Mazatlán','03','México','GMO','','2023-11-25',''),
+('EA0964','Guadalupe Ocotan','03','México','GPE','','2023-11-25',''),
+('EA0965','Granados','03','México','GRA','','2023-11-25',''),
+('EA0966','Aeropuerto Regional De Guerrero Negro','03','México','GRN','','2023-11-25',''),
+('EA0967','El Grullo','03','México','GRU','','2023-11-25',''),
+('EA0968','Galancita','03','México','GSA','','2023-11-25',''),
+('EA0969','Golfo De Santa Clara','03','México','GSC','','2023-11-25',''),
+('EA0970','Ganadería Santo Domingo','03','México','GSD','','2023-11-25',''),
+('EA0971','La Guarida','03','México','GUA','','2023-11-25',''),
+('EA0972','El Gavilán','03','México','GVN','','2023-11-25',''),
+('EA0973','La Grulla','03','México','GYA','','2023-11-25',''),
+('EA0974','Guayparime Ii','03','México','GYE','','2023-11-25',''),
+('EA0975','Santa Amelia','03','México','GZI','','2023-11-25',''),
+('EA0976','Almater','03','México','HAA','','2023-11-25',''),
+('EA0977','Centro Medico Abc Santa Fe','03','México','HAB','','2023-11-25',''),
+('EA0978','Rancho Mariquita','03','México','HAC','','2023-11-25',''),
+('EA0979','Ava-Dim','03','México','HAD','','2023-11-25',''),
+('EA0980','Ángeles Espinosa Yglesias','03','México','HAE','','2023-11-25',''),
+('EA0981','Atún Vi','03','México','HAF','','2023-11-25',''),
+('EA0982','Agua','03','México','HAG','','2023-11-25',''),
+('EA0983','Hospital General Ajusco Medio','03','México','HAH','','2023-11-25',''),
+('EA0984','Helipuerto Agencia Estatal De Investigaciones Mty.','03','México','HAI','','2023-11-25',''),
+('EA0985','Punta  Estrella','03','México','HAJ','','2023-11-25',''),
+('EA0986','Atilano Castaño','03','México','HAK','','2023-11-25',''),
+('EA0987','Hospital Ángeles De Xalapa','03','México','HAL','','2023-11-25',''),
+('EA0988','Aristos México','03','México','HAM','','2023-11-25',''),
+('EA0989','Hospital Ángeles De Las Lomas','03','México','HAO','','2023-11-25',''),
+('EA0990','Los Pirules','03','México','HAP','','2023-11-25',''),
+('EA0991','Triangulo Las Animas','03','México','HAQ','','2023-11-25',''),
+('EA0992','Aero Servicios','03','México','HAS','','2023-11-25',''),
+('EA0993','El Hato','03','México','HAT','','2023-11-25',''),
+('EA0994','Universidad De Las Américas','03','México','HAU','','2023-11-25',''),
+('EA0995','Torre Bosques','03','México','HAW','','2023-11-25',''),
+('EA0996','Atún X','03','México','HAX','','2023-11-25',''),
+('EA0997','Unitec Acapulco','03','México','HAY','','2023-11-25',''),
+('EA0998','Américas Country','03','México','HAZ','','2023-11-25',''),
+('EA0999','Plaza Corporativo Banamex','03','México','HBA','','2023-11-25',''),
+('EA1000','Helipuerto Big Brother','03','México','HBB','','2023-11-25',''),
+('EA1001','Centro Bancomer','03','México','HBC','','2023-11-25',''),
+('EA1002','Bonnie','03','México','HBE','','2023-11-25',''),
+('EA1003','Vgi Helipuerto','03','México','HBI','','2023-11-25',''),
+('EA1004','Helipuerto Bicentenario Municipio Aguascalientes','03','México','HBM','','2023-11-25',''),
+('EA1005','Plataforma Autoelevable Grijalva','03','México','HBN','','2023-11-25',''),
+('EA1006','Plataforma Autoelevable Tonalá','03','México','HBO','','2023-11-25',''),
+('EA1007','Plataforma Autoelevable Panuco','03','México','HBP','','2023-11-25',''),
+('EA1008','Plataforma Autoelevable Tuxpan','03','México','HBQ','','2023-11-25',''),
+('EA1009','Casa Blanca','03','México','HBS','','2023-11-25',''),
+('EA1010','Ángeles De Torreón','03','México','HBT','','2023-11-25',''),
+('EA1011','Bachoco','03','México','HBU','','2023-11-25',''),
+('EA1012','Coorporativo Blanco','03','México','HBV','','2023-11-25',''),
+('EA1013','Buenaventura I','03','México','HBX','','2023-11-25',''),
+('EA1014','Buenaventura Ii','03','México','HBY','','2023-11-25',''),
+('EA1015','El Conchal','03','México','HCA','','2023-11-25',''),
+('EA1016','Centro Corporativo Bosques','03','México','HCB','','2023-11-25',''),
+('EA1017','Coca Cola','03','México','HCC','','2023-11-25',''),
+('EA1018','Donna Cristina','03','México','HCD','','2023-11-25',''),
+('EA1019','Opción Santa Fe Iii','03','México','HCF','','2023-11-25',''),
+('EA1020','Cooperativa Ensenada De Aviación','03','México','HCG','','2023-11-25',''),
+('EA1021','Conquista','03','México','HCH','','2023-11-25',''),
+('EA1022','Centro Insurgentes','03','México','HCI','','2023-11-25',''),
+('EA1023','Cabo San Lucas','03','México','HCJ','','2023-11-25',''),
+('EA1024','Cabo Real','03','México','HCJ','','2023-11-25',''),
+('EA1025','Hotel Coral','03','México','HCK','','2023-11-25',''),
+('EA1026','Torre Chiapas','03','México','HCL','','2023-11-25',''),
+('EA1027','Hospital Muguerza','03','México','HCM','','2023-11-25',''),
+('EA1028','Helipuerto Montemayor','03','México','HCN','','2023-11-25',''),
+('EA1029','Car One','03','México','HCO','','2023-11-25',''),
+('EA1030','Cinépolis','03','México','HCP','','2023-11-25',''),
+('EA1031','Plaza Caracol Dos','03','México','HCQ','','2023-11-25',''),
+('EA1032','Parque Reforma','03','México','HCR','','2023-11-25',''),
+('EA1033','Centro Corporativo Santander','03','México','HCS','','2023-11-25',''),
+('EA1034','Unitec Campus Ecatepec','03','México','HCS','','2023-11-25',''),
+('EA1035','Torre Citadel\n(Proyecto)','03','México','HCT','','2023-11-25',''),
+('EA1036','Sunset','03','México','HCU','','2023-11-25',''),
+('EA1037','Club De Golf Cuernavaca','03','México','HCV','','2023-11-25',''),
+('EA1038','Pegaso-Cozumel','03','México','HCZ','','2023-11-25',''),
+('EA1039','Hacienda El Caballo','03','México','HDC','','2023-11-25',''),
+('EA1040','Hospital Cima','03','México','HDD','','2023-11-25',''),
+('EA1041','Destiladeras Cabo Este','03','México','HDE','','2023-11-25',''),
+('EA1042','Dirección General De Seguridad Publica','03','México','HDG','','2023-11-25',''),
+('EA1043','Hermod','03','México','HDH','','2023-11-25',''),
+('EA1044','Hospital Ángeles De Ciudad Juárez','03','México','HDJ','','2023-11-25',''),
+('EA1045','Huerta De Los Carrillo','03','México','HDK','','2023-11-25',''),
+('EA1046','Irla (Antes Drul)','03','México','HDL','','2023-11-25',''),
+('EA1047','Dirección De Seguridad Pública Municipal','03','México','HDM','','2023-11-25',''),
+('EA1048','Damián Carmona','03','México','HDR','','2023-11-25',''),
+('EA1049','Haddad Siria','03','México','HDS','','2023-11-25',''),
+('EA1050','Bardahl Ajusco','03','México','HDT','','2023-11-25',''),
+('EA1051','Palacio De Hierro Durango','03','México','HDX','','2023-11-25',''),
+('EA1052','Helituna','03','México','HEA','','2023-11-25',''),
+('EA1053','Editora','03','México','HED','','2023-11-25',''),
+('EA1054','Creel','03','México','HEE','','2023-11-25',''),
+('EA1055','El Dorado','03','México','HEF','','2023-11-25',''),
+('EA1056','Espinosa Yglesias','03','México','HEF','','2023-11-25',''),
+('EA1057','Empaques Novedosos','03','México','HEG','','2023-11-25',''),
+('EA1058','Torre Empresarial','03','México','HEH','','2023-11-25',''),
+('EA1059','Huejotitan','03','México','HEJ','','2023-11-25',''),
+('EA1060','Elektra','03','México','HEK','','2023-11-25',''),
+('EA1061','Helipuerto Estado De México','03','México','HEM','','2023-11-25',''),
+('EA1062','El Edén','03','México','HEN','','2023-11-25',''),
+('EA1063','Los Encinos','03','México','HEO','','2023-11-25',''),
+('EA1064','Compañía Periodística Esto','03','México','HEQ','','2023-11-25',''),
+('EA1065','Hacienda El Refugio','03','México','HER','','2023-11-25',''),
+('EA1066','Servicios Aéreos De Estado De México','03','México','HES','','2023-11-25',''),
+('EA1067','Torre Esmeralda Ii','03','México','HET','','2023-11-25',''),
+('EA1068','El Universal','03','México','HEU','','2023-11-25',''),
+('EA1069','Ficonsa','03','México','HEV','','2023-11-25',''),
+('EA1070','Televisa Chapultepec','03','México','HEW','','2023-11-25',''),
+('EA1071','Fideicomiso 869','03','México','HFA','','2023-11-25',''),
+('EA1072','Punta Santa Fe','03','México','HFC','','2023-11-25',''),
+('EA1073','Femsa','03','México','HFD','','2023-11-25',''),
+('EA1074','Lomas Altas','03','México','HFE','','2023-11-25',''),
+('EA1075','Francisco Garza','03','México','HFG','','2023-11-25',''),
+('EA1076','Estación Pfp Iztapalapa','03','México','HFI','','2023-11-25',''),
+('EA1077','Maíz Transforma','03','México','HFJ','','2023-11-25',''),
+('EA1078','Fiesta Americana','03','México','HFM','','2023-11-25',''),
+('EA1079','Farallón','03','México','HFN','','2023-11-25',''),
+('EA1080','Helipuerto El Florido\n(Proyecto)','03','México','HFO','','2023-11-25',''),
+('EA1081','Polígono 3','03','México','HFP','','2023-11-25',''),
+('EA1082','Magnocentro 26','03','México','HFR','','2023-11-25',''),
+('EA1083','Hotel Plaza Mónaco','03','México','HFT','','2023-11-25',''),
+('EA1084','Fundición Residencial','03','México','HFU','','2023-11-25',''),
+('EA1085','Sea Fox 2','03','México','HFX','','2023-11-25',''),
+('EA1086','Mónica','03','México','HFY','','2023-11-25',''),
+('EA1087','Fiscalía Del Estado De Chiapas','03','México','HFY','','2023-11-25',''),
+('EA1088','Franz','03','México','HFZ','','2023-11-25',''),
+('EA1089','Las Gaviotas','03','México','HGA','','2023-11-25',''),
+('EA1090','Hospital Ángeles León','03','México','HGA','','2023-11-25',''),
+('EA1091','Cuartel General','03','México','HGB','','2023-11-25',''),
+('EA1092','Centro Medico Del Potosí','03','México','HGD','','2023-11-25',''),
+('EA1093','Cerro De La Corona','03','México','HGE','','2023-11-25',''),
+('EA1094','Hospital General De 120 Camas\n(Proyecto)','03','México','HGF','','2023-11-25',''),
+('EA1095','Hospital Ángeles Del Carmen','03','México','HGH','','2023-11-25',''),
+('EA1096','Hospital Regional De Alta Especialidad Del Bajío','03','México','HGI','','2023-11-25',''),
+('EA1097','Helipuerto Guadalajara','03','México','HGJ','','2023-11-25',''),
+('EA1098','Palacio De Gobierno','03','México','HGK','','2023-11-25',''),
+('EA1099','Rancho Buena Suerte','03','México','HGL','','2023-11-25',''),
+('EA1100','María Delia','03','México','HGM','','2023-11-25',''),
+('EA1101','Torre Gan','03','México','HGN','','2023-11-25',''),
+('EA1102','Higuera Gorda','03','México','HGO','','2023-11-25',''),
+('EA1103','Gnp','03','México','HGP','','2023-11-25',''),
+('EA1104','Helipuerto Tango','03','México','HGQ','','2023-11-25',''),
+('EA1105','Hospital General De Alta Resolución','03','México','HGR','','2023-11-25',''),
+('EA1106','Grupo Rio San Juan (Proyecto)','03','México','HGS','','2023-11-25',''),
+('EA1107','Tlaxcala','03','México','HGT','','2023-11-25',''),
+('EA1108','Hacienda Guadalupe','03','México','HGU','','2023-11-25',''),
+('EA1109','Gral. Guadalupe Victoria','03','México','HGV','','2023-11-25',''),
+('EA1110','Casa De Gobierno Tamaulipas','03','México','HGX','','2023-11-25',''),
+('EA1111','Granja El Ángel','03','México','HGY','','2023-11-25',''),
+('EA1112','Hospital Ángeles','03','México','HHA','','2023-11-25',''),
+('EA1113','Hospital Ángeles De Tijuana','03','México','HHB','','2023-11-25',''),
+('EA1114','Hospital Dalinde','03','México','HHD','','2023-11-25',''),
+('EA1115','Hotel Camino Real','03','México','HHE','','2023-11-25',''),
+('EA1116','Corporativo 261','03','México','HHG','','2023-11-25',''),
+('EA1117','Helipuerto Hacienda Huajuco','03','México','HHH','','2023-11-25',''),
+('EA1118','Holiday Inn Express Puebla','03','México','HHI','','2023-11-25',''),
+('EA1119','Torre Equss Sur','03','México','HHJ','','2023-11-25',''),
+('EA1120','Torre Equss Norte','03','México','HHK','','2023-11-25',''),
+('EA1121','Humberto Lobo Morales','03','México','HHL','','2023-11-25',''),
+('EA1122','Altos Hornos De México','03','México','HHM','','2023-11-25',''),
+('EA1123','Secretaría de Marina (Oper. Civil En Emergencia)','03','México','HHN','','2023-11-25',''),
+('EA1124','Torre Medica Hospital Puebla','03','México','HHP','','2023-11-25',''),
+('EA1125','Hospital General De 24 Camas','03','México','HHQ','','2023-11-25',''),
+('EA1126','Camino Real México','03','México','HHR','','2023-11-25',''),
+('EA1127','Hospital San José','03','México','HHS','','2023-11-25',''),
+('EA1128','Issste Tultitlan','03','México','HHT','','2023-11-25',''),
+('EA1129','Rancho El Girasol','03','México','HHV','','2023-11-25',''),
+('EA1130','Hospital Issste Morelia','03','México','HHX','','2023-11-25',''),
+('EA1131','Aero Turquesa Cozumel','03','México','HHZ','','2023-11-25',''),
+('EA1132','La Primavera','03','México','HIA','','2023-11-25',''),
+('EA1133','Inmobiliaria Arcos Bosques\n(Proyecto)','03','México','HIB','','2023-11-25',''),
+('EA1134','Huajimic','03','México','HIC','','2023-11-25',''),
+('EA1135','Torre Ii','03','México','HID','','2023-11-25',''),
+('EA1136','Inite','03','México','HIE','','2023-11-25',''),
+('EA1137','Interlomas Motors','03','México','HIF','','2023-11-25',''),
+('EA1138','Itam Santa Teresa','03','México','HIG','','2023-11-25',''),
+('EA1139','Itam Rio Hondo','03','México','HIH','','2023-11-25',''),
+('EA1140','Centenario Gr','03','México','HII','','2023-11-25',''),
+('EA1141','Bicentenario','03','México','HIJ','','2023-11-25',''),
+('EA1142','Huachichil','03','México','HIL','','2023-11-25',''),
+('EA1143','Centro Internacional De Medicina De Puebla','03','México','HIM','','2023-11-25',''),
+('EA1144','Mundo Infantil','03','México','HIM','','2023-11-25',''),
+('EA1145','Hospital ABC','03','México','HIN','','2023-11-25',''),
+('EA1146','Industria Del Hierro','03','México','HIQ','','2023-11-25',''),
+('EA1147','Infored','03','México','HIR','','2023-11-25',''),
+('EA1148','Huerta Los Sauces','03','México','HIS','','2023-11-25',''),
+('EA1149','Hsbc','03','México','HIT','','2023-11-25',''),
+('EA1150','Issste Veracruz','03','México','HIV','','2023-11-25',''),
+('EA1151','Iusa Ii','03','México','HIW','','2023-11-25',''),
+('EA1152','Hospital De Alta Especialidad Ixtapaluca','03','México','HIX','','2023-11-25',''),
+('EA1153','Tlatelolco Ii','03','México','HIY','','2023-11-25',''),
+('EA1154','Issste Querétaro','03','México','HIZ','','2023-11-25',''),
+('EA1155','Ajalpa','03','México','HJA','','2023-11-25',''),
+('EA1156','Edificio De Justicia Estatal','03','México','HJE','','2023-11-25',''),
+('EA1157','Hospital San Javier','03','México','HJG','','2023-11-25',''),
+('EA1158','Judith','03','México','HJH','','2023-11-25',''),
+('EA1159','Jeannine','03','México','HJI','','2023-11-25',''),
+('EA1160','Juan María De Salvatierra','03','México','HJR','','2023-11-25',''),
+('EA1161','Hospital San José Tec De Monterrey','03','México','HJS','','2023-11-25',''),
+('EA1162','Júpiter I','03','México','HJU','','2023-11-25',''),
+('EA1163','J.W. Marriott','03','México','HJW','','2023-11-25',''),
+('EA1164','Akalan Ii','03','México','HKB','','2023-11-25',''),
+('EA1165','La Cascada','03','México','HKD','','2023-11-25',''),
+('EA1166','K.N.','03','México','HKN','','2023-11-25',''),
+('EA1167','Coca Cola Femsa','03','México','HKO','','2023-11-25',''),
+('EA1168','Panzacola','03','México','HKP','','2023-11-25',''),
+('EA1169','Arkos Ii Chiapas','03','México','HKS','','2023-11-25',''),
+('EA1170','Elektra Ii','03','México','HKT','','2023-11-25',''),
+('EA1171','Plaza Kukulcán','03','México','HKU','','2023-11-25',''),
+('EA1172','Edificio Viviendas 1 Y 2','03','México','HKW','','2023-11-25',''),
+('EA1173','Edificio Falcon','03','México','HKX','','2023-11-25',''),
+('EA1174','Edificio Telcel','03','México','HKY','','2023-11-25',''),
+('EA1175','Edificio Zúrich','03','México','HKZ','','2023-11-25',''),
+('EA1176','León','03','México','HLA','','2023-11-25',''),
+('EA1177','Mario López Valdez','03','México','HLB','','2023-11-25',''),
+('EA1178','La Diferencia','03','México','HLD','','2023-11-25',''),
+('EA1179','Torre Libertad','03','México','HLI','','2023-11-25',''),
+('EA1180','Lupe Del Mar','03','México','HLK','','2023-11-25',''),
+('EA1181','Lic. Adolfo López Mateos','03','México','HLM','','2023-11-25',''),
+('EA1182','Terracota Cien','03','México','HLO','','2023-11-25',''),
+('EA1183','La Paloma Company','03','México','HLP','','2023-11-25',''),
+('EA1184','Las Delicias','03','México','HLS','','2023-11-25',''),
+('EA1185','Torre Lomas','03','México','HLT','','2023-11-25',''),
+('EA1186','Hospital Ángeles Lindavista','03','México','HLV','','2023-11-25',''),
+('EA1187','María De La Paz','03','México','HLZ','','2023-11-25',''),
+('EA1188','Gpm Aeroservicio','03','México','HMA','','2023-11-25',''),
+('EA1189','Torre Banorte','03','México','HMB','','2023-11-25',''),
+('EA1190','Mazpesca 2','03','México','HMC','','2023-11-25',''),
+('EA1191','Milenio Diario Antes Novedades Editores','03','México','HMD','','2023-11-25',''),
+('EA1192','Moliere 222','03','México','HME','','2023-11-25',''),
+('EA1193','María Fernanda','03','México','HMF','','2023-11-25',''),
+('EA1194','Embarcadero (Cambio De Designador) Hmb','03','México','HMG(NUEVO)','','2023-11-25',''),
+('EA1195','María Rossana','03','México','HMH','','2023-11-25',''),
+('EA1196','Moliere Dos22','03','México','HMI','','2023-11-25',''),
+('EA1197','Playa Mujeres Resort','03','México','HMJ','','2023-11-25',''),
+('EA1198','Mazatun','03','México','HMK','','2023-11-25',''),
+('EA1199','Mocel','03','México','HML','','2023-11-25',''),
+('EA1200','María Del Mar','03','México','HMM','','2023-11-25',''),
+('EA1201','Moliere 222 Ii','03','México','HMN','','2023-11-25',''),
+('EA1202','Madeira','03','México','HMP','','2023-11-25',''),
+('EA1203','Medica Sur','03','México','HMQ','','2023-11-25',''),
+('EA1204','Torre Morelos','03','México','HMR','','2023-11-25',''),
+('EA1205','María Verónica','03','México','HMS','','2023-11-25',''),
+('EA1206','Torre Mayor','03','México','HMT','','2023-11-25',''),
+('EA1207','María Luisa','03','México','HMU','','2023-11-25',''),
+('EA1208','Moras','03','México','HMV','','2023-11-25',''),
+('EA1209','Micare','03','México','HMW','','2023-11-25',''),
+('EA1210','Chac Mool','03','México','HMY','','2023-11-25',''),
+('EA1211','Hospital Muguerza Saltillo','03','México','HMZ','','2023-11-25',''),
+('EA1212','Nair I','03','México','HNA','','2023-11-25',''),
+('EA1213','Nutec\n(Proyecto)','03','México','HNC','','2023-11-25',''),
+('EA1214','Comandancia Norte','03','México','HND','','2023-11-25',''),
+('EA1215','Comisión Nacional Del Agua','03','México','HNF','','2023-11-25',''),
+('EA1216','Torre Motomex','03','México','HNH','','2023-11-25',''),
+('EA1217','Hotel Nikko','03','México','HNK','','2023-11-25',''),
+('EA1218','Yautepec Nieto','03','México','HNM','','2023-11-25',''),
+('EA1219','Helipuerto Hospiten Cancún','03','México','HNN','','2023-11-25',''),
+('EA1220','La Prensa','03','México','HNP','','2023-11-25',''),
+('EA1221','Nair Ii','03','México','HNR','','2023-11-25',''),
+('EA1222','Nacozari','03','México','HNS','','2023-11-25',''),
+('EA1223','Torre Medica Ángeles\n(Torre Clínica)','03','México','HNT','','2023-11-25',''),
+('EA1224','Akumal','03','México','HNV','','2023-11-25',''),
+('EA1225','Najucal','03','México','HNX','','2023-11-25',''),
+('EA1226','Manzanilla','03','México','HNY','','2023-11-25',''),
+('EA1227','Olas Altas','03','México','HOA','','2023-11-25',''),
+('EA1228','Dos Bocas','03','México','HOB','','2023-11-25',''),
+('EA1229','Constituyentes','03','México','HOC','','2023-11-25',''),
+('EA1230','Agua Dulce','03','México','HOD','','2023-11-25',''),
+('EA1231','Organización Editorial Mexicana','03','México','HOE','','2023-11-25',''),
+('EA1232','Opción Santa Fe Iv','03','México','HOF','','2023-11-25',''),
+('EA1233','Holbox','03','México','HOL','','2023-11-25',''),
+('EA1234','Omega','03','México','HOM','','2023-11-25',''),
+('EA1235','Hospital Ángeles De Puebla','03','México','HOP','','2023-11-25',''),
+('EA1236','Misión Del Sol','03','México','HOS','','2023-11-25',''),
+('EA1237','Villa Ángeles I','03','México','HOV','','2023-11-25',''),
+('EA1238','Puebla 2000','03','México','HOX','','2023-11-25',''),
+('EA1239','Hotel Centro Histórico','03','México','HOY','','2023-11-25',''),
+('EA1240','Helipuerto Cruz Azul','03','México','HOZ','','2023-11-25',''),
+('EA1241','Huizopa De Dolores','03','México','HPA','','2023-11-25',''),
+('EA1242','Park Plaza I','03','México','HPD','','2023-11-25',''),
+('EA1243','Plaza Insurgentes Sur (3)','03','México','HPE','','2023-11-25',''),
+('EA1244','Plaza Insurgentes Sur (4)','03','México','HPF','','2023-11-25',''),
+('EA1245','Gobierno Del Estado De Chiapas','03','México','HPG','','2023-11-25',''),
+('EA1246','Puebla Inversionista','03','México','HPI','','2023-11-25',''),
+('EA1247','Plaza Insurgentes Sur (2)\n(Proyecto)','03','México','HPK','','2023-11-25',''),
+('EA1248','Torre Ejecutiva Pemex','03','México','HPM','','2023-11-25',''),
+('EA1249','Nestlé','03','México','HPN','','2023-11-25',''),
+('EA1250','Cabo De Peñas','03','México','HPP','','2023-11-25',''),
+('EA1251','Rancho La Parroquia','03','México','HPQ','','2023-11-25',''),
+('EA1252','Safe Regency','03','México','HPR','','2023-11-25',''),
+('EA1253','Peñasquito','03','México','HPS','','2023-11-25',''),
+('EA1254','Paseo Tec','03','México','HPT','','2023-11-25',''),
+('EA1255','Huajupa','03','México','HPU','','2023-11-25',''),
+('EA1256','Plaza Cuicuilco','03','México','HPV','','2023-11-25',''),
+('EA1257','Gobierno Del Estado De Puebla','03','México','HPW','','2023-11-25',''),
+('EA1258','Plaza Scotiabank','03','México','HPX','','2023-11-25',''),
+('EA1259','Polycel','03','México','HPY','','2023-11-25',''),
+('EA1260','Azteca 1','03','México','HQA','','2023-11-25',''),
+('EA1261','Azteca 2','03','México','HQB','','2023-11-25',''),
+('EA1262','Azteca 3','03','México','HQC','','2023-11-25',''),
+('EA1263','Azteca 4','03','México','HQD','','2023-11-25',''),
+('EA1264','Azteca 5','03','México','HQE','','2023-11-25',''),
+('EA1265','Azteca 6','03','México','HQF','','2023-11-25',''),
+('EA1266','Azteca 7','03','México','HQG','','2023-11-25',''),
+('EA1267','Azteca 8','03','México','HQH','','2023-11-25',''),
+('EA1268','Azteca 9','03','México','HQI','','2023-11-25',''),
+('EA1269','Azteca 10','03','México','HQJ','','2023-11-25',''),
+('EA1270','Pesca Azteca','03','México','HQK','','2023-11-25',''),
+('EA1271','Clipperton','03','México','HQL','','2023-11-25',''),
+('EA1272','Hanna','03','México','HQN','','2023-11-25',''),
+('EA1273','Reforma 211-213','03','México','HRA','','2023-11-25',''),
+('EA1274','El Roble','03','México','HRB','','2023-11-25',''),
+('EA1275','Hércules','03','México','HRC','','2023-11-25',''),
+('EA1276','Camino Real Monterrey','03','México','HRE','','2023-11-25',''),
+('EA1277','Helipuerto Reforma','03','México','HRF','','2023-11-25',''),
+('EA1278','Hernández Ranch','03','México','HRH','','2023-11-25',''),
+('EA1279','Rancho La Fortuna','03','México','HRI','','2023-11-25',''),
+('EA1280','El Realito','03','México','HRJ','','2023-11-25',''),
+('EA1281','Arkos I Chiapas','03','México','HRK','','2023-11-25',''),
+('EA1282','Samaria-Luna','03','México','HRL','','2023-11-25',''),
+('EA1283','Revolución','03','México','HRN','','2023-11-25',''),
+('EA1284','Reforma Plus','03','México','HRP','','2023-11-25',''),
+('EA1285','Reforma 115','03','México','HRQ','','2023-11-25',''),
+('EA1286','Marítima Y Servicios','03','México','HRV','','2023-11-25',''),
+('EA1287','Residencial Del Bosque Ii','03','México','HRW','','2023-11-25',''),
+('EA1288','Hotel Riu Palace\n(Proyecto)','03','México','HRX','','2023-11-25',''),
+('EA1289','Reforma 222','03','México','HRX','','2023-11-25',''),
+('EA1290','Torrey','03','México','HRY','','2023-11-25',''),
+('EA1291','Santa Fe 443\n(Proyecto)','03','México','HSA','','2023-11-25',''),
+('EA1292','Atún Vii','03','México','HSC','','2023-11-25',''),
+('EA1293','El Sol De Durango','03','México','HSD','','2023-11-25',''),
+('EA1294','Selecciones De Color','03','México','HSE','','2023-11-25',''),
+('EA1295','San Francisco','03','México','HSF','','2023-11-25',''),
+('EA1296','Sarabia','03','México','HSH','','2023-11-25',''),
+('EA1297','Helicopters Air Space','03','México','HSI','','2023-11-25',''),
+('EA1298','Hacienda San Juan','03','México','HSJ','','2023-11-25',''),
+('EA1299','Atún I','03','México','HSK','','2023-11-25',''),
+('EA1300','Hotel Solaris','03','México','HSL','','2023-11-25',''),
+('EA1301','Helipuerto Secretaria De Seguridad Publica','03','México','HSM','','2023-11-25',''),
+('EA1302','Sind. Nacional De Los Trabajadores De La Educación','03','México','HSN','','2023-11-25',''),
+('EA1303','Helipuerto Sefuver','03','México','HSO','','2023-11-25',''),
+('EA1304','Palmore','03','México','HSP','','2023-11-25',''),
+('EA1305','Seguridad Publica De Cancún','03','México','HSQ','','2023-11-25',''),
+('EA1306','Selder','03','México','HSR','','2023-11-25',''),
+('EA1307','Centro Nacional De Rehabilitación','03','México','HSS','','2023-11-25',''),
+('EA1308','Alsavision','03','México','HSV','','2023-11-25',''),
+('EA1309','Secretaria De Seguridad Pública','03','México','HSW','','2023-11-25',''),
+('EA1310','Skytex','03','México','HSX','','2023-11-25',''),
+('EA1311','Safe Hibernia','03','México','HSY','','2023-11-25',''),
+('EA1312','Torre Acuario','03','México','HTA','','2023-11-25',''),
+('EA1313','Torre Del Bosque','03','México','HTB','','2023-11-25',''),
+('EA1314','Torre Caballito','03','México','HTC','','2023-11-25',''),
+('EA1315','Bardahl Toluca','03','México','HTD','','2023-11-25',''),
+('EA1316','Trans Caribe Cozumel','03','México','HTD','','2023-11-25',''),
+('EA1317','Torre Esmeralda','03','México','HTE','','2023-11-25',''),
+('EA1318','Torre Acueducto','03','México','HTF','','2023-11-25',''),
+('EA1319','Hospital 120 Camas Tláhuac','03','México','HTF','','2023-11-25',''),
+('EA1320','Toro Viejo','03','México','HTF','','2023-11-25',''),
+('EA1321','Helipuerto Tuxtla Gutiérrez\n(Proyecto)','03','México','HTG','','2023-11-25',''),
+('EA1322','Unitec Guadalajara','03','México','HTG','','2023-11-25',''),
+('EA1323','Torre Del Castillo','03','México','HTH','','2023-11-25',''),
+('EA1324','Titanic','03','México','HTI','','2023-11-25',''),
+('EA1325','Tribunal Superior De Justicia','03','México','HTJ','','2023-11-25',''),
+('EA1326','Macel','03','México','HTK','','2023-11-25',''),
+('EA1327','Televisa Santa Fe','03','México','HTL','','2023-11-25',''),
+('EA1328','Huetamo','03','México','HTM','','2023-11-25',''),
+('EA1329','Hotel Tecnoparque','03','México','HTN','','2023-11-25',''),
+('EA1330','Trans Caribe Nichupte','03','México','HTN','','2023-11-25',''),
+('EA1331','Torre Optima','03','México','HTP','','2023-11-25',''),
+('EA1332','Aeroturquesa Cancún','03','México','HTQ','','2023-11-25',''),
+('EA1333','Pinfra (Antes Tribasa)','03','México','HTR','','2023-11-25',''),
+('EA1334','Tlalpan','03','México','HTS','','2023-11-25',''),
+('EA1335','Transpais','03','México','HTT','','2023-11-25',''),
+('EA1336','Hotel Terranova','03','México','HTU','','2023-11-25',''),
+('EA1337','Torre Providencia (Proyecto)','03','México','HTV','','2023-11-25',''),
+('EA1338','Televisa San Ángel','03','México','HTW','','2023-11-25',''),
+('EA1339','Torre Telmex','03','México','HTX','','2023-11-25',''),
+('EA1340','El Tejocotal','03','México','HTY','','2023-11-25',''),
+('EA1341','Huexca','03','México','HUC','','2023-11-25',''),
+('EA1342','Banco Del Bajío','03','México','HUD','','2023-11-25',''),
+('EA1343','Unefón','03','México','HUF','','2023-11-25',''),
+('EA1344','Unitec Campus Sur','03','México','HUG','','2023-11-25',''),
+('EA1345','María Antonieta','03','México','HUK','','2023-11-25',''),
+('EA1346','Radio Capital','03','México','HUM','','2023-11-25',''),
+('EA1347','Inmobiliaria Montes Urales 770','03','México','HUR','','2023-11-25',''),
+('EA1348','Comandancia Sur','03','México','HUU','','2023-11-25',''),
+('EA1349','Huapaverachi','03','México','HUV','','2023-11-25',''),
+('EA1350','Helipuerto Royal','03','México','HUY','','2023-11-25',''),
+('EA1351','Marina  Vallarta','03','México','HVA','','2023-11-25',''),
+('EA1352','Villa Ángeles','03','México','HVB','','2023-11-25',''),
+('EA1353','San Vicente','03','México','HVC','','2023-11-25',''),
+('EA1354','Verónica','03','México','HVE','','2023-11-25',''),
+('EA1355','Punto Central','03','México','HVF','','2023-11-25',''),
+('EA1356','Casa Marlín','03','México','HVG','','2023-11-25',''),
+('EA1357','Hospital Ángeles De Villahermosa','03','México','HVI','','2023-11-25',''),
+('EA1358','Theresa Janene','03','México','HVJ','','2023-11-25',''),
+('EA1359','Amatitlán','03','México','HVM','','2023-11-25',''),
+('EA1360','Helivan','03','México','HVN','','2023-11-25',''),
+('EA1361','Villa Ángeles Ii','03','México','HVO','','2023-11-25',''),
+('EA1362','Huizopa','03','México','HVP','','2023-11-25',''),
+('EA1363','Vertientes','03','México','HVS','','2023-11-25',''),
+('EA1364','Variedades','03','México','HVS','','2023-11-25',''),
+('EA1365','Villalta','03','México','HVX','','2023-11-25',''),
+('EA1366','Vz Flights','03','México','HVZ','','2023-11-25',''),
+('EA1367','Atunera Gabiero','03','México','HWG','','2023-11-25',''),
+('EA1368','I.M.S.S.','03','México','HWI','','2023-11-25',''),
+('EA1369','Centro Corporativo World Plaza','03','México','HWP','','2023-11-25',''),
+('EA1370','Rio Blanco','03','México','HWR','','2023-11-25',''),
+('EA1371','María Guadalupe','03','México','HXG','','2023-11-25',''),
+('EA1372','Xitle','03','México','HXI','','2023-11-25',''),
+('EA1373','Moctezuma','03','México','HXM','','2023-11-25',''),
+('EA1374','Ixcun','03','México','HXN','','2023-11-25',''),
+('EA1375','Perla','03','México','HXP','','2023-11-25',''),
+('EA1376','Senado De La Republica','03','México','HXR','','2023-11-25',''),
+('EA1377','Scorpio','03','México','HXS','','2023-11-25',''),
+('EA1378','Hospital General De Veracruz','03','México','HXY','','2023-11-25',''),
+('EA1379','Corporativo Santa Fe 505','03','México','HYC','','2023-11-25',''),
+('EA1380','Cartadedeces','03','México','HYI','','2023-11-25',''),
+('EA1381','Huaynamota','03','México','HYM','','2023-11-25',''),
+('EA1382','Toyota','03','México','HYT','','2023-11-25',''),
+('EA1383','Helimaz','03','México','HZC','','2023-11-25',''),
+('EA1384','El Huizache','03','México','HZH','','2023-11-25',''),
+('EA1385','Aero Anáhuac','03','México','HZI','','2023-11-25',''),
+('EA1386','Huazamota','03','México','HZM','','2023-11-25',''),
+('EA1387','Torre Zentrum','03','México','HZN','','2023-11-25',''),
+('EA1388','Hospital Cristus Muguerza','03','México','HZO','','2023-11-25',''),
+('EA1389','Lic. Adolfo Ruiz Cortinez','03','México','HZR','','2023-11-25',''),
+('EA1390','Tv Azteca','03','México','HZT','','2023-11-25',''),
+('EA1391','Huatabampo','03','México','HZU','','2023-11-25',''),
+('EA1392','El Estribo','03','México','IBO','','2023-11-25',''),
+('EA1393','Icarus','03','México','ICA','','2023-11-25',''),
+('EA1394','Isla Cedros','03','México','ICD','','2023-11-25',''),
+('EA1395','Isla Del Carmen','03','México','ICM','','2023-11-25',''),
+('EA1396','Isaac Castro Sahade','03','México','ICS','','2023-11-25',''),
+('EA1397','Isla Del Toro','03','México','IDT','','2023-11-25',''),
+('EA1398','Laboratorio Del Desierto','03','México','IEM','','2023-11-25',''),
+('EA1399','Club De Vuelo Cadereyta S.C.','03','México','IER','','2023-11-25',''),
+('EA1400','San Ignacio 2','03','México','IGB','','2023-11-25',''),
+('EA1401','El Igualamo','03','México','IGL','','2023-11-25',''),
+('EA1402','Ingenio De Huixtla','03','México','IHC','','2023-11-25',''),
+('EA1403','Pista Iñiguez Ii','03','México','INZ','','2023-11-25',''),
+('EA1404','Las Islas','03','México','ISL','','2023-11-25',''),
+('EA1405','San Marcos','03','México','ISM','','2023-11-25',''),
+('EA1406','Isla Natividad','03','México','ISN','','2023-11-25',''),
+('EA1407','Islita','03','México','ITA','','2023-11-25',''),
+('EA1408','Ixtlán Ii','03','México','IXL','','2023-11-25',''),
+('EA1409','Jagüeyes','03','México','JAG','','2023-11-25',''),
+('EA1410','Aeródromo Jbs','03','México','JBS','','2023-11-25',''),
+('EA1411','Jbt','03','México','JBT','','2023-11-25',''),
+('EA1412','El Jacal','03','México','JCL','','2023-11-25',''),
+('EA1413','Jazmines De Coyultita','03','México','JCN','','2023-11-25',''),
+('EA1414','Jesús Javier Castro Soto','03','México','JCS','','2023-11-25',''),
+('EA1415','El Jardín','03','México','JDN','','2023-11-25',''),
+('EA1416','Jorge Efraín','03','México','JEF','','2023-11-25',''),
+('EA1417','Pista Leo','03','México','JEP','','2023-11-25',''),
+('EA1418','Farías','03','México','JFV','','2023-11-25',''),
+('EA1419','El Cuervo','03','México','JGT','','2023-11-25',''),
+('EA1420','El Jagüey','03','México','JGY','','2023-11-25',''),
+('EA1421','Jalisquillo','03','México','JLO','','2023-11-25',''),
+('EA1422','Jorge Llerenas Silva','03','México','JLS','','2023-11-25',''),
+('EA1423','Jesús María','03','México','JMA','','2023-11-25',''),
+('EA1424','Jesús María','03','México','JMC','','2023-11-25',''),
+('EA1425','José Magdaleno Jalavera Reyes','03','México','JMJ','','2023-11-25',''),
+('EA1426','Juan Murillo','03','México','JMR','','2023-11-25',''),
+('EA1427','La Huerta  (Antes El Paraíso)','03','México','JMS','','2023-11-25',''),
+('EA1428','Mesa Loma Prieta','03','México','JMV','','2023-11-25',''),
+('EA1429','El Janeño','03','México','JNN','','2023-11-25',''),
+('EA1430','Janitzio','03','México','JNZ','','2023-11-25',''),
+('EA1431','San Jorge','03','México','JOG','','2023-11-25',''),
+('EA1432','José De Jesús Palacios López','03','México','JPL','','2023-11-25',''),
+('EA1433','Pista De Jalpan','03','México','JPN','','2023-11-25',''),
+('EA1434','San José Del Progreso','03','México','JPT','','2023-11-25',''),
+('EA1435','Juan Perdomo Medina','03','México','JPV','','2023-11-25',''),
+('EA1436','Las Cruces','03','México','JRS','','2023-11-25',''),
+('EA1437','José Galindo Ruiz','03','México','JSG','','2023-11-25',''),
+('EA1438','San Juanito','03','México','JTO','','2023-11-25',''),
+('EA1439','Pista Juárez Hermanos','03','México','JUH','','2023-11-25',''),
+('EA1440','Ju-Bar','03','México','JUR','','2023-11-25',''),
+('EA1441','La Chijolosa','03','México','JVA','','2023-11-25',''),
+('EA1442','Campo San Javier','03','México','JVS','','2023-11-25',''),
+('EA1443','La Joya','03','México','JYA','','2023-11-25',''),
+('EA1444','La Joya Brun','03','México','JYB','','2023-11-25',''),
+('EA1445','Cuautla De Huitzililla','03','México','KHU','','2023-11-25',''),
+('EA1446','Kohunlinch','03','México','KLI','','2023-11-25',''),
+('EA1447','La Base','03','México','LAA','','2023-11-25',''),
+('EA1448','La Laguna','03','México','LAF','','2023-11-25',''),
+('EA1449','La Joya','03','México','LAJ','','2023-11-25',''),
+('EA1450','Las Lajas','03','México','LAK','','2023-11-25',''),
+('EA1451','Las Américas','03','México','LAM','','2023-11-25',''),
+('EA1452','La Misión','03','México','LAM','','2023-11-25',''),
+('EA1453','Los Ángeles','03','México','LAN','','2023-11-25',''),
+('EA1454','La Sierrita','03','México','LAO','','2023-11-25',''),
+('EA1455','Las Arenas','03','México','LAR','','2023-11-25',''),
+('EA1456','Las Azoteas','03','México','LAS','','2023-11-25',''),
+('EA1457','Las Águilas','03','México','LAX','','2023-11-25',''),
+('EA1458','La Brisca','03','México','LBA','','2023-11-25',''),
+('EA1459','Los Bravos De Bonfil','03','México','LBB','','2023-11-25',''),
+('EA1460','La Begoña','03','México','LBG','','2023-11-25',''),
+('EA1461','Loma Blanca','03','México','LBH','','2023-11-25',''),
+('EA1462','Los Brasiles','03','México','LBO','','2023-11-25',''),
+('EA1463','Los Barajas','03','México','LBS','','2023-11-25',''),
+('EA1464','Los Lobos','03','México','LBX','','2023-11-25',''),
+('EA1465','La Campana','03','México','LCA','','2023-11-25',''),
+('EA1466','La Candelaria Borders','03','México','LCD','','2023-11-25',''),
+('EA1467','La Caridad','03','México','LCI','','2023-11-25',''),
+('EA1468','Los Canarios','03','México','LCM','','2023-11-25',''),
+('EA1469','La Candelaria','03','México','LCN','','2023-11-25',''),
+('EA1470','Las Carreras','03','México','LCQ','','2023-11-25',''),
+('EA1471','Las Cruces','03','México','LCS','','2023-11-25',''),
+('EA1472','Los Cuates','03','México','LCT','','2023-11-25',''),
+('EA1473','Las Cuevas','03','México','LCV','','2023-11-25',''),
+('EA1474','Las Cuevas','03','México','LCW','','2023-11-25',''),
+('EA1475','Los Cerones','03','México','LCX','','2023-11-25',''),
+('EA1476','El Limón De Badiraguato','03','México','LDB','','2023-11-25',''),
+('EA1477','Limón De Los Castañeda','03','México','LDC','','2023-11-25',''),
+('EA1478','General Jesús Agustín Castro','03','México','LDD','','2023-11-25',''),
+('EA1479','Lo De Diarte','03','México','LDO','','2023-11-25',''),
+('EA1480','Lindavista','03','México','LDV','','2023-11-25',''),
+('EA1481','La Esmeralda','03','México','LED','','2023-11-25',''),
+('EA1482','La Esperanza I','03','México','LEE','','2023-11-25',''),
+('EA1483','La Lechuguilla','03','México','LEH','','2023-11-25',''),
+('EA1484','Leon''S','03','México','LEO','','2023-11-25',''),
+('EA1485','La Escuadra','03','México','LEQ','','2023-11-25',''),
+('EA1486','Los Ébanos','03','México','LET','','2023-11-25',''),
+('EA1487','La Florida','03','México','LFA','','2023-11-25',''),
+('EA1488','Los Fresnos','03','México','LFE','','2023-11-25',''),
+('EA1489','Los Frailes','03','México','LFS','','2023-11-25',''),
+('EA1490','Las Flores','03','México','LFX','','2023-11-25',''),
+('EA1491','La Gloria De Coahuila','03','México','LGA','','2023-11-25',''),
+('EA1492','Las Glorias','03','México','LGB','','2023-11-25',''),
+('EA1493','Llano Grande','03','México','LGE','','2023-11-25',''),
+('EA1494','Los González','03','México','LGF','','2023-11-25',''),
+('EA1495','La Ciénega Del Ojito','03','México','LGG','','2023-11-25',''),
+('EA1496','Los Gloriosos','03','México','LGI','','2023-11-25',''),
+('EA1497','La Gloria','03','México','LGK','','2023-11-25',''),
+('EA1498','La Guajolota','03','México','LGL','','2023-11-25',''),
+('EA1499','Los González De Gorongoros','03','México','LGT','','2023-11-25',''),
+('EA1500','La Laguna','03','México','LGU','','2023-11-25',''),
+('EA1501','La Guacamaya','03','México','LGY','','2023-11-25',''),
+('EA1502','La Herradura','03','México','LHA','','2023-11-25',''),
+('EA1503','Los Halcones','03','México','LHC','','2023-11-25',''),
+('EA1504','La Hermandad','03','México','LHE','','2023-11-25',''),
+('EA1505','La Chalina','03','México','LHI','','2023-11-25',''),
+('EA1506','La Horqueta','03','México','LHO','','2023-11-25',''),
+('EA1507','C.P.A. Leonardo López Hernández','03','México','LHV','','2023-11-25',''),
+('EA1508','El Liebrero','03','México','LIE','','2023-11-25',''),
+('EA1509','Las Ilusiones','03','México','LIL','','2023-11-25',''),
+('EA1510','El Limón De Copalquin','03','México','LIM','','2023-11-25',''),
+('EA1511','El Limoncito','03','México','LIM','','2023-11-25',''),
+('EA1512','Los Pilares','03','México','LIR','','2023-11-25',''),
+('EA1513','La Jaiba','03','México','LJA','','2023-11-25',''),
+('EA1514','Represito De Lujan','03','México','LJN','','2023-11-25',''),
+('EA1515','La Coma','03','México','LKA','','2023-11-25',''),
+('EA1516','La Calera','03','México','LKE','','2023-11-25',''),
+('EA1517','Las Cruces','03','México','LKS','','2023-11-25',''),
+('EA1518','El Llano','03','México','LLF','','2023-11-25',''),
+('EA1519','La Laguna','03','México','LLG','','2023-11-25',''),
+('EA1520','La Laguna','03','México','LLH','','2023-11-25',''),
+('EA1521','El Limón Las Coloradas','03','México','LLL','','2023-11-25',''),
+('EA1522','La Lomita\n(Acreditación Propietario)','03','México','LLM','','2023-11-25',''),
+('EA1523','Los Llanos','03','México','LLN','','2023-11-25',''),
+('EA1524','La Loma','03','México','LLT','','2023-11-25',''),
+('EA1525','La Lagunita','03','México','LLW','','2023-11-25',''),
+('EA1526','La Manga','03','México','LMA','','2023-11-25',''),
+('EA1527','Rancho La Misión','03','México','LMB','','2023-11-25',''),
+('EA1528','Los Mártires','03','México','LMF','','2023-11-25',''),
+('EA1529','Las Mulas','03','México','LMH','','2023-11-25',''),
+('EA1530','La Misión','03','México','LMI','','2023-11-25',''),
+('EA1531','La Misión','03','México','LMK','','2023-11-25',''),
+('EA1532','Lic. Francisco Primo De Verdad Y Ramos','03','México','LMO','','2023-11-25',''),
+('EA1533','Lampazos','03','México','LMP','','2023-11-25',''),
+('EA1534','Las Palmas De Guasave','03','México','LMQ','','2023-11-25',''),
+('EA1535','La Mesa Del Rodeo','03','México','LMR','','2023-11-25',''),
+('EA1536','La Miseria','03','México','LMS','','2023-11-25',''),
+('EA1537','Rancho La Margarita','03','México','LMT','','2023-11-25',''),
+('EA1538','Las Macayas','03','México','LMV','','2023-11-25',''),
+('EA1539','La Mesa','03','México','LMX','','2023-11-25',''),
+('EA1540','Loma Linda','03','México','LNA','','2023-11-25',''),
+('EA1541','La Anacua','03','México','LNC','','2023-11-25',''),
+('EA1542','Rancho La Encantada','03','México','LND','','2023-11-25',''),
+('EA1543','La Nueva Esperanza','03','México','LNE','','2023-11-25',''),
+('EA1544','Las Ninfas','03','México','LNF','','2023-11-25',''),
+('EA1545','Aerofumigaciones La Nanchi','03','México','LNL','','2023-11-25',''),
+('EA1546','Los Pintos','03','México','LNP','','2023-11-25',''),
+('EA1547','Las Norias','03','México','LNR','','2023-11-25',''),
+('EA1548','Rancho La Nutria','03','México','LNU','','2023-11-25',''),
+('EA1549','Rancho Laguna Vista','03','México','LNY','','2023-11-25',''),
+('EA1550','Los Lobos','03','México','LOB','','2023-11-25',''),
+('EA1551','Los Olivos','03','México','LOC','','2023-11-25',''),
+('EA1552','San Bernardino De Milpillas Chico','03','México','LOD','','2023-11-25',''),
+('EA1553','Los Pipos','03','México','LOE','','2023-11-25',''),
+('EA1554','Longoria','03','México','LOG','','2023-11-25',''),
+('EA1555','Los Limones','03','México','LOL','','2023-11-25',''),
+('EA1556','Lorena','03','México','LON','','2023-11-25',''),
+('EA1557','Pista López','03','México','LOP','','2023-11-25',''),
+('EA1558','San Lorenzo Acuña','03','México','LOR','','2023-11-25',''),
+('EA1559','Los Charcos','03','México','LOS','','2023-11-25',''),
+('EA1560','Los Vasitos','03','México','LOV','','2023-11-25',''),
+('EA1561','El Loreto','03','México','LOY','','2023-11-25',''),
+('EA1562','La Piedad','03','México','LPD','','2023-11-25',''),
+('EA1563','La Pesca Base Aeronaval','03','México','LPE','','2023-11-25',''),
+('EA1564','La Paloma','03','México','LPF','','2023-11-25',''),
+('EA1565','La Pichihuila','03','México','LPH','','2023-11-25',''),
+('EA1566','La Poza','03','México','LPJ','','2023-11-25',''),
+('EA1567','La Palma','03','México','LPM','','2023-11-25',''),
+('EA1568','Los Pinitos','03','México','LPN','','2023-11-25',''),
+('EA1569','La Palmosa','03','México','LPO','','2023-11-25',''),
+('EA1570','La Laguna Del Palmar','03','México','LPR','','2023-11-25',''),
+('EA1571','La Pajarera','03','México','LPV','','2023-11-25',''),
+('EA1572','La Paz','03','México','LPW','','2023-11-25',''),
+('EA1573','Los Pericos','03','México','LPX','','2023-11-25',''),
+('EA1574','La Pitaya','03','México','LPY','','2023-11-25',''),
+('EA1575','Liquidambar','03','México','LQA','','2023-11-25',''),
+('EA1576','La Campana De San Quintín','03','México','LQN','','2023-11-25',''),
+('EA1577','Las Reynas','03','México','LRI','','2023-11-25',''),
+('EA1578','Reyna Diana','03','México','LRJ','','2023-11-25',''),
+('EA1579','Lagarto','03','México','LRO','','2023-11-25',''),
+('EA1580','Laguna Del Rey','03','México','LRY','','2023-11-25',''),
+('EA1581','La Soledad','03','México','LSD','','2023-11-25',''),
+('EA1582','Las Higueras','03','México','LSH','','2023-11-25',''),
+('EA1583','Laguna Seca','03','México','LSK','','2023-11-25',''),
+('EA1584','Las Mesas','03','México','LSM','','2023-11-25',''),
+('EA1585','Los Perros','03','México','LSP','','2023-11-25',''),
+('EA1586','La Sierrita','03','México','LST','','2023-11-25',''),
+('EA1587','La Angostura','03','México','LTA','','2023-11-25',''),
+('EA1588','La Trinidad','03','México','LTB','','2023-11-25',''),
+('EA1589','La Trinidad','03','México','LTP','','2023-11-25',''),
+('EA1590','Las Trancas','03','México','LTQ','','2023-11-25',''),
+('EA1591','Lomas Tristes','03','México','LTT','','2023-11-25',''),
+('EA1592','Regional De Los Tuxtlas','03','México','LTX','','2023-11-25',''),
+('EA1593','La Burra','03','México','LUA','','2023-11-25',''),
+('EA1594','El Laurel','03','México','LUE','','2023-11-25',''),
+('EA1595','El Cohete','03','México','LUK','','2023-11-25',''),
+('EA1596','La Luna','03','México','LUN','','2023-11-25',''),
+('EA1597','La Victoria','03','México','LVC','','2023-11-25',''),
+('EA1598','La Villita','03','México','LVI','','2023-11-25',''),
+('EA1599','La Vainilla','03','México','LVL','','2023-11-25',''),
+('EA1600','Leona Vicario','03','México','LVO','','2023-11-25',''),
+('EA1601','La Yesca De Hermosillo','03','México','LYH','','2023-11-25',''),
+('EA1602','La Yesca','03','México','LYS','','2023-11-25',''),
+('EA1603','La Suiza','03','México','LZA','','2023-11-25',''),
+('EA1604','Lorenzos De Baja','03','México','LZB','','2023-11-25',''),
+('EA1605','Lázaro Cárdenas','03','México','LZC','','2023-11-25',''),
+('EA1606','Los Aztecas I','03','México','LZS','','2023-11-25',''),
+('EA1607','Mesa Bonita','03','México','MAB','','2023-11-25',''),
+('EA1608','Magdalena','03','México','MAD','','2023-11-25',''),
+('EA1609','Pista Magaña','03','México','MAG','','2023-11-25',''),
+('EA1610','Mesa Del Nayar','03','México','MAN','','2023-11-25',''),
+('EA1611','Gral. Gonzalo Curiel García','03','México','MAS','','2023-11-25',''),
+('EA1612','Malvinas','03','México','MAV','','2023-11-25',''),
+('EA1613','Miguel Alemán','03','México','MAX','','2023-11-25',''),
+('EA1614','Marina Beach','03','México','MBC','','2023-11-25',''),
+('EA1615','Mubarqui','03','México','MBQ','','2023-11-25',''),
+('EA1616','Manuel Benavides','03','México','MBS','','2023-11-25',''),
+('EA1617','Macho Bayo','03','México','MBY','','2023-11-25',''),
+('EA1618','María Beatriz','03','México','MBZ','','2023-11-25',''),
+('EA1619','Manjarrez De Caborca','03','México','MCB','','2023-11-25',''),
+('EA1620','Pista Municipal De Ciudad Cuauhtémoc','03','México','MCI','','2023-11-25',''),
+('EA1621','Meza Del Barranco','03','México','MDB','','2023-11-25',''),
+('EA1622','Santa Rosalía','03','México','MDD','','2023-11-25',''),
+('EA1623','Mesa De Fronteras','03','México','MDF','','2023-11-25',''),
+('EA1624','Montañas Del Gualul','03','México','MDG','','2023-11-25',''),
+('EA1625','Mesa De Los Huicholes','03','México','MDH','','2023-11-25',''),
+('EA1626','Mesa De Calera','03','México','MDK','','2023-11-25',''),
+('EA1627','Mesa Del Álamo','03','México','MDL','','2023-11-25',''),
+('EA1628','Mecatillo','03','México','MDM','','2023-11-25',''),
+('EA1629','Mesa Del Huracán','03','México','MDN','','2023-11-25',''),
+('EA1630','Mina Dolores','03','México','MDO','','2023-11-25',''),
+('EA1631','Mineral De Polanco','03','México','MDP','','2023-11-25',''),
+('EA1632','Mesa De Los Saucedo','03','México','MDS','','2023-11-25',''),
+('EA1633','Mesa De Los Toros','03','México','MDT','','2023-11-25',''),
+('EA1634','Las Carmenes','03','México','MES','','2023-11-25',''),
+('EA1635','El Mezquite','03','México','MEZ','','2023-11-25',''),
+('EA1636','Toro Bravo','03','México','MFS','','2023-11-25',''),
+('EA1637','Las Margaritas','03','México','MGD','','2023-11-25',''),
+('EA1638','Molango','03','México','MGO','','2023-11-25',''),
+('EA1639','Margaritas','03','México','MGR','','2023-11-25',''),
+('EA1640','Los Mangos','03','México','MGS','','2023-11-25',''),
+('EA1641','La Michoacana','03','México','MHC','','2023-11-25',''),
+('EA1642','Mochicahui','03','México','MHH','','2023-11-25',''),
+('EA1643','Miguel Hidalgo','03','México','MHI','','2023-11-25',''),
+('EA1644','Mahahual','03','México','MHL','','2023-11-25',''),
+('EA1645','Miramar \n(Fallecimiento De Titular)','03','México','MIA','','2023-11-25',''),
+('EA1646','El Milagro De San José','03','México','MIZ','','2023-11-25',''),
+('EA1647','Mesa Del Jarillal','03','México','MJR','','2023-11-25',''),
+('EA1648','Santa Monika','03','México','MKA','','2023-11-25',''),
+('EA1649','Mesa Larga','03','México','MLF','','2023-11-25',''),
+('EA1650','Muller','03','México','MLL','','2023-11-25',''),
+('EA1651','San Manolo','03','México','MLO','','2023-11-25',''),
+('EA1652','Minera La Perla','03','México','MLP','','2023-11-25',''),
+('EA1653','Campo Montelargo','03','México','MLR','','2023-11-25',''),
+('EA1654','Los Miles','03','México','MLT','','2023-11-25',''),
+('EA1655','Melgoza','03','México','MLZ','','2023-11-25',''),
+('EA1656','Masahiashi','03','México','MML','','2023-11-25',''),
+('EA1657','Medina','03','México','MNA','','2023-11-25',''),
+('EA1658','Meling','03','México','MNG','','2023-11-25',''),
+('EA1659','Meliton Albañez','03','México','MOA','','2023-11-25',''),
+('EA1660','Moctezuma','03','México','MOC','','2023-11-25',''),
+('EA1661','Moctezuma','03','México','MOE','','2023-11-25',''),
+('EA1662','El Mochomo','03','México','MOH','','2023-11-25',''),
+('EA1663','Rancho La Montaña','03','México','MON','','2023-11-25',''),
+('EA1664','Morelos','03','México','MOR','','2023-11-25',''),
+('EA1665','Santa María De Otaez','03','México','MOX','','2023-11-25',''),
+('EA1666','Matarachi','03','México','MRA','','2023-11-25',''),
+('EA1667','Marabasco','03','México','MRB','','2023-11-25',''),
+('EA1668','Mireles Hermanos','03','México','MRH','','2023-11-25',''),
+('EA1669','Morris','03','México','MRI','','2023-11-25',''),
+('EA1670','Marte R. Gómez','03','México','MRM','','2023-11-25',''),
+('EA1671','Maran','03','México','MRP','','2023-11-25',''),
+('EA1672','Moralar','03','México','MRR','','2023-11-25',''),
+('EA1673','Mirador Santa Rosa','03','México','MSA','','2023-11-25',''),
+('EA1674','Mazfly S.C.','03','México','MSC','','2023-11-25',''),
+('EA1675','Mesa Del Frijol','03','México','MSF','','2023-11-25',''),
+('EA1676','La Mesa De San Juan','03','México','MSJ','','2023-11-25',''),
+('EA1677','Valle De Los Ahuehuetes','03','México','MSP','','2023-11-25',''),
+('EA1678','Mesa Tortugas','03','México','MST','','2023-11-25',''),
+('EA1679','Matancitas','03','México','MTB','','2023-11-25',''),
+('EA1680','Mata Larga','03','México','MTF','','2023-11-25',''),
+('EA1681','Ing. Manuel Moreno Torres','03','México','MTH','','2023-11-25',''),
+('EA1682','Maran Tijuana','03','México','MTJ','','2023-11-25',''),
+('EA1683','Montemorelos','03','México','MTM','','2023-11-25',''),
+('EA1684','Rancho Medio Sitio','03','México','MTO','','2023-11-25',''),
+('EA1685','Monterrey','03','México','MTV','','2023-11-25',''),
+('EA1686','Mututicachi','03','México','MUT','','2023-11-25',''),
+('EA1687','Muzquiz','03','México','MUZ','','2023-11-25',''),
+('EA1688','Monteverde','03','México','MVE','','2023-11-25',''),
+('EA1689','El Mixteco','03','México','MXT','','2023-11-25',''),
+('EA1690','Mesa Colorada','03','México','MZC','','2023-11-25',''),
+('EA1691','Mezquital','03','México','MZL','','2023-11-25',''),
+('EA1692','Pista Mezquital','03','México','MZQ','','2023-11-25',''),
+('EA1693','Los Napuchis','03','México','NAA','','2023-11-25',''),
+('EA1694','Nacori Chico','03','México','NAC','','2023-11-25',''),
+('EA1695','Nido De Águilas','03','México','NAG','','2023-11-25',''),
+('EA1696','Náhuatl','03','México','NAH','','2023-11-25',''),
+('EA1697','El Sinaí','03','México','NAI','','2023-11-25',''),
+('EA1698','El Naranjito','03','México','NAJ','','2023-11-25',''),
+('EA1699','Nicolas Bravo','03','México','NBT','','2023-11-25',''),
+('EA1700','Nuevo Casas Grandes','03','México','NCG','','2023-11-25',''),
+('EA1701','Pista San Fernando','03','México','NDO','','2023-11-25',''),
+('EA1702','Los Nogales','03','México','NGS','','2023-11-25',''),
+('EA1703','Nahual\n(Pista Del Estero De Juan José Ríos)','03','México','NHL','','2023-11-25',''),
+('EA1704','El Naranjo','03','México','NJO','','2023-11-25',''),
+('EA1705','San Nicolas','03','México','NLA','','2023-11-25',''),
+('EA1706','Nueva Laguna Blanca, S.A. De C.V.','03','México','NLB','','2023-11-25',''),
+('EA1707','No Le Hace','03','México','NLH','','2023-11-25',''),
+('EA1708','Nuevo México','03','México','NMX','','2023-11-25',''),
+('EA1709','La Noria','03','México','NOA','','2023-11-25',''),
+('EA1710','Norogachi','03','México','NOR','','2023-11-25',''),
+('EA1711','Los Novillos','03','México','NOV','','2023-11-25',''),
+('EA1712','Norotal','03','México','NRT','','2023-11-25',''),
+('EA1713','San José Independencia','03','México','NSJ','','2023-11-25',''),
+('EA1714','Nuestra Señora De Loreto','03','México','NSL','','2023-11-25',''),
+('EA1715','Nuevo Santa Rosa','03','México','NSR','','2023-11-25',''),
+('EA1716','Nuevo Temalacaco','03','México','NTC','','2023-11-25',''),
+('EA1717','Nuevo Horizonte','03','México','NUH','','2023-11-25',''),
+('EA1718','Navojoa','03','México','NVJ','','2023-11-25',''),
+('EA1719','Pista Nuevo León Baja Ii','03','México','NVO','','2023-11-25',''),
+('EA1720','El Pretexto','03','México','NWB','','2023-11-25',''),
+('EA1721','El Escondido','03','México','NYZ','','2023-11-25',''),
+('EA1722','Oro Blanco','03','México','OBC','','2023-11-25',''),
+('EA1723','El Ochenta','03','México','OCH','','2023-11-25',''),
+('EA1724','Los Ocaliptos','03','México','OCL','','2023-11-25',''),
+('EA1725','San Luis De Ocosingo','03','México','OCO','','2023-11-25',''),
+('EA1726','Ocotlán','03','México','OCT','','2023-11-25',''),
+('EA1727','San Carlos','03','México','OFS','','2023-11-25',''),
+('EA1728','Ojito De Camellones','03','México','OJC','','2023-11-25',''),
+('EA1729','Campo El Patole','03','México','OLE','','2023-11-25',''),
+('EA1730','Santa Patricia','03','México','ONE','','2023-11-25',''),
+('EA1731','Oro Verde','03','México','ORV','','2023-11-25',''),
+('EA1732','Isla Frontón','03','México','OZM','','2023-11-25',''),
+('EA1733','Pista Aérea Cadenas','03','México','PAC','','2023-11-25',''),
+('EA1734','La Palma','03','México','PAE','','2023-11-25',''),
+('EA1735','El Paraíso','03','México','PAG','','2023-11-25',''),
+('EA1736','El Paija','03','México','PAI','','2023-11-25',''),
+('EA1737','Paco','03','México','PAK','','2023-11-25',''),
+('EA1738','El Paraíso Villalobos','03','México','PAO','','2023-11-25',''),
+('EA1739','Palmillas Del Rodeo','03','México','PAQ','','2023-11-25',''),
+('EA1740','Cap. P.A. Roberto Chávez Balderas','03','México','PAR','','2023-11-25',''),
+('EA1741','San Lorenzo','03','México','PAS','','2023-11-25',''),
+('EA1742','Pavlovich Aviación','03','México','PAV','','2023-11-25',''),
+('EA1743','Pista Aérea Ton','03','México','PAW','','2023-11-25',''),
+('EA1744','Pista Baja','03','México','PBA','','2023-11-25',''),
+('EA1745','Punta Bufeo','03','México','PBF','','2023-11-25',''),
+('EA1746','Pista Base Huatabampo','03','México','PBH','','2023-11-25',''),
+('EA1747','Pueblito','03','México','PBL','','2023-11-25',''),
+('EA1748','Pista Base Navojoa','03','México','PBN','','2023-11-25',''),
+('EA1749','Bonfil','03','México','PBO','','2023-11-25',''),
+('EA1750','Pueblo Yaqui','03','México','PBY','','2023-11-25',''),
+('EA1751','Playa Del Carmen','03','México','PCE','','2023-11-25',''),
+('EA1752','Punta Chivato','03','México','PCH','','2023-11-25',''),
+('EA1753','Pista Calamajue','03','México','PCJ','','2023-11-25',''),
+('EA1754','La Pochoteca','03','México','PCK','','2023-11-25',''),
+('EA1755','Punta Colorada','03','México','PCL','','2023-11-25',''),
+('EA1756','Puente De Camotlán','03','México','PCM','','2023-11-25',''),
+('EA1757','Punta China','03','México','PCN','','2023-11-25',''),
+('EA1758','Pericos','03','México','PCS','','2023-11-25',''),
+('EA1759','Punta Colonet','03','México','PCT','','2023-11-25',''),
+('EA1760','Potrero De Bejaranos','03','México','PDB','','2023-11-25',''),
+('EA1761','Pista Del Centro','03','México','PDC','','2023-11-25',''),
+('EA1762','La Piedrera','03','México','PDE','','2023-11-25',''),
+('EA1763','Portugués De Gálvez','03','México','PDG','','2023-11-25',''),
+('EA1764','Palos Dulces','03','México','PDI','','2023-11-25',''),
+('EA1765','Promesa','03','México','PDM','','2023-11-25',''),
+('EA1766','Platanar De Coluta','03','México','PDU','','2023-11-25',''),
+('EA1767','Paredes','03','México','PDZ','','2023-11-25',''),
+('EA1768','Parras El Alto','03','México','PEA','','2023-11-25',''),
+('EA1769','Pie De La Cuesta De La Bajada','03','México','PEB','','2023-11-25',''),
+('EA1770','Pista Elizalde','03','México','PEE','','2023-11-25',''),
+('EA1771','La Peñita','03','México','PEI','','2023-11-25',''),
+('EA1772','Pie De La Cuesta De San Jerónimo','03','México','PEJ','','2023-11-25',''),
+('EA1773','Pista El Roció','03','México','PEY','','2023-11-25',''),
+('EA1774','Punta Final','03','México','PFL','','2023-11-25',''),
+('EA1775','Peña Flor','03','México','PFO','','2023-11-25',''),
+('EA1776','Pfp','03','México','PFP','','2023-11-25',''),
+('EA1777','Las Praderas','03','México','PGD','','2023-11-25',''),
+('EA1778','El Pedregal','03','México','PGL','','2023-11-25',''),
+('EA1779','Del Pacifico','03','México','PGS','','2023-11-25',''),
+('EA1780','El Purgatorio','03','México','PGT','','2023-11-25',''),
+('EA1781','Pista Coahuila','03','México','PHA','','2023-11-25',''),
+('EA1782','El Pichol','03','México','PHL','','2023-11-25',''),
+('EA1783','Palo Chino','03','México','PHO','','2023-11-25',''),
+('EA1784','Pista Huachinera','03','México','PHU','','2023-11-25',''),
+('EA1785','La Pista De Balancan','03','México','PIB','','2023-11-25',''),
+('EA1786','Piedra De Cal','03','México','PIE','','2023-11-25',''),
+('EA1787','Pista Aeroagricola Guayparime','03','México','PIG','','2023-11-25',''),
+('EA1788','Las Pilas','03','México','PIL','','2023-11-25',''),
+('EA1789','Los Pinos','03','México','PIN','','2023-11-25',''),
+('EA1790','El Pinocho','03','México','PIO','','2023-11-25',''),
+('EA1791','Solidaridad Cajeme','03','México','PIS','','2023-11-25',''),
+('EA1792','La Pinta','03','México','PIT','','2023-11-25',''),
+('EA1793','Villa Juárez','03','México','PIV','','2023-11-25',''),
+('EA1794','Pajacuaran','03','México','PJC','','2023-11-25',''),
+('EA1795','Palmarejo','03','México','PJO','','2023-11-25',''),
+('EA1796','La Pequeña Joya','03','México','PJY','','2023-11-25',''),
+('EA1797','Picacho','03','México','PKC','','2023-11-25',''),
+('EA1798','Plan Bonito','03','México','PLD','','2023-11-25',''),
+('EA1799','Rancho Productor De Leche Villa Ahumada','03','México','PLE','','2023-11-25',''),
+('EA1800','Piélagos','03','México','PLG','','2023-11-25',''),
+('EA1801','Palmarejito','03','México','PLJ','','2023-11-25',''),
+('EA1802','Potrerillos','03','México','PLL','','2023-11-25',''),
+('EA1803','El Palmar Ranch','03','México','PLR','','2023-11-25',''),
+('EA1804','Las Plomosas','03','México','PLS','','2023-11-25',''),
+('EA1805','Palula','03','México','PLU','','2023-11-25',''),
+('EA1806','Plátano','03','México','PLX','','2023-11-25',''),
+('EA1807','Pista Lázaro Cárdenas','03','México','PLZ','','2023-11-25',''),
+('EA1808','Playa De Magdalena','03','México','PMA','','2023-11-25',''),
+('EA1809','Pista Macuiles','03','México','PMC','','2023-11-25',''),
+('EA1810','La Palma','03','México','PML','','2023-11-25',''),
+('EA1811','Pista Morgan','03','México','PMN','','2023-11-25',''),
+('EA1812','El Palmoso','03','México','PMS','','2023-11-25',''),
+('EA1813','Potrero Del Mascabresto','03','México','PMT','','2023-11-25',''),
+('EA1814','Pista Morelos','03','México','PMX','','2023-11-25',''),
+('EA1815','Pista Aérea Agrícola Mayacoba','03','México','PMY','','2023-11-25',''),
+('EA1816','El Pedernal','03','México','PNA','','2023-11-25',''),
+('EA1817','La Pinosa','03','México','PNC','','2023-11-25',''),
+('EA1818','Piedras Blancas','03','México','PNL','','2023-11-25',''),
+('EA1819','Hacienda Panoaya','03','México','PNY','','2023-11-25',''),
+('EA1820','El Potrero','03','México','POE','','2023-11-25',''),
+('EA1821','Huapoca','03','México','POK','','2023-11-25',''),
+('EA1822','Potrerillo','03','México','POL','','2023-11-25',''),
+('EA1823','Potrero De Los Medina','03','México','POM','','2023-11-25',''),
+('EA1824','Popota','03','México','POT','','2023-11-25',''),
+('EA1825','Portezuelo','03','México','POU','','2023-11-25',''),
+('EA1826','El Pozo','03','México','POX','','2023-11-25',''),
+('EA1827','Punta Pescadero','03','México','PPC','','2023-11-25',''),
+('EA1828','Punta Pájaros','03','México','PPS','','2023-11-25',''),
+('EA1829','Pista Querétaro','03','México','PQR','','2023-11-25',''),
+('EA1830','Puertecitos','03','México','PRC','','2023-11-25',''),
+('EA1831','Paredones','03','México','PRD','','2023-11-25',''),
+('EA1832','Progreso','03','México','PRG','','2023-11-25',''),
+('EA1833','La Perla','03','México','PRL','','2023-11-25',''),
+('EA1834','El Porvenir','03','México','PRN','','2023-11-25',''),
+('EA1835','La Providencia De Acapetahua','03','México','PRV','','2023-11-25',''),
+('EA1836','La Presa','03','México','PRX','','2023-11-25',''),
+('EA1837','Pista Sonora','03','México','PSB','','2023-11-25',''),
+('EA1838','Santa Elena','03','México','PSE','','2023-11-25',''),
+('EA1839','Punta San Francisquito','03','México','PSF','','2023-11-25',''),
+('EA1840','Punta San Carlos','03','México','PSK','','2023-11-25',''),
+('EA1841','Punta Solimán','03','México','PSM','','2023-11-25',''),
+('EA1842','Perseverancia','03','México','PSV','','2023-11-25',''),
+('EA1843','Pista Juárez','03','México','PSZ','','2023-11-25',''),
+('EA1844','Las Potrancas','03','México','PTA','','2023-11-25',''),
+('EA1845','Santa Teresa','03','México','PTE','','2023-11-25',''),
+('EA1846','Campo Patricia','03','México','PTI','','2023-11-25',''),
+('EA1847','El Petacal','03','México','PTL antes PTJ','','2023-11-25',''),
+('EA1848','El Patrocinio','03','México','PTN','','2023-11-25',''),
+('EA1849','El Puerto','03','México','PTO','','2023-11-25',''),
+('EA1850','Pista Ocampo','03','México','PTP','','2023-11-25',''),
+('EA1851','Pista Troncón','03','México','PTR','','2023-11-25',''),
+('EA1852','Potosí','03','México','PTS','','2023-11-25',''),
+('EA1853','La Pista','03','México','PTT','','2023-11-25',''),
+('EA1854','Pulticub','03','México','PTU','','2023-11-25',''),
+('EA1855','Patria Vieja','03','México','PTV','','2023-11-25',''),
+('EA1856','Purépecha','03','México','PUR','','2023-11-25',''),
+('EA1857','Pueblo Yaqui','03','México','PUY','','2023-11-25',''),
+('EA1858','La Pava','03','México','PVA','','2023-11-25',''),
+('EA1859','Ejido Pueblo Viejo','03','México','PVJ','','2023-11-25',''),
+('EA1860','Pista Valdez','03','México','PVL','','2023-11-25',''),
+('EA1861','Aeródromo Vw','03','México','PVW','','2023-11-25',''),
+('EA1862','Palma Sola','03','México','PXA','','2023-11-25',''),
+('EA1863','Pista Campeche','03','México','PXE','','2023-11-25',''),
+('EA1864','Pista Pancho Villa','03','México','PXV','','2023-11-25',''),
+('EA1865','Palizada','03','México','PZA','','2023-11-25',''),
+('EA1866','Pista Zacatecas','03','México','PZC','','2023-11-25',''),
+('EA1867','La Panza','03','México','PZS','','2023-11-25',''),
+('EA1868','Aerofumigaciones Quila','03','México','QUI','','2023-11-25',''),
+('EA1869','Rancho Agua Blanca','03','México','RAB','','2023-11-25',''),
+('EA1870','Rancho Agua Dulce','03','México','RAD','','2023-11-25',''),
+('EA1871','Rancho San Rafael','03','México','RAF','','2023-11-25',''),
+('EA1872','Pista Rosales','03','México','RAL','','2023-11-25',''),
+('EA1873','Rancho San Antonio','03','México','RAM','','2023-11-25',''),
+('EA1874','Rancho Alto Bonito','03','México','RAQ','','2023-11-25',''),
+('EA1875','C.P.A. Rodolfo Amparan Rosales','03','México','RAV','','2023-11-25',''),
+('EA1876','Rancho Alejandrina','03','México','RAX','','2023-11-25',''),
+('EA1877','Agua Zarca','03','México','RAZ','','2023-11-25',''),
+('EA1878','Rancho El Bernal','03','México','RBL','','2023-11-25',''),
+('EA1879','Rancho Bravo','03','México','RBO','','2023-11-25',''),
+('EA1880','Rancho Buenos Aires','03','México','RBU','','2023-11-25',''),
+('EA1881','Los Bayos','03','México','RBY','','2023-11-25',''),
+('EA1882','Rancho Del Carmen','03','México','RCA','','2023-11-25',''),
+('EA1883','Carboneras','03','México','RCB','','2023-11-25',''),
+('EA1884','El Cuarenta','03','México','RCE','','2023-11-25',''),
+('EA1885','Aeropista De La Región Carbonífera','03','México','RCF','','2023-11-25',''),
+('EA1886','El Cangrejal','03','México','RCJ','','2023-11-25',''),
+('EA1887','Rancho El Campanero','03','México','RCN','','2023-11-25',''),
+('EA1888','Real Del Castillo','03','México','RCO','','2023-11-25',''),
+('EA1889','Rancho El Comandante','03','México','RCT','','2023-11-25',''),
+('EA1890','El Llano','03','México','RCU','','2023-11-25',''),
+('EA1891','Rancho Cerro Blanco','03','México','RCW','','2023-11-25',''),
+('EA1892','Rancho San Cristóbal','03','México','RCX','','2023-11-25',''),
+('EA1893','Rancho De Burgos','03','México','RDB','','2023-11-25',''),
+('EA1894','Delta','03','México','RDL','','2023-11-25',''),
+('EA1895','El Roble Gordo','03','México','RDO','','2023-11-25',''),
+('EA1896','Rancho Don Ricardo','03','México','RDT','','2023-11-25',''),
+('EA1897','Rancho De Luna','03','México','RDU','','2023-11-25',''),
+('EA1898','Hermanos Rodríguez','03','México','RDZ','','2023-11-25',''),
+('EA1899','Rancho Ébanos','03','México','REB','','2023-11-25',''),
+('EA1900','Rancho La Escondida','03','México','REC','','2023-11-25',''),
+('EA1901','El Jaralito','03','México','REJ','','2023-11-25',''),
+('EA1902','Las Abejas','03','México','REN','','2023-11-25',''),
+('EA1903','Rancho El Piloto','03','México','REP','','2023-11-25',''),
+('EA1904','Los Remedios','03','México','REW','','2023-11-25',''),
+('EA1905','Los Ajos','03','México','RFB','','2023-11-25',''),
+('EA1906','San Rafael','03','México','RFE','','2023-11-25',''),
+('EA1907','La Reforma De Guerrero','03','México','RFG','','2023-11-25',''),
+('EA1908','Rancho San Francisco','03','México','RFN','','2023-11-25',''),
+('EA1909','El Refugio','03','México','RFU','','2023-11-25',''),
+('EA1910','Guadalupe De Llera','03','México','RGA','','2023-11-25',''),
+('EA1911','Rancho Grande','03','México','RGE','','2023-11-25',''),
+('EA1912','Aguachile','03','México','RGH','','2023-11-25',''),
+('EA1913','Guadalupe','03','México','RGP','','2023-11-25',''),
+('EA1914','Rancho El Guaje','03','México','RGW','','2023-11-25',''),
+('EA1915','Rincón De Los Garza','03','México','RGZ','','2023-11-25',''),
+('EA1916','Rancho La Joya','03','México','RHD','','2023-11-25',''),
+('EA1917','Rancho Las Hermanas','03','México','RHZ','','2023-11-25',''),
+('EA1918','El Rincón','03','México','RIN','','2023-11-25',''),
+('EA1919','Rancho El Jabalí','03','México','RJA','','2023-11-25',''),
+('EA1920','Rancho Viejo','03','México','RJD','','2023-11-25',''),
+('EA1921','Rancho Joali','03','México','RJO','','2023-11-25',''),
+('EA1922','Rancho San José De Pedrero','03','México','RJS','','2023-11-25',''),
+('EA1923','Rancho San Juan','03','México','RJU','','2023-11-25',''),
+('EA1924','Hacienda Tulapan','03','México','RJV','','2023-11-25',''),
+('EA1925','Rancho Casa Roja','03','México','RKR','','2023-11-25',''),
+('EA1926','La Azufrosa','03','México','RLA','','2023-11-25',''),
+('EA1927','Rancho La Costa','03','México','RLC','','2023-11-25',''),
+('EA1928','Rancho Los Chirriones','03','México','RLC','','2023-11-25',''),
+('EA1929','La Escondida','03','México','RLD','','2023-11-25',''),
+('EA1930','Rancho La Gacha','03','México','RLG','','2023-11-25',''),
+('EA1931','La Herradura','03','México','RLH','','2023-11-25',''),
+('EA1932','Rancho Las Pilas','03','México','RLI','','2023-11-25',''),
+('EA1933','Los Manueles','03','México','RLM','','2023-11-25',''),
+('EA1934','Rancho La Peña','03','México','RLP','','2023-11-25',''),
+('EA1935','Las Norias','03','México','RLQ','','2023-11-25',''),
+('EA1936','Rancho La Rosita','03','México','RLR','','2023-11-25',''),
+('EA1937','Loma Roja','03','México','RLS','','2023-11-25',''),
+('EA1938','La Nueva Realidad','03','México','RLS','','2023-11-25',''),
+('EA1939','Rancho Los Sosa','03','México','RLT','','2023-11-25',''),
+('EA1940','Rancho Loma Blanca','03','México','RLW','','2023-11-25',''),
+('EA1941','La Equis','03','México','RLX','','2023-11-25',''),
+('EA1942','Ramon López Velarde','03','México','RLY','','2023-11-25',''),
+('EA1943','El Llorón','03','México','RLZ','','2023-11-25',''),
+('EA1944','Manantiales','03','México','RMA','','2023-11-25',''),
+('EA1945','Mesa De Cartujanos','03','México','RMC','','2023-11-25',''),
+('EA1946','Rancho Madero','03','México','RMF','','2023-11-25',''),
+('EA1947','Rancho Medio Kilo','03','México','RMK','','2023-11-25',''),
+('EA1948','Rancho El Milagro','03','México','RML','','2023-11-25',''),
+('EA1949','Rogman','03','México','RMN','','2023-11-25',''),
+('EA1950','Miradores','03','México','RMP','','2023-11-25',''),
+('EA1951','Rancho María 4','03','México','RMQ','','2023-11-25',''),
+('EA1952','Rancho Marina Vieja','03','México','RMV','','2023-11-25',''),
+('EA1953','Rancho Marter','03','México','RMW','','2023-11-25',''),
+('EA1954','Rancho San Matías','03','México','RMW','','2023-11-25',''),
+('EA1955','La Mezquitosa','03','México','RMZ','','2023-11-25',''),
+('EA1956','Rancho San Antonio','03','México','RNA','','2023-11-25',''),
+('EA1957','El Rincón','03','México','RNC','','2023-11-25',''),
+('EA1958','Rinconada','03','México','RND','','2023-11-25',''),
+('EA1959','Rancho Puerto Ángel','03','México','RNF','','2023-11-25',''),
+('EA1960','Rancho La Nogalera','03','México','RNG','','2023-11-25',''),
+('EA1961','Rancho Santo Niño','03','México','RNS','','2023-11-25',''),
+('EA1962','Rancho Santa Ana','03','México','RNT','','2023-11-25',''),
+('EA1963','El Rodeo','03','México','ROD','','2023-11-25',''),
+('EA1964','Rancho El Caracol','03','México','ROL','','2023-11-25',''),
+('EA1965','El Roció','03','México','ROO','','2023-11-25',''),
+('EA1966','Rancho Oaxaca','03','México','ROX','','2023-11-25',''),
+('EA1967','Rancho El Pato','03','México','RPA','','2023-11-25',''),
+('EA1968','Los Pecos','03','México','RPB','','2023-11-25',''),
+('EA1969','Rancho El Papalote','03','México','RPE','','2023-11-25',''),
+('EA1970','El Pillaje','03','México','RPH','','2023-11-25',''),
+('EA1971','Rancho El Prior','03','México','RPO','','2023-11-25',''),
+('EA1972','Rancho La Paloma','03','México','RPT','','2023-11-25',''),
+('EA1973','Rancho Los Pinos','03','México','RPU','','2023-11-25',''),
+('EA1974','Rancho El Porvenir','03','México','RPV','','2023-11-25',''),
+('EA1975','Rancho Peñitas','03','México','RPW','','2023-11-25',''),
+('EA1976','Rancho Providencia','03','México','RPX','','2023-11-25',''),
+('EA1977','Rancho Agua Buena','03','México','RRA','','2023-11-25',''),
+('EA1978','Rancho Don Roberto','03','México','RRB','','2023-11-25',''),
+('EA1979','Rancho Rio Grande','03','México','RRG','','2023-11-25',''),
+('EA1980','Rancho San Isidro','03','México','RRM','','2023-11-25',''),
+('EA1981','El Romance','03','México','RRN','','2023-11-25',''),
+('EA1982','La Marismeña','03','México','RRV','','2023-11-25',''),
+('EA1983','Rancho Corrales','03','México','RRZ','','2023-11-25',''),
+('EA1984','La Rosa','03','México','RSA','','2023-11-25',''),
+('EA1985','Rancho Sierra Hermosa','03','México','RSH','','2023-11-25',''),
+('EA1986','Rancho San José','03','México','RSJ','','2023-11-25',''),
+('EA1987','Rancho San Francisco','03','México','RSK','','2023-11-25',''),
+('EA1988','Rancho Santa María','03','México','RSM','','2023-11-25',''),
+('EA1989','Rancho San José','03','México','RSU','','2023-11-25',''),
+('EA1990','Rancho El Salado','03','México','RSX','','2023-11-25',''),
+('EA1991','Rancho Santa Anita','03','México','RTA','','2023-11-25',''),
+('EA1992','Rancho El Retiro','03','México','RTC','','2023-11-25',''),
+('EA1993','Rancho El Trofis','03','México','RTF','','2023-11-25',''),
+('EA1994','Rancho El Tule','03','México','RTL','','2023-11-25',''),
+('EA1995','El Rodeo De Tamazula','03','México','RTM','','2023-11-25',''),
+('EA1996','El Retoño','03','México','RTO','','2023-11-25',''),
+('EA1997','El Tule','03','México','RTU','','2023-11-25',''),
+('EA1998','Rancho El 13','03','México','RTZ','','2023-11-25',''),
+('EA1999','Rancho El Chicural','03','México','RUL','','2023-11-25',''),
+('EA2000','Las Vegas','03','México','RVG','','2023-11-25',''),
+('EA2001','Revolución De 1910','03','México','RVN','','2023-11-25',''),
+('EA2002','El Preson','03','México','RVP','','2023-11-25',''),
+('EA2003','Campo Rio Verde','03','México','RVR','','2023-11-25',''),
+('EA2004','La Raya','03','México','RYA','','2023-11-25',''),
+('EA2005','Rancho Zapata','03','México','RZA','','2023-11-25',''),
+('EA2006','Rancho La Zorra','03','México','RZR','','2023-11-25',''),
+('EA2007','Rancho Lanzarote','03','México','RZT','','2023-11-25',''),
+('EA2008','Rodríguez','03','México','RZZ','','2023-11-25',''),
+('EA2009','San Ángel','03','México','SAE','','2023-11-25',''),
+('EA2010','Sahuaripa','03','México','SAH','','2023-11-25',''),
+('EA2011','Sahuaripa 2','03','México','SAH','','2023-11-25',''),
+('EA2012','Las Salvias','03','México','SAL','','2023-11-25',''),
+('EA2013','San António','03','México','SAN','','2023-11-25',''),
+('EA2014','Santa Ana Maloapan','03','México','SAV','','2023-11-25',''),
+('EA2015','San Antonio El Russio','03','México','SAW','','2023-11-25',''),
+('EA2016','Santa Cruz','03','México','SAX','','2023-11-25',''),
+('EA2017','Los Chirriones\n(Proyecto)','03','México','SAY','','2023-11-25',''),
+('EA2018','Santa Blanca','03','México','SBK','','2023-11-25',''),
+('EA2019','San Blas','03','México','SBS','','2023-11-25',''),
+('EA2020','Santa Cecilia','03','México','SCE','','2023-11-25',''),
+('EA2021','Rancho San Carlos','03','México','SCK','','2023-11-25',''),
+('EA2022','El Socorrito','03','México','SCO','','2023-11-25',''),
+('EA2023','Santiago De Los Caballeros','03','México','SCS','','2023-11-25',''),
+('EA2024','Secretaria De Comunicaciones Y Transportes','03','México','SCT','','2023-11-25',''),
+('EA2025','Santa Clara','03','México','SCV','','2023-11-25',''),
+('EA2026','Santa Cruz','03','México','SCW','','2023-11-25',''),
+('EA2027','San Miguel De Cruces','03','México','SCX','','2023-11-25',''),
+('EA2028','Sierrita De Barraza','03','México','SDB','','2023-11-25',''),
+('EA2029','San Juan De Camarones','03','México','SDC','','2023-11-25',''),
+('EA2030','Rancho Santo Domingo','03','México','SDI','','2023-11-25',''),
+('EA2031','Santo Domingo','03','México','SDM','','2023-11-25',''),
+('EA2032','San José De Los Leones','03','México','SDN','','2023-11-25',''),
+('EA2033','Santa Efigenia','03','México','SEF','','2023-11-25',''),
+('EA2034','Santa Fe','03','México','SFC','','2023-11-25',''),
+('EA2035','San Fernando\n(Proyecto)','03','México','SFD','','2023-11-25',''),
+('EA2036','San Fernando','03','México','SFD','','2023-11-25',''),
+('EA2037','San Francisco','03','México','SFF','','2023-11-25',''),
+('EA2038','San Fernando','03','México','SFN','','2023-11-25',''),
+('EA2039','San Francisco','03','México','SFO','','2023-11-25',''),
+('EA2040','Pista San Francisco','03','México','SFP','','2023-11-25',''),
+('EA2041','San Fernando','03','México','SFR','','2023-11-25',''),
+('EA2042','Santa Christine','03','México','SFW','','2023-11-25',''),
+('EA2043','San Fernando','03','México','SFX','','2023-11-25',''),
+('EA2044','San Gregorio De Bozos','03','México','SGB','','2023-11-25',''),
+('EA2045','San Gabriel','03','México','SGB','','2023-11-25',''),
+('EA2046','Saucito De Araujo','03','México','SGC','','2023-11-25',''),
+('EA2047','Rancho San Gerardo','03','México','SGE','','2023-11-25',''),
+('EA2048','San Gabriel','03','México','SGL','','2023-11-25',''),
+('EA2049','San Ignacio','03','México','SGN','','2023-11-25',''),
+('EA2050','San Gregorio','03','México','SGR','','2023-11-25',''),
+('EA2051','Santiago','03','México','SGS','','2023-11-25',''),
+('EA2052','Santo Domingo','03','México','SGU','','2023-11-25',''),
+('EA2053','La Mota','03','México','SHM','','2023-11-25',''),
+('EA2054','Santa Cruz','03','México','SHX','','2023-11-25',''),
+('EA2055','Sierrita','03','México','SIE','','2023-11-25',''),
+('EA2056','San Ignacio','03','México','SIG','','2023-11-25',''),
+('EA2057','San Isidro Labrador','03','México','SIL','','2023-11-25',''),
+('EA2058','La Simiente','03','México','SIM','','2023-11-25',''),
+('EA2059','Santa Inés','03','México','SIN','','2023-11-25',''),
+('EA2060','Sianori Ii','03','México','SIR','','2023-11-25',''),
+('EA2061','Loma Bonita De Puerta Azul','03','México','SIT','','2023-11-25',''),
+('EA2062','Silva','03','México','SIV','','2023-11-25',''),
+('EA2063','Sianori','03','México','SIW','','2023-11-25',''),
+('EA2064','San Ignacio','03','México','SIY','','2023-11-25',''),
+('EA2065','San José','03','México','SJE','','2023-11-25',''),
+('EA2066','San Juan De Frailes','03','México','SJF','','2023-11-25',''),
+('EA2067','San Joaquín Redo','03','México','SJH','','2023-11-25',''),
+('EA2068','San Jacinto','03','México','SJK','','2023-11-25',''),
+('EA2069','San José Del Llano','03','México','SJL','','2023-11-25',''),
+('EA2070','San José','03','México','SJO','','2023-11-25',''),
+('EA2071','San Juan Peyotan','03','México','SJP','','2023-11-25',''),
+('EA2072','San Jacinto Tlacotepec','03','México','SJT','','2023-11-25',''),
+('EA2073','San Juan Nepomuceno','03','México','SJU','','2023-11-25',''),
+('EA2074','San José De Valenzuela','03','México','SJV','','2023-11-25',''),
+('EA2075','San Juan De Norotal','03','México','SJW','','2023-11-25',''),
+('EA2076','San Juan Iztapalapa','03','México','SJX','','2023-11-25',''),
+('EA2077','Santa Teresa','03','México','SKT','','2023-11-25',''),
+('EA2078','Isla','03','México','SLA','','2023-11-25',''),
+('EA2079','Solidaridad','03','México','SLD','','2023-11-25',''),
+('EA2080','San Luis Rio Colorado','03','México','SLR','','2023-11-25',''),
+('EA2081','San Miguel De Allende','03','México','SMA','','2023-11-25',''),
+('EA2082','San Martin De Bolaños','03','México','SMB','','2023-11-25',''),
+('EA2083','San Miguel Del Alto','03','México','SMD','','2023-11-25',''),
+('EA2084','Santa María Paras','03','México','SMK','','2023-11-25',''),
+('EA2085','Santa María De Mulege','03','México','SMM','','2023-11-25',''),
+('EA2086','San Martin','03','México','SMP','','2023-11-25',''),
+('EA2087','Rancho Santa Mónica','03','México','SMW','','2023-11-25',''),
+('EA2088','San Mateo Yucutindoo','03','México','SMY','','2023-11-25',''),
+('EA2089','Santa María Agrícola','03','México','SMZ','','2023-11-25',''),
+('EA2090','San Jorge','03','México','SNE','','2023-11-25',''),
+('EA2091','Santa Fe','03','México','SNF','','2023-11-25',''),
+('EA2092','San Marcos','03','México','SNM','','2023-11-25',''),
+('EA2093','San Joaquín','03','México','SNQ','','2023-11-25',''),
+('EA2094','Santa Ana De Vanegas','03','México','SNV','','2023-11-25',''),
+('EA2095','San Antonio','03','México','SNX','','2023-11-25',''),
+('EA2096','Santa Anita Del Yaqui','03','México','SNY','','2023-11-25',''),
+('EA2097','Sofia','03','México','SOF','','2023-11-25',''),
+('EA2098','Sisoguichi','03','México','SOG','','2023-11-25',''),
+('EA2099','Sianori','03','México','SOI','','2023-11-25',''),
+('EA2100','La Soledad','03','México','SOL','','2023-11-25',''),
+('EA2101','San Pedro Del Gallo','03','México','SPG','','2023-11-25',''),
+('EA2102','San José Produce','03','México','SPJ','','2023-11-25',''),
+('EA2103','Sergio Perez De León','03','México','SPL','','2023-11-25',''),
+('EA2104','San Pantaleón','03','México','SPN','','2023-11-25',''),
+('EA2105','San Pedro De Azafranes','03','México','SPX','','2023-11-25',''),
+('EA2106','San Pedro','03','México','SPY','','2023-11-25',''),
+('EA2107','Saucito De Pérez','03','México','SPZ','','2023-11-25',''),
+('EA2108','San Pedro De La Cueva','03','México','SQA','','2023-11-25',''),
+('EA2109','Sierra Santa','03','México','SRA','','2023-11-25',''),
+('EA2110','San Roberto','03','México','SRE','','2023-11-25',''),
+('EA2111','Santa Rosa De Hopelchén','03','México','SRH','','2023-11-25',''),
+('EA2112','San Rafael','03','México','SRJ','','2023-11-25',''),
+('EA2113','Santa Rosa','03','México','SRO','','2023-11-25',''),
+('EA2114','Santa Rosa De Lima','03','México','SRS','','2023-11-25',''),
+('EA2115','Santa Rosa','03','México','SRW','','2023-11-25',''),
+('EA2116','Santa Rita','03','México','SRX','','2023-11-25',''),
+('EA2117','San Rafael','03','México','SRY','','2023-11-25',''),
+('EA2118','Santa Anita Sereasa','03','México','SSA','','2023-11-25',''),
+('EA2119','San Sebastián','03','México','SSB','','2023-11-25',''),
+('EA2120','San Isidro Sereasa','03','México','SSI','','2023-11-25',''),
+('EA2121','San José De Salsipuedes','03','México','SSS','','2023-11-25',''),
+('EA2122','S. Coop. De Servicios Agropecuarios Tamaulipecos','03','México','SST','','2023-11-25',''),
+('EA2123','Santa Barbara','03','México','STB','','2023-11-25',''),
+('EA2124','El Siete','03','México','STE','','2023-11-25',''),
+('EA2125','Santa María','03','México','STH','','2023-11-25',''),
+('EA2126','Santa Teresa','03','México','STJ','','2023-11-25',''),
+('EA2127','Santa Rita','03','México','STK','','2023-11-25',''),
+('EA2128','Santo Niño','03','México','STN','','2023-11-25',''),
+('EA2129','Santa Rosa','03','México','STR','','2023-11-25',''),
+('EA2130','Santo Tomas','03','México','STT','','2023-11-25',''),
+('EA2131','Santa María De Los Remedios','03','México','STV','','2023-11-25',''),
+('EA2132','Santa Elena','03','México','STX','','2023-11-25',''),
+('EA2133','San Luis','03','México','SUI','','2023-11-25',''),
+('EA2134','Surutato','03','México','SUR','','2023-11-25',''),
+('EA2135','Saul''Es','03','México','SUS','','2023-11-25',''),
+('EA2136','San Valentín','03','México','SVA','','2023-11-25',''),
+('EA2137','San Juan Viejo','03','México','SVI','','2023-11-25',''),
+('EA2138','San Vicente','03','México','SVL','','2023-11-25',''),
+('EA2139','Santa Cecilia','03','México','SXA','','2023-11-25',''),
+('EA2140','San Pedro Xicoras','03','México','SXI','','2023-11-25',''),
+('EA2141','Soyupa','03','México','SYU','','2023-11-25',''),
+('EA2142','Aeródromo Municipal De Tepatitlán','03','México','TAA','','2023-11-25',''),
+('EA2143','Tres Amigos De Guerrero','03','México','TAF','','2023-11-25',''),
+('EA2144','Rancho El Gato','03','México','TAG','','2023-11-25',''),
+('EA2145','El Centenario','03','México','TAG','','2023-11-25',''),
+('EA2146','Cabo Rojo','03','México','TAT','','2023-11-25',''),
+('EA2147','Base Tamazula','03','México','TAW','','2023-11-25',''),
+('EA2148','Taxicaringa','03','México','TAX','','2023-11-25',''),
+('EA2149','Tayoltita','03','México','TAY','','2023-11-25',''),
+('EA2150','Tumbiscatio','03','México','TBC','','2023-11-25',''),
+('EA2151','Pista Toboloto','03','México','TBO','','2023-11-25',''),
+('EA2152','Tanchijol','03','México','TCJ','','2023-11-25',''),
+('EA2153','Tecuixiapa','03','México','TCS','','2023-11-25',''),
+('EA2154','Tecubichi','03','México','TEB','','2023-11-25',''),
+('EA2155','Terminal','03','México','TEI','','2023-11-25',''),
+('EA2156','Tecolotlan','03','México','TEO','','2023-11-25',''),
+('EA2157','Tepachoipa','03','México','TEP','','2023-11-25',''),
+('EA2158','Tequesquitengo','03','México','TEQ','','2023-11-25',''),
+('EA2159','Terrero De Basonopa','03','México','TER','','2023-11-25',''),
+('EA2160','Tres Encinos','03','México','TES','','2023-11-25',''),
+('EA2161','Rancho El 24','03','México','TFB','','2023-11-25',''),
+('EA2162','El Tigre','03','México','TGE','','2023-11-25',''),
+('EA2163','La Tigrera','03','México','TGR','','2023-11-25',''),
+('EA2164','Tigre','03','México','TGS','','2023-11-25',''),
+('EA2165','Tampachiche','03','México','THI','','2023-11-25',''),
+('EA2166','El Tigre','03','México','TIG','','2023-11-25',''),
+('EA2167','Tizayuca\n(Fallecimiento De Titular)','03','México','TIZ','','2023-11-25',''),
+('EA2168','La Gloria','03','México','TKT','','2023-11-25',''),
+('EA2169','Turismo Lago Guerrero','03','México','TLG','','2023-11-25',''),
+('EA2170','Trinidad Ramos Valdez','03','México','TLJ','','2023-11-25',''),
+('EA2171','Tameapa','03','México','TME','','2023-11-25',''),
+('EA2172','Temoris\n(Proyecto)','03','México','TMS','','2023-11-25',''),
+('EA2173','Tancholin','03','México','TNH','','2023-11-25',''),
+('EA2174','Topila','03','México','TOI','','2023-11-25',''),
+('EA2175','Rancho El Tulillo','03','México','TOO','','2023-11-25',''),
+('EA2176','Topia','03','México','TOP','','2023-11-25',''),
+('EA2177','Torreón','03','México','TOR','','2023-11-25',''),
+('EA2178','Tortugas\n(Proyecto)','03','México','TOT','','2023-11-25',''),
+('EA2179','Tío Juan','03','México','TOU','','2023-11-25',''),
+('EA2180','Tapias','03','México','TPI','','2023-11-25',''),
+('EA2181','El Tapacal','03','México','TPK','','2023-11-25',''),
+('EA2182','Tepozanes','03','México','TPO','','2023-11-25',''),
+('EA2183','Tequila','03','México','TQJ','','2023-11-25',''),
+('EA2184','La Tasajera','03','México','TRA','','2023-11-25',''),
+('EA2185','El Trigo','03','México','TRG','','2023-11-25',''),
+('EA2186','Kilo','03','México','TRM','','2023-11-25',''),
+('EA2187','Terrero','03','México','TRO','','2023-11-25',''),
+('EA2188','Transpacífico','03','México','TRP','','2023-11-25',''),
+('EA2189','El Terrero','03','México','TRR','','2023-11-25',''),
+('EA2190','Trampa Santa Rosa','03','México','TRS','','2023-11-25',''),
+('EA2191','Terrenates','03','México','TRT','','2023-11-25',''),
+('EA2192','Teras','03','México','TRX','','2023-11-25',''),
+('EA2193','El Tasicuri','03','México','TSI','','2023-11-25',''),
+('EA2194','Todos Santos','03','México','TSN','','2023-11-25',''),
+('EA2195','El Tulillo','03','México','TTF','','2023-11-25',''),
+('EA2196','Tototan','03','México','TTO','','2023-11-25',''),
+('EA2197','Tututepec','03','México','TTP','','2023-11-25',''),
+('EA2198','La Tuna','03','México','TUN','','2023-11-25',''),
+('EA2199','Tulum Base Aeronaval','03','México','TUY','','2023-11-25',''),
+('EA2200','Aeropista Tuxpan','03','México','TXP','','2023-11-25',''),
+('EA2201','Tamazula','03','México','TZA','','2023-11-25',''),
+('EA2202','El Temazcal','03','México','TZC','','2023-11-25',''),
+('EA2203','Tancuzay','03','México','TZY','','2023-11-25',''),
+('EA2204','Unitec Campus Atizapán','03','México','UCA','','2023-11-25',''),
+('EA2205','Ultraligeros Del Desierto','03','México','UDD','','2023-11-25',''),
+('EA2206','Unión De Ejidos (Proyecto)','03','México','UDE','','2023-11-25',''),
+('EA2207','Úrsulo Galván','03','México','UGA','','2023-11-25',''),
+('EA2208','Unión De Granjas Elizabeth','03','México','UGE','','2023-11-25',''),
+('EA2209','El Jabalí','03','México','UJI','','2023-11-25',''),
+('EA2210','Vista Alegre','03','México','VAE','','2023-11-25',''),
+('EA2211','Las Varas','03','México','VAS','','2023-11-25',''),
+('EA2212','Valentín Barrera','03','México','VBB','','2023-11-25',''),
+('EA2213','Valle De Banderas','03','México','VBS','','2023-11-25',''),
+('EA2214','Valle Bonito','03','México','VBT','','2023-11-25',''),
+('EA2215','Los Venados','03','México','VDS','','2023-11-25',''),
+('EA2216','Venecia','03','México','VEA','','2023-11-25',''),
+('EA2217','El Vergel','03','México','VEG','','2023-11-25',''),
+('EA2218','Vallecillos','03','México','VES','','2023-11-25',''),
+('EA2219','Válgame Dios','03','México','VGD','','2023-11-25',''),
+('EA2220','Vascogil','03','México','VGL','','2023-11-25',''),
+('EA2221','Vista Hermosa','03','México','VHA','','2023-11-25',''),
+('EA2222','San José De Viborillas','03','México','VIB','','2023-11-25',''),
+('EA2223','Valle Colombia','03','México','VLC','','2023-11-25',''),
+('EA2224','Vallecitos','03','México','VLL','','2023-11-25',''),
+('EA2225','El Vallado','03','México','VLO','','2023-11-25',''),
+('EA2226','Villas Mar De Cortez','03','México','VMC','','2023-11-25',''),
+('EA2227','Las Gemelas','03','México','VMV','','2023-11-25',''),
+('EA2228','Villa De Ocampo','03','México','VOO','','2023-11-25',''),
+('EA2229','La Vega Del Oso','03','México','VOS','','2023-11-25',''),
+('EA2230','Vaquerías','03','México','VQS','','2023-11-25',''),
+('EA2231','Valle Del Rosario','03','México','VRO','','2023-11-25',''),
+('EA2232','Los Veneros','03','México','VRS','','2023-11-25',''),
+('EA2233','Viñedos San José','03','México','VSJ','','2023-11-25',''),
+('EA2234','Los Violines Poniente','03','México','VSP','','2023-11-25',''),
+('EA2235','Rancho San Lorenzo','03','México','VSZ','','2023-11-25',''),
+('EA2236','Valle De Tapachula','03','México','VTP','','2023-11-25',''),
+('EA2237','El Verano','03','México','VVG','','2023-11-25',''),
+('EA2238','Viento Y Sol','03','México','VYS','','2023-11-25',''),
+('EA2239','Vizcaino','03','México','VZM','','2023-11-25',''),
+('EA2240','Hermanos Wong Cozain','03','México','WCN','','2023-11-25',''),
+('EA2241','Héctor Raúl Bátiz Meza','03','México','WVL','','2023-11-25',''),
+('EA2242','Paraíso\n(Proyecto)','03','México','WYN','','2023-11-25',''),
+('EA2243','Xcalac','03','México','XCA','','2023-11-25',''),
+('EA2244','Xicoténcatl','03','México','XIC','','2023-11-25',''),
+('EA2245','Huixiopa De La Loma Colorada','03','México','XIO','','2023-11-25',''),
+('EA2246','Xpujil','03','México','XJL','','2023-11-25',''),
+('EA2247','Xóchilt La Sabana','03','México','XLS','','2023-11-25',''),
+('EA2248','Cruz Negra','03','México','XNE','','2023-11-25',''),
+('EA2249','Xiquipilli','03','México','XQI','','2023-11-25',''),
+('EA2250','Xcaret','03','México','XRT','','2023-11-25',''),
+('EA2251','Francisco Sarabia Yajalon','03','México','YAJ','','2023-11-25',''),
+('EA2252','Yack','03','México','YAK','','2023-11-25',''),
+('EA2253','Yecora','03','México','YEC','','2023-11-25',''),
+('EA2254','La Rivera','03','México','YFA','','2023-11-25',''),
+('EA2255','Yalcok','03','México','YLK','','2023-11-25',''),
+('EA2256','Yamoriba','03','México','YMA','','2023-11-25',''),
+('EA2257','Yoquivo','03','México','YOQ','','2023-11-25',''),
+('EA2258','Yopori Norte','03','México','YPN','','2023-11-25',''),
+('EA2259','Yucatán','03','México','YTN','','2023-11-25',''),
+('EA2260','Zamora','03','México','ZAM','','2023-11-25',''),
+('EA2261','Zacacoyuca','03','México','ZKA','','2023-11-25',''),
+('EA2262','El Zalate','03','México','ZLT','','2023-11-25',''),
+('EA2263','Zapotiltic','03','México','ZPC','','2023-11-25',''),
+('EA2264','Zacapu','03','México','ZPU','','2023-11-25',''),
+('EA2265','El Zapatero','03','México','ZPV','','2023-11-25',''),
+('EA2266','Zoquipan','03','México','ZQN','','2023-11-25',''),
+('EA2267','Zarupa','03','México','ZRA','','2023-11-25',''),
+('EA2268','Augusto Cesar Sandino','03','Nicaragua','MGA','','2023-11-25',''),
+('EA2269','Flesland','03','Noruega','BGO','','2023-11-25',''),
+('EA2270','Oslo','03','Noruega','OSL','','2023-11-25',''),
+('EA2271','Sola','03','Noruega','SVG','','2023-11-25',''),
+('EA2272','Vaernes','03','Noruega','TRD','','2023-11-25',''),
+('EA2273','Woodbourne','03','Nueva Zelanda','BHE','','2023-11-25',''),
+('EA2274','Schiphol','03','Países Bajos','AMS','','2023-11-25',''),
+('EA2275','Reina Beatrix','03','Países Bajos','AUA','','2023-11-25',''),
+('EA2276','Hato','03','Países Bajos','CUR','','2023-11-25',''),
+('EA2277','Princess Juliana','03','Países Bajos','SXM','','2023-11-25',''),
+('EA2278','Panamá Pacifico','03','Panamá','BLB','','2023-11-25',''),
+('EA2279','Enrique Malek','03','Panamá','DAV','','2023-11-25',''),
+('EA2280','Tocumen','03','Panamá','PTY','','2023-11-25',''),
+('EA2281','Sálamo','03','Papua-Nueva Guinea','SAM','','2023-11-25',''),
+('EA2282','Guaraní','03','Paraguay','AGT','','2023-11-25',''),
+('EA2283','Carlos Miguel Jiménez','03','Paraguay','PIL','','2023-11-25',''),
+('EA2284','Capitán Fap José A. Quiñones González','03','Perú','CIX','','2023-11-25',''),
+('EA2285','Jorge Chávez','03','Perú','LIM','','2023-11-25',''),
+('EA2286','Capitán Fap Renán Elías Olivera','03','Perú','PIO','','2023-11-25',''),
+('EA2287','Frederic Chopin','03','Polonia','WAW','','2023-11-25',''),
+('EA2288','Humberto Delgado','03','Portugal','LIS','','2023-11-25',''),
+('EA2289','Francisco Sa Carneiro','03','Portugal','OPO','','2023-11-25',''),
+('EA2290','Santa María','03','Portugal','SMA','','2023-11-25',''),
+('EA2291','Aeroporto Das Lajes','03','Portugal','TER','','2023-11-25',''),
+('EA2292','Hamad','03','Qatar','DOH','','2023-11-25',''),
+('EA2293','L.F. Wade','03','Reino Unido','BDA','','2023-11-25',''),
+('EA2294','Belfast','03','Reino Unido','BFS','','2023-11-25',''),
+('EA2295','George Best','03','Reino Unido','BHD','','2023-11-25',''),
+('EA2296','Birmingham','03','Reino Unido','BHX','','2023-11-25',''),
+('EA2297','Bournemouth','03','Reino Unido','BOH','','2023-11-25',''),
+('EA2298','Bristol','03','Reino Unido','BRS','','2023-11-25',''),
+('EA2299','Cardiff','03','Reino Unido','CWL','','2023-11-25',''),
+('EA2300','Doncaster Sheffield','03','Reino Unido','DSA','','2023-11-25',''),
+('EA2301','Edinburgh','03','Reino Unido','EDI','','2023-11-25',''),
+('EA2302','East Midlands','03','Reino Unido','EMA','','2023-11-25',''),
+('EA2303','Exeter','03','Reino Unido','EXT','','2023-11-25',''),
+('EA2304','Abbotsinch','03','Reino Unido','GLA','','2023-11-25',''),
+('EA2305','Leeds Bradford','03','Reino Unido','LBA','','2023-11-25',''),
+('EA2306','London City','03','Reino Unido','LCY','','2023-11-25',''),
+('EA2307','Gatwick','03','Reino Unido','LGW','','2023-11-25',''),
+('EA2308','Heathrow','03','Reino Unido','LHR','','2023-11-25',''),
+('EA2309','Raf Lakenheath','03','Reino Unido','LKZ','','2023-11-25',''),
+('EA2310','Ringway','03','Reino Unido','MAN','','2023-11-25',''),
+('EA2311','Newcastle','03','Reino Unido','NCL','','2023-11-25',''),
+('EA2312','Providenciales','03','Reino Unido','PLS','','2023-11-25',''),
+('EA2313','Stansted','03','Reino Unido','STN','','2023-11-25',''),
+('EA2314','Vaclav Havel','03','Republica Checa','PRG','','2023-11-25',''),
+('EA2315','Incheon','03','Republica de Corea','ICN','','2023-11-25',''),
+('EA2316','Samana El Catey','03','Republica Dominicana','AZS','','2023-11-25',''),
+('EA2317','Casa De Campo','03','Republica Dominicana','LRM','','2023-11-25',''),
+('EA2318','Gregorio Luperón','03','Republica Dominicana','POP','','2023-11-25',''),
+('EA2319','Punta Cana','03','Republica Dominicana','PUJ','','2023-11-25',''),
+('EA2320','Las Américas','03','Republica Dominicana','SDQ','','2023-11-25',''),
+('EA2321','Domodedovo','03','Rusia','DME','','2023-11-25',''),
+('EA2322','Pulkovo','03','Rusia','LED','','2023-11-25',''),
+('EA2323','Sheremetyevo','03','Rusia','SVO','','2023-11-25',''),
+('EA2324','Vnukovo','03','Rusia','VKO','','2023-11-25',''),
+('EA2325','O.R. Tambo','03','Sudáfrica','JNB','','2023-11-25',''),
+('EA2326','Arlanda','03','Suecia','ARN','','2023-11-25',''),
+('EA2327','Landvetter','03','Suecia','GOT','','2023-11-25',''),
+('EA2328','Kalmar','03','Suecia','KLR','','2023-11-25',''),
+('EA2329','Kallax','03','Suecia','LLA','','2023-11-25',''),
+('EA2330','Kungsängen','03','Suecia','NRK','','2023-11-25',''),
+('EA2331','Umeå','03','Suecia','UME','','2023-11-25',''),
+('EA2332','Zürich-Kloten','03','Suiza','ZRH','','2023-11-25',''),
+('EA2333','Tainan','03','Taiwán','TNN','','2023-11-25',''),
+('EA2334','Piarco International','03','Trinidad y Tobago','POS','','2023-11-25',''),
+('EA2335','Carrasco/General Cesareo L. Berisso','03','Uruguay','MVD','','2023-11-25',''),
+('EA2336','General José Antonio Anzoátegui','03','Venezuela','BLA','','2023-11-25',''),
+('EA2337','Jacinto Lara','03','Venezuela','BRM','','2023-11-25',''),
+('EA2338','Simón Bolívar','03','Venezuela','CCS','','2023-11-25',''),
+('EA2339','Josefa Camejo','03','Venezuela','LSP','','2023-11-25',''),
+('EA2340','La Chinita','03','Venezuela','MAR','','2023-11-25',''),
+('EA2341','Santiago Mariño','03','Venezuela','PMV','','2023-11-25',''),
+('EA2342','General Manuel Carlos Piar','03','Venezuela','PZO','','2023-11-25',''),
+('EA2343','Las Flecheras','03','Venezuela','SFD','','2023-11-25',''),
+('EA2344','Juan Pablo Pérez Alfonso','03','Venezuela','VIG','','2023-11-25',''),
+('EA2345','Arturo Michelena International','03','Venezuela','VLN','','2023-11-25',''),
+('EA2346','Extranjera','03','Extranjera','1Y','','2023-11-25',''),
+('Q0736','SANTO NINO','04','México','','Q','2023-11-25',''),
+('SC283','HUAXTITLA','04','México','','SC','2023-11-25',''),
+('Q0486','TERRERO','04','México','','Q','2023-11-25',''),
+('VC117.2','SAN COSME','04','México','','VC','2023-11-25',''),
+('M271.1','ADELEIDA','04','México','','M','2023-11-25',''),
+('TM7.2','AMARILLO','04','México','','TM','2023-11-25',''),
+('TG0','NAVOJOA','04','México','','TG','2023-11-25',''),
+('N490.7','ARISTEO','04','México','','N','2023-11-25',''),
+('RD170','LA VIBORA','04','México','','RD','2023-11-25',''),
+('Q0513','ATAROS','04','México','','Q','2023-11-25',''),
+('I0154','LA BARCA','04','México','','I','2023-11-25',''),
+('I569.6','PERIQUILLO','04','México','','I','2023-11-25',''),
+('F87.2','LOMA','04','México','','F','2023-11-25',''),
+('TI032','NAVOLATO','04','México','','TI','2023-11-25',''),
+('IB97.1','YARECUATO','04','México','','IB','2023-11-25',''),
+('Z194.9','IVES','04','México','','Z','2023-11-25',''),
+('G0042','MOTZORONGO','04','México','','G','2023-11-25',''),
+('DA234.9','EJIDO MONTERREY','04','México','','DA','2023-11-25',''),
+('A1879','RANCHERIA','04','México','','A','2023-11-25',''),
+('H116.1','SANTIAGO','04','México','','H','2023-11-25',''),
+('B0866','EL COBRE','04','México','','B','2023-11-25',''),
+('IB116.6','ERONGARICUARO','04','México','','IB','2023-11-25',''),
+('LA040','NARANJAL','04','México','','LA','2023-11-25',''),
+('DC2.5','CENTRAL CAMIONERA','04','México','','DC','2023-11-25',''),
+('TA299','CALABAZAS','04','México','','TA','2023-11-25',''),
+('IB17.5','TRES MEZQUITES','04','México','','IB','2023-11-25',''),
+('S0165','HUAMANTLA','04','México','','S','2023-11-25',''),
+('DE54.2','RIO CHICO','04','México','','DE','2023-11-25',''),
+('LA33.4','ZUCIGA','04','México','','LA','2023-11-25',''),
+('V0999','VERACRUZ ICAVE','04','México','','V','2023-11-25',''),
+('A1642.8','MOLINAR','04','México','','A','2023-11-25',''),
+('FA684','YIXMUCUY','04','México','','FA','2023-11-25',''),
+('A1417.3','LA ENRAMADA','04','México','','A','2023-11-25',''),
+('I0498','ALZADA','04','México','','I','2023-11-25',''),
+('G0254','LOS TIGRES','04','México','','G','2023-11-25',''),
+('L0556','LAS PALMAS','04','México','','L','2023-11-25',''),
+('B0915','SALTILLO','04','México','','B','2023-11-25',''),
+('N340.8','EL PLAN','04','México','','N','2023-11-25',''),
+('TA139','VILLA VERDE','04','México','','TA','2023-11-25',''),
+('FX37','VALLADOLID','04','México','','FX','2023-11-25',''),
+('C167.3','HERMOSA','04','México','','C','2023-11-25',''),
+('A1120','MIELERAS','04','México','','A','2023-11-25',''),
+('A513.3','DOBLE','04','México','','A','2023-11-25',''),
+('Q0708','TEMORIS','04','México','','Q','2023-11-25',''),
+('VK123','CUAUTLA','04','México','','VK','2023-11-25',''),
+('I0197','PONCITLAN','04','México','','I','2023-11-25',''),
+('EB24.2','SAN NICOLAS','04','México','','EB','2023-11-25',''),
+('QA476.7','BARREAL','04','México','','QA','2023-11-25',''),
+('H108.7','OTLIMULCO','04','México','','H','2023-11-25',''),
+('B174','EL ZAPOTE','04','México','','B','2023-11-25',''),
+('A0830','CEDRO','04','México','','A','2023-11-25',''),
+('A664','TLACOTES','04','México','','A','2023-11-25',''),
+('M0327','GARZA VALDEZ','04','México','','M','2023-11-25',''),
+('IB111.7','PUACUARO','04','México','','IB','2023-11-25',''),
+('Morelos145.6','POLOTITLAN','04','México','','Morelos','2023-11-25',''),
+('L0625','CHIJOL','04','México','','L','2023-11-25',''),
+('BG35.1','MELVILLE','04','México','','BG','2023-11-25',''),
+('FD88','KANKABCHEN','04','México','','FD','2023-11-25',''),
+('T0802','LEON FONSECA','04','México','','T','2023-11-25',''),
+('T0937','ROSALES','04','México','','T','2023-11-25',''),
+('S286.8','TENANGO DE RIO BLA','04','México','','S','2023-11-25',''),
+('Q0523','TREVINO','04','México','','Q','2023-11-25',''),
+('DE93','LOS ARTICULOS','04','México','','DE','2023-11-25',''),
+('DC34.1','GUADIANA','04','México','','DC','2023-11-25',''),
+('K435.7','CONGREGACION REFORMA','04','México','','K','2023-11-25',''),
+('G0173','LOMA BONITA','04','México','','G','2023-11-25',''),
+('V0182','TECOAC','04','México','','V','2023-11-25',''),
+('T1607','IXTLAN','04','México','','T','2023-11-25',''),
+('A0616','PABELLON','04','México','','A','2023-11-25',''),
+('A443.9','SAN BARTOLO','04','México','','A','2023-11-25',''),
+('VC134.4','ATOTONILCO','04','México','','VC','2023-11-25',''),
+('GB15.2','NOPALTEPEC','04','México','','GB','2023-11-25',''),
+('F236.8','BARITA','04','México','','F','2023-11-25',''),
+('AC11.2','LOS LOBOS','04','México','','AC','2023-11-25',''),
+('VK060','AYAPANGO','04','México','','VK','2023-11-25',''),
+('R0324','ESPINAZO','04','México','','R','2023-11-25',''),
+('M764.3','POMONA','04','México','','M','2023-11-25',''),
+('V63.8','OXTOTIPAC','04','México','','V','2023-11-25',''),
+('IN078','ZACAPU','04','México','','IN','2023-11-25',''),
+('RD155.1','MAGUEYAL','04','México','','RD','2023-11-25',''),
+('A46.5','HUEHUETOCA NM','04','México','','A','2023-11-25',''),
+('P72.6','EJIDO QUERITA','04','México','','P','2023-11-25',''),
+('LJ246','QUERETARO','04','México','','Juárez','2023-11-25',''),
+('R89.2','SILENCIO','04','México','','R','2023-11-25',''),
+('BF026','ESCOBEDO','04','México','','BF','2023-11-25',''),
+('DC151.1','FRIO','04','México','','DC','2023-11-25',''),
+('C255.7','COCULA','04','México','','C','2023-11-25',''),
+('VB184','CARMELA','04','México','','VB','2023-11-25',''),
+('B1274','SANCHEZ','04','México','','B','2023-11-25',''),
+('S145.6','TOCHA','04','México','','S','2023-11-25',''),
+('XX1.6','RIO PANUCO','04','México','','XX','2023-11-25',''),
+('Juárez76.1','TULA','04','México','','Juárez','2023-11-25',''),
+('RD199.8','AMERICANOS','04','México','','RD','2023-11-25',''),
+('K209','MOJARRAS','04','México','','K','2023-11-25',''),
+('TP8.7','APASCO','04','México','','TP','2023-11-25',''),
+('K319.3','LA PLAYA','04','México','','K','2023-11-25',''),
+('A0576','ARELLANO','04','México','','A','2023-11-25',''),
+('Q0722','JULIO ORNELAS','04','México','','Q','2023-11-25',''),
+('T434.6','PIEDRA','04','México','','T','2023-11-25',''),
+('V446.6','LOMA DE IGUANA','04','México','','V','2023-11-25',''),
+('M0445','VAQUEROS','04','México','','M','2023-11-25',''),
+('C171.6','VIDAL','04','México','','C','2023-11-25',''),
+('FA89.3','HEROE DE MACOZARI','04','México','','FA','2023-11-25',''),
+('TA094','MOLINA','04','México','','TA','2023-11-25',''),
+('O83.9','CURUNGUEO','04','México','','O','2023-11-25',''),
+('S0334','POTRERO','04','México','','S','2023-11-25',''),
+('HE4.2','SANTA ROSA','04','México','','HE','2023-11-25',''),
+('RD50.4','BOQUILLAS','04','México','','RD','2023-11-25',''),
+('A1769.8','EL SUECO','04','México','','A','2023-11-25',''),
+('DC118.3','CANUTILLO','04','México','','DC','2023-11-25',''),
+('B0073','CALERA','04','México','','B','2023-11-25',''),
+('T0535','CIUDAD OBREGON','04','México','','T','2023-11-25',''),
+('DC236.1','TETILLAS','04','México','','DC','2023-11-25',''),
+('R0199','HERMANAS','04','México','','R','2023-11-25',''),
+('VC142.5','PRODUCTORA NACIONAL','04','México','','VC','2023-11-25',''),
+('N171','PUERTO DE MEDINA','04','México','','N','2023-11-25',''),
+('IN104','ZIRONDARO','04','México','','IN','2023-11-25',''),
+('C245','METLAPA','04','México','','C','2023-11-25',''),
+('FA298.4','LA GLORIA','04','México','','FA','2023-11-25',''),
+('N0546','ALBERTO ARENAL BANUET','04','México','','N','2023-11-25',''),
+('G0065','MARTINICA','04','México','','G','2023-11-25',''),
+('L0377','LAS TABLAS','04','México','','L','2023-11-25',''),
+('A0191','SAN JUAN DEL RIO','04','México','','A','2023-11-25',''),
+('N51.6','JAJALPA','04','México','','N','2023-11-25',''),
+('A0080','TULA','04','México','','A','2023-11-25',''),
+('DC128.5','LODEMENA','04','México','','DC','2023-11-25',''),
+('UB33.4','VALLE REDONDO','04','México','','UB','2023-11-25',''),
+('MA46','GENERAL VILLA','04','México','','MA','2023-11-25',''),
+('T0400','MAYTORENA','04','México','','T','2023-11-25',''),
+('DE118.1','COYOTES','04','México','','DE','2023-11-25',''),
+('N0285','ACAMBARO','04','México','','N','2023-11-25',''),
+('H0039','TEMASCALAPA','04','México','','H','2023-11-25',''),
+('N0295','LA COSTURA','04','México','','N','2023-11-25',''),
+('V0381','PALMAR','04','México','','V','2023-11-25',''),
+('M464.6','SAN JUAN','04','México','','M','2023-11-25',''),
+('DE6.4','BARAVITO','04','México','','DE','2023-11-25',''),
+('C274.1','OLEA','04','México','','C','2023-11-25',''),
+('N322.7','CORO','04','México','','N','2023-11-25',''),
+('DB136.2','EL JAGUEY','04','México','','DB','2023-11-25',''),
+('DB71.3','LOS PINOS','04','México','','DB','2023-11-25',''),
+('VB167','CHIAPA','04','México','','VB','2023-11-25',''),
+('N0414','FONTEZUELA','04','México','','N','2023-11-25',''),
+('FA712','PLACA KM FA-712','04','México','','FA','2023-11-25',''),
+('M523.5','MONTERREY','04','México','','M','2023-11-25',''),
+('B0265','HERCULES','04','México','','B','2023-11-25',''),
+('E344.2','MAGDALENA','04','México','','E','2023-11-25',''),
+('MA14','LA CONCHA','04','México','','MA','2023-11-25',''),
+('M596','EL MILAGRO','04','México','','M','2023-11-25',''),
+('V0271','RUBIN','04','México','','V','2023-11-25',''),
+('SH13','TECAMAC','04','México','','SH','2023-11-25',''),
+('Q374.3','BUSTILLOS','04','México','','Q','2023-11-25',''),
+('QA118.2','LAS VARAS','04','México','','QA','2023-11-25',''),
+('VC19.4','FRAILES','04','México','','VC','2023-11-25',''),
+('FN1.9','CHUBURNA','04','México','','FN','2023-11-25',''),
+('V0343','LOS BERROS','04','México','','V','2023-11-25',''),
+('L0292','SILOS','04','México','','L','2023-11-25',''),
+('V0089','JALTEPEC','04','México','','V','2023-11-25',''),
+('V0237','TEPEYAHUALCO','04','México','','V','2023-11-25',''),
+('BG52.4','SAN CARLOS','04','México','','BG','2023-11-25',''),
+('N0011','NAUCALPAN','04','México','','N','2023-11-25',''),
+('A1718.3','ARADOS','04','México','','A','2023-11-25',''),
+('EA0','NUEVO CARNERO','04','México','','EA','2023-11-25',''),
+('M500.3','CERRITO LA SILLA','04','México','','M','2023-11-25',''),
+('QA235.9','CABALLO','04','México','','QA','2023-11-25',''),
+('L30.9','GALLARDO','04','México','','L','2023-11-25',''),
+('E0029','TRES JAGUEYES','04','México','','E','2023-11-25',''),
+('IB31.6','LOPEZ','04','México','','IB','2023-11-25',''),
+('FA695.2','UAYAMON','04','México','','FA','2023-11-25',''),
+('UB8.5','GAS MEX TIJUANA','04','México','','UB','2023-11-25',''),
+('G0209','MASOCO','04','México','','G','2023-11-25',''),
+('T514.7','CORRAL','04','México','','T','2023-11-25',''),
+('R0229','AGUSTIN ESPINOZA','04','México','','R','2023-11-25',''),
+('N0006','TACUBA','04','México','','N','2023-11-25',''),
+('A0363','COPALILLO','04','México','','A','2023-11-25',''),
+('V0351','PACHO','04','México','','V','2023-11-25',''),
+('FA642.2','SAN JUAN CARPIZO','04','México','','FA','2023-11-25',''),
+('R0282','DEZAGO','04','México','','R','2023-11-25',''),
+('IB7.8','BARAJAS','04','México','','IB','2023-11-25',''),
+('IB106.2','OPONQUIO','04','México','','IB','2023-11-25',''),
+('E379.2','EL TULE','04','México','','E','2023-11-25',''),
+('A1887.1','CANDELARIA','04','México','','A','2023-11-25',''),
+('A0660','BERRIOZABAL','04','México','','A','2023-11-25',''),
+('M0040','CERVANTES','04','México','','M','2023-11-25',''),
+('AB040','GENERAL ZARAGOZA','04','México','','AB','2023-11-25',''),
+('FA362.3','PLACA KM FA-363','04','México','','FA','2023-11-25',''),
+('N93','SANTA JUANA','04','México','','N','2023-11-25',''),
+('UA000','CALEXICO','04','México','','UA','2023-11-25',''),
+('IB48.7','MAGDACUARO','04','México','','IB','2023-11-25',''),
+('SC235.6','JESUS NAZARENO','04','México','','SC','2023-11-25',''),
+('N0204','LOS LIRIOS','04','México','','N','2023-11-25',''),
+('F0265','RIO BRAVO','04','México','','F','2023-11-25',''),
+('E224.7','TECOMAVACA','04','México','','E','2023-11-25',''),
+('S115.7','CALDERON','04','México','','S','2023-11-25',''),
+('H132.2','LAGUNA DEL CERRITO','04','México','','H','2023-11-25',''),
+('S11.6','ESPUELA LA VILLA','04','México','','S','2023-11-25',''),
+('RA118','CIUDAD ACURA','04','México','','RA','2023-11-25',''),
+('T0941','COLORADA','04','México','','T','2023-11-25',''),
+('B0833','LEDEZMA','04','México','','B','2023-11-25',''),
+('IB132','SANTA CLARA (ESTACION)','04','México','','IB','2023-11-25',''),
+('A1374','JIMENEZ','04','México','','A','2023-11-25',''),
+('M0290','TINAJAS','04','México','','M','2023-11-25',''),
+('H70','SAN ANTONIO OZTOYUCA','04','México','','H','2023-11-25',''),
+('F68.8','ALTAVISTA','04','México','','F','2023-11-25',''),
+('DM6','ASARCO','04','México','','DM','2023-11-25',''),
+('GB30.7','NUEVO COCUITE','04','México','','GB','2023-11-25',''),
+('F100.1','BARRETOSA','04','México','','F','2023-11-25',''),
+('FD102.6','CAMARA','04','México','','FD','2023-11-25',''),
+('A1069','LOS TRIZAR','04','México','','A','2023-11-25',''),
+('Z0046','AZUFRERA','04','México','','Z','2023-11-25',''),
+('Q0471','LA UNION','04','México','','Q','2023-11-25',''),
+('FA266.5','PINO SUAREZ','04','México','','FA','2023-11-25',''),
+('M512.2','LINDAVISTA','04','México','','M','2023-11-25',''),
+('SA029','ZACATELCO','04','México','','SA','2023-11-25',''),
+('FP148.4','XOY','04','México','','FP','2023-11-25',''),
+('K292.8','JERICO','04','México','','K','2023-11-25',''),
+('A375.8','EL CERRITO','04','México','','A','2023-11-25',''),
+('SC267','PUENTA COLORADO','04','México','','SC','2023-11-25',''),
+('Q881.6','SUFRAGIO CHP','04','México','','Q','2023-11-25',''),
+('B0894','ENCANTADA','04','México','','B','2023-11-25',''),
+('DN41','ENCINAL','04','México','','DN','2023-11-25',''),
+('M251.6','CERAMICA','04','México','','M','2023-11-25',''),
+('L0459','CAFETAL','04','México','','L','2023-11-25',''),
+('N0038','SAN MARTIN','04','México','','N','2023-11-25',''),
+('C156.1','TREINTA','04','México','','C','2023-11-25',''),
+('N0319','HUINGO','04','México','','N','2023-11-25',''),
+('QA104.6','RINCON','04','México','','QA','2023-11-25',''),
+('L593.2','VELASCO','04','México','','L','2023-11-25',''),
+('TL51.9','AMECA','04','México','','TL','2023-11-25',''),
+('RC39.2','MUZQUIZ','04','México','','RC','2023-11-25',''),
+('IB77.6','ZACAPU','04','México','','IB','2023-11-25',''),
+('U457.4','LA PERA','04','México','','U','2023-11-25',''),
+('S0139','APIZACO','04','México','','S','2023-11-25',''),
+('L0429','LA LABOR','04','México','','L','2023-11-25',''),
+('I0328','SANTA ANA','04','México','','I','2023-11-25',''),
+('H138.9','PANFILO','04','México','','H','2023-11-25',''),
+('L470.1','LA CHANGA','04','México','','L','2023-11-25',''),
+('A0365','VIEYRA','04','México','','A','2023-11-25',''),
+('DM8.4','VELARDERA','04','México','','DM','2023-11-25',''),
+('F0163','OCHOA','04','México','','F','2023-11-25',''),
+('Z271.6','GUICHIBE','04','México','','Z','2023-11-25',''),
+('Z0097','MEDIAS AGUAS','04','México','','Z','2023-11-25',''),
+('T55','CUMERAL','04','México','','T','2023-11-25',''),
+('N0213','POMOCA','04','México','','N','2023-11-25',''),
+('I168.8','SANTA INESIA','04','México','','I','2023-11-25',''),
+('NE183','EL CAYACAL','04','México','','NE','2023-11-25',''),
+('U522.7','BENJAMIN HILL','04','México','','U','2023-11-25',''),
+('E118','PATIO NUEVO CARNERO','04','México','','E','2023-11-25',''),
+('DB203.8','EL PRESIDIO','04','México','','DB','2023-11-25',''),
+('FA494.1','CANDELARIA','04','México','','FA','2023-11-25',''),
+('Z0010','BERTA','04','México','','Z','2023-11-25',''),
+('A0292','CELAYA','04','México','','A','2023-11-25',''),
+('S6','TENAYUCA','04','México','','S','2023-11-25',''),
+('ZA008','GUANOMEX','04','México','','ZA','2023-11-25',''),
+('FN32.3','PROGRESO','04','México','','FN','2023-11-25',''),
+('F4.8','SAN NICOLAS','04','México','','F','2023-11-25',''),
+('V0997','VERACRUZ APIVER','04','México','','V','2023-11-25',''),
+('B196','MERCADOR','04','México','','B','2023-11-25',''),
+('IC14.1','LA LABOR VIEJA','04','México','','IC','2023-11-25',''),
+('N0227','MARAVATIO OCAMPO','04','México','','N','2023-11-25',''),
+('S0344','LAS PALOMAS','04','México','','S','2023-11-25',''),
+('S0217','SAN JUAN ATENCO','04','México','','S','2023-11-25',''),
+('B294.4','COSIO','04','México','','B','2023-11-25',''),
+('U0470','TRINCHERAS','04','México','','U','2023-11-25',''),
+('M50.9','LOS ENTEROS','04','México','','M','2023-11-25',''),
+('UB13.2','GARCIA','04','México','','UB','2023-11-25',''),
+('Z264.5','COMITANCILLO','04','México','','Z','2023-11-25',''),
+('Q0779','AGUACALIENTE','04','México','','Q','2023-11-25',''),
+('HA019','TELLEZ','04','México','','HA','2023-11-25',''),
+('V0276','CRUZ BLANCA','04','México','','V','2023-11-25',''),
+('S0348','PASO DEL MACHO','04','México','','S','2023-11-25',''),
+('TA305.4','SAN NICOLAS','04','México','','TA','2023-11-25',''),
+('DE122.1','BAJIO ATASCOSO','04','México','','DE','2023-11-25',''),
+('DB112.2','NUEVO IDEAL','04','México','','DB','2023-11-25',''),
+('L390.7','EL DURO','04','México','','L','2023-11-25',''),
+('J28.2','EL FRESNO','04','México','','J','2023-11-25',''),
+('M67','LOS PLATANOS','04','México','','M','2023-11-25',''),
+('A1472','AURELIO','04','México','','A','2023-11-25',''),
+('M0887','FERROALEACIONES','04','México','','M','2023-11-25',''),
+('RD225.5','PRESA','04','México','','RD','2023-11-25',''),
+('N208.9','PATEO','04','México','','N','2023-11-25',''),
+('LB056','LAS CRUCES','04','México','','LB','2023-11-25',''),
+('DA21','MALAGA','04','México','','DA','2023-11-25',''),
+('TM23','LA CALABAZA','04','México','','TM','2023-11-25',''),
+('A429.1','EL POTRERITO','04','México','','A','2023-11-25',''),
+('R0428','ROJAS FXE','04','México','','R','2023-11-25',''),
+('T360.1','TAPIA','04','México','','T','2023-11-25',''),
+('FA721.9','CAMPECHE','04','México','','FA','2023-11-25',''),
+('G151.6','LAS PIÑAS','04','México','','G','2023-11-25',''),
+('A409.3','FAUSTO RODRIGUEZ','04','México','','A','2023-11-25',''),
+('DE76.9','COCONA','04','México','','DE','2023-11-25',''),
+('Q0322','SANTA ISABEL','04','México','','Q','2023-11-25',''),
+('B0495','JESUS MARIA','04','México','','B','2023-11-25',''),
+('A0077','TOLTECA','04','México','','A','2023-11-25',''),
+('QA309.2','SAN DIEGO','04','México','','QA','2023-11-25',''),
+('Z102.4','ADOLFO RUIZ CORTINES','04','México','','Z','2023-11-25',''),
+('VC120','ATLACAHUALOYA','04','México','','VC','2023-11-25',''),
+('RD17.3','NADADORES','04','México','','RD','2023-11-25',''),
+('L55.9','BIMBALETES','04','México','','L','2023-11-25',''),
+('FD41.5','CACALCHEN','04','México','','FD','2023-11-25',''),
+('UB51.4','LADERO PINELLI','04','México','','UB','2023-11-25',''),
+('V0391','APAZAPAM','04','México','','V','2023-11-25',''),
+('B0675','LA MAROMA','04','México','','B','2023-11-25',''),
+('A1049','PERALTA','04','México','','A','2023-11-25',''),
+('NB9.1','MANZANA','04','México','','NB','2023-11-25',''),
+('I0441','ZAPOTILTIC','04','México','','I','2023-11-25',''),
+('S69.5','XALA','04','México','','S','2023-11-25',''),
+('FD66.6','IZAMAL','04','México','','FD','2023-11-25',''),
+('L0315','MONTANA','04','México','','L','2023-11-25',''),
+('FA797.1','DZITBALCHE','04','México','','FA','2023-11-25',''),
+('BC073','PRESA DE LA CEBADA','04','México','','BC','2023-11-25',''),
+('HE0.1','SOTOTLAN','04','México','','HE','2023-11-25',''),
+('A0840','EDMUNDO','04','México','','A','2023-11-25',''),
+('FD150.3','ESPITA','04','México','','FD','2023-11-25',''),
+('RC3.6','CELIA','04','México','','RC','2023-11-25',''),
+('TB016','CANANEA','04','México','','TB','2023-11-25',''),
+('K221.4','TRES PICOS','04','México','','K','2023-11-25',''),
+('Q0624','INGENIERO FRANCISCO M TOGNO','04','México','','Q','2023-11-25',''),
+('DA244.8','RIO NAZAS','04','México','','DA','2023-11-25',''),
+('N102.7','TOXICO','04','México','','N','2023-11-25',''),
+('Z217.5','ALMOLOYA','04','México','','Z','2023-11-25',''),
+('P59.2','MORITA','04','México','','P','2023-11-25',''),
+('T797.4','ZOPILOTE','04','México','','T','2023-11-25',''),
+('K194.2','LA POLKA','04','México','','K','2023-11-25',''),
+('T0992','ALHUATE','04','México','','T','2023-11-25',''),
+('TA078','LA BOTA','04','México','','TA','2023-11-25',''),
+('F0312','SANDOVAL','04','México','','F','2023-11-25',''),
+('DC205.4','PASTELERA','04','México','','DC','2023-11-25',''),
+('N546.1','HOYO DEL AIRE','04','México','','N','2023-11-25',''),
+('T0483','VICAM','04','México','','T','2023-11-25',''),
+('TA280.8','TURICACHI','04','México','','TA','2023-11-25',''),
+('FA739.7','HAMPOLDI','04','México','','FA','2023-11-25',''),
+('S0189','MOCTEZUMA','04','México','','S','2023-11-25',''),
+('DE110.6','CRUZ DE PIEDRA','04','México','','DE','2023-11-25',''),
+('G0005','AMATLAN','04','México','','G','2023-11-25',''),
+('HC005','LA TRINIDAD','04','México','','HC','2023-11-25',''),
+('A592','PLACA KM A-592','04','México','','A','2023-11-25',''),
+('N33.5','LAUREL','04','México','','N','2023-11-25',''),
+('A0706','ZACATECAS','04','México','','A','2023-11-25',''),
+('FN9','XCANATUN','04','México','','FN','2023-11-25',''),
+('IB74.9','JAUJA','04','México','','IB','2023-11-25',''),
+('K279.1','EL CARMEN','04','México','','K','2023-11-25',''),
+('T1159','REDO','04','México','','T','2023-11-25',''),
+('FS56.8','SOTUTA','04','México','','FS','2023-11-25',''),
+('NE150','EL PANAMA','04','México','','NE','2023-11-25',''),
+('RD334.2','ESCALON','04','México','','RD','2023-11-25',''),
+('VB033','NANACAMILPA','04','México','','VB','2023-11-25',''),
+('RD27.2','CELEMANIA','04','México','','RD','2023-11-25',''),
+('U0399','CABORCA','04','México','','U','2023-11-25',''),
+('BD019','SAN MIGUEL ALLENDE','04','México','','BD','2023-11-25',''),
+('DA249.3','TORREON','04','México','','DA','2023-11-25',''),
+('JM047','HUEHUETOCA','04','México','','Juárez','2023-11-25',''),
+('FA74.5','RUEDA','04','México','','FA','2023-11-25',''),
+('N151.2','TEPEOLILCO','04','México','','N','2023-11-25',''),
+('FP99.3','AKIL','04','México','','FP','2023-11-25',''),
+('T1342.7','MOTAJE','04','México','','T','2023-11-25',''),
+('TA61.6','ZORRILLA','04','México','','TA','2023-11-25',''),
+('M793.3','LA SECCION','04','México','','M','2023-11-25',''),
+('S0210','ALJIBES','04','México','','S','2023-11-25',''),
+('A0851','LA COLORADA','04','México','','A','2023-11-25',''),
+('PA008','SANTA BARBARA','04','México','','PA','2023-11-25',''),
+('DA173.3','PEDRICEÑA','04','México','','DA','2023-11-25',''),
+('N287','GENERAL FELIPE ANGELES','04','México','','N','2023-11-25',''),
+('U0043','VICTORIA','04','México','','U','2023-11-25',''),
+('AC22.7','VALLE DE SANTIAGO','04','México','','AC','2023-11-25',''),
+('U206','GUSTAVO SOTELO','04','México','','U','2023-11-25',''),
+('A1523','MEOQUI','04','México','','A','2023-11-25',''),
+('A1019.5','DARIAS','04','México','','A','2023-11-25',''),
+('VK074','TEPETLIXPA','04','México','','VK','2023-11-25',''),
+('A0307','CORTAZAR','04','México','','A','2023-11-25',''),
+('N0433','PATZCUARO','04','México','','N','2023-11-25',''),
+('M855.2','SANTA TERESA','04','México','','M','2023-11-25',''),
+('Q0622','DIVISADERO','04','México','','Q','2023-11-25',''),
+('U523.4','BENJAMIN HILL SBC','04','México','','U','2023-11-25',''),
+('FA478.9','PARAISO','04','México','','FA','2023-11-25',''),
+('DE94.9','EL TORO','04','México','','DE','2023-11-25',''),
+('DB210.8','CARRERAS','04','México','','DB','2023-11-25',''),
+('S0268','BOTA','04','México','','S','2023-11-25',''),
+('F0271','CELULOSA','04','México','','F','2023-11-25',''),
+('A13','TLANEPANTLA','04','México','','A','2023-11-25',''),
+('IB106','GUASCUARO DE MUJICA','04','México','','IB','2023-11-25',''),
+('RD267.7','QUIMBALETE','04','México','','RD','2023-11-25',''),
+('F43.8','SAN JUAN','04','México','','F','2023-11-25',''),
+('A0431','POTRERO','04','México','','A','2023-11-25',''),
+('IB110.7','MERCADO','04','México','','IB','2023-11-25',''),
+('J36.9','LA FE','04','México','','J','2023-11-25',''),
+('N0057','MACLOVIO HERRERA','04','México','','N','2023-11-25',''),
+('TI006','LAS FLORES','04','México','','TI','2023-11-25',''),
+('A1927','SAMALAYUCA','04','México','','A','2023-11-25',''),
+('A0012','VALLE DE MEXICO','04','México','','A','2023-11-25',''),
+('RD116.1','LOS BELLOC','04','México','','RD','2023-11-25',''),
+('DC109.2','GUALTERIO','04','México','','DC','2023-11-25',''),
+('N0010','NAUCALPAN','04','México','','N','2023-11-25',''),
+('QA317.5','COLONIA MADERO','04','México','','QA','2023-11-25',''),
+('B0884','AGUA NUEVA','04','México','','B','2023-11-25',''),
+('S0409','TEJERIA','04','México','','S','2023-11-25',''),
+('S0235','JESUS DE NAZARENO','04','México','','S','2023-11-25',''),
+('A1697','PARRITA','04','México','','A','2023-11-25',''),
+('C154.3','SAN MIGUEL TREINTA','04','México','','C','2023-11-25',''),
+('RC3.5','BARROTERAN','04','México','','RC','2023-11-25',''),
+('O50.5','OCAMPO','04','México','','O','2023-11-25',''),
+('L641.3','EL CLARON','04','México','','L','2023-11-25',''),
+('VC123.1','LOYOLA','04','México','','VC','2023-11-25',''),
+('VK110','ATLATLAHUCAN','04','México','','VK','2023-11-25',''),
+('L0138','ESPIRITU SANTO','04','México','','L','2023-11-25',''),
+('IB125','PLACA KM IB-125','04','México','','IB','2023-11-25',''),
+('N396.3','NORIEGA','04','México','','N','2023-11-25',''),
+('S0333','ESMERALDA','04','México','','S','2023-11-25',''),
+('IC15.1','MARGARO','04','México','','IC','2023-11-25',''),
+('Z277.7','JORDAN','04','México','','Z','2023-11-25',''),
+('FA84.6','EL GUANAL','04','México','','FA','2023-11-25',''),
+('T1392','RUIZ','04','México','','T','2023-11-25',''),
+('K417.4','TAPACHULA','04','México','','K','2023-11-25',''),
+('E322.6','LAS BEDAS','04','México','','E','2023-11-25',''),
+('M629.7','FRAUSTRO','04','México','','M','2023-11-25',''),
+('K459','CIUDAD HIDALGO','04','México','','K','2023-11-25',''),
+('V0133','SANZ','04','México','','V','2023-11-25',''),
+('T1460','IGNACIO BORREGO','04','México','','T','2023-11-25',''),
+('S0146','TOCHAC','04','México','','S','2023-11-25',''),
+('M45','SAN CARLITOS','04','México','','M','2023-11-25',''),
+('N458.8','AJAMBARAN','04','México','','N','2023-11-25',''),
+('IB91.8','ANGEL','04','México','','IB','2023-11-25',''),
+('Z212.4','NIZA CONEJO','04','México','','Z','2023-11-25',''),
+('N267.1','ARROYO DE LA LUNA','04','México','','N','2023-11-25',''),
+('H14.2','CAJIBA','04','México','','H','2023-11-25',''),
+('M200.1','LAVIN','04','México','','M','2023-11-25',''),
+('L0673','ARBOL GRANDE','04','México','','L','2023-11-25',''),
+('SA021','MAGDALENA','04','México','','SA','2023-11-25',''),
+('DB157','PLACA KM DB-157','04','México','','DB','2023-11-25',''),
+('F215','LOS ALTOS','04','México','','F','2023-11-25',''),
+('E0051','ZOYAPETLAYOCA','04','México','','E','2023-11-25',''),
+('DC200.6','VIRATA','04','México','','DC','2023-11-25',''),
+('U256.5','IRIGOYEN','04','México','','U','2023-11-25',''),
+('S0298','MOLINO','04','México','','S','2023-11-25',''),
+('DB74','DON HILARIO','04','México','','DB','2023-11-25',''),
+('G0017','CUICHAPA','04','México','','G','2023-11-25',''),
+('N0345','QUIRIO','04','México','','N','2023-11-25',''),
+('Q697.5','SOLEDAD','04','México','','Q','2023-11-25',''),
+('GA046','EL RODEO','04','México','','GA','2023-11-25',''),
+('IN116','ERONGARICUARO','04','México','','IN','2023-11-25',''),
+('A5.6','CEYLÁN CARGA','04','México','','A','2023-11-25',''),
+('S0361','CAMARON','04','México','','S','2023-11-25',''),
+('RA63.4','TRASQUILLA','04','México','','RA','2023-11-25',''),
+('VB163','GRAJALES','04','México','','VB','2023-11-25',''),
+('C110.8','RAMON','04','México','','C','2023-11-25',''),
+('L123.6','SOTOL','04','México','','L','2023-11-25',''),
+('K202.1','AMATES','04','México','','K','2023-11-25',''),
+('A1727.8','MOCHO','04','México','','A','2023-11-25',''),
+('RA18.3','ZARAGOZA','04','México','','RA','2023-11-25',''),
+('P52','LA MANSA','04','México','','P','2023-11-25',''),
+('T1706','AMATITAN','04','México','','T','2023-11-25',''),
+('A0496','LOS SALAS','04','México','','A','2023-11-25',''),
+('I0242','LADRILLERA','04','México','','I','2023-11-25',''),
+('NB013','SAN CRISTOBAL','04','México','','NB','2023-11-25',''),
+('N411.6','LA CAJA','04','México','','N','2023-11-25',''),
+('B1116','VILLALDAMA','04','México','','B','2023-11-25',''),
+('Q866.9','VEGA','04','México','','Q','2023-11-25',''),
+('G0167','OBISPO','04','México','','G','2023-11-25',''),
+('FA779.3','HECELCHAKAN','04','México','','FA','2023-11-25',''),
+('A1794','MOCTEZUMA','04','México','','A','2023-11-25',''),
+('BA19','DELGADILLO','04','México','','BA','2023-11-25',''),
+('A0037','TEOLOYUCAN','04','México','','A','2023-11-25',''),
+('SA014','CONTLA','04','México','','SA','2023-11-25',''),
+('L0285','PEOTILLOS','04','México','','L','2023-11-25',''),
+('QA35.7','SANTO TOMAS','04','México','','QA','2023-11-25',''),
+('G0190','DOBLADERO','04','México','','G','2023-11-25',''),
+('T806.2','BAMDA','04','México','','T','2023-11-25',''),
+('DE45.8','PALOS COLORADOS','04','México','','DE','2023-11-25',''),
+('K276','EL PROGRESO','04','México','','K','2023-11-25',''),
+('RD292.7','CARRILLO NUEVO','04','México','','RD','2023-11-25',''),
+('R0261','BOCATOCHE','04','México','','R','2023-11-25',''),
+('B0699','CATORCE','04','México','','B','2023-11-25',''),
+('S103.4','TETLEPAYAC','04','México','','S','2023-11-25',''),
+('GA089','ESTANZUELA','04','México','','GA','2023-11-25',''),
+('O73.7','PURUA','04','México','','O','2023-11-25',''),
+('N330.6','QUERENDARO','04','México','','N','2023-11-25',''),
+('T0298','DYNATECH','04','México','','T','2023-11-25',''),
+('QA521.3','MEZQUITE','04','México','','QA','2023-11-25',''),
+('MA77.2','LA BONITA','04','México','','MA','2023-11-25',''),
+('A0462','LOMA','04','México','','A','2023-11-25',''),
+('LA042','RIO VERDE','04','México','','LA','2023-11-25',''),
+('T1053.8','TANQUES','04','México','','T','2023-11-25',''),
+('I0486','TONILITA','04','México','','I','2023-11-25',''),
+('B49','LIMITE TERRITORIAL','04','México','','B','2023-11-25',''),
+('AE016','NOCHE BUENA','04','México','','AE','2023-11-25',''),
+('FA92.3','GAYTAN','04','México','','FA','2023-11-25',''),
+('A453.8','CORRAL BLANCO','04','México','','A','2023-11-25',''),
+('G0061','ACATLAN','04','México','','G','2023-11-25',''),
+('U0174','LOPEZ CALLADA','04','México','','U','2023-11-25',''),
+('V0461','TAMSA','04','México','','V','2023-11-25',''),
+('GA072','JOACHIN','04','México','','GA','2023-11-25',''),
+('Q0304','PALOMAS','04','México','','Q','2023-11-25',''),
+('A519.4','SAN JUAN LOS LAGOS','04','México','','A','2023-11-25',''),
+('H79.8','ANIMAS','04','México','','H','2023-11-25',''),
+('P146.6','PALOMA','04','México','','P','2023-11-25',''),
+('B1027.3','CORTAVIA 9','04','México','','B','2023-11-25',''),
+('R62.6','LOS ROSALES','04','México','','R','2023-11-25',''),
+('F0061','AYANCUAL','04','México','','F','2023-11-25',''),
+('Z0069','CORREA','04','México','','Z','2023-11-25',''),
+('LA018','PASTORA','04','México','','LA','2023-11-25',''),
+('FD128','SANTA ROSA','04','México','','FD','2023-11-25',''),
+('AK010','DINAMITA','04','México','','AK','2023-11-25',''),
+('QA241.5','BELLAVISTA','04','México','','QA','2023-11-25',''),
+('FA499.1','PEJE LAGARTO','04','México','','FA','2023-11-25',''),
+('DN8.4','EL TANQUE','04','México','','DN','2023-11-25',''),
+('GB8','CAROLINA','04','México','','GB','2023-11-25',''),
+('L0584','CELIS','04','México','','L','2023-11-25',''),
+('RA46.4','TERESITA','04','México','','RA','2023-11-25',''),
+('G0211','GARZA BLANCA','04','México','','G','2023-11-25',''),
+('FP78','PUSTUNICH','04','México','','FP','2023-11-25',''),
+('N41.7','SALAZAR','04','México','','N','2023-11-25',''),
+('K341.1','ACAPETAHUA','04','México','','K','2023-11-25',''),
+('TL42.4','MATUTE','04','México','','TL','2023-11-25',''),
+('Z242.8','LA MATA','04','México','','Z','2023-11-25',''),
+('B0691','WADLEY','04','México','','B','2023-11-25',''),
+('G0030','LA ZAFRA','04','México','','G','2023-11-25',''),
+('EA040','SAN ANTONIO SOLEDAD','04','México','','EA','2023-11-25',''),
+('FP108.6','TEKAK','04','México','','FP','2023-11-25',''),
+('A0322','UNIVEX','04','México','','A','2023-11-25',''),
+('UB71.4','LINEA DIVISORIA SUR','04','México','','UB','2023-11-25',''),
+('Q0000','OJINAGA','04','México','','Q','2023-11-25',''),
+('A439.4','GUANAJAL','04','México','','A','2023-11-25',''),
+('C28.3','CONTRERAS','04','México','','C','2023-11-25',''),
+('L0079','TAURO','04','México','','L','2023-11-25',''),
+('M0643','JOSEFA','04','México','','M','2023-11-25',''),
+('S0327','PARAJE NUEVO','04','México','','S','2023-11-25',''),
+('BA50.9','SAN LUIS DE LA PAZ','04','México','','BA','2023-11-25',''),
+('Q321','ARAIZA','04','México','','Q','2023-11-25',''),
+('T1088.3','OLAJE','04','México','','T','2023-11-25',''),
+('L130','EL JAIBITO','04','México','','L','2023-11-25',''),
+('BA31','LOURDES','04','México','','BA','2023-11-25',''),
+('M0811','BENAVIDES','04','México','','M','2023-11-25',''),
+('Q0406','ESCAPE KM Q-406','04','México','','Q','2023-11-25',''),
+('FA773.1','POMUCH','04','México','','FA','2023-11-25',''),
+('N439.8','PARCO','04','México','','N','2023-11-25',''),
+('B0943','APASCO RAMOS','04','México','','B','2023-11-25',''),
+('A1169.6','MARAVASCO','04','México','','A','2023-11-25',''),
+('FA178.7','JOAQUIN GUTIERREZ','04','México','','FA','2023-11-25',''),
+('TJ22.1','EL DORADO','04','México','','TJ','2023-11-25',''),
+('S0287','RIO BLANCO','04','México','','S','2023-11-25',''),
+('FA221.4','TACOTALPA','04','México','','FA','2023-11-25',''),
+('B0128','ESCANDON','04','México','','B','2023-11-25',''),
+('RD147.3','LAS MONJAS','04','México','','RD','2023-11-25',''),
+('I514.1','ESTANCIA','04','México','','I','2023-11-25',''),
+('Z0','COATZACOALCOS','04','México','','Z','2023-11-25',''),
+('T0821','CAPOMAS','04','México','','T','2023-11-25',''),
+('SA011','SANTA CRUZ','04','México','','SA','2023-11-25',''),
+('FA007','INGENIERO A LIR ARCINIEGA','04','México','','FA','2023-11-25',''),
+('H0050','TEZONTEPEC','04','México','','H','2023-11-25',''),
+('K163','SAN ANTOLIN','04','México','','K','2023-11-25',''),
+('Juárez245','LITION','04','México','','Juárez','2023-11-25',''),
+('E276','ALMOLOYAS','04','México','','E','2023-11-25',''),
+('K256','NANCINAPA','04','México','','K','2023-11-25',''),
+('NB5.2','BETTI','04','México','','NB','2023-11-25',''),
+('A1456.3','LA SECCION','04','México','','A','2023-11-25',''),
+('M0582','ARISTA','04','México','','M','2023-11-25',''),
+('C0005','JULIA','04','México','','C','2023-11-25',''),
+('A719.4','PIMIENTA','04','México','','A','2023-11-25',''),
+('L495.6','LAS CRUCITAS','04','México','','L','2023-11-25',''),
+('T0926','VITARUTO','04','México','','T','2023-11-25',''),
+('HD13.5','XOCOPA','04','México','','HD','2023-11-25',''),
+('B50','HUEHUETOCA','04','México','','B','2023-11-25',''),
+('Q0253','MULLER','04','México','','Q','2023-11-25',''),
+('K455.7','EL CAMPITO','04','México','','K','2023-11-25',''),
+('U0032','DELTA','04','México','','U','2023-11-25',''),
+('M0602','RAMOS','04','México','','M','2023-11-25',''),
+('Q14.6','SAN URIEL','04','México','','Q','2023-11-25',''),
+('MA051','EL MANTE','04','México','','MA','2023-11-25',''),
+('IB99.3','ESCOBILLAS','04','México','','IB','2023-11-25',''),
+('Q267.5','CHIHUAHUA','04','México','','Q','2023-11-25',''),
+('G0071','CAMALOTE','04','México','','G','2023-11-25',''),
+('TA235','CIMA','04','México','','TA','2023-11-25',''),
+('K447.3','TRES HERMANOS','04','México','','K','2023-11-25',''),
+('Z0020','HORACIO P SANCHEZ','04','México','','Z','2023-11-25',''),
+('UB33.9','REDONDO','04','México','','UB','2023-11-25',''),
+('B922','ZINCAMEX','04','México','','B','2023-11-25',''),
+('AM008','BAJIO FXE','04','México','','AM','2023-11-25',''),
+('Q460.8','MINACA','04','México','','Q','2023-11-25',''),
+('AE9','LA CUESTA','04','México','','AE','2023-11-25',''),
+('M0026','ALTAMIRA','04','México','','M','2023-11-25',''),
+('VB175','MANANTIALES','04','México','','VB','2023-11-25',''),
+('U0336','LAS ENCHILAYAS','04','México','','U','2023-11-25',''),
+('B1055','SALINAS VICTORIA','04','México','','B','2023-11-25',''),
+('Morelos46.5','HUEHUETOCA','04','México','','Morelos','2023-11-25',''),
+('A0736','VICTOR ROSALES','04','México','','A','2023-11-25',''),
+('A1815.5','VADO','04','México','','A','2023-11-25',''),
+('K392','HUEHUETAN','04','México','','K','2023-11-25',''),
+('N0090','PUERTA MEXICO','04','México','','N','2023-11-25',''),
+('K389.4','CUYAMIAPA','04','México','','K','2023-11-25',''),
+('NF451','AJUNO','04','México','','N','2023-11-25',''),
+('E0066','TECAMACHALCO','04','México','','E','2023-11-25',''),
+('A0029','CUAUTITLAN','04','México','','A','2023-11-25',''),
+('SA035','PANZACOLA','04','México','','SA','2023-11-25',''),
+('VK9.8','SAN JUAN DE ARAGON','04','México','','VK','2023-11-25',''),
+('FA812','BECAL','04','México','','FA','2023-11-25',''),
+('MA105.6','PALMITO','04','México','','MA','2023-11-25',''),
+('TA248.3','ELIAS CALLES','04','México','','TA','2023-11-25',''),
+('P134.1','CATARINAS','04','México','','P','2023-11-25',''),
+('Q0268','CHICHP','04','México','','Q','2023-11-25',''),
+('DB216.7','TEPEHUANES','04','México','','DB','2023-11-25',''),
+('TA254','FRONTERAS','04','México','','TA','2023-11-25',''),
+('R99.3','PUENTE NEGRO','04','México','','R','2023-11-25',''),
+('V432.2','SALMORAL','04','México','','V','2023-11-25',''),
+('NE998','APM LAZARO','04','México','','NE','2023-11-25',''),
+('VC76.5','MATAMORES','04','México','','VC','2023-11-25',''),
+('K240','JOAQUIN AMARON','04','México','','K','2023-11-25',''),
+('A1359','LOLITA','04','México','','A','2023-11-25',''),
+('M0219','ROSA','04','México','','M','2023-11-25',''),
+('E331.3','TELIXTLAHUACA','04','México','','E','2023-11-25',''),
+('U0142','TORRES B','04','México','','U','2023-11-25',''),
+('K97.9','LAS ANONAS','04','México','','K','2023-11-25',''),
+('T729.9','FENOCHIO','04','México','','T','2023-11-25',''),
+('TA268.9','COCHUTA','04','México','','TA','2023-11-25',''),
+('S0084','ACOPINALCO','04','México','','S','2023-11-25',''),
+('F0038','LOBOS','04','México','','F','2023-11-25',''),
+('S0283','SANTA ROSA','04','México','','S','2023-11-25',''),
+('AB005','ITURBIDE','04','México','','AB','2023-11-25',''),
+('NA009','TLALNEPANTLA','04','México','','NA','2023-11-25',''),
+('FA639.1','SAN DIMAS','04','México','','FA','2023-11-25',''),
+('V53.2','ANTONIO','04','México','','V','2023-11-25',''),
+('SA0','APIZACO','04','México','','SA','2023-11-25',''),
+('A1104.1','NAZARENO','04','México','','A','2023-11-25',''),
+('NB47.1','CACALOTE','04','México','','NB','2023-11-25',''),
+('A1854.6','LUCERO','04','México','','A','2023-11-25',''),
+('VB074','BALTASAR','04','México','','VB','2023-11-25',''),
+('VC31.5','PORTEZUELO','04','México','','VC','2023-11-25',''),
+('L315','MONTAÑA','04','México','','L','2023-11-25',''),
+('N0335','ZINZIMEO','04','México','','N','2023-11-25',''),
+('FA745.5','MANAGUA','04','México','','FA','2023-11-25',''),
+('C237.1','IGUALA','04','México','','C','2023-11-25',''),
+('DC0','DURANGO','04','México','','DC','2023-11-25',''),
+('L0502','QUINIENTOS','04','México','','L','2023-11-25',''),
+('E338.8','SULCHIQUITONGO','04','México','','E','2023-11-25',''),
+('NE138','EL SALVADOR','04','México','','NE','2023-11-25',''),
+('DB204.7','ESCAPE PRESIDIO','04','México','','DB','2023-11-25',''),
+('B65','CERRO JARDIN','04','México','','B','2023-11-25',''),
+('M0310','CARRIZOS','04','México','','M','2023-11-25',''),
+('T0976','SAN RAFAEL','04','México','','T','2023-11-25',''),
+('P27.6','TROYA','04','México','','P','2023-11-25',''),
+('B0506','INTERPUERTO','04','México','','B','2023-11-25',''),
+('TL15.4','REFUGIO','04','México','','TL','2023-11-25',''),
+('F227','SINAI','04','México','','F','2023-11-25',''),
+('EA45.2','AMOZOQUILLO','04','México','','EA','2023-11-25',''),
+('M798.6','MINERVA','04','México','','M','2023-11-25',''),
+('M215','ZORRILLA','04','México','','M','2023-11-25',''),
+('XX46.7','LA PUENTE','04','México','','XX','2023-11-25',''),
+('I0461','ATENQUIQUE','04','México','','I','2023-11-25',''),
+('G0110','LA GRANJA','04','México','','G','2023-11-25',''),
+('VB070','SAN MARTIN','04','México','','VB','2023-11-25',''),
+('A1202.3','PERONAL','04','México','','A','2023-11-25',''),
+('N591.8','MAGUIZABAL','04','México','','N','2023-11-25',''),
+('M0884','VINEDO','04','México','','M','2023-11-25',''),
+('T1407.7','YAGO','04','México','','T','2023-11-25',''),
+('FA671.5','HOOL','04','México','','FA','2023-11-25',''),
+('V0201','MAZARRAZA','04','México','','V','2023-11-25',''),
+('IB7.7','DIONISIA','04','México','','IB','2023-11-25',''),
+('N0099','DEL RIO','04','México','','N','2023-11-25',''),
+('M0868','PORVENIR','04','México','','M','2023-11-25',''),
+('E292.8','SANTA CATARINA','04','México','','E','2023-11-25',''),
+('Q0839','EL FUERTE','04','México','','Q','2023-11-25',''),
+('FD46.7','BOKOBA','04','México','','FD','2023-11-25',''),
+('G0147','ESCAPE EL HULE','04','México','','G','2023-11-25',''),
+('FA656','PLACA KM FA-656','04','México','','FA','2023-11-25',''),
+('V298.1','NEGRO','04','México','','V','2023-11-25',''),
+('F0147','ZACATE','04','México','','F','2023-11-25',''),
+('E354','MAGOTE','04','México','','E','2023-11-25',''),
+('E335.5','HUITZO','04','México','','E','2023-11-25',''),
+('G75.9','EL CARAVERAL','04','México','','G','2023-11-25',''),
+('BC053','PUERTO CARROZAS','04','México','','BC','2023-11-25',''),
+('R313.5','SIERRA AZUL','04','México','','R','2023-11-25',''),
+('L0424','ESCONTRIA','04','México','','L','2023-11-25',''),
+('UB13.9','ESTACION GARCIA','04','México','','UB','2023-11-25',''),
+('IB116.7','CHUCANDIRAN','04','México','','IB','2023-11-25',''),
+('V0429','CARDEL','04','México','','V','2023-11-25',''),
+('B0979','SOLEDAD','04','México','','B','2023-11-25',''),
+('TG043','HUATABAMPO','04','México','','TG','2023-11-25',''),
+('G0048','TEZONAPA','04','México','','G','2023-11-25',''),
+('B118.6','RANCHO NUEVO','04','México','','B','2023-11-25',''),
+('E193','ALDAMA','04','México','','E','2023-11-25',''),
+('XX74.4','MINCUINI','04','México','','XX','2023-11-25',''),
+('V49.7','CHIPILTEPEC','04','México','','V','2023-11-25',''),
+('TL31.7','LA VEGA','04','México','','TL','2023-11-25',''),
+('N0141','ATLACOMULCO','04','México','','N','2023-11-25',''),
+('G0271','JUANITA','04','México','','G','2023-11-25',''),
+('FA186.7','PICHUCALCO','04','México','','FA','2023-11-25',''),
+('V436.3','LA POSTA','04','México','','V','2023-11-25',''),
+('L0259','VENTURA','04','México','','L','2023-11-25',''),
+('C212.2','VISTA','04','México','','C','2023-11-25',''),
+('E385.1','GUELECE','04','México','','E','2023-11-25',''),
+('A1603','MORSE','04','México','','A','2023-11-25',''),
+('RD67.4','CUATRO CIENEGAS','04','México','','RD','2023-11-25',''),
+('R0083','PEYOTES','04','México','','R','2023-11-25',''),
+('FA660','SANTA CRUZ','04','México','','FA','2023-11-25',''),
+('U0093','EL DOCTOR','04','México','','U','2023-11-25',''),
+('P104.3','EMPALME DISTRITO FRISCO','04','México','','P','2023-11-25',''),
+('GB34','CHACAL TIANGUIS','04','México','','GB','2023-11-25',''),
+('T0915','CAIMANERO','04','México','','T','2023-11-25',''),
+('HB024','CIUDAD SAHAGUN','04','México','','HB','2023-11-25',''),
+('GA100.5','TIERRA BLANCA','04','México','','GA','2023-11-25',''),
+('F0110','HERRERAS','04','México','','F','2023-11-25',''),
+('I455.7','QUITO','04','México','','I','2023-11-25',''),
+('V354.8','ROMA','04','México','','V','2023-11-25',''),
+('LM245','LITION','04','México','','Morelos','2023-11-25',''),
+('SC296.2','MEZQUITE','04','México','','SC','2023-11-25',''),
+('S0260','ALTA LUZ','04','México','','S','2023-11-25',''),
+('IB138','LOS REYES DE SALGADO','04','México','','IB','2023-11-25',''),
+('G0115','LAS YAGUAS','04','México','','G','2023-11-25',''),
+('I0071','OLIVA','04','México','','I','2023-11-25',''),
+('L0356','SAN BARTOLO','04','México','','L','2023-11-25',''),
+('N48.1','FRESNO','04','México','','N','2023-11-25',''),
+('N0165','TULTENANGO','04','México','','N','2023-11-25',''),
+('T0','LINEA DIVISORIA','04','México','','T','2023-11-25',''),
+('IB10.2','VERDUZCO','04','México','','IB','2023-11-25',''),
+('J31.5','GILITA','04','México','','J','2023-11-25',''),
+('N0279','MIGUEL G NAVARRO','04','México','','N','2023-11-25',''),
+('I529.3','COQUIMATLAN','04','México','','I','2023-11-25',''),
+('T0864','ACATITA','04','México','','T','2023-11-25',''),
+('S0304','SUMIDERO','04','México','','S','2023-11-25',''),
+('VB043','CONTADERO','04','México','','VB','2023-11-25',''),
+('T1427','PANI','04','México','','T','2023-11-25',''),
+('C14.6','SAN PEDRO DE LOS PINOS','04','México','','C','2023-11-25',''),
+('Q325.7','BAEZA','04','México','','Q','2023-11-25',''),
+('XX68.1','OZULUAMA','04','México','','XX','2023-11-25',''),
+('Juárez102.3','DAXTHI','04','México','','Juárez','2023-11-25',''),
+('N2','EL ROSARIO','04','México','','N','2023-11-25',''),
+('R351.3','CARLOS PEREYRA','04','México','','R','2023-11-25',''),
+('B0871','BENJAMIN MENDEZ','04','México','','B','2023-11-25',''),
+('N0421','CHAPULTEPEC','04','México','','N','2023-11-25',''),
+('T1281','GACHO','04','México','','T','2023-11-25',''),
+('TM12.6','PORTES GIL','04','México','','TM','2023-11-25',''),
+('Juárez135','PACHUQUILLA','04','México','','Juárez','2023-11-25',''),
+('BD011','MIGUEL HIDALGO','04','México','','BD','2023-11-25',''),
+('RD12.7','MANUEL AGUIRRE','04','México','','RD','2023-11-25',''),
+('VC66.3','LA BALARZA','04','México','','VC','2023-11-25',''),
+('DE73.3','EL FUERTE','04','México','','DE','2023-11-25',''),
+('NE034','LIMONCITO','04','México','','NE','2023-11-25',''),
+('F0244','REYNOSA','04','México','','F','2023-11-25',''),
+('H74.9','TECAJETE','04','México','','H','2023-11-25',''),
+('FD164.1','CALOTHUL','04','México','','FD','2023-11-25',''),
+('RD37.6','LAMADRID','04','México','','RD','2023-11-25',''),
+('P93.5','FLUORITA','04','México','','P','2023-11-25',''),
+('DA135.2','CHUPADEROS','04','México','','DA','2023-11-25',''),
+('A0416','LEON','04','México','','A','2023-11-25',''),
+('Q0910','SANTA ROSA','04','México','','Q','2023-11-25',''),
+('H0019','JALTOCAN','04','México','','H','2023-11-25',''),
+('Z0057','TEXISTEPEC','04','México','','Z','2023-11-25',''),
+('IB131.7','SALITRE','04','México','','IB','2023-11-25',''),
+('N629.6','APATZINGAN','04','México','','N','2023-11-25',''),
+('QA332','NUEVO CASAS GRANDES','04','México','','QA','2023-11-25',''),
+('N351.1','CHARO','04','México','','N','2023-11-25',''),
+('C183.7','CACAHUAMILPA','04','México','','C','2023-11-25',''),
+('H104.2','LOS ROMEROS','04','México','','H','2023-11-25',''),
+('I0377','ATOYAC','04','México','','I','2023-11-25',''),
+('B0510','LA PILA','04','México','','B','2023-11-25',''),
+('C219.1','PIMENTEL','04','México','','C','2023-11-25',''),
+('V94.7','MAL PAIS','04','México','','V','2023-11-25',''),
+('MA021','XICOHTENCATL','04','México','','MA','2023-11-25',''),
+('DC87.5','VICENTE GUERRERO','04','México','','DC','2023-11-25',''),
+('I0','IRAPUATO','04','México','','I','2023-11-25',''),
+('K272.2','ECHEGARAY','04','México','','K','2023-11-25',''),
+('VB110','PUEBLA','04','México','','VB','2023-11-25',''),
+('SC249.5','SN ANTONIO SOLEDAD','04','México','','SC','2023-11-25',''),
+('AB009','EMBARCADERO CENTRAL','04','México','','AB','2023-11-25',''),
+('T422','EMPALME SHOP','04','México','','T','2023-11-25',''),
+('A1778.7','CHAVATITO','04','México','','A','2023-11-25',''),
+('HC019','CADENA','04','México','','HC','2023-11-25',''),
+('VB149','CITLALTEPEC','04','México','','VB','2023-11-25',''),
+('Q0636','SAN RAFAEL','04','México','','Q','2023-11-25',''),
+('E257.2','TOMELLIN','04','México','','E','2023-11-25',''),
+('E0061','HUIXCOLOTLA','04','México','','E','2023-11-25',''),
+('U495.8','RUIZ DIAZ','04','México','','U','2023-11-25',''),
+('V231.4','TITIPANAPA','04','México','','V','2023-11-25',''),
+('Q359.3','ALDANA','04','México','','Q','2023-11-25',''),
+('Z186','MOGOÑE','04','México','','Z','2023-11-25',''),
+('EB11.6','ZAACHILA','04','México','','EB','2023-11-25',''),
+('U418','LA VENTANA','04','México','','U','2023-11-25',''),
+('B1222','ANAHUAC','04','México','','B','2023-11-25',''),
+('L0310','LA JOYA','04','México','','L','2023-11-25',''),
+('E0049','SAN SIMON','04','México','','E','2023-11-25',''),
+('L24.6','JALTOMATE','04','México','','L','2023-11-25',''),
+('SC276','VAQUERIA I','04','México','','SC','2023-11-25',''),
+('FP137.7','TZUCACAB','04','México','','FP','2023-11-25',''),
+('T1025','OBISPO','04','México','','T','2023-11-25',''),
+('M840.3','GURZA','04','México','','M','2023-11-25',''),
+('A0063','MELCHOR OCAMPO','04','México','','A','2023-11-25',''),
+('M54.5','CUAHUTEMOC','04','México','','M','2023-11-25',''),
+('E0113','CUAYUCATEPEC','04','México','','E','2023-11-25',''),
+('I0470','PLATANARILLO','04','México','','I','2023-11-25',''),
+('B56.3','SAN SEBASTIAN','04','México','','B','2023-11-25',''),
+('V0397','EL CARRIZAL','04','México','','V','2023-11-25',''),
+('AC28','BRANDE','04','México','','AC','2023-11-25',''),
+('N618.8','PARACUARO','04','México','','N','2023-11-25',''),
+('I551.2','EL ROSARIO','04','México','','I','2023-11-25',''),
+('QA154.7','CEBADILLA','04','México','','QA','2023-11-25',''),
+('N0444','BONILLA','04','México','','N','2023-11-25',''),
+('G0143','CIUDAD GENERAL ALEMAN','04','México','','G','2023-11-25',''),
+('AE12.6','TERESA','04','México','','AE','2023-11-25',''),
+('SA025','GOMEZ','04','México','','SA','2023-11-25',''),
+('FD108.3','QUINTANA ROO','04','México','','FD','2023-11-25',''),
+('Juárez183.5','SAN JUAN DEL RIO','04','México','','Juárez','2023-11-25',''),
+('LJ248','QUERETARO SID','04','México','','Juárez','2023-11-25',''),
+('P82.9','MATURANA','04','México','','P','2023-11-25',''),
+('O45.2','LA JUNTA','04','México','','O','2023-11-25',''),
+('I0615','MANZANILLO','04','México','','I','2023-11-25',''),
+('L0437','LAS CANOAS','04','México','','L','2023-11-25',''),
+('BC063','SAN JOSE ITURBIDE','04','México','','BC','2023-11-25',''),
+('F294.6','CONTROL','04','México','','F','2023-11-25',''),
+('I0451','TUXPAN','04','México','','I','2023-11-25',''),
+('FA240.5','LOMAS TRISTES','04','México','','FA','2023-11-25',''),
+('MA24.7','GUAYALEJO','04','México','','MA','2023-11-25',''),
+('T0603','NAVOJOA','04','México','','T','2023-11-25',''),
+('FN4.6','CORDEMEX','04','México','','FN','2023-11-25',''),
+('A0645','ADAMES','04','México','','A','2023-11-25',''),
+('M0776','TALIA','04','México','','M','2023-11-25',''),
+('I0085','CORTES','04','México','','I','2023-11-25',''),
+('U0000','PASCUALITOS','04','México','','U','2023-11-25',''),
+('TA41.8','SAN LAZARO','04','México','','TA','2023-11-25',''),
+('R290.4','BAJAN','04','México','','R','2023-11-25',''),
+('FA328.8','PALENQUE','04','México','','FA','2023-11-25',''),
+('N195.7','COLORADO','04','México','','N','2023-11-25',''),
+('IB78.2','EL GUAYABO','04','México','','IB','2023-11-25',''),
+('QA140.3','MADERA','04','México','','QA','2023-11-25',''),
+('NB058','BAJIO','04','México','','NB','2023-11-25',''),
+('Q0127','FALOMIR','04','México','','Q','2023-11-25',''),
+('XX71.1','PLACETAS','04','México','','XX','2023-11-25',''),
+('Juárez166.9','PALMILLAS','04','México','','Juárez','2023-11-25',''),
+('B0941','KIMBERLY RAMOS','04','México','','B','2023-11-25',''),
+('I323.9','MASCOTA','04','México','','I','2023-11-25',''),
+('AC31.4','LA BOLSA','04','México','','AC','2023-11-25',''),
+('MA10.5','EL CONEJO','04','México','','MA','2023-11-25',''),
+('O42.4','EL SANUDO','04','México','','O','2023-11-25',''),
+('DB15.7','CASA BLANCA','04','México','','DB','2023-11-25',''),
+('S0114','CERRITO','04','México','','S','2023-11-25',''),
+('M435.5','TERAN','04','México','','M','2023-11-25',''),
+('A0795','GUTIERREZ','04','México','','A','2023-11-25',''),
+('T1657.3','QUEMADA','04','México','','T','2023-11-25',''),
+('Morelos245.1','QUERETARO','04','México','','Morelos','2023-11-25',''),
+('AK2.7','AEDO','04','México','','AK','2023-11-25',''),
+('RD187.5','MATRIMONIO','04','México','','RD','2023-11-25',''),
+('FA471.9','LA MICOTEA','04','México','','FA','2023-11-25',''),
+('A1137','ALIANZA','04','México','','A','2023-11-25',''),
+('T1584','MARQUESADO','04','México','','T','2023-11-25',''),
+('G0152','LAS PINAS','04','México','','G','2023-11-25',''),
+('GB048','SAN CRISTOBAL','04','México','','GB','2023-11-25',''),
+('V125.2','LA LUZ','04','México','','V','2023-11-25',''),
+('L0530','VALLES','04','México','','L','2023-11-25',''),
+('K299.3','LEON BRINDIS','04','México','','K','2023-11-25',''),
+('Q476','GONZALEZ','04','México','','Q','2023-11-25',''),
+('VK090','NEPOPUALCO','04','México','','VK','2023-11-25',''),
+('AC24.9','COVADONGA','04','México','','AC','2023-11-25',''),
+('M0863','ABELARDO RODRIGUEZ','04','México','','M','2023-11-25',''),
+('L0252','TECHA','04','México','','L','2023-11-25',''),
+('V0302','CRUZ VERDE','04','México','','V','2023-11-25',''),
+('HC026','PACHUCA DE SOTO','04','México','','HC','2023-11-25',''),
+('FA443.9','SAN PEDRO','04','México','','FA','2023-11-25',''),
+('T604.3','BACABACHI','04','México','','T','2023-11-25',''),
+('RH0.7','PALAU','04','México','','RH','2023-11-25',''),
+('N457.3','COPANDARO','04','México','','N','2023-11-25',''),
+('MA28.9','EL EJIDO','04','México','','MA','2023-11-25',''),
+('A1905.7','LOS MEDANOS','04','México','','A','2023-11-25',''),
+('GF001','BANANO','04','México','','GF','2023-11-25',''),
+('GF006','GELA','04','México','','GF','2023-11-25',''),
+('QA490','PLACA KM QA-490','04','México','','QA','2023-11-25',''),
+('N20.7','MONTE','04','México','','N','2023-11-25',''),
+('N0063','DONA ROSA','04','México','','N','2023-11-25',''),
+('QA71','MATACHIC','04','México','','QA','2023-11-25',''),
+('K331.5','LA BONANZA','04','México','','K','2023-11-25',''),
+('DE79.2','EL CHICLE','04','México','','DE','2023-11-25',''),
+('E0055','ROSENDO MARQUEZ','04','México','','E','2023-11-25',''),
+('FA51.5','TANCOCHAPA','04','México','','FA','2023-11-25',''),
+('B189.9','CAMBALACHE','04','México','','B','2023-11-25',''),
+('Z109.3','LAS TRES GARDENIAS','04','México','','Z','2023-11-25',''),
+('R246','FIERRO','04','México','','R','2023-11-25',''),
+('M70.8','CHOCOY','04','México','','M','2023-11-25',''),
+('Q0165','COLONIAS','04','México','','Q','2023-11-25',''),
+('NE088','LOS CHIVOS','04','México','','NE','2023-11-25',''),
+('E0026','SANTA ROSA','04','México','','E','2023-11-25',''),
+('N0270','JUAN J FRANCO','04','México','','N','2023-11-25',''),
+('GA051','TLALIXCOYAN','04','México','','GA','2023-11-25',''),
+('T738.5','SAN BLAS','04','México','','T','2023-11-25',''),
+('BG62.3','AVALOS','04','México','','BG','2023-11-25',''),
+('OA3.9','ANGUANGEO','04','México','','OA','2023-11-25',''),
+('RA91.6','NUEVA PALESTINA','04','México','','RA','2023-11-25',''),
+('N45','CARRETERA','04','México','','N','2023-11-25',''),
+('NB052','OJO SECO','04','México','','NB','2023-11-25',''),
+('K92.5','CABESTRADA','04','México','','K','2023-11-25',''),
+('VB085','ANALCO','04','México','','VB','2023-11-25',''),
+('HC015','LA SOLEDAD','04','México','','HC','2023-11-25',''),
+('A529','PLACA KM A-529','04','México','','A','2023-11-25',''),
+('NB21.3','LA RANCHERITA','04','México','','NB','2023-11-25',''),
+('B0070','VITO','04','México','','B','2023-11-25',''),
+('FP87','YHOTOLIN','04','México','','FP','2023-11-25',''),
+('DE68.2','JAROCHO','04','México','','DE','2023-11-25',''),
+('Q0613','NACAIBO','04','México','','Q','2023-11-25',''),
+('QA201.6','DRAKE','04','México','','QA','2023-11-25',''),
+('V0293','DAVID S ALONSO','04','México','','V','2023-11-25',''),
+('L0481','RASCON','04','México','','L','2023-11-25',''),
+('K335.6','SOCOMUSCO','04','México','','K','2023-11-25',''),
+('A1039','EL CENTINELA','04','México','','A','2023-11-25',''),
+('QA568','EMPALME FF CC NM','04','México','','QA','2023-11-25',''),
+('XX38.7','CEBADILLA','04','México','','XX','2023-11-25',''),
+('R0007','CANTU','04','México','','R','2023-11-25',''),
+('L0516','SAN MATEO','04','México','','L','2023-11-25',''),
+('DC43.3','TUITAN','04','México','','DC','2023-11-25',''),
+('N0573','HUARENITZIO','04','México','','N','2023-11-25',''),
+('RB3','ROSITA','04','México','','RB','2023-11-25',''),
+('N552.8','TIPITARO','04','México','','N','2023-11-25',''),
+('XX18.9','AGRARIOS','04','México','','XX','2023-11-25',''),
+('IB69.9','MORENO','04','México','','IB','2023-11-25',''),
+('TP0','CERRO DE LA CRUZ','04','México','','TP','2023-11-25',''),
+('A904','LA SECCION','04','México','','A','2023-11-25',''),
+('F0133','ALDAMAS','04','México','','F','2023-11-25',''),
+('B0230','LA FUENTE','04','México','','B','2023-11-25',''),
+('G0004','SAN MIGUELITO','04','México','','G','2023-11-25',''),
+('T880.2','PALON BLANCOS','04','México','','T','2023-11-25',''),
+('F117.7','LA PALMITA','04','México','','F','2023-11-25',''),
+('A0370','VILLALOBOS','04','México','','A','2023-11-25',''),
+('I313','VALENCIA','04','México','','I','2023-11-25',''),
+('FA535.9','HARD','04','México','','FA','2023-11-25',''),
+('I0308','MAZATEPEC','04','México','','I','2023-11-25',''),
+('E252.3','CUICATLAN','04','México','','E','2023-11-25',''),
+('N0125','TEPETITLAN','04','México','','N','2023-11-25',''),
+('S0318','CORDOBA','04','México','','S','2023-11-25',''),
+('R0000','PIEDRAS NEGRAS','04','México','','R','2023-11-25',''),
+('A1446.4','SANTA ROSALIA CAMARGO','04','México','','A','2023-11-25',''),
+('Q0757','DESCANSO','04','México','','Q','2023-11-25',''),
+('Z179.6','BIXIDU','04','México','','Z','2023-11-25',''),
+('T1501','PANTANAL','04','México','','T','2023-11-25',''),
+('RD208.6','EL REY','04','México','','RD','2023-11-25',''),
+('VC2.5','CARCARA','04','México','','VC','2023-11-25',''),
+('S0251','BOCA DEL MONTE','04','México','','S','2023-11-25',''),
+('U0019','CERRO PRIETO','04','México','','U','2023-11-25',''),
+('E399.3','TLACOLULA','04','México','','E','2023-11-25',''),
+('Z0083','GENERAL MIGUEL ALEMAN','04','México','','Z','2023-11-25',''),
+('T165.5','QUEROBABI','04','México','','T','2023-11-25',''),
+('V240.6','PIZARRO','04','México','','V','2023-11-25',''),
+('NF476','TINGAMBATO','04','México','','NE','2023-11-25',''),
+('QA502.6','MEDANOS','04','México','','QA','2023-11-25',''),
+('QA160.8','LA HERRADURA','04','México','','QA','2023-11-25',''),
+('H0037','MAGUIXCO','04','México','','H','2023-11-25',''),
+('NE101','LAS CRUCES','04','México','','NE','2023-11-25',''),
+('L0110','SALINAS','04','México','','L','2023-11-25',''),
+('AB026','VALENTIN','04','México','','AB','2023-11-25',''),
+('I284.3','LOMAS DE TEJEDA','04','México','','I','2023-11-25',''),
+('R270.9','GLORIA','04','México','','R','2023-11-25',''),
+('UB0.6','COMERCIAL','04','México','','UB','2023-11-25',''),
+('T1325','NUEVO ACAPONETA','04','México','','T','2023-11-25',''),
+('SC303','TECAMALUCAN','04','México','','SC','2023-11-25',''),
+('V0338','JALAPA','04','México','','V','2023-11-25',''),
+('A0876','PACHECO','04','México','','A','2023-11-25',''),
+('B163.3','SAN JOSE DE ATLAN','04','México','','B','2023-11-25',''),
+('FX8.1','BALATUN','04','México','','FX','2023-11-25',''),
+('E366.5','OAXACA','04','México','','E','2023-11-25',''),
+('Juárez130.9','DAZU','04','México','','Juárez','2023-11-25',''),
+('FA254.5','MACUSPANA','04','México','','FA','2023-11-25',''),
+('M0353','BENITEZ','04','México','','M','2023-11-25',''),
+('S0310','FORTIN','04','México','','S','2023-11-25',''),
+('RD9.5','POZUELOS','04','México','','RD','2023-11-25',''),
+('NB60.8','MILPA VIEJA','04','México','','NB','2023-11-25',''),
+('VK025','EMPALME DISTRITO TEXCOCO','04','México','','VK','2023-11-25',''),
+('RL13.7','MARTIN G RODRIGUEZ','04','México','','RL','2023-11-25',''),
+('K17','JUCHITAN','04','México','','K','2023-11-25',''),
+('K437.4','EL MANZANO','04','México','','K','2023-11-25',''),
+('B1221','RODRIGUEZ','04','México','','B','2023-11-25',''),
+('FD54.8','TEKANTO','04','México','','FD','2023-11-25',''),
+('S0245','ESPERANZA','04','México','','S','2023-11-25',''),
+('XX29.7','LAGARTERO','04','México','','XX','2023-11-25',''),
+('IB21.3','FALCONI','04','México','','IB','2023-11-25',''),
+('HD20.3','CIMA DE TOGO','04','México','','HD','2023-11-25',''),
+('T0209','CARBO','04','México','','T','2023-11-25',''),
+('A0518','SANTA MARIA DE ENMEDIO','04','México','','A','2023-11-25',''),
+('E0088','TLACOTEPEC','04','México','','E','2023-11-25',''),
+('SC249.3','SAN ANTONIO SOLEDAD','04','México','','SC','2023-11-25',''),
+('MA41.2','ALVARO OBREGON','04','México','','MA','2023-11-25',''),
+('DA162.3','AGUA VIEJA','04','México','','DA','2023-11-25',''),
+('C230.6','NARANJO','04','México','','C','2023-11-25',''),
+('N360.6','ATAPANEO','04','México','','N','2023-11-25',''),
+('T1210.1','LABRADOS','04','México','','T','2023-11-25',''),
+('R0361','ANHELO','04','México','','R','2023-11-25',''),
+('L0400','LA CINTA','04','México','','L','2023-11-25',''),
+('A503','PLACA KM A-503','04','México','','A','2023-11-25',''),
+('B969.6','LOS FIERROS','04','México','','B','2023-11-25',''),
+('NF458','AGUA VERDE','04','México','','NF','2023-11-25',''),
+('DA238','VILLA JUAREZ','04','México','','DA','2023-11-25',''),
+('K7.7','IXTALTEPEC','04','México','','K','2023-11-25',''),
+('A0319','MOLINO SARABIA','04','México','','A','2023-11-25',''),
+('M104.7','EL BERNAL','04','México','','M','2023-11-25',''),
+('T0189','POZA','04','México','','T','2023-11-25',''),
+('Z134','SUCHILAPA','04','México','','Z','2023-11-25',''),
+('N0369','EL PIPILA','04','México','','N','2023-11-25',''),
+('C138.6','EMILIANO ZAPATA','04','México','','C','2023-11-25',''),
+('UB60.1','CERVECERIA TECATE','04','México','','UB','2023-11-25',''),
+('Z0017','CALZADAS','04','México','','Z','2023-11-25',''),
+('AB038','ROSAL','04','México','','AB','2023-11-25',''),
+('XX59.1','TANCEME','04','México','','XX','2023-11-25',''),
+('DC247','LAS CUATROCIENEGAS','04','México','','DC','2023-11-25',''),
+('FD29.7','EUAN','04','México','','FD','2023-11-25',''),
+('DN28.3','CIENEGA DE LOS CABALLOS','04','México','','DN','2023-11-25',''),
+('T1560','CONDE','04','México','','T','2023-11-25',''),
+('VB124','SIGNORET','04','México','','VB','2023-11-25',''),
+('I0271','INCALPA','04','México','','I','2023-11-25',''),
+('VC34.1','SAN AGUSTIN HUIXAXTLA','04','México','','VC','2023-11-25',''),
+('T457','ALGODON','04','México','','T','2023-11-25',''),
+('T1237.1','ASTENGO','04','México','','T','2023-11-25',''),
+('B240','NORIA','04','México','','B','2023-11-25',''),
+('F303.1','CAPOTE','04','México','','F','2023-11-25',''),
+('EA18.9','CABRAS','04','México','','EA','2023-11-25',''),
+('VC104.5','LAGUNILLAS','04','México','','VC','2023-11-25',''),
+('JM120','ARAGON','04','México','','Morelos','2023-11-25',''),
+('G0069','LA MARGARITA','04','México','','G','2023-11-25',''),
+('P141.8','PILONCILLOS','04','México','','P','2023-11-25',''),
+('L378.1','LOS ANTEOJOS','04','México','','L','2023-11-25',''),
+('T0297','WILLARD','04','México','','T','2023-11-25',''),
+('FD134.2','XUILUB','04','México','','FD','2023-11-25',''),
+('HD8.4','HUEYAPAN','04','México','','HD','2023-11-25',''),
+('S0129','MUNOZ','04','México','','S','2023-11-25',''),
+('FA294.4','DOS ARROYOS','04','México','','FA','2023-11-25',''),
+('A0634','PUNTA','04','México','','A','2023-11-25',''),
+('K62.4','SIDAR','04','México','','K','2023-11-25',''),
+('U0311','EL SAHUARO','04','México','','U','2023-11-25',''),
+('K186.2','ESMERALDA','04','México','','K','2023-11-25',''),
+('K386.9','CHAMULAPA','04','México','','K','2023-11-25',''),
+('G0295','CAMPO NUEVO','04','México','','G','2023-11-25',''),
+('H145.5','TONALIXCO','04','México','','H','2023-11-25',''),
+('T0441','GUASIMAS','04','México','','T','2023-11-25',''),
+('DN55.2','REBOCIJO','04','México','','DN','2023-11-25',''),
+('L454.6','ZACATE','04','México','','L','2023-11-25',''),
+('GB19.8','ALFREDO','04','México','','GB','2023-11-25',''),
+('BA12.1','MONTELONGO','04','México','','BA','2023-11-25',''),
+('EB21.9','ZIMATLAN','04','México','','EB','2023-11-25',''),
+('DC136.1','LA PARADA','04','México','','DC','2023-11-25',''),
+('A1601','ALBERTO','04','México','','A','2023-11-25',''),
+('I0227','LA CAPILLA','04','México','','I','2023-11-25',''),
+('Q0575','SANCHEZ','04','México','','Q','2023-11-25',''),
+('XX5','PEBERNALES','04','México','','XX','2023-11-25',''),
+('L82.8','LA HONDA','04','México','','L','2023-11-25',''),
+('T0308','VEGA','04','México','','T','2023-11-25',''),
+('DC122.6','VERGELITOS','04','México','','DC','2023-11-25',''),
+('FS22.3','HOCABA','04','México','','FS','2023-11-25',''),
+('S0399','MATA LOMA','04','México','','S','2023-11-25',''),
+('C119.6','CUERNAVACA','04','México','','C','2023-11-25',''),
+('I0600','TEPALCATES','04','México','','I','2023-11-25',''),
+('T0983','COSTA RICA','04','México','','T','2023-11-25',''),
+('B0539','PENASCO','04','México','','B','2023-11-25',''),
+('DB198.4','SANDIAS','04','México','','DB','2023-11-25',''),
+('RD217.8','AVANTE AHMSA','04','México','','RD','2023-11-25',''),
+('H148.7','PEJAY','04','México','','H','2023-11-25',''),
+('C192.1','EL SUREÑO','04','México','','C','2023-11-25',''),
+('O10.1','CAREDO','04','México','','O','2023-11-25',''),
+('Q0648','CHIHUAHUICAME','04','México','','Q','2023-11-25',''),
+('FA806.9','TEPAKAM','04','México','','FA','2023-11-25',''),
+('I0493','FERNANDEZ','04','México','','I','2023-11-25',''),
+('FA624.3','PUSTUNICH','04','México','','FA','2023-11-25',''),
+('L274.4','POZO','04','México','','L','2023-11-25',''),
+('T1619','NUEVO GRACIA','04','México','','T','2023-11-25',''),
+('VC80.8','MIER','04','México','','VC','2023-11-25',''),
+('I80.4','LA MARAÑA','04','México','','I','2023-11-25',''),
+('Q0763','LOS POZOS','04','México','','Q','2023-11-25',''),
+('Q0056','LAGUNITAS','04','México','','Q','2023-11-25',''),
+('M0185','SAN FRANCISCO','04','México','','M','2023-11-25',''),
+('DN13.9','TECUAN','04','México','','DN','2023-11-25',''),
+('N0219','TUNGAREO','04','México','','N','2023-11-25',''),
+('IB22.7','LOS ANGELES','04','México','','IB','2023-11-25',''),
+('S0285','NOGALES','04','México','','S','2023-11-25',''),
+('AC17','GARMA','04','México','','AC','2023-11-25',''),
+('T1305.2','COPALES','04','México','','T','2023-11-25',''),
+('T0020','AGUA ZARCA','04','México','','T','2023-11-25',''),
+('AB055','TECAMATL','04','México','','AB','2023-11-25',''),
+('B0303','JOCOQUI','04','México','','B','2023-11-25',''),
+('T0881','PALOS BLANCOS','04','México','','T','2023-11-25',''),
+('FN18.6','SAN IGNACIO','04','México','','FN','2023-11-25',''),
+('E302.4','ANONA','04','México','','E','2023-11-25',''),
+('GA69.4','OTAPA','04','México','','GA','2023-11-25',''),
+('L385.3','EL DIVISADERO','04','México','','L','2023-11-25',''),
+('FA417.2','MACTUN','04','México','','FA','2023-11-25',''),
+('V0331','BANDERILLA','04','México','','V','2023-11-25',''),
+('GA020','EL TEJAR','04','México','','GA','2023-11-25',''),
+('C126','PLACA KM C-126','04','México','','C','2023-11-25',''),
+('N476.9','PARANGUITIRO','04','México','','N','2023-11-25',''),
+('LB077','EL GUANAME','04','México','','LB','2023-11-25',''),
+('DB191.3','MANQUEROS','04','México','','DB','2023-11-25',''),
+('BB37.4','LA CABRA','04','México','','BB','2023-11-25',''),
+('FA473.5','EL NARANJO','04','México','','FA','2023-11-25',''),
+('F0076','RAMONES','04','México','','F','2023-11-25',''),
+('Q261.9','TABALAOPA CHP','04','México','','Q','2023-11-25',''),
+('TA204','EMPALME AGUA PRIETA','04','México','','TA','2023-11-25',''),
+('BG38.5','LAS COTUCHAS','04','México','','BG','2023-11-25',''),
+('A1423.5','FLORIDO','04','México','','A','2023-11-25',''),
+('A267.4','COACHITI','04','México','','A','2023-11-25',''),
+('A0511','CASTRO','04','México','','A','2023-11-25',''),
+('T1314','CONCHA','04','México','','T','2023-11-25',''),
+('T0391','SANTA ROSA','04','México','','T','2023-11-25',''),
+('T0067','IMURIS','04','México','','T','2023-11-25',''),
+('HB015','TLANALAPA','04','México','','HB','2023-11-25',''),
+('FA354.1','SAN AGUSTIN','04','México','','FA','2023-11-25',''),
+('C107','ALARCON','04','México','','C','2023-11-25',''),
+('DB105.9','ALISOS','04','México','','DB','2023-11-25',''),
+('RA33.6','NOGALERA','04','México','','RA','2023-11-25',''),
+('L173.8','ARENAL','04','México','','L','2023-11-25',''),
+('I98','LA MULA','04','México','','I','2023-11-25',''),
+('T1721','ARENAL','04','México','','T','2023-11-25',''),
+('L0345','LA BORREGUITA','04','México','','L','2023-11-25',''),
+('DA219','PLACA KM DA-219','04','México','','DA','2023-11-25',''),
+('F2.9','LAS PUENTES','04','México','','F','2023-11-25',''),
+('N0522','ZIRACUARETIRO','04','México','','N','2023-11-25',''),
+('J71.7','VIESCA','04','México','','J','2023-11-25',''),
+('DB180.1','HERVIDEROS','04','México','','DB','2023-11-25',''),
+('VB075','MOYOTZINGO','04','México','','VB','2023-11-25',''),
+('QA271','CUEVITAS','04','México','','QA','2023-11-25',''),
+('T0956','CULIACAN','04','México','','T','2023-11-25',''),
+('JM146','POLOTITLAN','04','México','','Juárez','2023-11-25',''),
+('EB29.5','SANTA INES YATZECHI','04','México','','EB','2023-11-25',''),
+('S0413','EL LAURELAL','04','México','','S','2023-11-25',''),
+('A537.2','ENCARNACIÓN','04','México','','A','2023-11-25',''),
+('XX36.4','CHAPANCAL','04','México','','XX','2023-11-25',''),
+('I0612','CAMPOS','04','México','','I','2023-11-25',''),
+('FA002','COATZACOALCOS','04','México','','FA','2023-11-25',''),
+('EB15.4','TRINIDAD','04','México','','EB','2023-11-25',''),
+('B0951','HIGUERAS','04','México','','B','2023-11-25',''),
+('IC17.6','RANCHO VIEJO','04','México','','IC','2023-11-25',''),
+('NB56.1','TAMAYO','04','México','','NB','2023-11-25',''),
+('AE024','GUANAJUATO','04','México','','AE','2023-11-25',''),
+('FA376.3','ZAPATA','04','México','','FA','2023-11-25',''),
+('A425','LA MORA','04','México','','A','2023-11-25',''),
+('N0176','ALBERTO GARDUNOC','04','México','','N','2023-11-25',''),
+('U0121','LOS PIONEROS','04','México','','U','2023-11-25',''),
+('HC018','LAS COLONIAS','04','México','','HC','2023-11-25',''),
+('A0333','SALAMANCA','04','México','','A','2023-11-25',''),
+('L444.9','ESPINAZO DE DIABLO','04','México','','L','2023-11-25',''),
+('N0551','TOMENDAN','04','México','','N','2023-11-25',''),
+('Q490.3','VERGEL','04','México','','Q','2023-11-25',''),
+('M9.8','GERMINAL','04','México','','M','2023-11-25',''),
+('T1175','MAZATLAN','04','México','','T','2023-11-25',''),
+('IB91.2','COMANJA','04','México','','IB','2023-11-25',''),
+('B0994','ALKALI','04','México','','B','2023-11-25',''),
+('L0657','TAMOS','04','México','','L','2023-11-25',''),
+('Q0564','CREEL','04','México','','Q','2023-11-25',''),
+('T1295','PALMAR','04','México','','T','2023-11-25',''),
+('BB15.9','SAN ISIDRO','04','México','','BB','2023-11-25',''),
+('A1412','DIAZ','04','México','','A','2023-11-25',''),
+('T504.9','BACUM','04','México','','T','2023-11-25',''),
+('VC108.6','ORGANO','04','México','','VC','2023-11-25',''),
+('IC22.8','EL ZORRILLO','04','México','','IC','2023-11-25',''),
+('VC69.4','CARALES','04','México','','VC','2023-11-25',''),
+('Q0551','BOCOYNA','04','México','','Q','2023-11-25',''),
+('G0089','CHICALON','04','México','','G','2023-11-25',''),
+('NE012','GAMBARA','04','México','','NE','2023-11-25',''),
+('E234.2','QUIOTEPEC','04','México','','E','2023-11-25',''),
+('B705.6','POBLAZON','04','México','','B','2023-11-25',''),
+('TA146','CUAUHTEMOC','04','México','','TA','2023-11-25',''),
+('TA157.6','MINA ORO','04','México','','TA','2023-11-25',''),
+('Q747.2','JESUS CRUZ','04','México','','Q','2023-11-25',''),
+('B1012','LEONA','04','México','','B','2023-11-25',''),
+('B0926','ROJAS','04','México','','B','2023-11-25',''),
+('VC17.6','TECUANIPAN','04','México','','VC','2023-11-25',''),
+('VC50.1','TRONCONAL','04','México','','VC','2023-11-25',''),
+('B0847','GOMEZ FARIAS','04','México','','B','2023-11-25',''),
+('U48.8','RIO COLORADO','04','México','','U','2023-11-25',''),
+('B1036','TOPO','04','México','','B','2023-11-25',''),
+('JM215','FERROSERVICIOS','04','México','','Juárez','2023-11-25',''),
+('Q461.1','MIRACA','04','México','','Q','2023-11-25',''),
+('K354.3','ZACUALPA','04','México','','K','2023-11-25',''),
+('DB51.3','LA GRANJA','04','México','','DB','2023-11-25',''),
+('VB120','AMALUCAN','04','México','','VB','2023-11-25',''),
+('NE046','LOS RANCHOS','04','México','','NE','2023-11-25',''),
+('V0285','LAS VIGAS','04','México','','V','2023-11-25',''),
+('S0221','SAN ANDRES','04','México','','S','2023-11-25',''),
+('L417.5','LA BOMBA','04','México','','L','2023-11-25',''),
+('IN030','VILLACHUATO','04','México','','IN','2023-11-25',''),
+('O60.3','TUXPAN','04','México','','O','2023-11-25',''),
+('E382.9','GUENDULAIN','04','México','','E','2023-11-25',''),
+('ZA012','MINATITLAN','04','México','','ZA','2023-11-25',''),
+('QA225.1','CUMBRE','04','México','','QA','2023-11-25',''),
+('S0033','TEPEXPAN','04','México','','S','2023-11-25',''),
+('VB094','CORONANGO','04','México','','VB','2023-11-25',''),
+('I0106','PATTI','04','México','','I','2023-11-25',''),
+('QA17.6','SAN ISIDRO','04','México','','QA','2023-11-25',''),
+('VB051','DOLORES','04','México','','VB','2023-11-25',''),
+('K315','BARRANCON','04','México','','K','2023-11-25',''),
+('XX22','PALACHO','04','México','','XX','2023-11-25',''),
+('A808.1','EL SAUCILLO','04','México','','A','2023-11-25',''),
+('DB30.3','CARPINTERO','04','México','','DB','2023-11-25',''),
+('T1547','CERRO PELON','04','México','','T','2023-11-25',''),
+('FX14.2','TINUN','04','México','','FX','2023-11-25',''),
+('B1142','GOLONDRINA','04','México','','B','2023-11-25',''),
+('SA44.8','PUEBLA','04','México','','SA','2023-11-25',''),
+('BC159.7','SAN FELIPE','04','México','','BC','2023-11-25',''),
+('TS008','CERRO LA CRUZ','04','México','','TS','2023-11-25',''),
+('RD314.3','MERCURIO','04','México','','RD','2023-11-25',''),
+('FA840.9','KOPOMA','04','México','','FA','2023-11-25',''),
+('I0167','LIMON','04','México','','I','2023-11-25',''),
+('R0417','RIO','04','México','','R','2023-11-25',''),
+('VC35.5','TEJALUCA','04','México','','VC','2023-11-25',''),
+('A1135','TORREON','04','México','','A','2023-11-25',''),
+('R165.6','LECHUGUILLA','04','México','','R','2023-11-25',''),
+('IC24','GASPAR','04','México','','IC','2023-11-25',''),
+('A1225','CONEJOS','04','México','','A','2023-11-25',''),
+('M0551','ABASOLITO','04','México','','M','2023-11-25',''),
+('L0059','LORETO','04','México','','L','2023-11-25',''),
+('I0565','TECOMAN','04','México','','I','2023-11-25',''),
+('A1066','JIMULCO','04','México','','A','2023-11-25',''),
+('IN057','PANINDICUARO','04','México','','IN','2023-11-25',''),
+('K52','SAN DIONICIO','04','México','','K','2023-11-25',''),
+('HD28.6','AHUAZOTEPEC','04','México','','HD','2023-11-25',''),
+('FA651.8','ARELLANO','04','México','','FA','2023-11-25',''),
+('A1149','NOE','04','México','','A','2023-11-25',''),
+('Morelos0','BUENAVISTA','04','México','','Morelos','2023-11-25',''),
+('DE128','LOS NEGROS','04','México','','DE','2023-11-25',''),
+('R0158','AURA','04','México','','R','2023-11-25',''),
+('T0417','EMPALME','04','México','','T','2023-11-25',''),
+('DB64.4','POZOLE','04','México','','DB','2023-11-25',''),
+('F21.1','PALMA','04','México','','F','2023-11-25',''),
+('H0028','XOLOX','04','México','','H','2023-11-25',''),
+('T591.2','MARGARITA','04','México','','T','2023-11-25',''),
+('DB147.8','HUIZACHE','04','México','','DB','2023-11-25',''),
+('FA425.4','EL AGUILA','04','México','','FA','2023-11-25',''),
+('T1196','PRESIDIO','04','México','','T','2023-11-25',''),
+('K319.9','SESECAPA','04','México','','K','2023-11-25',''),
+('B0314','ESCOBEDO','04','México','','B','2023-11-25',''),
+('Q586.4','FEDERICO LOPEZ','04','México','','Q','2023-11-25',''),
+('M338.3','CIMA','04','México','','M','2023-11-25',''),
+('E0032','CARTAGO','04','México','','E','2023-11-25',''),
+('B0320','COMONFORT','04','México','','B','2023-11-25',''),
+('A1490','SAUCILLO','04','México','','A','2023-11-25',''),
+('U141.1','TORRES BURCIGA','04','México','','U','2023-11-25',''),
+('Q0760','INGENIERO LUIS COVA','04','México','','Q','2023-11-25',''),
+('T1491','TEPIC','04','México','','T','2023-11-25',''),
+('P155.1','ROSARIO','04','México','','P','2023-11-25',''),
+('NB72.9','SANTA RITA','04','México','','NB','2023-11-25',''),
+('QA223.2','AGUILAR','04','México','','QA','2023-11-25',''),
+('VC29.6','MOLINOS','04','México','','VC','2023-11-25',''),
+('L473.7','ABACATAN','04','México','','L','2023-11-25',''),
+('R334','LA POPA','04','México','','R','2023-11-25',''),
+('A1499','ARMENDARIZ','04','México','','A','2023-11-25',''),
+('G0056','LA ESTRELLA','04','México','','G','2023-11-25',''),
+('T67','PIERSON','04','México','','T','2023-11-25',''),
+('B838.5','LA ZACATERA','04','México','','B','2023-11-25',''),
+('V0448','VARGAS','04','México','','V','2023-11-25',''),
+('I137.9','VILLA NUEVA','04','México','','I','2023-11-25',''),
+('H126','HUAPALCALCO','04','México','','H','2023-11-25',''),
+('I0118','MONTELEON','04','México','','I','2023-11-25',''),
+('RD82.6','DIVISADERO','04','México','','RD','2023-11-25',''),
+('A1621','CUILTY','04','México','','A','2023-11-25',''),
+('M0478','PEDRO C MORALES','04','México','','M','2023-11-25',''),
+('M654.4','SAUCEDA','04','México','','M','2023-11-25',''),
+('FA016','EL CHAPO','04','México','','FA','2023-11-25',''),
+('P119.7','BORJAS','04','México','','P','2023-11-25',''),
+('E314.6','ESCONDIDA','04','México','','E','2023-11-25',''),
+('M548','CHIMPINQUE','04','México','','M','2023-11-25',''),
+('L0021','CANADA','04','México','','L','2023-11-25',''),
+('U0057','COAHUILA','04','México','','U','2023-11-25',''),
+('C73.2','TEZOYO','04','México','','C','2023-11-25',''),
+('M0872','GREGORIO GARCIA','04','México','','M','2023-11-25',''),
+('C180.4','PUENTE DE IXTLA','04','México','','C','2023-11-25',''),
+('L40.5','SAN JUAN DEL RIO','04','México','','L','2023-11-25',''),
+('V0455','SANTA FE AMIGO','04','México','','V','2023-11-25',''),
+('QA81.3','MAULAS','04','México','','QA','2023-11-25',''),
+('IC25','LA ESPERANZA','04','México','','IC','2023-11-25',''),
+('Z0076','ALMAGRES','04','México','','Z','2023-11-25',''),
+('TA013','MASCARENAS','04','México','','TA','2023-11-25',''),
+('NE072','LAS CANAS','04','México','','NE','2023-11-25',''),
+('L0051','SAN GIL','04','México','','L','2023-11-25',''),
+('F112.7','LA LAJA','04','México','','F','2023-11-25',''),
+('V0253','TOTALCO','04','México','','V','2023-11-25',''),
+('RD323.2','LORENZO','04','México','','RD','2023-11-25',''),
+('GA0','VERACRUZ','04','México','','GA','2023-11-25',''),
+('G108','GRANJA','04','México','','G','2023-11-25',''),
+('BC154','MELCHOR','04','México','','BC','2023-11-25',''),
+('B253.4','CONEXION LINEA MORELOS','04','México','','B','2023-11-25',''),
+('S0153','ACOCOTLA','04','México','','S','2023-11-25',''),
+('N0534','TARETAN','04','México','','N','2023-11-25',''),
+('M0277','CRUZ Y CRUZ','04','México','','M','2023-11-25',''),
+('M0259','OTILLO MONTANO','04','México','','M','2023-11-25',''),
+('DC126.1','SAN PASCUAL','04','México','','DC','2023-11-25',''),
+('QA10.3','BASUCHIL','04','México','','QA','2023-11-25',''),
+('O39.9','OYAMEL','04','México','','O','2023-11-25',''),
+('N593.6','EL MARQUES','04','México','','N','2023-11-25',''),
+('ND9.8','EL ORO','04','México','','ND','2023-11-25',''),
+('U120.5','LOS PIOMEROS','04','México','','U','2023-11-25',''),
+('BC029','CHICHIMEQUILLAS','04','México','','BC','2023-11-25',''),
+('A1561','FRANCISCO VILLA','04','México','','A','2023-11-25',''),
+('Q549.3','POBLADO BOCOYNA','04','México','','Q','2023-11-25',''),
+('N232.9','NICOLASITO','04','México','','N','2023-11-25',''),
+('G0229','BARRANCA','04','México','','G','2023-11-25',''),
+('B105.4','MAGUA','04','México','','B','2023-11-25',''),
+('EB52.2','LA CIMA','04','México','','EB','2023-11-25',''),
+('M48','EL ESFUERZO','04','México','','M','2023-11-25',''),
+('BF009','LOS GARCIA','04','México','','BF','2023-11-25',''),
+('R0117','SABINAS','04','México','','R','2023-11-25',''),
+('UB60.5','TECATE','04','México','','UB','2023-11-25',''),
+('FA802.4','CALKINI','04','México','','FA','2023-11-25',''),
+('S411.7','LAURELAL','04','México','','S','2023-11-25',''),
+('DA54.8','FRANCISCO I MADERO','04','México','','DA','2023-11-25',''),
+('C61.4','CIMA','04','México','','C','2023-11-25',''),
+('Q0921','LOS MOCHIS','04','México','','Q','2023-11-25',''),
+('GF011','SILVERIO','04','México','','GF','2023-11-25',''),
+('VB153','IXTENCO','04','México','','VB','2023-11-25',''),
+('AB022','TETEPANGO','04','México','','AB','2023-11-25',''),
+('I149.6','SALAMEA','04','México','','I','2023-11-25',''),
+('S0045','TEOTIHUACAN','04','México','','S','2023-11-25',''),
+('MA84.7','ATASCADOR','04','México','','MA','2023-11-25',''),
+('B86.6','NUEVO CARRASCO','04','México','','B','2023-11-25',''),
+('NB13.9','CHAMACUARO','04','México','','NB','2023-11-25',''),
+('DC52.4','BREÑA','04','México','','DC','2023-11-25',''),
+('R0144','BARROTERAN','04','México','','R','2023-11-25',''),
+('NB040','LA MONCADA','04','México','','NB','2023-11-25',''),
+('A564.3','PERUELAS','04','México','','A','2023-11-25',''),
+('V153.6','MENA','04','México','','V','2023-11-25',''),
+('IN076','VISCOSA','04','México','','IN','2023-11-25',''),
+('TA288','VIGIA','04','México','','TA','2023-11-25',''),
+('BG43.6','JAZMINAL','04','México','','BG','2023-11-25',''),
+('RC20.1','EL CEDRO','04','México','','RC','2023-11-25',''),
+('G0052','REFUGIO','04','México','','G','2023-11-25',''),
+('Q881.5','SUFRAGIO','04','México','','Q','2023-11-25',''),
+('L0367','VIEJO','04','México','','L','2023-11-25',''),
+('RD228.5','EMPALME SIERRA MOJADA','04','México','','RD','2023-11-25',''),
+('T1413','NANCHI','04','México','','T','2023-11-25',''),
+('DB131.7','CHINACATES','04','México','','DB','2023-11-25',''),
+('TA223','CABULLONA','04','México','','TA','2023-11-25',''),
+('Q0423','CIMA','04','México','','Q','2023-11-25',''),
+('S0226','SAN PEDRO','04','México','','S','2023-11-25',''),
+('A1134.2','TORREON PASS','04','México','','A','2023-11-25',''),
+('M0398','HUERTAS','04','México','','M','2023-11-25',''),
+('DC22.6','REGISTRO','04','México','','DC','2023-11-25',''),
+('F307.3','TIMONES','04','México','','F','2023-11-25',''),
+('DA252.7','ALIANZA','04','México','','DA','2023-11-25',''),
+('FA701.6','MUCUYCHACAN','04','México','','FA','2023-11-25',''),
+('N216.6','APEO','04','México','','N','2023-11-25',''),
+('DC253.8','LA VIEJA','04','México','','DC','2023-11-25',''),
+('BB34.9','LAS TUZAS','04','México','','BB','2023-11-25',''),
+('UB59.8','ESTACION TECATE','04','México','','UB','2023-11-25',''),
+('J45.5','CLAUDIO','04','México','','J','2023-11-25',''),
+('IN092','COMANJA','04','México','','IN','2023-11-25',''),
+('T0129','LLANO','04','México','','T','2023-11-25',''),
+('M0266','SANTA ENGRACIA','04','México','','M','2023-11-25',''),
+('N0391','JACUARO','04','México','','N','2023-11-25',''),
+('E0094','TLACOYALCO','04','México','','E','2023-11-25',''),
+('QA463.5','SAN BLAS','04','México','','QA','2023-11-25',''),
+('E386.9','ABASOLO','04','México','','E','2023-11-25',''),
+('VC38.3','ATLIXCO','04','México','','VC','2023-11-25',''),
+('A1158.8','NOE','04','México','','A','2023-11-25',''),
+('NB67.2','BOULEVARD CELAYA','04','México','','NB','2023-11-25',''),
+('FA154.8','CAMOAPA','04','México','','FA','2023-11-25',''),
+('DA97.4','LUIS MOYA','04','México','','DA','2023-11-25',''),
+('TI009','BACHIGUALATO','04','México','','TI','2023-11-25',''),
+('A1671.6','PIRALE','04','México','','A','2023-11-25',''),
+('Morelos135','PACHUQUILLA','04','México','','Morelos','2023-11-25',''),
+('V0162','XICOTENCATL','04','México','','V','2023-11-25',''),
+('IB65.5','VILLA JIMENEZ','04','México','','IB','2023-11-25',''),
+('K375','HUIXTLA','04','México','','K','2023-11-25',''),
+('A914.9','DPAL','04','México','','A','2023-11-25',''),
+('U0239','PUERTO PENASCO','04','México','','U','2023-11-25',''),
+('RK15.9','SIERRA MOJADA/ESMERALDA','04','México','','RK','2023-11-25',''),
+('S0282','ENCINAR','04','México','','S','2023-11-25',''),
+('M146.4','ESCANDON','04','México','','M','2023-11-25',''),
+('QA215.9','CHICO','04','México','','QA','2023-11-25',''),
+('I0559','CALERAS','04','México','','I','2023-11-25',''),
+('I0423','CIUDAD GUZMAN','04','México','','I','2023-11-25',''),
+('B0214','SAN NICOLAS','04','México','','B','2023-11-25',''),
+('C74.1','TRES CUMBRES','04','México','','C','2023-11-25',''),
+('B0814','HURON','04','México','','B','2023-11-25',''),
+('RD233.5','RINCON','04','México','','RD','2023-11-25',''),
+('V393','TIGRILLOS','04','México','','V','2023-11-25',''),
+('QA244.9','AGUAJE','04','México','','QA','2023-11-25',''),
+('TA324.5','NACOZARI','04','México','','TA','2023-11-25',''),
+('IB62.6','ZIPIMEO','04','México','','IB','2023-11-25',''),
+('K14.8','LA PLANTA','04','México','','K','2023-11-25',''),
+('A1309','ASUNSOLO','04','México','','A','2023-11-25',''),
+('L0190','JULIAN CARRILLO','04','México','','L','2023-11-25',''),
+('TA024','SANTA BARBARA','04','México','','TA','2023-11-25',''),
+('DA147.7','PASAJE','04','México','','DA','2023-11-25',''),
+('L349','EL TEJOCOTE','04','México','','L','2023-11-25',''),
+('L0301','VILLAR','04','México','','L','2023-11-25',''),
+('E283.2','VENADO','04','México','','E','2023-11-25',''),
+('I0180','OCOTLAN','04','México','','I','2023-11-25',''),
+('QA446.8','GUZMAN','04','México','','QA','2023-11-25',''),
+('V0062','METEPEC','04','México','','V','2023-11-25',''),
+('IB46.4','CURIMEO','04','México','','IB','2023-11-25',''),
+('A0448','PEDRITO','04','México','','A','2023-11-25',''),
+('Z175.8','SARABIA','04','México','','Z','2023-11-25',''),
+('G0099','EL CIEN','04','México','','G','2023-11-25',''),
+('FA387.1','BOCA DEL CERRO','04','México','','FA','2023-11-25',''),
+('GB24.9','EL ROBLE','04','México','','GB','2023-11-25',''),
+('EA15.5','CARMEN','04','México','','EA','2023-11-25',''),
+('G0014','CERRO BLANCO','04','México','','G','2023-11-25',''),
+('C146','TETECALITA','04','México','','C','2023-11-25',''),
+('TH030','GUASAVE','04','México','','TH','2023-11-25',''),
+('TA312.2','PURICA','04','México','','TA','2023-11-25',''),
+('V26.5','SAN VICENTE','04','México','','V','2023-11-25',''),
+('NB070','OCTOPAN','04','México','','N','2023-11-25',''),
+('FA894.4','MERIDA','04','México','','FA','2023-11-25',''),
+('EA30.6','LA DEFENSA','04','México','','EA','2023-11-25',''),
+('A0263','MARISCALA','04','México','','A','2023-11-25',''),
+('T0505','LAGUNA','04','México','','T','2023-11-25',''),
+('NB080','SAN JUAN DE LA VEGA','04','México','','NB','2023-11-25',''),
+('V29','CUAUTLALPAN','04','México','','V','2023-11-25',''),
+('A0861','URBIETA','04','México','','A','2023-11-25',''),
+('K453.5','LOS FIDELES','04','México','','K','2023-11-25',''),
+('K26','GENERAL CHARIS','04','México','','K','2023-11-25',''),
+('P0','CONEXION DISTRITO PARRAL','04','México','','P','2023-11-25',''),
+('R0220','ADJUNTAS','04','México','','R','2023-11-25',''),
+('V0416','TAMARINDO','04','México','','V','2023-11-25',''),
+('NB032','CORRAL','04','México','','NB','2023-11-25',''),
+('V0218','ORIENTAL','04','México','','V','2023-11-25',''),
+('EB26.5','SAN PABLO','04','México','','EB','2023-11-25',''),
+('K143','AURORA','04','México','','K','2023-11-25',''),
+('QA189.2','OJO','04','México','','QA','2023-11-25',''),
+('N221.3','EL JEJERO','04','México','','N','2023-11-25',''),
+('N620.5','EL JUNCO','04','México','','N','2023-11-25',''),
+('R397.8','LOS IXTLES','04','México','','R','2023-11-25',''),
+('G0201','AZUETA','04','México','','G','2023-11-25',''),
+('GA095','FULGENCIO D VASQUEZ','04','México','','GA','2023-11-25',''),
+('I465.8','PLATANAR','04','México','','I','2023-11-25',''),
+('N524.7','PATUAM','04','México','','N','2023-11-25',''),
+('N0222','MELCHOR OCAMPO','04','México','','N','2023-11-25',''),
+('Z0072','OLGLICA','04','México','','Z','2023-11-25',''),
+('A1588.9','MAPULA','04','México','','A','2023-11-25',''),
+('FA168.9','JUAREZ','04','México','','FA','2023-11-25',''),
+('IB87.8','EL CORTIJO','04','México','','IB','2023-11-25',''),
+('S0201','RINCONADA','04','México','','S','2023-11-25',''),
+('EB53.7','TAVICHE','04','México','','EB','2023-11-25',''),
+('C189.5','CAJONES','04','México','','C','2023-11-25',''),
+('DB128.4','LAS FLORES','04','México','','DB','2023-11-25',''),
+('M166.8','FORLON','04','México','','M','2023-11-25',''),
+('EB19.2','CIENEGA DE LOS CABALLOS','04','México','','EB','2023-11-25',''),
+('A0383','SILAO','04','México','','A','2023-11-25',''),
+('R0304','JOYA','04','México','','R','2023-11-25',''),
+('G0078','TETELA','04','México','','G','2023-11-25',''),
+('Z302.1','SALINA CRUZ','04','México','','Z','2023-11-25',''),
+('DC143.7','ABREGO','04','México','','DC','2023-11-25',''),
+('N615.5','ANTUNEZ','04','México','','N','2023-11-25',''),
+('Q329.9','NOPALERA','04','México','','Q','2023-11-25',''),
+('V244.6','ARTESIANO','04','México','','V','2023-11-25',''),
+('A1709','OJO LAGUNA','04','México','','A','2023-11-25',''),
+('MA0','CALLES','04','México','','MA','2023-11-25',''),
+('S0093','APAN','04','México','','S','2023-11-25',''),
+('VB080','LA POSTA','04','México','','VB','2023-11-25',''),
+('Q503','PICHACHIC','04','México','','Q','2023-11-25',''),
+('N539.7','LA PURISIMA','04','México','','N','2023-11-25',''),
+('T0770','ZEFERINO PAREDES','04','México','','T','2023-11-25',''),
+('FN12.4','YAXCHE','04','México','','FN','2023-11-25',''),
+('EB9.8','JALPAN','04','México','','EB','2023-11-25',''),
+('M0422','MONTEMORELOS','04','México','','M','2023-11-25',''),
+('A708.2','EL BRILLO','04','México','','A','2023-11-25',''),
+('L0662','PRIETO','04','México','','L','2023-11-25',''),
+('FD73','SITILPECH','04','México','','FD','2023-11-25',''),
+('L0545','EL ABRA','04','México','','L','2023-11-25',''),
+('B100','ENDO','04','México','','B','2023-11-25',''),
+('VC94.3','CHIETLA','04','México','','VC','2023-11-25',''),
+('T0721','CANEDO','04','México','','T','2023-11-25',''),
+('B0853','SAN MIGUEL','04','México','','B','2023-11-25',''),
+('C264.2','TLANIPANTLAN','04','México','','C','2023-11-25',''),
+('Q0822','INGENIERO HERIBERTO VALDEZ','04','México','','Q','2023-11-25',''),
+('P122.5','RONSESVALLES','04','México','','P','2023-11-25',''),
+('V107.9','VELOZ','04','México','','V','2023-11-25',''),
+('O34','ALVARADO','04','México','','O','2023-11-25',''),
+('FA106.5','MOSQUITERO','04','México','','FA','2023-11-25',''),
+('K347.9','ZORRILLO','04','México','','K','2023-11-25',''),
+('IB86.6','LA SOLEDAD','04','México','','IB','2023-11-25',''),
+('E0043','AJAJALPAN','04','México','','E','2023-11-25',''),
+('N0040','LA CIMA','04','México','','N','2023-11-25',''),
+('T0106','SANTA ANA','04','México','','T','2023-11-25',''),
+('C57.2','PARRES','04','México','','C','2023-11-25',''),
+('L89.3','LA OLMA','04','México','','L','2023-11-25',''),
+('IN066','VILLA JIMENEZ','04','México','','IN','2023-11-25',''),
+('Z143.1','UBERO','04','México','','Z','2023-11-25',''),
+('F0190','NUEVO CADILLO','04','México','','F','2023-11-25',''),
+('O54','HERNANDEZ','04','México','','O','2023-11-25',''),
+('F0330','MATAMOROS','04','México','','F','2023-11-25',''),
+('I303.6','CRUZ VIEJA','04','México','','I','2023-11-25',''),
+('SA026','TEOLOCHOLCO','04','México','','SA','2023-11-25',''),
+('N0486','CONUY','04','México','','N','2023-11-25',''),
+('A1095','PICARDIAS','04','México','','A','2023-11-25',''),
+('C200.7','SANTA FE','04','México','','C','2023-11-25',''),
+('R0254','DOLOMITA','04','México','','R','2023-11-25',''),
+('GF5.6','BELA','04','México','','GF','2023-11-25',''),
+('IN0','PENJAMO','04','México','','IN','2023-11-25',''),
+('DA26.8','EL SALVADOR','04','México','','DA','2023-11-25',''),
+('FA615.7','CARRILLO PUERTO','04','México','','FA','2023-11-25',''),
+('M0786','CERES','04','México','','M','2023-11-25',''),
+('FD173.8','TIZIMIN NUEVO','04','México','','FD','2023-11-25',''),
+('TF008','GUAYMAS','04','México','','TF','2023-11-25',''),
+('XX26','QUEBRACHE','04','México','','XX','2023-11-25',''),
+('N403.8','SAN JOSE COAPA','04','México','','N','2023-11-25',''),
+('QA314.8','ACHONDO','04','México','','QA','2023-11-25',''),
+('B150','MEJIA','04','México','','B','2023-11-25',''),
+('RD304.5','LA MORITA','04','México','','RD','2023-11-25',''),
+('N0145','MANTO','04','México','','N','2023-11-25',''),
+('F0008','LAGRANGE','04','México','','F','2023-11-25',''),
+('PB012','SAN FRANCISCO DEL O','04','México','','PB','2023-11-25',''),
+('VC57.2','TERUEL','04','México','','VC','2023-11-25',''),
+('F0199','VALADECES','04','México','','F','2023-11-25',''),
+('E150','LIMITE TERRITORIAL','04','México','','E','2023-11-25',''),
+('Q0856','NOROTES','04','México','','Q','2023-11-25',''),
+('M534.2','GENERAL ESCOBEDO','04','México','','M','2023-11-25',''),
+('GA67.4','COSPALAPAM','04','México','','GA','2023-11-25',''),
+('B0918','ALMACENES','04','México','','B','2023-11-25',''),
+('LJ230','LA GRIEGA','04','México','','Juárez','2023-11-25',''),
+('B0525','SAN LUIS POTOSI','04','México','','B','2023-11-25',''),
+('Z164.3','PASO DE BUQUES','04','México','','Z','2023-11-25',''),
+('L70','GENARO','04','México','','L','2023-11-25',''),
+('B0485','VILLA DE REYES','04','México','','B','2023-11-25',''),
+('BB5.8','VANEGAS DE ABAJO','04','México','','BB','2023-11-25',''),
+('Z19.5','HORACIO P. SANCHEZ','04','México','','Z','2023-11-25',''),
+('A0779','MENDOZA','04','México','','A','2023-11-25',''),
+('RA29.9','DAVILA','04','México','','RA','2023-11-25',''),
+('I0013','COVARRUBIAS','04','México','','I','2023-11-25',''),
+('A0565','PENUELAS','04','México','','A','2023-11-25',''),
+('DB165.5','SANTIAGO PAPASQUIARO','04','México','','DB','2023-11-25',''),
+('T0688','DON','04','México','','T','2023-11-25',''),
+('P75','BOMERA','04','México','','P','2023-11-25',''),
+('DC77.8','PARRILLA','04','México','','DC','2023-11-25',''),
+('A62.3','EL SALTO','04','México','','A','2023-11-25',''),
+('C194.5','CASAHUATLAN','04','México','','C','2023-11-25',''),
+('B0631','CHARCAS','04','México','','B','2023-11-25',''),
+('I300.7','TEPETATES','04','México','','I','2023-11-25',''),
+('GA042','GUAYABO','04','México','','GA','2023-11-25',''),
+('Q114.3','PULPITO','04','México','','Q','2023-11-25',''),
+('L487','SAN DIEGUITO','04','México','','L','2023-11-25',''),
+('B0924','RUBEN JARAMILLO','04','México','','B','2023-11-25',''),
+('BB46.5','MATEHUALA','04','México','','BB','2023-11-25',''),
+('K450.4','LA GLORIA','04','México','','K','2023-11-25',''),
+('S0394','MANLIO FAVIO ALTAMIRANO','04','México','','S','2023-11-25',''),
+('VB050','LAGUNITAS','04','México','','VB','2023-11-25',''),
+('A0686','SAN GERONIMO','04','México','','A','2023-11-25',''),
+('B682.6','CORONADOS','04','México','','B','2023-11-25',''),
+('T0321','TORRES','04','México','','T','2023-11-25',''),
+('DB192.4','LOS CORRALES','04','México','','DB','2023-11-25',''),
+('VC125.8','GARCIA','04','México','','VC','2023-11-25',''),
+('R0039','NAVAS','04','México','','R','2023-11-25',''),
+('Q381.6','COLONIA ANAHUAC','04','México','','Q','2023-11-25',''),
+('TC000','AGUA PRIETA','04','México','','TC','2023-11-25',''),
+('E0102','TEMALACAYUCA','04','México','','E','2023-11-25',''),
+('B1261','JARITA','04','México','','B','2023-11-25',''),
+('BC128','PARRITAS','04','México','','BC','2023-11-25',''),
+('A431.9','SAN FRANCISCO DEL','04','México','','A','2023-11-25',''),
+('QA183.1','BABICORA','04','México','','QA','2023-11-25',''),
+('EB39','OCOTLAN','04','México','','EB','2023-11-25',''),
+('L574.5','EL COCO','04','México','','L','2023-11-25',''),
+('E244.3','LOS OBOS','04','México','','E','2023-11-25',''),
+('SA030','AYOMETLA','04','México','','SA','2023-11-25',''),
+('I0159','FELICIANO','04','México','','I','2023-11-25',''),
+('M132.1','PRETIL','04','México','','M','2023-11-25',''),
+('F50.7','MILPA','04','México','','F','2023-11-25',''),
+('LJ058','HIDALGO TILH','04','México','','L','2023-11-25',''),
+('M262.2','MARTINEZ','04','México','','M','2023-11-25',''),
+('FP130','KAXAYTUC','04','México','','FP','2023-11-25',''),
+('K329.3','EL PATASTE','04','México','','K','2023-11-25',''),
+('N0015','RIO HONDO','04','México','','N','2023-11-25',''),
+('Z283.5','TEHUANTEPEC','04','México','','Z','2023-11-25',''),
+('R78.6','LAS BLANCAS','04','México','','R','2023-11-25',''),
+('UB32.6','ESPUELA STAR GAS','04','México','','UB','2023-11-25',''),
+('QA171.3','COLONIA AÑO DE HIDALGO','04','México','','QA','2023-11-25',''),
+('T0224','SELVA','04','México','','T','2023-11-25',''),
+('I0435','HUESCALAPA','04','México','','I','2023-11-25',''),
+('M0733','TIZOC','04','México','','M','2023-11-25',''),
+('K364.3','SALTILLO','04','México','','K','2023-11-25',''),
+('J22.8','AGUANAVAL','04','México','','J','2023-11-25',''),
+('RD140.6','AROCHA','04','México','','RD','2023-11-25',''),
+('E173.9','NOPALA','04','México','','E','2023-11-25',''),
+('V98.8','CAMPERO','04','México','','V','2023-11-25',''),
+('M700.6','BRISA','04','México','','M','2023-11-25',''),
+('B21.7','LECHERÍA','04','México','','B','2023-11-25',''),
+('VB038','ARROYO','04','México','','VB','2023-11-25',''),
+('I0092','LA PIEDAD','04','México','','I','2023-11-25',''),
+('DE17','PLACA KM DE-17','04','México','','DE','2023-11-25',''),
+('L277.9','LOS VENADITOS','04','México','','L','2023-11-25',''),
+('Q0074','VOLCANES','04','México','','Q','2023-11-25',''),
+('M883.8','VIREDO','04','México','','M','2023-11-25',''),
+('FS35.2','HUHI','04','México','','FS','2023-11-25',''),
+('A0722','MORELOS','04','México','','A','2023-11-25',''),
+('DC166.3','EL ARENAL','04','México','','DC','2023-11-25',''),
+('G0054','RANCHO TABLAS','04','México','','G','2023-11-25',''),
+('H128.4','SOTOTLAN','04','México','','H','2023-11-25',''),
+('AB031','EL GORRION','04','México','','AB','2023-11-25',''),
+('DB101','ESFUERZOS UNIDOS','04','México','','DB','2023-11-25',''),
+('FA364.3','CHACAMAX','04','México','','FA','2023-11-25',''),
+('M0743','CACAMA','04','México','','M','2023-11-25',''),
+('Z157.8','TOLOSITA','04','México','','Z','2023-11-25',''),
+('G0058','GUADALUPE DE REYES','04','México','','G','2023-11-25',''),
+('K231.2','RICARDO FLORES MAGON','04','México','','K','2023-11-25',''),
+('V383.6','SOUTER','04','México','','V','2023-11-25',''),
+('IN134.8','AJUNO','04','México','','IN','2023-11-25',''),
+('I267.5','MOJONERA','04','México','','I','2023-11-25',''),
+('R406.7','ZERTUCHE','04','México','','R','2023-11-25',''),
+('FA347.7','LACANDON','04','México','','FA','2023-11-25',''),
+('T0757','ALGODON','04','México','','T','2023-11-25',''),
+('T1666','MAGDALENA','04','México','','T','2023-11-25',''),
+('B1042','LEAL','04','México','','B','2023-11-25',''),
+('R0133','SAN FERNANDO','04','México','','R','2023-11-25',''),
+('F317','LA GLORIA','04','México','','F','2023-11-25',''),
+('V0228','VARELA','04','México','','V','2023-11-25',''),
+('FA871.8','UMAN','04','México','','FA','2023-11-25',''),
+('I472.7','HIGUERA','04','México','','I','2023-11-25',''),
+('B0595','MOCTEZUMA','04','México','','B','2023-11-25',''),
+('RA113','CUEVITAS','04','México','','RA','2023-11-25',''),
+('E0105','TEPANCO','04','México','','E','2023-11-25',''),
+('T1444','CORTE','04','México','','T','2023-11-25',''),
+('S0323','PENUELA','04','México','','S','2023-11-25',''),
+('E166.3','SAN SEBASTIAN','04','México','','E','2023-11-25',''),
+('B0999','DURAZNO','04','México','','B','2023-11-25',''),
+('T1280.6','BACHO','04','México','','T','2023-11-25',''),
+('E309','PARIAN','04','México','','E','2023-11-25',''),
+('DB35.4','EL SABALO','04','México','','DB','2023-11-25',''),
+('XX23.3','CARBONO','04','México','','XX','2023-11-25',''),
+('B0078','BOJAY','04','México','','B','2023-11-25',''),
+('A0600','CHICALOTE','04','México','','A','2023-11-25',''),
+('FP75','TICUL','04','México','','FP','2023-11-25',''),
+('T0563','FUNDICION','04','México','','T','2023-11-25',''),
+('DA101.8','PROGRESO','04','México','','DA','2023-11-25',''),
+('L93.7','PERON BLANCO','04','México','','L','2023-11-25',''),
+('FP27.5','ACANCEH','04','México','','FP','2023-11-25',''),
+('QA301.4','MAYA ORTIZ','04','México','','QA','2023-11-25',''),
+('FP10','KANASIN','04','México','','FP','2023-11-25',''),
+('Q0791','LORETO','04','México','','Q','2023-11-25',''),
+('G0237','RODRIGUEZ CLARA','04','México','','G','2023-11-25',''),
+('MA126.6','TAMUIN','04','México','','MA','2023-11-25',''),
+('JM077','TULA','04','México','','Morelos','2023-11-25',''),
+('M500','LIMITE TERRITORIAL','04','México','','M','2023-11-25',''),
+('Z0064','OJAPA','04','México','','Z','2023-11-25',''),
+('A1750.3','GALLEGO','04','México','','A','2023-11-25',''),
+('I215.6','CORONA','04','México','','I','2023-11-25',''),
+('SC289','ACULTZINGO','04','México','','SC','2023-11-25',''),
+('L0565','TAMUIN','04','México','','L','2023-11-25',''),
+('I0024','JOAQUIN','04','México','','I','2023-11-25',''),
+('T1015','OSO','04','México','','T','2023-11-25',''),
+('HE19.8','APULCO','04','México','','HE','2023-11-25',''),
+('Z165.1','PALOMARES','04','México','','Z','2023-11-25',''),
+('F141.2','DOCTOS COSS','04','México','','F','2023-11-25',''),
+('K430.6','LOS TOROS','04','México','','K','2023-11-25',''),
+('A1550','BACHIMBA','04','México','','A','2023-11-25',''),
+('M0452','EMILIANO CARRANZA','04','México','','M','2023-11-25',''),
+('Z232','PLACA KM Z-232','04','México','','Z','2023-11-25',''),
+('L507.8','PAGO PAGO','04','México','','L','2023-11-25',''),
+('T0257','ZAMORA','04','México','','T','2023-11-25',''),
+('I547.2','MADRID','04','México','','I','2023-11-25',''),
+('DC228','INDIOS','04','México','','DC','2023-11-25',''),
+('FA275.7','EL CEIBO','04','México','','FA','2023-11-25',''),
+('T1121','POZOLE','04','México','','T','2023-11-25',''),
+('EA39.2','SN ANTONIO SOLEDAD','04','México','','EA','2023-11-25',''),
+('T1262','ESCUINAPA','04','México','','T','2023-11-25',''),
+('RD247.7','ESTANQUE','04','México','','RD','2023-11-25',''),
+('VC5.4','CHOLULA','04','México','','VC','2023-11-25',''),
+('Q0413','CASA COLORADA','04','México','','Q','2023-11-25',''),
+('S0232','SANTA MARIA TECHICALCO','04','México','','S','2023-11-25',''),
+('B0160','HUICHAPAN','04','México','','B','2023-11-25',''),
+('S0104','TETLAPAYAC','04','México','','S','2023-11-25',''),
+('VC35.2','SAN FELIX','04','México','','VC','2023-11-25',''),
+('I571.3','ARMERIA','04','México','','I','2023-11-25',''),
+('UB4.7','AGUA CALIENTE','04','México','','UB','2023-11-25',''),
+('DN5.6','NAVIOS VIEJOS','04','México','','DN','2023-11-25',''),
+('V47','AZTECA','04','México','','V','2023-11-25',''),
+('DN26.5','LA VENADA','04','México','','DN','2023-11-25',''),
+('A0279','APASEO','04','México','','A','2023-11-25',''),
+('TE018','LA CAMPANA','04','México','','TE','2023-11-25',''),
+('A0982','SYMON','04','México','','A','2023-11-25',''),
+('Q0681','IRIGOYEN','04','México','','Q','2023-11-25',''),
+('G0028','OMEALCA','04','México','','G','2023-11-25',''),
+('FA340.7','SAN MARCOS','04','México','','FA','2023-11-25',''),
+('A357.9','ARANDAS','04','México','','A','2023-11-25',''),
+('E265.2','ORGANAL','04','México','','E','2023-11-25',''),
+('N385','COINZTZIO','04','México','','N','2023-11-25',''),
+('Z105.4','MACAYA','04','México','','Z','2023-11-25',''),
+('G0159','BENEMERITO JUAREZ','04','México','','G','2023-11-25',''),
+('T0011','ENCINA','04','México','','T','2023-11-25',''),
+('FA0','POXILA','04','México','','FA','2023-11-25',''),
+('V423.6','PASO DE VARAS','04','México','','V','2023-11-25',''),
+('P0109','EMPALME DISTRITO SANTA BARBARA','04','México','','P','2023-11-25',''),
+('K284.1','MARGARITAS','04','México','','K','2023-11-25',''),
+('S235.6','JESUS NAZARENO','04','México','','S','2023-11-25',''),
+('K452','EL DORADO','04','México','','K','2023-11-25',''),
+('V0045','ROBLES','04','México','','V','2023-11-25',''),
+('O66.6','SIRAHUATO','04','México','','O','2023-11-25',''),
+('A1300','ESCALON','04','México','','A','2023-11-25',''),
+('DB85.5','LAS OLAS','04','México','','DB','2023-11-25',''),
+('TM33.6','ETZATLAN','04','México','','TM','2023-11-25',''),
+('VC87.2','COLON','04','México','','VC','2023-11-25',''),
+('TM010','EL CARMEN','04','México','','TM','2023-11-25',''),
+('TA054','SANTA CRUZ','04','México','','TA','2023-11-25',''),
+('NE128','INGENIERO J M AGUIRRE','04','México','','NE','2023-11-25',''),
+('VB024','TEPUENTE','04','México','','VB','2023-11-25',''),
+('XX44.2','SAN CARLOS','04','México','','XX','2023-11-25',''),
+('TA86','ALAMO GORDO','04','México','','TA','2023-11-25',''),
+('C46.2','AJUSCO','04','México','','C','2023-11-25',''),
+('M822.2','NAZAS','04','México','','M','2023-11-25',''),
+('B1121.3','BUSTAMANTE','04','México','','B','2023-11-25',''),
+('K53.9','LA RIQUEZA','04','México','','K','2023-11-25',''),
+('B0901','ANGOSTURA','04','México','','B','2023-11-25',''),
+('G0264','LA CEIBA','04','México','','G','2023-11-25',''),
+('FA596.1','PIXOYAL','04','México','','FA','2023-11-25',''),
+('V294.7','LOMA DE TABLAS','04','México','','V','2023-11-25',''),
+('S0015','XALOSTOC','04','México','','S','2023-11-25',''),
+('EB3.1','XOXO','04','México','','EB','2023-11-25',''),
+('K383.7','ISLAMAPA','04','México','','K','2023-11-25',''),
+('GA073','MORENO NORTE','04','México','','GA','2023-11-25',''),
+('I141.4','EL ALVARESO','04','México','','I','2023-11-25',''),
+('V0323','DEHESA','04','México','','V','2023-11-25',''),
+('B0930','RAMOS ARIZPE','04','México','','B','2023-11-25',''),
+('QA293.8','SANTA ROSA','04','México','','QA','2023-11-25',''),
+('G0038','EL PARAISO','04','México','','G','2023-11-25',''),
+('B50.5','EMBARCADERO','04','México','','B','2023-11-25',''),
+('FA714','CHINA','04','México','','FA','2023-11-25',''),
+('N0504','CALTZONTZIN','04','México','','N','2023-11-25',''),
+('A1973','CIUDAD JUAREZ','04','México','','A','2023-11-25',''),
+('H121.9','TULANCINGO','04','México','','H','2023-11-25',''),
+('A1142','GOMEZ PALACIO','04','México','','A','2023-11-25',''),
+('K80','REFORMA','04','México','','K','2023-11-25',''),
+('L37.4','VILLA JUAREZ','04','México','','L','2023-11-25',''),
+('A0053','TLALTEPOXCO','04','México','','A','2023-11-25',''),
+('E340.1','MIXTECA','04','México','','E','2023-11-25',''),
+('RD138.8','ZACATOZA','04','México','','RD','2023-11-25',''),
+('RD166.6','LA CURVA','04','México','','RD','2023-11-25',''),
+('N0304','ALVAREZ','04','México','','N','2023-11-25',''),
+('T1455','MANGO','04','México','','T','2023-11-25',''),
+('M0626','LAS MORAS','04','México','','M','2023-11-25',''),
+('H0061','SAN AGUSTIN','04','México','','H','2023-11-25',''),
+('V175.4','KIUMICHO','04','México','','V','2023-11-25',''),
+('M0566','VILLA MINA','04','México','','M','2023-11-25',''),
+('K259','URBINA','04','México','','K','2023-11-25',''),
+('TA314','HIDALGO','04','México','','TA','2023-11-25',''),
+('S0307','METLAC','04','México','','S','2023-11-25',''),
+('DC9.9','DALILA','04','México','','DC','2023-11-25',''),
+('T1596','AHUACATLAN','04','México','','T','2023-11-25',''),
+('B0084','TEOCALCO','04','México','','B','2023-11-25',''),
+('B0027','CUAUTITLAN','04','México','','B','2023-11-25',''),
+('B0554','PINTO','04','México','','B','2023-11-25',''),
+('VC24.5','SAN MARTIN TLAMAPA','04','México','','VC','2023-11-25',''),
+('T150','BEJAMIN HILL','04','México','','T','2023-11-25',''),
+('C21.9','OLIVAR','04','México','','C','2023-11-25',''),
+('K123.3','ELIAS CASTRO ORTEGA','04','México','','K','2023-11-25',''),
+('A451.1','CAROLINA','04','México','','A','2023-11-25',''),
+('T1355','BONITA','04','México','','T','2023-11-25',''),
+('L0639','CHILA','04','México','','L','2023-11-25',''),
+('FD18.6','TIXPEUAL','04','México','','FD','2023-11-25',''),
+('S0256','GALERA','04','México','','S','2023-11-25',''),
+('DE85.2','PURISIMA','04','México','','DE','2023-11-25',''),
+('NB17.7','SAN AGUSTIN','04','México','','NB','2023-11-25',''),
+('IN047','CURIMEO','04','México','','IN','2023-11-25',''),
+('FA830.9','MAXCANU','04','México','','FA','2023-11-25',''),
+('A1854.8','JUAN JOSE','04','México','','A','2023-11-25',''),
+('A0021','LECHERIA','04','México','','B','2023-11-25',''),
+('B0329','RINCONCILLO','04','México','','B','2023-11-25',''),
+('QA86.7','TEMOSACHIC','04','México','','QA','2023-11-25',''),
+('A0681','TRANCOSO','04','México','','A','2023-11-25',''),
+('G13','LOS ANGELES','04','México','','G','2023-11-25',''),
+('T1764.5','GUADALAJARA FCP','04','México','','T','2023-11-25',''),
+('A289.5','CRUCERO A CELAYA','04','México','','A','2023-11-25',''),
+('VB139','ACAJETE','04','México','','VB','2023-11-25',''),
+('M0372','LINARES','04','México','','M','2023-11-25',''),
+('B1010','SANTA CATARINA','04','México','','B','2023-11-25',''),
+('GA083','JICARO','04','México','','GA','2023-11-25',''),
+('JM055','TLALTEPOXCO','04','México','','Morelos','2023-11-25',''),
+('Q349','SAN ANDRES','04','México','','Q','2023-11-25',''),
+('IC34.4','ATOTONILCO','04','México','','IC','2023-11-25',''),
+('I407.3','NICOLAS','04','México','','I','2023-11-25',''),
+('N543','CHUPANGUJO','04','México','','N','2023-11-25',''),
+('FA515.3','LUNA','04','México','','FA','2023-11-25',''),
+('S0278','BALASTRERA','04','México','','S','2023-11-25',''),
+('T0526','ESPERANZA','04','México','','T','2023-11-25',''),
+('Q625.9','POSADA BARRANCAS','04','México','','Q','2023-11-25',''),
+('L646.9','OCHOA','04','México','','L','2023-11-25',''),
+('A1248','YERMO','04','México','','A','2023-11-25',''),
+('T450.2','MAPOLI','04','México','','T','2023-11-25',''),
+('FP59.8','HUNASCHEN','04','México','','FP','2023-11-25',''),
+('K444.3','EJIDO 20 DE NOVIEMBRE','04','México','','K','2023-11-25',''),
+('GF020','PRESIDENTE JUAREZ','04','México','','GF','2023-11-25',''),
+('A0271','EL TUNAL','04','México','','A','2023-11-25',''),
+('FA555.9','ESCARCEGA','04','México','','FA','2023-11-25',''),
+('O3.4','CHAMUCO','04','México','','O','2023-11-25',''),
+('E0118','CARNERO','04','México','','E','2023-11-25',''),
+('V0317','SAN MIGUEL','04','México','','V','2023-11-25',''),
+('A80','TULA CGA','04','México','','A','2023-11-25',''),
+('L0163','IPINA','04','México','','L','2023-11-25',''),
+('QA260.2','RIBA','04','México','','QA','2023-11-25',''),
+('Juárez57.4','TLALTEPOXCO','04','México','','Juárez','2023-11-25',''),
+('K216.3','ANDRES','04','México','','K','2023-11-25',''),
+('I112.7','MIRANDILLAS','04','México','','I','2023-11-25',''),
+('FA111.8','ZANAPA','04','México','','FA','2023-11-25',''),
+('FA315.6','LA UNION','04','México','','FA','2023-11-25',''),
+('Q0381','ANAHUAC','04','México','','Q','2023-11-25',''),
+('A1006','LA MANCHA','04','México','','A','2023-11-25',''),
+('RD59','PLACA KM AD-59','04','México','','RD','2023-11-25',''),
+('N555.6','LAS PILAS','04','México','','N','2023-11-25',''),
+('T0558','VELDERRAIN','04','México','','T','2023-11-25',''),
+('FP49','XCANCHAKAN','04','México','','FP','2023-11-25',''),
+('S164.4','HUAMATLAN','04','México','','S','2023-11-25',''),
+('TA167','NACO','04','México','','TA','2023-11-25',''),
+('HD5.6','CUAUTEPEC','04','México','','HD','2023-11-25',''),
+('G0033','POCITOS','04','México','','G','2023-11-25',''),
+('DC192.6','SANTA MONICA','04','México','','DC','2023-11-25',''),
+('G0076','EL CANAVERAL','04','México','','G','2023-11-25',''),
+('HD33.4','BERISTAIN','04','México','','HD','2023-11-25',''),
+('K449.8','EL SILENCIO','04','México','','K','2023-11-25',''),
+('M254.3','CARBONERO','04','México','','M','2023-11-25',''),
+('A1027','CALVO','04','México','','A','2023-11-25',''),
+('Z0037','CHINAMECA','04','México','','Z','2023-11-25',''),
+('FA396.3','TENOSIQUE','04','México','','FA','2023-11-25',''),
+('NB021','GUZMAN','04','México','','NB','2023-11-25',''),
+('MB18','PUERTO INDUST. ALTAMIRA','04','México','','MB','2023-11-25',''),
+('N446.3','SAN PABLO','04','México','','N','2023-11-25',''),
+('K404.7','22 DE MAYO','04','México','','K','2023-11-25',''),
+('M240.9','LA MISION','04','México','','M','2023-11-25',''),
+('F0257','ALACRANES','04','México','','F','2023-11-25',''),
+('M0711','MARTE','04','México','','M','2023-11-25',''),
+('E0078','LAS ANIMAS','04','México','','E','2023-11-25',''),
+('NB029','SALVATIERRA','04','México','','NB','2023-11-25',''),
+('B988.2','GARCIA','04','México','','B','2023-11-25',''),
+('B0721','VANEGAS','04','México','','B','2023-11-25',''),
+('EA23.5','LLANO GRANDE DE LINARES','04','México','','EA','2023-11-25',''),
+('HD0.3','VENTOQUIPA','04','México','','HD','2023-11-25',''),
+('T0006','NOGALES','04','México','','T','2023-11-25',''),
+('T1762','GUADALAJARA','04','México','','T','2023-11-25',''),
+('B246.7','CRUCERO A VIBORILLAS','04','México','','B','2023-11-25',''),
+('A0585','AGUASCALIENTES','04','México','','A','2023-11-25',''),
+('T0889','TECHA','04','México','','T','2023-11-25',''),
+('M0055','CUAUHTEMOC','04','México','','M','2023-11-25',''),
+('S0292','ORIZABA','04','México','','S','2023-11-25',''),
+('EB6.1','SAN ISIDRO','04','México','','EB','2023-11-25',''),
+('P38','BACA','04','México','','P','2023-11-25',''),
+('J51.2','OJO DE AGUA','04','México','','J','2023-11-25',''),
+('V76.3','EL MAGUEYAL','04','México','','V','2023-11-25',''),
+('DA114','PLACA KM DA-114','04','México','','DA','2023-11-25',''),
+('N455.3','LAGO ZIRAHUEN','04','México','','N','2023-11-25',''),
+('V0469','VERACRUZ','04','México','','V','2023-11-25',''),
+('QA100.3','YEPOMERA','04','México','','QA','2023-11-25',''),
+('A1544.2','HONDONADA','04','México','','A','2023-11-25',''),
+('M0539','MONTERREY FERROMEX','04','México','','M','2023-11-25',''),
+('TL22.5','CUICILLOS','04','México','','TL','2023-11-25',''),
+('I0050','PENJAMO','04','México','','I','2023-11-25',''),
+('VB169.5','SEBMA','04','México','','VB','2023-11-25',''),
+('I0192','EL GRANDE','04','México','','I','2023-11-25',''),
+('J26','ESPUELA ARENERA','04','México','','J','2023-11-25',''),
+('VC51.9','CHAMPUSCO','04','México','','VC','2023-11-25',''),
+('T0291','CALERA','04','México','','T','2023-11-25',''),
+('UB0.2','TIJUANA','04','México','','UB','2023-11-25',''),
+('Z0031','HIBUERAS','04','México','','Z','2023-11-25',''),
+('N400.1','TIRIPETIO','04','México','','N','2023-11-25',''),
+('G0059','SIERRA MOJARRA','04','México','','G','2023-11-25',''),
+('G299.9','MEDIAS AGUAS','04','México','','G','2023-11-25',''),
+('Morelos215.5','AHORCADO','04','México','','Morelos','2023-11-25',''),
+('B248.6','LA GRIEGA','04','México','','B','2023-11-25',''),
+('Q0237','ALDAMA','04','México','','Q','2023-11-25',''),
+('S0272','MALTRATA','04','México','','S','2023-11-25',''),
+('NE184','LAZARO CARDENAS','04','México','','NE','2023-11-25',''),
+('Q0533','SAN JUANITO','04','México','','Q','2023-11-25',''),
+('L178.6','EL VIEJO','04','México','','L','2023-11-25',''),
+('GF016','TUXTEPEC','04','México','','GF','2023-11-25',''),
+('DE102.7','LLANO PIOCODE','04','México','','DE','2023-11-25',''),
+('M722.7','VENUS','04','México','','M','2023-11-25',''),
+('M313.1','GRANDE','04','México','','M','2023-11-25',''),
+('Z0061','MINA MANA','04','México','','Z','2023-11-25',''),
+('I530.6','CONQUINATLAN PUEBLO','04','México','','I','2023-11-25',''),
+('V0078','AGUATEPEC','04','México','','V','2023-11-25',''),
+('S0110','SOLTEPEC','04','México','','S','2023-11-25',''),
+('N0187','CONTEPEC','04','México','','N','2023-11-25',''),
+('N0082','PALMILLAS','04','México','','N','2023-11-25',''),
+('DC91.4','SAN JOSE DEL MOLINO','04','México','','DC','2023-11-25',''),
+('B0893','DERRAMADERO','04','México','','B','2023-11-25',''),
+('TG25','BACOBAMPO','04','México','','TG','2023-11-25',''),
+('FA486.7','PAJARAL','04','México','','FA','2023-11-25',''),
+('DC100.9','EL SUCHIL','04','México','','DC','2023-11-25',''),
+('DB58.3','CANATLAN','04','México','','DB','2023-11-25',''),
+('Z0014','BERNAL DIAZ','04','México','','Z','2023-11-25',''),
+('Q0907','CERRILLOS','04','México','','Q','2023-11-25',''),
+('V0032','GENERAL GONZALEZ','04','México','','V','2023-11-25',''),
+('TA3','PORTEZUELO','04','México','','TA','2023-11-25',''),
+('N566.8','NUEVO URECHP','04','México','','N','2023-11-25',''),
+('LB109','CHARCOS','04','México','','LB','2023-11-25',''),
+('I410.6','MANZANO','04','México','','I','2023-11-25',''),
+('RD127.3','JUNCAL','04','México','','RD','2023-11-25',''),
+('DA38','EL CHORRO','04','México','','DA','2023-11-25',''),
+('A1318','RELLANO','04','México','','A','2023-11-25',''),
+('FP34.9','TECOH','04','México','','FP','2023-11-25',''),
+('H143.1','CANALES','04','México','','H','2023-11-25',''),
+('MA30.4','LAS OVEJAS','04','México','','MA','2023-11-25',''),
+('A949','FUERTES','04','México','','A','2023-11-25',''),
+('FA880.8','CIUDAD INDUSTRIAL','04','México','','FA','2023-11-25',''),
+('B0711','COLLADO','04','México','','B','2023-11-25',''),
+('VB147','LOS PINALES','04','México','','VB','2023-11-25',''),
+('B0113','SAYULA','04','México','','B','2023-11-25',''),
+('G0246','JIMBA','04','México','','G','2023-11-25',''),
+('G0093','TIERRA BLANCA','04','México','','G','2023-11-25',''),
+('RA78.8','SAN CARLOS','04','México','','RA','2023-11-25',''),
+('M385.8','ALTA','04','México','','M','2023-11-25',''),
+('O38.2','ARGUELLO','04','México','','O','2023-11-25',''),
+('Z237.6','NIZANDA','04','México','','Z','2023-11-25',''),
+('L624.3','CHI JOL','04','México','','L','2023-11-25',''),
+('U370.4','LOS SAPOS','04','México','','U','2023-11-25',''),
+('L0605','AUZA','04','México','','L','2023-11-25',''),
+('B0737','LA TRUEBA','04','México','','B','2023-11-25',''),
+('DC237.8','PICOTELLO','04','México','','DC','2023-11-25',''),
+('NB77.6','MENDOZA','04','México','','NB','2023-11-25',''),
+('VB088','XOXTLA','04','México','','VB','2023-11-25',''),
+('FS47.8','XLETRA','04','México','','FS','2023-11-25',''),
+('M591.4','IXTLE','04','México','','M','2023-11-25',''),
+('N609.3','EL CERIDOR','04','México','','N','2023-11-25',''),
+('E0098','PAZOLTEPEC','04','México','','E','2023-11-25',''),
+('A1192.2','SIERRITA','04','México','','A','2023-11-25',''),
+('L0036','EL TULE','04','México','','L','2023-11-25',''),
+('Q174.5','ENCANTADA','04','México','','Q','2023-11-25',''),
+('FA853.6','CHOCHOLA','04','México','','FA','2023-11-25',''),
+('M0483','CADEREYTA','04','México','','M','2023-11-25',''),
+('T0286','CIUDAD INDUSTRIAL','04','México','','T','2023-11-25',''),
+('I0364','SAN MIGUEL DEL ZAPOTE','04','México','','I','2023-11-25',''),
+('VC32.4','TOTOMETLA DE JUAREZ','04','México','','VC','2023-11-25',''),
+('B0170','INGENIERO ANTONIO GUTIERR','04','México','','B','2023-11-25',''),
+('DF3.6','RAMON BARAJAS','04','México','','DF','2023-11-25',''),
+('N119.1','VAQUERIA','04','México','','N','2023-11-25',''),
+('H148.9','AMAPOLAS','04','México','','H','2023-11-25',''),
+('A1328.2','MUGOZ','04','México','','A','2023-11-25',''),
+('N257.6','ARENA BLANCA','04','México','','N','2023-11-25',''),
+('B256','LA PEDRERA','04','México','','B','2023-11-25',''),
+('VK063','AMECAMECA','04','México','','VK','2023-11-25',''),
+('Q0451','LA JUNTA','04','México','','Q','2023-11-25',''),
+('B0793','SAN SALVADOR','04','México','','B','2023-11-25',''),
+('P123.6','PEINADO','04','México','','P','2023-11-25',''),
+('B863','GUILLERMO','04','México','','B','2023-11-25',''),
+('V0207','VEGA','04','México','','V','2023-11-25',''),
+('E180.2','VENTA SALADA','04','México','','E','2023-11-25',''),
+('J56.8','HORNOS','04','México','','J','2023-11-25',''),
+('Q0367','MESA','04','México','','Q','2023-11-25',''),
+('AE7','CUARTA PARTE','04','México','','AE','2023-11-25',''),
+('Q0540','CUESTA PRIETA','04','México','','Q','2023-11-25',''),
+('Q0531','PINERIA','04','México','','Q','2023-11-25',''),
+('H82.9','SAN VICENTE','04','México','','H','2023-11-25',''),
+('Z0080','EL AZUFRE','04','México','','Z','2023-11-25',''),
+('R102.1','BLANCO','04','México','','R','2023-11-25',''),
+('G144.6','PAPALOPAN','04','México','','G','2023-11-25',''),
+('A1144.6','EL VERGEL','04','México','','A','2023-11-25',''),
+('A924.5','CARLOS','04','México','','A','2023-11-25',''),
+('E0046','BUENAVENTURA','04','México','','E','2023-11-25',''),
+('A1267','CEBALLOS','04','México','','A','2023-11-25',''),
+('VC60.1','TEPEOJURA','04','México','','VC','2023-11-25',''),
+('I0260','GUADALAJARA','04','México','','I','2023-11-25',''),
+('MA60.5','QUINTERO','04','México','','MA','2023-11-25',''),
+('Morelos183.5','SAN JUAN DEL RIO','04','México','','Morelos','2023-11-25',''),
+('P64.3','ADELA','04','México','','P','2023-11-25',''),
+('UB19.2','MATANUCO','04','México','','UB','2023-11-25',''),
+('DN49.7','LA CRUZ','04','México','','DN','2023-11-25',''),
+('T0087','MAGDALENA','04','México','','T','2023-11-25',''),
+('NE168','LAS MINAS','04','México','','NE','2023-11-25',''),
+('A0604','SAN FRANCISCO DE LOS ROMO','04','México','','A','2023-11-25',''),
+('F252','CORRALES','04','México','','F','2023-11-25',''),
+('G0134','TRES VALLES','04','México','','G','2023-11-25',''),
+('IB126','LOMITAS','04','México','','IB','2023-11-25',''),
+('P80','GENERAL ANGELES','04','México','','P','2023-11-25',''),
+('IB87.9','COTIJA','04','México','','IB','2023-11-25',''),
+('GF017','ADOLFO LOPEZ MATEOS','04','México','','GF','2023-11-25',''),
+('S0176','TAMARIZ','04','México','','S','2023-11-25',''),
+('A0071','CRUZ AZUL','04','México','','A','2023-11-25',''),
+('M0609','PAREDON','04','México','','M','2023-11-25',''),
+('M465','SAN JUAN1','04','México','','M','2023-11-25',''),
+('S0022','ECATEPEC','04','México','','S','2023-11-25',''),
+('DB175.4','BARRAZAS','04','México','','DB','2023-11-25',''),
+('IB81.5','ORTEGA','04','México','','IB','2023-11-25',''),
+('N557.8','EL JABALI','04','México','','N','2023-11-25',''),
+('RD226.8','EL ORO','04','México','','RD','2023-11-25',''),
+('DB183','LOS HERRERAS','04','México','','DB','2023-11-25',''),
+('S0338','ATOYAC','04','México','','S','2023-11-25',''),
+('TA274','ESQUEDA','04','México','','TA','2023-11-25',''),
+('RD31','POLKA','04','México','','RD','2023-11-25',''),
+('N561.6','MIRADOR','04','México','','N','2023-11-25',''),
+('N0357','LA GOLETA','04','México','','N','2023-11-25',''),
+('K310.9','MAPASTEPEC','04','México','','K','2023-11-25',''),
+('I567.2','LA BASCULA','04','México','','I','2023-11-25',''),
+('FA144.9','EL PORVENIR','04','México','','FA','2023-11-25',''),
+('A0624','RINCON DE ROMOS','04','México','','A','2023-11-25',''),
+('Q727.3','TACUINA','04','México','','Q','2023-11-25',''),
+('RC8.4','LAS ESPERANZAS','04','México','','RC','2023-11-25',''),
+('H115.3','FABRICA','04','México','','H','2023-11-25',''),
+('QA571.7','CIUDAD JUAREZ','04','México','','QA','2023-11-25',''),
+('TA104','SAUCEDA','04','México','','TA','2023-11-25',''),
+('BD042','JOSEFA ORTIZ DE DOMINGUEZ','04','México','','BD','2023-11-25',''),
+('A1652','TERRAZAS','04','México','','A','2023-11-25',''),
+('FA282.2','SALTO DE AGUA','04','México','','FA','2023-11-25',''),
+('Morelos245','FERROSERVICIOS','04','México','','Morelos','2023-11-25',''),
+('VC97.4','ATENCINGO','04','México','','VC','2023-11-25',''),
+('T143.8','NORIA','04','México','','T','2023-11-25',''),
+('N577','CASILDA','04','México','','N','2023-11-25',''),
+('A1162.6','CADENA','04','México','','A','2023-11-25',''),
+('E341.5','LACHIXOLANA','04','México','','E','2023-11-25',''),
+('B0168','ATLAN','04','México','','B','2023-11-25',''),
+('Q0044','LA MULA','04','México','','Q','2023-11-25',''),
+('S322.4','PERUELA','04','México','','S','2023-11-25',''),
+('F287','LOS OLMOS','04','México','','F','2023-11-25',''),
+('HC009','XOCHIHUACAN','04','México','','HC','2023-11-25',''),
+('IB75.5','VISCOSA','04','México','','IB','2023-11-25',''),
+('E200','IGNACIO MEJIA','04','México','','E','2023-11-25',''),
+('T0352','MORENO','04','México','','T','2023-11-25',''),
+('DA21.1','DURANGO','04','México','','DA','2023-11-25',''),
+('DC178.3','EL MIRASOL','04','México','','DC','2023-11-25',''),
+('I135','LOS PILARES','04','México','','I','2023-11-25',''),
+('GF008','BARTOLOME','04','México','','GF','2023-11-25',''),
+('M0893','GENERAL BANDA','04','México','','M','2023-11-25',''),
+('RD76','PLACA KM RD-76','04','México','','RD','2023-11-25',''),
+('NB8.2','MONTE PRIETO','04','México','','NB','2023-11-25',''),
+('G0199','GARROBO','04','México','','G','2023-11-25',''),
+('T1224.2','MATADERO','04','México','','T','2023-11-25',''),
+('DB200.8','LA CANDELA','04','México','','DB','2023-11-25',''),
+('A708.8','EL GRILLO','04','México','','A','2023-11-25',''),
+('R0018','RIO ESCONDIDO','04','México','','R','2023-11-25',''),
+('IB70.2','TARIACURI','04','México','','IB','2023-11-25',''),
+('M318.3','CAMPOAMOR','04','México','','M','2023-11-25',''),
+('DA163','LAS MERCEDES','04','México','','DA','2023-11-25',''),
+('I0204','CONSTANCIA','04','México','','I','2023-11-25',''),
+('N0061','LERMA','04','México','','N','2023-11-25',''),
+('VB170','SESMA','04','México','','VB','2023-11-25',''),
+('G0221','ISLA','04','México','','G','2023-11-25',''),
+('N0074','TOLUCA','04','México','','N','2023-11-25',''),
+('Q292.4','SALAS','04','México','','Q','2023-11-25',''),
+('T1614','GRACIA','04','México','','T','2023-11-25',''),
+('C261.3','APIPILULCO','04','México','','C','2023-11-25',''),
+('E118.3','NUEVO CARNERO','04','México','','E','2023-11-25',''),
+('V192.4','CERON','04','México','','V','2023-11-25',''),
+('K199.4','CABAÑA','04','México','','K','2023-11-25',''),
+('F0231','ANZALDUAS','04','México','','F','2023-11-25',''),
+('V0147','LA TRASQUILA','04','México','','V','2023-11-25',''),
+('Q530.3','PINERA','04','México','','Q','2023-11-25',''),
+('L630.2','MENDEZ','04','México','','L','2023-11-25',''),
+('VB092','ZOQUIAPAN','04','México','','VB','2023-11-25',''),
+('FS15.8','XUCU','04','México','','FS','2023-11-25',''),
+('FA127.1','INGENIERO ROBERTO AYALA','04','México','','FA','2023-11-25',''),
+('FD119.8','DZITAS','04','México','','FD','2023-11-25',''),
+('B0182','RAYON','04','México','','B','2023-11-25',''),
+('H86.6','SOMORRIEL','04','México','','H','2023-11-25',''),
+('L0339','EL GATO','04','México','','L','2023-11-25',''),
+('C30.7','ESLAVA','04','México','','C','2023-11-25',''),
+('FA14.8','CHAPO','04','México','','FA','2023-11-25',''),
+('NE021','CAPIRIO','04','México','','NE','2023-11-25',''),
+('A1779','CHIVATITO','04','México','','A','2023-11-25',''),
+('VK094','SAN SEBASTIAN','04','México','','VK','2023-11-25',''),
+('B0046','HUEHUETOCA','04','México','','B','2023-11-25',''),
+('QA287.5','RUCIO','04','México','','QA','2023-11-25',''),
+('N471.5','TARASCON','04','México','','N','2023-11-25',''),
+('IC19.2','ALCALDE','04','México','','IC','2023-11-25',''),
+('Q192.2','MORREON','04','México','','Q','2023-11-25',''),
+('N312.1','ANDOCUTIN','04','México','','N','2023-11-25',''),
+('P111','LA VENCEDORA','04','México','','P','2023-11-25',''),
+('R0052','ALLENDE','04','México','','R','2023-11-25',''),
+('SC257','LA CANADA MORELOS','04','México','','SC','2023-11-25',''),
+('M0504','SAN MIGUEL','04','México','','M','2023-11-25',''),
+('DB9.7','PEDRERA KM DB-10','04','México','','DB','2023-11-25',''),
+('L620.3','FERRONALES','04','México','','L','2023-11-25',''),
+('VB179','VICENCIO','04','México','','VB','2023-11-25',''),
+('K301.9','VALDIVIA','04','México','','K','2023-11-25',''),
+('R401.4','HIGO','04','México','','R','2023-11-25',''),
+('M0664','MIMO','04','México','','M','2023-11-25',''),
+('TI0','CULIACAN','04','México','','TI','2023-11-25',''),
+('F0273','TENACITAS','04','México','','F','2023-11-25',''),
+('Q0899','CONSTANCIA','04','México','','Q','2023-11-25',''),
+('Q0602','PITORREAL','04','México','','Q','2023-11-25',''),
+('AE13','SANTA TERESA','04','México','','AE','2023-11-25',''),
+('A1942','DESIERTO','04','México','','A','2023-11-25',''),
+('RA48.3','BORRADOS','04','México','','RA','2023-11-25',''),
+('IB56.1','PANINDICUARO','04','México','','IB','2023-11-25',''),
+('A548.4','EL TIGRE','04','México','','A','2023-11-25',''),
+('FA160.7','CARDONA','04','México','','FA','2023-11-25',''),
+('T1534','BORBOLLON','04','México','','T','2023-11-25',''),
+('Q0030','CHAPO','04','México','','Q','2023-11-25',''),
+('VC27.7','TLAMAPA','04','México','','VC','2023-11-25',''),
+('G0161','GUADA VICTOR','04','México','','G','2023-11-25',''),
+('N22.8','SAN BARTOLITO','04','México','','N','2023-11-25',''),
+('B0534','NICOLASITO','04','México','','B','2023-11-25',''),
+('B195.3','MERCADER','04','México','','B','2023-11-25',''),
+('M850.2','LA DALIA','04','México','','M','2023-11-25',''),
+('VK027','LOS REYES','04','México','','VK','2023-11-25',''),
+('A0475','LAGOS DE MORENO','04','México','','A','2023-11-25',''),
+('A0433','SAN FRANCISCO DEL R','04','México','','A','2023-11-25',''),
+('M0535','TOPO GRANDE','04','México','','M','2023-11-25',''),
+('DN22.8','LOS BANCOS','04','México','','DN','2023-11-25',''),
+('IB84.6','GUARACHA','04','México','','IB','2023-11-25',''),
+('T0786','NARANJO','04','México','','T','2023-11-25',''),
+('DA103.2','COLONIA INDEPENDENCIA','04','México','','DA','2023-11-25',''),
+('N0193','AGUA BUENA','04','México','','N','2023-11-25',''),
+('E0128','TEHUACAN','04','México','','E','2023-11-25',''),
+('HB028','IROLO','04','México','','HB','2023-11-25',''),
+('A0007','PANTACO','04','México','','A','2023-11-25',''),
+('BG58.6','SAN MIGUEL','04','México','','BG','2023-11-25',''),
+('M494','BELLA VISTA','04','México','','M','2023-11-25',''),
+('S55.4','OTUMBA MEXICANO','04','México','','S','2023-11-25',''),
+('N62.8','DOÑA ROSA','04','México','','N','2023-11-25',''),
+('C8.2','LOS MORALES','04','México','','C','2023-11-25',''),
+('AB042','BENITO JUAREZ','04','México','','AB','2023-11-25',''),
+('A0814','FELIPE PESCADOR','04','México','','A','2023-11-25',''),
+('FA787.1','POCBOC','04','México','','FA','2023-11-25',''),
+('N11.3','MOLINITO','04','México','','N','2023-11-25',''),
+('B1145','CERRO COLORADO','04','México','','B','2023-11-25',''),
+('T1137.5','MARMOL','04','México','','T','2023-11-25',''),
+('SC256.1','LA CAÑADA MORELOS','04','México','','SC','2023-11-25',''),
+('C77.7','EL PARQUE','04','México','','C','2023-11-25',''),
+('T0907','RETES','04','México','','T','2023-11-25',''),
+('O18.7','TARIMORO','04','México','','O','2023-11-25',''),
+('G82.9','LAS PRIETAS','04','México','','G','2023-11-25',''),
+('DC163.6','FELIPE CARRILLO PUERTO','04','México','','DC','2023-11-25',''),
+('GB29.2','COCUITE','04','México','','GB','2023-11-25',''),
+('A1832','CARRIZAL','04','México','','A','2023-11-25',''),
+('M0847','CONCORDIA','04','México','','M','2023-11-25',''),
+('HB011','SANTA INES','04','México','','HB','2023-11-25',''),
+('B1244','HUIZACHITO','04','México','','B','2023-11-25',''),
+('AB048','TLAXIACA','04','México','','AB','2023-11-25',''),
+('FA836.5','SAN BERNARDO','04','México','','FA','2023-11-25',''),
+('F153.9','ARROYO LOBO','04','México','','F','2023-11-25',''),
+('IB49','ARIO','04','México','','IB','2023-11-25',''),
+('E373.8','NEGRITOS','04','México','','E','2023-11-25',''),
+('Juárez0','BUENAVISTA','04','México','','Juárez','2023-11-25',''),
+('DA241','C F E','04','México','','DA','2023-11-25',''),
+('U441.1','LA VERBENA','04','México','','U','2023-11-25',''),
+('G0262','ANGOSTURA','04','México','','G','2023-11-25',''),
+('Q0807','LA LAGUNA','04','México','','Q','2023-11-25',''),
+('FP152.8','PETO','04','México','','FP','2023-11-25',''),
+('N586.5','LOMBARDIA','04','México','','N','2023-11-25',''),
+('I0350','ZACOALCO','04','México','','I','2023-11-25',''),
+('VK1.8','XALOSTOC','04','México','','VK','2023-11-25',''),
+('K225.6','INDALECIO','04','México','','K','2023-11-25',''),
+('T1372','MORADA','04','México','','T','2023-11-25',''),
+('TA50.1','DOMINGUEZ','04','México','','TA','2023-11-25',''),
+('T1679','CUERVO','04','México','','T','2023-11-25',''),
+('E0083','RANCHO CHICO','04','México','','E','2023-11-25',''),
+('O16.3','SEGUIO','04','México','','O','2023-11-25',''),
+('U0352','EL COYOTE','04','México','','U','2023-11-25',''),
+('RK0','EMPALME SIERRA MOJADA','04','México','','RK','2023-11-25',''),
+('BB24.1','CEDRAL','04','México','','BB','2023-11-25',''),
+('F0180','CAMARGO','04','México','','F','2023-11-25',''),
+('HE12.1','TORTUGAS','04','México','','HE','2023-11-25',''),
+('M0097','GONZALEZ','04','México','','M','2023-11-25',''),
+('DC219.2','RIO GRANDE','04','México','','DC','2023-11-25',''),
+('L448.7','VENASTEQUI','04','México','','L','2023-11-25',''),
+('B0279','LAS ADJUNTAS','04','México','','B','2023-11-25',''),
+('RK21.5','MINAS','04','México','','RK','2023-11-25',''),
+('K46.9','YOLANDA','04','México','','K','2023-11-25',''),
+('RD325.2','LA INDIA','04','México','','RD','2023-11-25',''),
+('G0104','AMAPA','04','México','','G','2023-11-25',''),
+('GA033','LOS ROBLES','04','México','','GA','2023-11-25',''),
+('T1743','LA VENTA','04','México','','T','2023-11-25',''),
+('N0239','SAN ANTONIO','04','México','','N','2023-11-25',''),
+('Juárez57','HIDALGO TILH','04','México','','Juárez','2023-11-25',''),
+('G0070','VICENTE','04','México','','G','2023-11-25',''),
+('B11.4','VALLE DE MEXICO','04','México','','B','2023-11-25',''),
+('B1290','NUEVO LAREDO','04','México','','B','2023-11-25',''),
+('E357.7','HACIENDA BLANCA','04','México','','E','2023-11-25',''),
+('M0017','MIRAMAR','04','México','','M','2023-11-25',''),
+('IB52.8','DAVALOS','04','México','','IB','2023-11-25',''),
+('VK055','TENANGO','04','México','','VK','2023-11-25',''),
+('A1538','CONSUELO','04','México','','A','2023-11-25',''),
+('Q0426','PEDERNALES','04','México','','Q','2023-11-25',''),
+('M860.6','SANTO NIÑO','04','México','','M','2023-11-25',''),
+('P0046','DORADO','04','México','','P','2023-11-25',''),
+('A1215','BANDERAS','04','México','','A','2023-11-25',''),
+('Z292.7','PEARSON','04','México','','Z','2023-11-25',''),
+('QA128.1','EL PRESON','04','México','','QA','2023-11-25',''),
+('EA33.6','CAÑADA','04','México','','EA','2023-11-25',''),
+('A1179','BERMEJILLO','04','México','','A','2023-11-25',''),
+('I0340','CATARINA','04','México','','I','2023-11-25',''),
+('F0298','RAMIREZ','04','México','','F','2023-11-25',''),
+('RK16','SIERRA MOJADA','04','México','','RK','2023-11-25',''),
+('EA50.3','ESPERANZA','04','México','','EA','2023-11-25',''),
+('Q885','CHARAY','04','México','','Q','2023-11-25',''),
+('M0141','CALLES','04','México','','M','2023-11-25',''),
+('XX12.5','TOPILA','04','México','','XX','2023-11-25',''),
+('V0423','GUAYABAL','04','México','','V','2023-11-25',''),
+('Z285.1','REOLOTECA','04','México','','Z','2023-11-25',''),
+('N482.6','ZURUMUCAPIO','04','México','','N','2023-11-25',''),
+('RF0.9','AGUJITA','04','México','','RF','2023-11-25',''),
+('RA10','MORELOS','04','México','','RA','2023-11-25',''),
+('O88.3','ZITACUARO','04','México','','O','2023-11-25',''),
+('A1127.2','LA PERLA','04','México','','A','2023-11-25',''),
+('V0358','ALBORADA','04','México','','V','2023-11-25',''),
+('LA012','LA ANGOSTURA','04','México','','LA','2023-11-25',''),
+('E0149','SANCHEZ','04','México','','E','2023-11-25',''),
+('M409.9','PARAS','04','México','','M','2023-11-25',''),
+('N378.2','LA HUERTA','04','México','','N','2023-11-25',''),
+('B0614','VENADO','04','México','','B','2023-11-25',''),
+('K324.1','ULAPA','04','México','','K','2023-11-25',''),
+('H150.2','HONEY','04','México','','H','2023-11-25',''),
+('VB019','MAZAPA','04','México','','VB','2023-11-25',''),
+('FA546.9','DIVISION NORTE','04','México','','FA','2023-11-25',''),
+('E0038','TEPEACA','04','México','','E','2023-11-25',''),
+('I0039','CORRALEJO','04','México','','I','2023-11-25',''),
+('V0266','PEROTE','04','México','','V','2023-11-25',''),
+('VL12.2','SAN RAFAEL','04','México','','VL','2023-11-25',''),
+('A0067','DORANTES','04','México','','A','2023-11-25',''),
+('IB93.4','BARRIO ALTO','04','México','','IB','2023-11-25',''),
+('GA24.2','PASO TORO','04','México','','GA','2023-11-25',''),
+('QA151.3','EL RASTRO','04','México','','QA','2023-11-25',''),
+('DC173.5','CANTUNA','04','México','','DC','2023-11-25',''),
+('Q0092','CHILICOTE','04','México','','Q','2023-11-25',''),
+('IB118.1','TINGUINDIN','04','México','','IB','2023-11-25',''),
+('Q0282','FRESNO','04','México','','Q','2023-11-25',''),
+('FA34','PUEBLO VIEJO','04','México','','FA','2023-11-25',''),
+('B926.6','RAMIRO E MARTINEZ','04','México','','B','2023-11-25',''),
+('NF486','SAN ANDRES','04','México','','NF','2023-11-25',''),
+('FA507.4','MIGUEL ALEMAN','04','México','','FA','2023-11-25',''),
+('Q44','LA HULA','04','México','','Q','2023-11-25',''),
+('S0238','LOS REYES','04','México','','S','2023-11-25',''),
+('VB103','LA UNION','04','México','','VB','2023-11-25',''),
+('I0508','SALVADOR','04','México','','I','2023-11-25',''),
+('QA59.6','TEJOLOCACHIC','04','México','','QA','2023-11-25',''),
+('H0009','TULTEPEC','04','México','','H','2023-11-25',''),
+('I308.4','LOS BAÑOS','04','México','','I','2023-11-25',''),
+('B0141','NOPALA','04','México','','B','2023-11-25',''),
+('DA76.8','GUADALUPE VICTORIA','04','México','','DA','2023-11-25',''),
+('B1191','NARANJO','04','México','','B','2023-11-25',''),
+('XX63.7','CORONEL MASCAREÑAS','04','México','','XX','2023-11-25',''),
+('I0033','ABASOLO','04','México','','I','2023-11-25',''),
+('L0464','TAMASOPO','04','México','','L','2023-11-25',''),
+('T1756','JOCOTAN','04','México','','T','2023-11-25',''),
+('G0145','PAPALOAPAN','04','México','','G','2023-11-25',''),
+('J12.7','SAN JULIAN','04','México','','J','2023-11-25',''),
+('B133','ARAGON','04','México','','B','2023-11-25',''),
+('DE60.6','OTINAPA','04','México','','DE','2023-11-25',''),
+('V361.3','EL CHICO','04','México','','V','2023-11-25',''),
+('XX55.1','LOS MANANTIALES','04','México','','XX','2023-11-25',''),
+('G0276','BELLACO','04','México','','G','2023-11-25',''),
+('B0580','ENRAMADA','04','México','','B','2023-11-25',''),
+('I196.8','POCITLAN','04','México','','I','2023-11-25',''),
+('N53.5','OCOYOACAC','04','México','','N','2023-11-25',''),
+('L0674','DONA CECILIA','04','México','','L','2023-11-25',''),
+('BG74.1','MARGARITA','04','México','','BG','2023-11-25',''),
+('IB14.5','LA CALLE','04','México','','IB','2023-11-25',''),
+('I173.2','EL PEDREGAL','04','México','','I','2023-11-25',''),
+('F0319','ROSITA','04','México','','F','2023-11-25',''),
+('A1607.6','TABALAOPA NM','04','México','','A','2023-11-25',''),
+('TA301','EL TAJO','04','México','','TA','2023-11-25',''),
+('IB15.3','LAS FUENTES','04','México','','IB','2023-11-25',''),
+('DB145.5','FRANCISCO JAVIER LEYVA','04','México','','DB','2023-11-25',''),
+('VC118.1','COAYUCA','04','México','','VC','2023-11-25',''),
+('L0415','CARDENAS','04','México','','L','2023-11-25',''),
+('A1483','CONCHO','04','México','','A','2023-11-25',''),
+('B0937','SANTA MARIA','04','México','','B','2023-11-25',''),
+('NE113','INFIERNILLO','04','México','','NE','2023-11-25',''),
+('VB058','TLALOC','04','México','','VB','2023-11-25',''),
+('DC181.6','SAIN ALTO','04','México','','DC','2023-11-25',''),
+('VC102.2','AHUEHUETZINGO','04','México','','VC','2023-11-25',''),
+('A1090','AMADOR','04','México','','A','2023-11-25',''),
+('T451.7','NAPOLI','04','México','','T','2023-11-25',''),
+('B658.9','BERRENDO','04','México','','B','2023-11-25',''),
+('RK10.8','LA PUERTA','04','México','','RK','2023-11-25',''),
+('F0016','APODACA','04','México','','F','2023-11-25',''),
+('B0258','LA CANADA','04','México','','B','2023-11-25',''),
+('QA48','PLACA KM DA-48','04','México','','QA','2023-11-25',''),
+('L633','LAZARO CARDENAS','04','México','','L','2023-11-25',''),
+('N0252','ZIRIZICUARO','04','México','','N','2023-11-25',''),
+('VK18.2','XOCHIACA','04','México','','VK','2023-11-25',''),
+('A1077.6','JALISCO','04','México','','A','2023-11-25',''),
+('A1329','MUNOZ','04','México','','A','2023-11-25',''),
+('DC121','EL CERRITO','04','México','','DC','2023-11-25',''),
+('TA121','DEL RIO','04','México','','TA','2023-11-25',''),
+('T0244','PESQUEIRA','04','México','','T','2023-11-25',''),
+('K135.4','SAN RAMON','04','México','','K','2023-11-25',''),
+('L0450','EL BALCON','04','México','','L','2023-11-25',''),
+('SC311.5','ENCINAR','04','México','','SC','2023-11-25',''),
+('IB61.4','CHAVINDA','04','México','','IB','2023-11-25',''),
+('F0280','CANALES','04','México','','F','2023-11-25',''),
+('M0548','CHIPINQUE','04','México','','M','2023-11-25',''),
+('IB28.7','TORCAZAS','04','México','','IB','2023-11-25',''),
+('M0674','HIPOLITO','04','México','','M','2023-11-25',''),
+('DB26','RANCHOYA','04','México','','DB','2023-11-25',''),
+('N158.6','VENTA DEL AIRE','04','México','','N','2023-11-25',''),
+('V0998','VERACRUZ CICE','04','México','','V','2023-11-25',''),
+('DB18.7','MORCILLO','04','México','','DB','2023-11-25',''),
+('VC83.5','ZOLOQUIAPA','04','México','','VC','2023-11-25',''),
+('FA149.8','LA CRIMEA','04','México','','FA','2023-11-25',''),
+('L0242','ALONSO','04','México','','L','2023-11-25',''),
+('M0754','MADERO','04','México','','M','2023-11-25',''),
+('A1514','LAS DELICIAS','04','México','','A','2023-11-25',''),
+('S0342','SAN ALEJO','04','México','','S','2023-11-25',''),
+('N244','GIGANTES','04','México','','N','2023-11-25',''),
+('B0246','VIBORILLAS','04','México','','B','2023-11-25',''),
+('FD85.9','UALACTUN','04','México','','FD','2023-11-25',''),
+('I256','GUADALAJARA CARGA','04','México','','I','2023-11-25',''),
+('A1957','MESETA','04','México','','A','2023-11-25',''),
+('K253.2','COLONIA CENTRAL','04','México','','K','2023-11-25',''),
+('U0285','ALMEJAS','04','México','','U','2023-11-25',''),
+('L0548','TANINUL','04','México','','L','2023-11-25',''),
+('Q0401','CUAUHTEMOC','04','México','','Q','2023-11-25',''),
+('TL003','ORENDAIN','04','México','','TL','2023-11-25',''),
+('H91','SAN JOAQUIN','04','México','','H','2023-11-25',''),
+('T1104','DIMAS','04','México','','T','2023-11-25',''),
+('FA430.2','BARITA','04','México','','FA','2023-11-25',''),
+('T471.5','OROZ','04','México','','T','2023-11-25',''),
+('RL0','EL REY','04','México','','RL','2023-11-25',''),
+('FA40.9','CARDENAS','04','México','','FA','2023-11-25',''),
+('V0418','CHICHICAXTLE','04','México','','V','2023-11-25',''),
+('FD24.1','TIXKOKOB','04','México','','FD','2023-11-25',''),
+('T0702','FRANCISCO','04','México','','T','2023-11-25',''),
+('KA13.8','PUERTO MADERO','04','México','','KA','2023-11-25',''),
+('V441.3','PUREZA','04','México','','V','2023-11-25',''),
+('BC009','CONEXION VIBORILLAS','04','México','','BC','2023-11-25',''),
+('C248.3','MEXTITLAN','04','México','','C','2023-11-25',''),
+('TA172','LA CALERA','04','México','','TA','2023-11-25',''),
+('A1579','LOS MARTINEZ','04','México','','A','2023-11-25',''),
+('A1504','ROSETILLA','04','México','','A','2023-11-25',''),
+('VC10','TEHUILOYOCA','04','México','','VC','2023-11-25',''),
+('O6','CAMPO HERMOSO','04','México','','O','2023-11-25',''),
+('A21','LECHERIA','04','México','','A','2023-11-25',''),
+('DC262.1','FELIPE PESCADOR','04','México','','DC','2023-11-25',''),
+('RG1.4','CLOETE','04','México','','RG','2023-11-25',''),
+('JM216','AHORCADO','04','México','','Juárez','2023-11-25',''),
+('E0096','LIBERTAD','04','México','','E','2023-11-25',''),
+('V0454','SANTA FE','04','México','','V','2023-11-25',''),
+('Q0916','JIQUILPAN','04','México','','Q','2023-11-25',''),
+('I0288','TLAJOMULCO','04','México','','I','2023-11-25',''),
+('E195.4','SAN ANTONIO','04','México','','E','2023-11-25',''),
+('G60.8','ACATLAN DE PREZ F','04','México','','G','2023-11-25',''),
+('VK109.3','ATLATLAHUACAN','04','México','','VK','2023-11-25',''),
+('IC26.2','NAVARRO','04','México','','IC','2023-11-25',''),
+('F276.6','CHARCO AZUL','04','México','','F','2023-11-25',''),
+('K442.5','CAHUACAN','04','México','','K','2023-11-25',''),
+('M874.6','LUJAN','04','México','','M','2023-11-25',''),
+('T0807','BAMOA','04','México','','T','2023-11-25',''),
+('FA231.5','POANA','04','México','','FA','2023-11-25',''),
+('L204.7','OJO ZARCO','04','México','','L','2023-11-25',''),
+('IB042','ZAMORA DE HIDALGO','04','México','','IB','2023-11-25',''),
+('XX76.5','MAGOSAL','04','México','','XX','2023-11-25',''),
+('Z125.9','JESUS CARRANZA','04','México','','Z','2023-11-25',''),
+('E342.5','DON BENITO','04','México','','E','2023-11-25',''),
+('A0696','RAFAEL S MARTINEZ','04','México','','A','2023-11-25',''),
+('RD102.6','SOCORRO','04','México','','RD','2023-11-25',''),
+('A1682','ENCINALLAS','04','México','','A','2023-11-25',''),
+('FD177.2','TIZIMIN','04','México','','FD','2023-11-25',''),
+('R0006','VILLA DE FUENTE','04','México','','R','2023-11-25',''),
+('H71.5','PUEBLILLA','04','México','','H','2023-11-25',''),
+('N535.9','PLAN SEXENAL','04','México','','N','2023-11-25',''),
+('HA005','DIEC DE MARZO','04','México','','HA','2023-11-25',''),
+('EA11','MIAHUATLAN','04','México','','EA','2023-11-25',''),
+('K351.3','LA ACACIA','04','México','','K','2023-11-25',''),
+('A1743','LOAEZA','04','México','','A','2023-11-25',''),
+('U0063','RIITO','04','México','','U','2023-11-25',''),
+('FA207.2','TEAPA','04','México','','FA','2023-11-25',''),
+('Q0942','TOPOLOBAMPO','04','México','','Q','2023-11-25',''),
+('FP39.7','LEPAN','04','México','','FP','2023-11-25',''),
+('VC48.4','GAVANA','04','México','','VC','2023-11-25',''),
+('FA578.1','COLORADO','04','México','','FA','2023-11-25',''),
+('A0999','ACACIO','04','México','','A','2023-11-25',''),
+('L0669','TAMPICO','04','México','','L','2023-11-25',''),
+('V0117','ITURBE','04','México','','V','2023-11-25',''),
+('T0376','ORTIZ','04','México','','T','2023-11-25',''),
+('IB59.2','SAN ELIAS','04','México','','IB','2023-11-25',''),
+('H135','ANITA','04','México','','H','2023-11-25',''),
+('TH0','NARANJO','04','México','','TH','2023-11-25',''),
+('Morelos130.9','DAÑU','04','México','','Morelos','2023-11-25',''),
+('K232.1','LOS PATOS','04','México','','K','2023-11-25',''),
+('I0524','BALCON','04','México','','I','2023-11-25',''),
+('B0519','ESPANITA','04','México','','B','2023-11-25',''),
+('R29','PLACA KM R-29','04','México','','R','2023-11-25',''),
+('Morelos166.9','PALMILLAS','04','México','','Morelos','2023-11-25',''),
+('TI024','YEVAVITO','04','México','','TI','2023-11-25',''),
+('RC12.7','MANUEL AGUIRRE','04','México','','RC','2023-11-25',''),
+('DA88.9','IGNACIO ALLENDE','04','México','','DA','2023-11-25',''),
+('DB177.6','EL BARRIAL','04','México','','DB','2023-11-25',''),
+('B1032','RAMON TREVINO','04','México','','B','2023-11-25',''),
+('FS9.9','SEYE','04','México','','FS','2023-11-25',''),
+('A0538','ENCARNACION','04','México','','A','2023-11-25',''),
+('UB33.2','ESPUELA Z GAS','04','México','','UB','2023-11-25',''),
+('IB11.2','CIENEGUITAS','04','México','','IB','2023-11-25',''),
+('T0042','CASITA','04','México','','T','2023-11-25',''),
+('AB063','CONCEPCION','04','México','','AB','2023-11-25',''),
+('I0395','SAYULA','04','México','','I','2023-11-25',''),
+('A0353','IRAPUATO','04','México','','A','2023-11-25',''),
+('L0153','TOLOSA','04','México','','L','2023-11-25',''),
+('A990.6','RYVAS','04','México','','A','2023-11-25',''),
+('F211.4','VENECIA','04','México','','F','2023-11-25',''),
+('FA261.1','AGUA BLANCA','04','México','','FA','2023-11-25',''),
+('T1341.3','MONTAJE','04','México','','T','2023-11-25',''),
+('IC9.9','ZULA','04','México','','IC','2023-11-25',''),
+('K440.4','LA SOLEDAD','04','México','','K','2023-11-25',''),
+('I0219','ATEQUIZA','04','México','','I','2023-11-25',''),
+('I0253','LA JUNTA','04','México','','I','2023-11-25',''),
+('K264.1','PIJIJIAPAN','04','México','','K','2023-11-25',''),
+('B624.7','LABORCILLA','04','México','','B','2023-11-25',''),
+('HB005','VENTA DE CRUZ','04','México','','HB','2023-11-25',''),
+('IB29.3','VILLACHUATO','04','México','','IB','2023-11-25',''),
+('E392.9','GUELAVIA','04','México','','E','2023-11-25',''),
+('N0374','MORELIA','04','México','','N','2023-11-25',''),
+('RD89.7','DOBLONES','04','México','','RD','2023-11-25',''),
+('Q0662','CUITECO','04','México','','Q','2023-11-25',''),
+('F0028','PESQUERIA','04','México','','F','2023-11-25',''),
+('A1670','SAUZ','04','México','','A','2023-11-25',''),
+('B0658','EL CUBO','04','México','','B','2023-11-25',''),
+('FA408.3','ESPERANZA','04','México','','FA','2023-11-25',''),
+('M499.5','CERRO DE LA SILLA','04','México','','M','2023-11-25',''),
+('M0248','CABALLEROS','04','México','','M','2023-11-25',''),
+('R0238','CIUDAD FRONTERA','04','México','','R','2023-11-25',''),
+('FP119','TICUM','04','México','','FP','2023-11-25',''),
+('T0277','HERMOSILLO','04','México','','T','2023-11-25',''),
+('RL16.2','QUIMICA DEL REY','04','México','','RL','2023-11-25',''),
+('B824.8','SANTA ELENA','04','México','','B','2023-11-25',''),
+('N0428','TZURUMUTARO','04','México','','N','2023-11-25',''),
+('FA136.9','MEZCALAPA','04','México','','FA','2023-11-25',''),
+('A1454.3','LA CRUZ','04','México','','A','2023-11-25',''),
+('A1843','AHUMADA','04','México','','A','2023-11-25',''),
+('R0186','MANUEL M RODRIGUEZ','04','México','','R','2023-11-25',''),
+('B0806','LA VENTURA','04','México','','B','2023-11-25',''),
+('VK105','SAN JUAN TEXCALPAN','04','México','','VK','2023-11-25',''),
+('F34.1','FRANCISCO VILLA PESQUERIA','04','México','','F','2023-11-25',''),
+('NC006','URUAPAN','04','México','','NC','2023-11-25',''),
+('V454.6','LIMITE TERRITORIAL SANTA FE','04','México','','V','2023-11-25',''),
+('FX23.8','UAYMA','04','México','','FX','2023-11-25',''),
+('A610.6','GARABATO','04','México','','A','2023-11-25',''),
+('QA550','MENDEZ','04','México','','QA','2023-11-25',''),
+('I527.9','COQUIMATLAN PUEBLO','04','México','','I','2023-11-25',''),
+('T1469','AGUIRRE','04','México','','T','2023-11-25',''),
+('T0742','SUFRAGIO','04','México','','T','2023-11-25',''),
+('A1636','CORRAL','04','México','','A','2023-11-25',''),
+('A0673','PALMIRA','04','México','','A','2023-11-25',''),
+('BB40.2','SAN JOSE DE LAS TROJES','04','México','','BB','2023-11-25',''),
+('M493.8','BELLAVISTA','04','México','','M','2023-11-25',''),
+('I277.5','OROZCO','04','México','','I','2023-11-25',''),
+('N28','DOS RIOS','04','México','','N','2023-11-25',''),
+('FA269.6','EL ZOPO','04','México','','FA','2023-11-25',''),
+('H5.7','CARTAGENA','04','México','','H','2023-11-25',''),
+('B0205','BERNAL','04','México','','B','2023-11-25',''),
+('A1614','CHIHUAHUA','04','México','','A','2023-11-25',''),
+('A0764','FRESNILLO','04','México','','A','2023-11-25',''),
+('K288.9','POLMORADA','04','México','','K','2023-11-25',''),
+('V69.6','OTUMBA','04','México','','V','2023-11-25',''),
+('NE999','HPH LAZARO','04','México','','NE','2023-11-25',''),
+('C132.1','MANGO','04','México','','C','2023-11-25',''),
+('Z286','LA CANTERA','04','México','','Z','2023-11-25',''),
+('DC175.2','EL FRESNO','04','México','','DC','2023-11-25',''),
+('V0407','LOS IDOLOS','04','México','','V','2023-11-25',''),
+('T1438','ROSETA','04','México','','T','2023-11-25',''),
+('I370','TECHALUTA','04','México','','I','2023-11-25',''),
+('R377','BRAVO','04','México','','R','2023-11-25',''),
+('A1804.5','LAS MINAS','04','México','','A','2023-11-25',''),
+('I296.4','FLORES','04','México','','I','2023-11-25',''),
+('DE27.6','CIENEGUITA','04','México','','DE','2023-11-25',''),
+('M0686','LETONA','04','México','','M','2023-11-25',''),
+('S0382','SOLEDAD','04','México','','S','2023-11-25',''),
+('AC036','JARAL DEL PROGRESO','04','México','','AC','2023-11-25',''),
+('V0039','TEXCOCO','04','México','','V','2023-11-25',''),
+('K29.7','SALINERAS','04','México','','K','2023-11-25',''),
+('FA29.9','ACALAPA','04','México','','FA','2023-11-25',''),
+('IB10.3','ATARJEA','04','México','','IB','2023-11-25',''),
+('DE36.6','NEVERIA','04','México','','DE','2023-11-25',''),
+('V35.9','CHAPINGO','04','México','','V','2023-11-25',''),
+('R65.6','CALATRAVA','04','México','','R','2023-11-25',''),
+('N0155','BASSOCO','04','México','','N','2023-11-25',''),
+('G0008','LA PATRONA','04','México','','G','2023-11-25',''),
+('Q139.5','PICACHOS','04','México','','Q','2023-11-25',''),
+('N480.2','LAS PALOMAS','04','México','','N','2023-11-25',''),
+('I0126','YURECUARO','04','México','','I','2023-11-25',''),
+('S39.4','XOMETLA','04','México','','S','2023-11-25',''),
+('Z255.4','IXTEPEC','04','México','','Z','2023-11-25',''),
+('FA524.3','DON SAMUEL','04','México','','FA','2023-11-25',''),
+('H0054','RELINAS','04','México','','H','2023-11-25',''),
+('S381.8','SOLEDAD DE DOBLADO','04','México','','S','2023-11-25',''),
+('G0148','EMPALME DISTRITO PRESIDENTE JUAREZ','04','México','','G','2023-11-25',''),
+('RC29.5','EMPALME PALAU','04','México','','RC','2023-11-25',''),
+('Z226.2','CHIVELA','04','México','','Z','2023-11-25',''),
+('A0936','CAMACHO','04','México','','A','2023-11-25',''),
+('LA023','CIRIO','04','México','','LA','2023-11-25',''),
+('U0129','SANCHEZ ISLAS','04','México','','U','2023-11-25',''),
+('C67','TORO','04','México','','C','2023-11-25',''),
+('VK042','HUITZILZINGO','04','México','','VK','2023-11-25',''),
+('RC19.2','RANCHERIA','04','México','','RC','2023-11-25',''),
+('L474.5','TAMBACA','04','México','','L','2023-11-25',''),
+('E159.3','ALTEPEXI','04','México','','E','2023-11-25',''),
+('K371.4','MONTECRISTO','04','México','','K','2023-11-25',''),
+('Juárez119.7','ARAGON','04','México','','Juárez','2023-11-25',''),
+('DA11.7','LABOR','04','México','','DA','2023-11-25',''),
+('VB128','AMOZOC','04','México','','VB','2023-11-25',''),
+('E0142','LA HUERTA','04','México','','E','2023-11-25',''),
+('SA017','SANTA ANA','04','México','','SA','2023-11-25',''),
+('DB186.9','PEDRERA KM DB-187','04','México','','DB','2023-11-25',''),
+('B956.4','LA MARIPOSA','04','México','','B','2023-11-25',''),
+('I0134','VILLANUEVA','04','México','','I','2023-11-25',''),
+('FD94.9','TUNKAS','04','México','','FD','2023-11-25',''),
+('A1566.1','HORCASITAS','04','México','','A','2023-11-25',''),
+('A0804','MEZQUITE','04','México','','A','2023-11-25',''),
+('FA28.4','CUICHAPA','04','México','','FA','2023-11-25',''),
+('E0053','PORRERO RUBIN','04','México','','E','2023-11-25',''),
+('QA532.4','SAPELLO','04','México','','QA','2023-11-25',''),
+('B0770','EL SALADO','04','México','','B','2023-11-25',''),
+('DE101.8','BORCELANO','04','México','','DE','2023-11-25',''),
+('FA461.7','EL TRIUNFO','04','México','','FA','2023-11-25',''),
+('GB39.3','CASOMALDAPAN','04','México','','GB','2023-11-25',''),
+('B1164','BRASIL','04','México','','B','2023-11-25',''),
+('Q0340','CHAVARRIA','04','México','','Q','2023-11-25',''),
+('BB7.9','TEPICHE','04','México','','BB','2023-11-25',''),
+('Z0025','GUASUNTLAN','04','México','','Z','2023-11-25',''),
+('RK14.5','QUIMICA DEL REY','04','México','','RK','2023-11-25',''),
+('L290','SAN IGNACIO','04','México','','L','2023-11-25',''),
+('A0390','SILAO FERROMEX','04','México','','A','2023-11-25',''),
+('Z203.1','MATIAS ROMERO','04','México','','Z','2023-11-25',''),
+('DA228.8','LA GOMA','04','México','','DA','2023-11-25',''),
+('RD290.7','ESCAPE CARRILLO','04','México','','RD','2023-11-25',''),
+('DC26.5','CENTAURO','04','México','','DC','2023-11-25',''),
+('S0116','CALDERON NORTE','04','México','','S','2023-11-25',''),
+('M0007','CIUDAD MADERO','04','México','','M','2023-11-25',''),
+('B0753','SAN VICENTE','04','México','','B','2023-11-25',''),
+('K175.2','TONALA','04','México','','K','2023-11-25',''),
+('BC098','INGENIERO BUCHANAN LOPEZ','04','México','','BC','2023-11-25',''),
+('RB3.3','SABINAS','04','México','','RB','2023-11-25',''),
+('V190.3','SANTO DOMINGO','04','México','','V','2023-11-25',''),
+('E0','AMOZOC','04','México','','E','2023-11-25',''),
+('S129','MUROZ','04','México','','S','2023-11-25',''),
+('P100.4','ZENZONTLE','04','México','','P','2023-11-25',''),
+('A0750','OJUELOS','04','México','','A','2023-11-25',''),
+('K457.4','LA PLATANERA','04','México','','K','2023-11-25',''),
+('F0221','ARGUELLES','04','México','','F','2023-11-25',''),
+('VK097','LA CANADA','04','México','','VK','2023-11-25',''),
+('SA008','SAN MANUEL','04','México','','SA','2023-11-25',''),
+('DB189.3','PASCUALES','04','México','','DB','2023-11-25',''),
+('L505.3','MICOS','04','México','','L','2023-11-25',''),
+('I0478','VILLEGAS','04','México','','I','2023-11-25',''),
+('K379.1','TUZANTAN','04','México','','K','2023-11-25',''),
+('H0046','OCOTITLAN','04','México','','H','2023-11-25',''),
+('FA817.4','HALACHO','04','México','','FA','2023-11-25',''),
+('S0373','MATA DE AGUA','04','México','','S','2023-11-25',''),
+('DA198.9','DIEGO','04','México','','DA','2023-11-25',''),
+('BC112','PIEDRA DE LUMBRE','04','México','','BC','2023-11-25',''),
+('EB34.2','SANTIAGO','04','México','','EB','2023-11-25',''),
+('M0880','EL COMPAS','04','México','','M','2023-11-25',''),
+('Q550.2','BOCOYNA POBLADO','04','México','','Q','2023-11-25',''),
+('IB42.8','EL SABINO','04','México','','IB','2023-11-25',''),
+('I386.7','CARMELITA','04','México','','I','2023-11-25',''),
+('V0365','CHAVARRILLO','04','México','','V','2023-11-25',''),
+('C142.6','TEZOYUCA','04','México','','C','2023-11-25',''),
+('F0208','GUSTAVO DIAZ ORDAZ','04','México','','F','2023-11-25',''),
+('I413.1','PROVIDENCIA','04','México','','I','2023-11-25',''),
+('V93.6','SANTA CLARA','04','México','','V','2023-11-25',''),
+('FA585.5','5 DE FEBRERO','04','México','','FA','2023-11-25',''),
+('R384.5','MESILLAS','04','México','','R','2023-11-25',''),
+('B220.1','LA LLAVE','04','México','','B','2023-11-25',''),
+('E0070','ALSESECA','04','México','','E','2023-11-25',''),
+('B0287','MARISCALA','04','México','','B','2023-11-25',''),
+('B1176','LAMPAZOS','04','México','','B','2023-11-25',''),
+('A0521','SAN JUAN DE LOS LAGOS','04','México','','A','2023-11-25',''),
+('N602.1','CUSSI','04','México','','N','2023-11-25',''),
+('T1574','VALLE VERDE','04','México','','T','2023-11-25',''),
+('C223.9','LOS AMANTES','04','México','','C','2023-11-25',''),
+('FA250','GONZALEZ','04','México','','FA','2023-11-25',''),
+('I0147','NEGRETE','04','México','','I','2023-11-25',''),
+('G0','CORDOBA','04','México','','G','2023-11-25',''),
+('TI013','AGUARUTO','04','México','','TI','2023-11-25',''),
+('R0209','TAPADO','04','México','','R','2023-11-25',''),
+('N0605','CORONDIRO','04','México','','N','2023-11-25',''),
+('GA025','PASO DEL TORO','04','México','','GA','2023-11-25',''),
+('E255.5','SAN PEDRITO','04','México','','E','2023-11-25',''),
+('I319.5','BALASTRE','04','México','','I','2023-11-25',''),
+('A1057.3','OTTO','04','México','','A','2023-11-25',''),
+('L672.8','DORA CECILIA','04','México','','L','2023-11-25',''),
+('MA40.2','EL LIMON','04','México','','MA','2023-11-25',''),
+('FA309.6','LOS LLANOS','04','México','','FA','2023-11-25',''),
+('Q0669','BAHUICHIVO','04','México','','Q','2023-11-25',''),
+('L0212','ESTANZUELA','04','México','','L','2023-11-25',''),
+('M636','PLACA KM M-636','04','México','','M','2023-11-25',''),
+('N30.4','NAVA','04','México','','N','2023-11-25',''),
+('NE029','BALSAS','04','México','','N','2023-11-25',''),
+('TA36.3','MARTINEZ','04','México','','TA','2023-11-25',''),
+('VK96.7','LA CARADA','04','México','','VK','2023-11-25',''),
+('FA440.3','EL POZO','04','México','','FA','2023-11-25',''),
+('T1239','EL ROSARIO','04','México','','T','2023-11-25',''),
+('E236.3','TANQUE KM E-237','04','México','','E','2023-11-25',''),
+('DA82.1','CALIXTO CONTRERAS','04','México','','DA','2023-11-25',''),
+('H97.5','LAS LAJAS','04','México','','H','2023-11-25',''),
+('DC211.8','FELIPE','04','México','','DC','2023-11-25',''),
+('S113.5','COBRITO','04','México','','S','2023-11-25',''),
+('T1524','COMPOSTELA','04','México','','T','2023-11-25',''),
+('B0502','LOGISTIK','04','México','','B','2023-11-25',''),
+('S0405','SANTA RITA','04','México','','S','2023-11-25',''),
+('N0112','IXTLAHUACA','04','México','','N','2023-11-25',''),
+('AB015','TLAXCOAPAN','04','México','','AB','2023-11-25',''),
+('BG19.8','SALITRE','04','México','','BG','2023-11-25',''),
+('HA4.5','19 DE MARZO','04','México','','HA','2023-11-25',''),
+('O31.3','APORO','04','México','','O','2023-11-25',''),
+('I407.7','NICOLAS BRAVO','04','México','','I','2023-11-25',''),
+('N518.7','CANACHA','04','México','','N','2023-11-25',''),
+('T175.3','CAMOU','04','México','','T','2023-11-25',''),
+('V0438','ANTIGUA','04','México','','V','2023-11-25',''),
+('T1658','LA QUEMADA','04','México','','T','2023-11-25',''),
+('A373.6','PICO DE ORO','04','México','','A','2023-11-25',''),
+('V442','MATILLO','04','México','','V','2023-11-25',''),
+('G0024','XUCHILES','04','México','','G','2023-11-25',''),
+('DA123.9','YERBANIS','04','México','','DA','2023-11-25',''),
+('VB157.2','JARA','04','México','','VB','2023-11-25',''),
+('B1064','MORALES','04','México','','B','2023-11-25',''),
+('A1239.1','EL BOLSON','04','México','','A','2023-11-25',''),
+('I0584','CUYUTLAN','04','México','','I','2023-11-25',''),
+('BC171','PRONAPADE','04','México','','BC','2023-11-25',''),
+('BA22.8','SIETE REALES','04','México','','BA','2023-11-25',''),
+('I0235','EL CASTILLO','04','México','','I','2023-11-25',''),
+('A1374.8','EMPALME DISTRITO DE PARRAL','04','México','','A','2023-11-25',''),
+('FA245.2','CHANGO SANTO','04','México','','FA','2023-11-25',''),
+('FA011','CANGREJERA','04','México','','FA','2023-11-25',''),
+('M0834','SAN PEDRO','04','México','','M','2023-11-25',''),
+('Q210.5','TRANCAS','04','México','','Q','2023-11-25',''),
+('Q437.6','ROSARIO','04','México','','Q','2023-11-25',''),
+('B1276.7','SECCION SANCHEZ','04','México','','B','2023-11-25',''),
+('M618.3','AMARGOS','04','México','','M','2023-11-25',''),
+('RC13.2','MOTA','04','México','','RC','2023-11-25',''),
+('IB104','ZIRONDARO','04','México','','IB','2023-11-25',''),
+('DB91.3','LA SOLEDAD','04','México','','DB','2023-11-25',''),
+('A0895','ALAMILLO','04','México','','A','2023-11-25',''),
+('T1076','LA CRUZ','04','México','','T','2023-11-25',''),
+('S0182','SAN MARCOS','04','México','','S','2023-11-25',''),
+('UA14','PASCUALITOS','04','México','','UA','2023-11-25',''),
+('L650.2','FERROAUTLAN','04','México','','L','2023-11-25',''),
+('A0310','VILLAGRAN','04','México','','A','2023-11-25',''),
+('VB103.5','UNION','04','México','','VB','2023-11-25',''),
+('Z30.1','HIGUERAS','04','México','','Z','2023-11-25',''),
+('UA004','MEXICALI','04','México','','UA','2023-11-25',''),
+('P129.7','CUEVAS','04','México','','P','2023-11-25',''),
+('VB136','TEPATLAXCO','04','México','','VB','2023-11-25',''),
+('T1507','COSTILLA','04','México','','T','2023-11-25',''),
+('GA056','PIEDRAS NEGRAS','04','México','','GA','2023-11-25',''),
+('FS28.1','SANAHCAT','04','México','','FS','2023-11-25',''),
+('L0614','EBANO','04','México','','L','2023-11-25',''),
+('RD160.2','BOOSTER','04','México','','RD','2023-11-25',''),
+('Q686.6','PARAJES','04','México','','Q','2023-11-25',''),
+('C257.7','EL PUENTE','04','México','','C','2023-11-25',''),
+('RD290.8','CARRILLO VIEJO','04','México','','RD','2023-11-25',''),
+('L0328','CERRITOS','04','México','','L','2023-11-25',''),
+('VC56.3','TEYUCA','04','México','','VC','2023-11-25',''),
+('S0124','GUADALUPE','04','México','','S','2023-11-25',''),
+('U239','PUERTO PERASCO','04','México','','U','2023-11-25',''),
+('V42.8','SAN ANDRES','04','México','','V','2023-11-25',''),
+('HE8.4','ACOCUL','04','México','','HE','2023-11-25',''),
+('E204.3','MEJIA VIEJO','04','México','','E','2023-11-25',''),
+('MA71.9','LA GAVIA','04','México','','MA','2023-11-25',''),
+('GA060','MADEREROS','04','México','','GA','2023-11-25',''),
+('B0648','LAGUNA SECA','04','México','','B','2023-11-25',''),
+('A0959','SAN ISIDRO','04','México','','A','2023-11-25',''),
+('IN018','TRES MEZQUITES','04','México','','IN','2023-11-25',''),
+('QA77.6','LOMA','04','México','','QA','2023-11-25',''),
+('N0598','NUEVA ITALIA','04','México','','N','2023-11-25',''),
+('QA23.7','GIRASOL','04','México','','QA','2023-11-25',''),
+('GB11.3','COYOL','04','México','','GB','2023-11-25',''),
+('T1039','ABUYA','04','México','','T','2023-11-25',''),
+('N0260','TARANDACUAO','04','México','','N','2023-11-25',''),
+('I0541','JALA','04','México','','I','2023-11-25',''),
+('P0090','PARRAL','04','México','','P','2023-11-25',''),
+('FA138.9','SAN MANUEL','04','México','','FA','2023-11-25',''),
+('DN35.4','ARDILLON','04','México','','DN','2023-11-25',''),
+('FP90.4','OXKUTZCAB','04','México','','FP','2023-11-25',''),
+('L269.1','CORCOVADA','04','México','','L','2023-11-25',''),
+('UB18.7','MADERERÍA ACEVEDO','04','México','','UB','2023-11-25',''),
+('T1628','BARRANCAS','04','México','','T','2023-11-25',''),
+('R0341','GENERAL COSS','04','México','','R','2023-11-25',''),
+('BA60.4','POZOS','04','México','','BA','2023-11-25',''),
+('L196','PALMAR PRIMERO','04','México','','L','2023-11-25',''),
+('Q0698','CEROCAHUI','04','México','','Q','2023-11-25',''),
+('P42.6','MARPORTIN','04','México','','P','2023-11-25',''),
+('C161.2','JUAN PAGAZA','04','México','','C','2023-11-25',''),
+('P68.6','EL COBERO','04','México','','P','2023-11-25',''),
+('R0396','ROCA','04','México','','R','2023-11-25',''),
+('FA761.6','TENABO','04','México','','FA','2023-11-25',''),
+('H0041','EMPALME EL REY','04','México','','H','2023-11-25',''),
+('K66.3','LAS PALMAS','04','México','','K','2023-11-25',''),
+('E348.6','ETLA','04','México','','E','2023-11-25',''),
+('M35.4','COLONIA','04','México','','M','2023-11-25',''),
+('B0093','CARRASCO','04','México','','B','2023-11-25',''),
+('M0081','MANUEL','04','México','','M','2023-11-25',''),
+('NE063','LA VINATA','04','México','','NE','2023-11-25',''),
+('I0212','SAN JACINTO','04','México','','I','2023-11-25',''),
+('N511.9','CIENFUEGOS','04','México','','N','2023-11-25',''),
+('A0402','TRINIDAD','04','México','','A','2023-11-25',''),
+('E216.7','LOS CUES','04','México','','E','2023-11-25',''),
+('B0946','OJO CALIENTE','04','México','','B','2023-11-25',''),
+('DB93.8','GUATIMAPE','04','México','','DB','2023-11-25',''),
+('B132.9','CONEXION ARAGON','04','México','','B','2023-11-25',''),
+('G0286','ACHOTAL','04','México','','G','2023-11-25',''),
+('T0585','KM T585','04','México','','T','2023-11-25',''),
+('V0307','JILOTEPEC','04','México','','V','2023-11-25',''),
+('S0068','OMETUSCO','04','México','','S','2023-11-25',''),
+('K246.7','SAN ISIDRO','04','México','','K','2023-11-25',''),
+('TG24.6','BACOBAMBO','04','México','','TG','2023-11-25',''),
+('RC3','PALAU','04','México','','RC','2023-11-25',''),
+('L185.7','EL CORTE','04','México','','L','2023-11-25',''),
+('MA12.6','EL CONEJITO','04','México','','MA','2023-11-25',''),
+('DB49.3','LUCIA','04','México','','DB','2023-11-25',''),
+('T0150','BENJAMIN HILL','04','México','','T','2023-11-25',''),
+('N0135','FLOR DE MARIA','04','México','','N','2023-11-25',''),
+('E318','PLACA KM E-318','04','México','','E','2023-11-25',''),
+('BJ8.4','NUEVO LAREDO','04','México','','BJ','2023-11-25',''),
+('NE997','LC LOGISTICA GPS','04','México','','NE','2023-11-25',''),
+('VC14.3','MARIA','04','México','','VC','2023-11-25',''),
+('FA736.8','KOBEN','04','México','','FA','2023-11-25',''),
+('RA105.2','EL PILAR','04','México','','RA','2023-11-25',''),
+('B0965','RINCONADA','04','México','','B','2023-11-25',''),
+('TL14','TALA','04','México','','TL','2023-11-25',''),
+('MA35.7','LAS AGUILAS','04','México','','MA','2023-11-25',''),
+('UB0.3','ESTACION TIJUANA','04','México','','UB','2023-11-25',''),
+('DA209.5','CHOCOLATE','04','México','','DA','2023-11-25',''),
+('A1447','SANTA ROSALIA CAMAR','04','México','','A','2023-11-25',''),
+('A0047','HUEHUETOCA','04','México','','A','2023-11-25',''),
+('T1693','TEQUILA','04','México','','T','2023-11-25',''),
+('C204.2','SAMANO','04','México','','C','2023-11-25',''),
+('I532','CONQUINATLAN','04','México','','I','2023-11-25',''),
+('K152.2','ARRIAGA','04','México','','K','2023-11-25',''),
+('A388.1','NAPOLES','04','México','','A','2023-11-25',''),
+('B1154.6','CANDELA','04','México','','B','2023-11-25',''),
+('Z213','LAGUNAS','04','México','','Z','2023-11-25',''),
+('G0183','ARROYO CLARO','04','México','','G','2023-11-25',''),
+('S0062','LA PALMA','04','México','','S','2023-11-25',''),
+('DE90','PLACA KM DE-90','04','México','','DE','2023-11-25',''),
+('F202.1','LOS VILLARREAS','04','México','','F','2023-11-25',''),
+('A1285','ZAVALZA','04','México','','A','2023-11-25',''),
+('C253.4','XONACATLA','04','México','','C','2023-11-25',''),
+('O24.7','IRIMBO','04','México','','O','2023-11-25',''),
+('GA079','MORENO SUR','04','México','','GA','2023-11-25',''),
+('Z154.9','DONAJI','04','México','','Z','2023-11-25',''),
+('G0035','PRESIDIO','04','México','','G','2023-11-25',''),
+('DF8.6','SOMBRERETE','04','México','','DF','2023-11-25',''),
+('B1083','EL PUERTO','04','México','','B','2023-11-25',''),
+('RD3','ESCALON','04','México','','RD','2023-11-25',''),
+('K112.5','CHAHUITES','04','México','','K','2023-11-25',''),
+('VB010','CALPULALPAN','04','México','','VB','2023-11-25',''),
+('N3.2','TLATILCO','04','México','','N','2023-11-25',''),
+('T0843','GUAMUCHIL','04','México','','T','2023-11-25',''),
+('I16.2','RIVERA','04','México','','I','2023-11-25',''),
+('V52.2','XOMETLA','04','México','','V','2023-11-25',''),
+('A1842.9','AHUAMADA','04','México','','A','2023-11-25',''),
+('T1477','MORA','04','México','','T','2023-11-25',''),
+('RC36.6','ZAMORA','04','México','','RC','2023-11-25',''),
+('A1393.3','LA REFORMA','04','México','','A','2023-11-25',''),
+('TM019','AHUALULCO DE MERCADO','04','México','','TM','2023-11-25',''),
+('Z0086','JUILE','04','México','','Z','2023-11-25',''),
+('TI018','SAN PEDRO','04','México','','TI','2023-11-25',''),
+('Morelos229.1','LA GRIEGA','04','México','','Morelos','2023-11-25',''),
+('V0170','VELASCO','04','México','','V','2023-11-25',''),
+('K37.1','UNION HIDALGO','04','México','','K','2023-11-25',''),
+('R0173','OBAYOS','04','México','','R','2023-11-25',''),
+('EB45.6','GUEBESCHE','04','México','','EB','2023-11-25',''),
+('T0646','MASIACA','04','México','','T','2023-11-25',''),
+('K361.6','DESPOBLADO','04','México','','K','2023-11-25',''),
+('H0067','TEPA','04','México','','H','2023-11-25',''),
+('A0300','CRESPO','04','México','','A','2023-11-25',''),
+('H0034','PAULA','04','México','','H','2023-11-25',''),
+('Q151.7','SAN SOSTENES','04','México','','Q','2023-11-25',''),
+('VC114.7','AXOCHIAPAN','04','México','','VC','2023-11-25',''),
+('RD176.2','PEDRO ORTEGON','04','México','','RD','2023-11-25',''),
+('EA43.1','EL SALADO','04','México','','EA','2023-11-25',''),
+('M457','CAÑA','04','México','','M','2023-11-25',''),
+('B0567','BOCAS','04','México','','B','2023-11-25',''),
+('A0344','CHICO','04','México','','A','2023-11-25',''),
+('B36','TEOLOYUCAN','04','México','','B','2023-11-25',''),
+('TG033','ETCHOJOA','04','México','','TG','2023-11-25',''),
+('M300.5','PUERTO DEL AIRE','04','México','','M','2023-11-25',''),
+('V58','PIRAMIDES','04','México','','V','2023-11-25',''),
+('A1555.9','ABRAHAM GONZALEZ','04','México','','A','2023-11-25',''),
+('R118.3','MEZQUITAL','04','México','','R','2023-11-25',''),
+('P13','LA CUADRILLA','04','México','','P','2023-11-25',''),
+('VB101','LOS ARCOS','04','México','','VB','2023-11-25',''),
+('M0118','ROSILLO','04','México','','M','2023-11-25',''),
+('DB172.2','TAMBOR','04','México','','DB','2023-11-25',''),
+('GF004','TORO BRAVO','04','México','','GF','2023-11-25',''),
+('UB69.8','LINDERO','04','México','','UB','2023-11-25',''),
+('EA41.5','GARCIAS','04','México','','EA','2023-11-25',''),
+('A1340','CORRALITOS','04','México','','A','2023-11-25',''),
+('T1646','AGUA FRIA','04','México','','T','2023-11-25',''),
+('A1608','TABALAOPA','04','México','','A','2023-11-25',''),
+('Z0043','JALTIPAN','04','México','','Z','2023-11-25',''),
+('A0915','OPAL','04','México','','A','2023-11-25',''),
+('GB40.8','SAN GABRIEL','04','México','','GB','2023-11-25',''),
+('DB122.6','ANGELITA','04','México','','DB','2023-11-25',''),
+('Z71.2','OLOLICA','04','México','','Z','2023-11-25',''),
+('F283.3','EBANITO NUEVO','04','México','','F','2023-11-25',''),
+('T333.6','LUJAN','04','México','','T','2023-11-25',''),
+('JM103','DAXTHI','04','México','','Morelos','2023-11-25',''),
+('T1729','EMPALME DE ORENDAIN','04','México','','T','2023-11-25',''),
+('DC61.2','POANAS','04','México','','DC','2023-11-25',''),
+('NB41.4','PANALES','04','México','','NB','2023-11-25',''),
+('LB013','EL COLORADO','04','México','','LB','2023-11-25',''),
+('M358.8','MAGUIRAS','04','México','','M','2023-11-25',''),
+('S77.9','IROLO MEXICANO','04','México','','S','2023-11-25',''),
+('DA155.7','EL CENTRO','04','México','','DA','2023-11-25',''),
+('T1008','QUILA','04','México','','T','2023-11-25',''),
+('Z115','SUCHIL','04','México','','Z','2023-11-25',''),
+('GA014','ESPARTAL','04','México','','GA','2023-11-25',''),
+('Q127','FALOMIA','04','México','','Q','2023-11-25',''),
+('MA95','CLAVO DE ORO','04','México','','MA','2023-11-25',''),
+('R0257','CASTANOS','04','México','','R','2023-11-25',''),
+('I0520','COLIMA','04','México','','I','2023-11-25',''),
+('T0576','SANTINI','04','México','','T','2023-11-25',''),
+('M0157','IGNACIO ZARAGOZA','04','México','','M','2023-11-25',''),
+('LJ254','TLACOTE','04','México','','Juárez','2023-11-25',''),
+('H60.4','SAN AGUSTIN ZAPOTL','04','México','','H','2023-11-25',''),
+('RI0','HERCULES','04','México','','RI','2023-11-25',''),
+('RD25.5','AGUILA','04','México','','RD','2023-11-25',''),
+('DB43.8','NICOLAS BRAVO','04','México','','DB','2023-11-25',''),
+('B560.9','ARRIOLA','04','México','','B','2023-11-25',''),
+('E250.2','LA VENTA','04','México','','E','2023-11-25',''),
+('B0067','APAXCO','04','México','','B','2023-11-25',''),
+('N0469','JUJUCATO','04','México','','N','2023-11-25',''),
+('T243.2','PESQUERIA','04','México','','T','2023-11-25',''),
+('L417.1','LA PRESA','04','México','','L','2023-11-25',''),
+('I0361','VERDIA','04','México','','I','2023-11-25',''),
+('K358.9','VILLA DE COMALTITLAN','04','México','','K','2023-11-25',''),
+('DA188.5','HUARICHI','04','México','','DA','2023-11-25',''),
+('B1022','MONTERREY','04','México','','B','2023-11-25',''),
+('Q757','DESCANGO','04','México','','Q','2023-11-25',''),
+('U0413','PITIQUITO','04','México','','U','2023-11-25',''),
+('VB94','SANTA CLARA','04','México','','VB','2023-11-25',''),
+('VL1.8','ESPUELA HARINERA','04','México','','VL','2023-11-25',''),
+('MA116.7','CEIBA','04','México','','MA','2023-11-25',''),
+('I0182','CAMCEL','04','México','','I','2023-11-25',''),
+('M0235','CIUDAD VICTORIA','04','México','','M','2023-11-25',''),
+('IB38.3','TUNILLAS','04','México','','IB','2023-11-25',''),
+('M0558','HIDALGO','04','México','','M','2023-11-25',''),
+('T906.1','REYES','04','México','','T','2023-11-25',''),
+('B720.8','VENEGAS','04','México','','B','2023-11-25',''),
+('JM167','PALMILLAS','04','México','','Juárez','2023-11-25',''),
+('A483.1','MIRA','04','México','','A','2023-11-25',''),
+('L27.2','AMAPOLA DEL RIO','04','México','','L','2023-11-25',''),
+('A1063','LA FLOR','04','México','','A','2023-11-25',''),
+('B1104','ALAMO','04','México','','B','2023-11-25',''),
+('T0666','LUIS','04','México','','T','2023-11-25',''),
+('N0407','LAGUNILLAS','04','México','','N','2023-11-25',''),
+('V0102','SAN LORENZO','04','México','','V','2023-11-25',''),
+('EF0001','Extranjera','04','Extranjera','','','2023-11-25','');

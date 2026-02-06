@@ -1,95 +1,96 @@
-INSERT INTO cce_20_estados VALUES('AGU','MEX','Aguascalientes','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('BCN','MEX','Baja California','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('BCS','MEX','Baja California Sur','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CAM','MEX','Campeche','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CHP','MEX','Chiapas','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CHH','MEX','Chihuahua','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('COA','MEX','Coahuila','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('COL','MEX','Colima','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CMX','MEX','Ciudad de México','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('DUR','MEX','Durango','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('GUA','MEX','Guanajuato','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('GRO','MEX','Guerrero','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('HID','MEX','Hidalgo','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('JAL','MEX','Jalisco','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MEX','MEX','Estado de México','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MIC','MEX','Michoacán','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MOR','MEX','Morelos','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NAY','MEX','Nayarit','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NLE','MEX','Nuevo León','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('OAX','MEX','Oaxaca','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('PUE','MEX','Puebla','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('QUE','MEX','Querétaro','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('ROO','MEX','Quintana Roo','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('SLP','MEX','San Luis Potosí','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('SIN','MEX','Sinaloa','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('SON','MEX','Sonora','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('TAB','MEX','Tabasco','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('TAM','MEX','Tamaulipas','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('TLA','MEX','Tlaxcala','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('VER','MEX','Veracruz','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('YUC','MEX','Yucatán','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('ZAC','MEX','Zacatecas','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('AL','USA','Alabama','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('AK','USA','Alaska','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('AZ','USA','Arizona','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('AR','USA','Arkansas','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CA','USA','California','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NC','USA','Carolina del Norte','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('SC','USA','Carolina del Sur','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CO','USA','Colorado','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('CT','USA','Connecticut','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('ND','USA','Dakota del Norte','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('SD','USA','Dakota del Sur','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('DE','USA','Delaware','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('FL','USA','Florida','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('GA','USA','Georgia','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('HI','USA','Hawái','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('ID','USA','Idaho','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('IL','USA','Illinois','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('IN','USA','Indiana','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('IA','USA','Iowa','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('KS','USA','Kansas','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('KY','USA','Kentucky','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('LA','USA','Luisiana','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('ME','USA','Maine','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MD','USA','Maryland','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MA','USA','Massachusetts','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MI','USA','Míchigan','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MN','USA','Minnesota','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MS','USA','Misisipi','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MO','USA','Misuri','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MT','USA','Montana','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NE','USA','Nebraska','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NV','USA','Nevada','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NJ','USA','Nueva Jersey','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NY','USA','Nueva York','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NH','USA','Nuevo Hampshire','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NM','USA','Nuevo México','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('OH','USA','Ohio','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('OK','USA','Oklahoma','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('OR','USA','Oregón','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('PA','USA','Pensilvania','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('RI','USA','Rhode Island','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('TN','USA','Tennessee','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('TX','USA','Texas','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('UT','USA','Utah','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('VT','USA','Vermont','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('VA','USA','Virginia','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('WV','USA','Virginia Occidental','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('WA','USA','Washington','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('WI','USA','Wisconsin','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('WY','USA','Wyoming','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('ON','CAN','Ontario','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('QC','CAN','Quebec','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NS','CAN','Nueva Escocia','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NB','CAN','Nuevo Brunswick','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('MB','CAN','Manitoba','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('BC','CAN','Columbia Británica','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('PE','CAN','Isla del Príncipe Eduardo','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('SK','CAN','Saskatchewan','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('AB','CAN','Alberta','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NL','CAN','Terranova y Labrador','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('NT','CAN','Territorios del Noroeste','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('YT','CAN','Yukón','2024-01-18','');
-INSERT INTO cce_20_estados VALUES('UN','CAN','Nunavut','2024-01-18','');
+INSERT INTO cce_20_estados VALUES 
+('AGU','MEX','Aguascalientes','2024-01-18',''),
+('BCN','MEX','Baja California','2024-01-18',''),
+('BCS','MEX','Baja California Sur','2024-01-18',''),
+('CAM','MEX','Campeche','2024-01-18',''),
+('CHP','MEX','Chiapas','2024-01-18',''),
+('CHH','MEX','Chihuahua','2024-01-18',''),
+('COA','MEX','Coahuila','2024-01-18',''),
+('COL','MEX','Colima','2024-01-18',''),
+('CMX','MEX','Ciudad de México','2024-01-18',''),
+('DUR','MEX','Durango','2024-01-18',''),
+('GUA','MEX','Guanajuato','2024-01-18',''),
+('GRO','MEX','Guerrero','2024-01-18',''),
+('HID','MEX','Hidalgo','2024-01-18',''),
+('JAL','MEX','Jalisco','2024-01-18',''),
+('MEX','MEX','Estado de México','2024-01-18',''),
+('MIC','MEX','Michoacán','2024-01-18',''),
+('MOR','MEX','Morelos','2024-01-18',''),
+('NAY','MEX','Nayarit','2024-01-18',''),
+('NLE','MEX','Nuevo León','2024-01-18',''),
+('OAX','MEX','Oaxaca','2024-01-18',''),
+('PUE','MEX','Puebla','2024-01-18',''),
+('QUE','MEX','Querétaro','2024-01-18',''),
+('ROO','MEX','Quintana Roo','2024-01-18',''),
+('SLP','MEX','San Luis Potosí','2024-01-18',''),
+('SIN','MEX','Sinaloa','2024-01-18',''),
+('SON','MEX','Sonora','2024-01-18',''),
+('TAB','MEX','Tabasco','2024-01-18',''),
+('TAM','MEX','Tamaulipas','2024-01-18',''),
+('TLA','MEX','Tlaxcala','2024-01-18',''),
+('VER','MEX','Veracruz','2024-01-18',''),
+('YUC','MEX','Yucatán','2024-01-18',''),
+('ZAC','MEX','Zacatecas','2024-01-18',''),
+('AL','USA','Alabama','2024-01-18',''),
+('AK','USA','Alaska','2024-01-18',''),
+('AZ','USA','Arizona','2024-01-18',''),
+('AR','USA','Arkansas','2024-01-18',''),
+('CA','USA','California','2024-01-18',''),
+('NC','USA','Carolina del Norte','2024-01-18',''),
+('SC','USA','Carolina del Sur','2024-01-18',''),
+('CO','USA','Colorado','2024-01-18',''),
+('CT','USA','Connecticut','2024-01-18',''),
+('ND','USA','Dakota del Norte','2024-01-18',''),
+('SD','USA','Dakota del Sur','2024-01-18',''),
+('DE','USA','Delaware','2024-01-18',''),
+('FL','USA','Florida','2024-01-18',''),
+('GA','USA','Georgia','2024-01-18',''),
+('HI','USA','Hawái','2024-01-18',''),
+('ID','USA','Idaho','2024-01-18',''),
+('IL','USA','Illinois','2024-01-18',''),
+('IN','USA','Indiana','2024-01-18',''),
+('IA','USA','Iowa','2024-01-18',''),
+('KS','USA','Kansas','2024-01-18',''),
+('KY','USA','Kentucky','2024-01-18',''),
+('LA','USA','Luisiana','2024-01-18',''),
+('ME','USA','Maine','2024-01-18',''),
+('MD','USA','Maryland','2024-01-18',''),
+('MA','USA','Massachusetts','2024-01-18',''),
+('MI','USA','Míchigan','2024-01-18',''),
+('MN','USA','Minnesota','2024-01-18',''),
+('MS','USA','Misisipi','2024-01-18',''),
+('MO','USA','Misuri','2024-01-18',''),
+('MT','USA','Montana','2024-01-18',''),
+('NE','USA','Nebraska','2024-01-18',''),
+('NV','USA','Nevada','2024-01-18',''),
+('NJ','USA','Nueva Jersey','2024-01-18',''),
+('NY','USA','Nueva York','2024-01-18',''),
+('NH','USA','Nuevo Hampshire','2024-01-18',''),
+('NM','USA','Nuevo México','2024-01-18',''),
+('OH','USA','Ohio','2024-01-18',''),
+('OK','USA','Oklahoma','2024-01-18',''),
+('OR','USA','Oregón','2024-01-18',''),
+('PA','USA','Pensilvania','2024-01-18',''),
+('RI','USA','Rhode Island','2024-01-18',''),
+('TN','USA','Tennessee','2024-01-18',''),
+('TX','USA','Texas','2024-01-18',''),
+('UT','USA','Utah','2024-01-18',''),
+('VT','USA','Vermont','2024-01-18',''),
+('VA','USA','Virginia','2024-01-18',''),
+('WV','USA','Virginia Occidental','2024-01-18',''),
+('WA','USA','Washington','2024-01-18',''),
+('WI','USA','Wisconsin','2024-01-18',''),
+('WY','USA','Wyoming','2024-01-18',''),
+('ON','CAN','Ontario','2024-01-18',''),
+('QC','CAN','Quebec','2024-01-18',''),
+('NS','CAN','Nueva Escocia','2024-01-18',''),
+('NB','CAN','Nuevo Brunswick','2024-01-18',''),
+('MB','CAN','Manitoba','2024-01-18',''),
+('BC','CAN','Columbia Británica','2024-01-18',''),
+('PE','CAN','Isla del Príncipe Eduardo','2024-01-18',''),
+('SK','CAN','Saskatchewan','2024-01-18',''),
+('AB','CAN','Alberta','2024-01-18',''),
+('NL','CAN','Terranova y Labrador','2024-01-18',''),
+('NT','CAN','Territorios del Noroeste','2024-01-18',''),
+('YT','CAN','Yukón','2024-01-18',''),
+('UN','CAN','Nunavut','2024-01-18','');

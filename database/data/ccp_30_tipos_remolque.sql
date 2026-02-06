@@ -1,31 +1,32 @@
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR001','Caballete','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR002','Caja','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR003','Caja Abierta','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR004','Caja Cerrada','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR005','Caja De Recolección Con Cargador Frontal','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR006','Caja Refrigerada','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR007','Caja Seca','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR008','Caja Transferencia','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR009','Cama Baja o Cuello Ganso','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR010','Chasis Portacontenedor','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR011','Convencional De Chasis','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR012','Equipo Especial','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR013','Estacas','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR014','Góndola Madrina','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR015','Grúa Industrial','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR016','Grúa','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR017','Integral','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR018','Jaula','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR019','Media Redila','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR020','Pallet o Celdillas','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR021','Plataforma','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR022','Plataforma Con Grúa','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR023','Plataforma Encortinada','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR024','Redilas','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR025','Refrigerador','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR026','Revolvedora','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR027','Semicaja','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR028','Tanque','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR029','Tolva','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR031','Volteo','2023-11-25','');
-INSERT INTO ccp_30_tipos_remolque VALUES('CTR032','Volteo Desmontable','2023-11-25','');
+INSERT INTO ccp_30_tipos_remolque VALUES 
+('CTR001','Caballete','2023-11-25',''),
+('CTR002','Caja','2023-11-25',''),
+('CTR003','Caja Abierta','2023-11-25',''),
+('CTR004','Caja Cerrada','2023-11-25',''),
+('CTR005','Caja De Recolección Con Cargador Frontal','2023-11-25',''),
+('CTR006','Caja Refrigerada','2023-11-25',''),
+('CTR007','Caja Seca','2023-11-25',''),
+('CTR008','Caja Transferencia','2023-11-25',''),
+('CTR009','Cama Baja o Cuello Ganso','2023-11-25',''),
+('CTR010','Chasis Portacontenedor','2023-11-25',''),
+('CTR011','Convencional De Chasis','2023-11-25',''),
+('CTR012','Equipo Especial','2023-11-25',''),
+('CTR013','Estacas','2023-11-25',''),
+('CTR014','Góndola Madrina','2023-11-25',''),
+('CTR015','Grúa Industrial','2023-11-25',''),
+('CTR016','Grúa','2023-11-25',''),
+('CTR017','Integral','2023-11-25',''),
+('CTR018','Jaula','2023-11-25',''),
+('CTR019','Media Redila','2023-11-25',''),
+('CTR020','Pallet o Celdillas','2023-11-25',''),
+('CTR021','Plataforma','2023-11-25',''),
+('CTR022','Plataforma Con Grúa','2023-11-25',''),
+('CTR023','Plataforma Encortinada','2023-11-25',''),
+('CTR024','Redilas','2023-11-25',''),
+('CTR025','Refrigerador','2023-11-25',''),
+('CTR026','Revolvedora','2023-11-25',''),
+('CTR027','Semicaja','2023-11-25',''),
+('CTR028','Tanque','2023-11-25',''),
+('CTR029','Tolva','2023-11-25',''),
+('CTR031','Volteo','2023-11-25',''),
+('CTR032','Volteo Desmontable','2023-11-25','');

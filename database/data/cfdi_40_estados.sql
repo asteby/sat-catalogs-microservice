@@ -1,95 +1,96 @@
-INSERT INTO cfdi_40_estados VALUES('AGU','MEX','Aguascalientes','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('BCN','MEX','Baja California','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('BCS','MEX','Baja California Sur','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CAM','MEX','Campeche','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CHP','MEX','Chiapas','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CHH','MEX','Chihuahua','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('COA','MEX','Coahuila','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('COL','MEX','Colima','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CMX','MEX','Ciudad de México','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('DUR','MEX','Durango','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('GUA','MEX','Guanajuato','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('GRO','MEX','Guerrero','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('HID','MEX','Hidalgo','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('JAL','MEX','Jalisco','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MEX','MEX','Estado de México','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MIC','MEX','Michoacán','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MOR','MEX','Morelos','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NAY','MEX','Nayarit','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NLE','MEX','Nuevo León','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('OAX','MEX','Oaxaca','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('PUE','MEX','Puebla','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('QUE','MEX','Querétaro','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('ROO','MEX','Quintana Roo','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('SLP','MEX','San Luis Potosí','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('SIN','MEX','Sinaloa','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('SON','MEX','Sonora','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('TAB','MEX','Tabasco','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('TAM','MEX','Tamaulipas','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('TLA','MEX','Tlaxcala','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('VER','MEX','Veracruz','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('YUC','MEX','Yucatán','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('ZAC','MEX','Zacatecas','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('AL','USA','Alabama','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('AK','USA','Alaska','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('AZ','USA','Arizona','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('AR','USA','Arkansas','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CA','USA','California','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NC','USA','Carolina del Norte','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('SC','USA','Carolina del Sur','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CO','USA','Colorado','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('CT','USA','Connecticut','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('ND','USA','Dakota del Norte','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('SD','USA','Dakota del Sur','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('DE','USA','Delaware','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('FL','USA','Florida','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('GA','USA','Georgia','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('HI','USA','Hawái','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('ID','USA','Idaho','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('IL','USA','Illinois','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('IN','USA','Indiana','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('IA','USA','Iowa','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('KS','USA','Kansas','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('KY','USA','Kentucky','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('LA','USA','Luisiana','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('ME','USA','Maine','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MD','USA','Maryland','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MA','USA','Massachusetts','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MI','USA','Míchigan','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MN','USA','Minnesota','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MS','USA','Misisipi','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MO','USA','Misuri','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MT','USA','Montana','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NE','USA','Nebraska','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NV','USA','Nevada','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NJ','USA','Nueva Jersey','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NY','USA','Nueva York','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NH','USA','Nuevo Hampshire','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NM','USA','Nuevo México','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('OH','USA','Ohio','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('OK','USA','Oklahoma','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('OR','USA','Oregón','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('PA','USA','Pensilvania','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('RI','USA','Rhode Island','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('TN','USA','Tennessee','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('TX','USA','Texas','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('UT','USA','Utah','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('VT','USA','Vermont','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('VA','USA','Virginia','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('WV','USA','Virginia Occidental','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('WA','USA','Washington','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('WI','USA','Wisconsin','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('WY','USA','Wyoming','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('ON','CAN','Ontario','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('QC','CAN','Quebec','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NS','CAN','Nueva Escocia','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NB','CAN','Nuevo Brunswick','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('MB','CAN','Manitoba','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('BC','CAN','Columbia Británica','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('PE','CAN','Isla del Príncipe Eduardo','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('SK','CAN','Saskatchewan','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('AB','CAN','Alberta','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NL','CAN','Terranova y Labrador','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('NT','CAN','Territorios del Noroeste','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('YT','CAN','Yukón','2022-01-01','');
-INSERT INTO cfdi_40_estados VALUES('UN','CAN','Nunavut','2022-01-01','');
+INSERT INTO cfdi_40_estados VALUES 
+('AGU','MEX','Aguascalientes','2022-01-01',''),
+('BCN','MEX','Baja California','2022-01-01',''),
+('BCS','MEX','Baja California Sur','2022-01-01',''),
+('CAM','MEX','Campeche','2022-01-01',''),
+('CHP','MEX','Chiapas','2022-01-01',''),
+('CHH','MEX','Chihuahua','2022-01-01',''),
+('COA','MEX','Coahuila','2022-01-01',''),
+('COL','MEX','Colima','2022-01-01',''),
+('CMX','MEX','Ciudad de México','2022-01-01',''),
+('DUR','MEX','Durango','2022-01-01',''),
+('GUA','MEX','Guanajuato','2022-01-01',''),
+('GRO','MEX','Guerrero','2022-01-01',''),
+('HID','MEX','Hidalgo','2022-01-01',''),
+('JAL','MEX','Jalisco','2022-01-01',''),
+('MEX','MEX','Estado de México','2022-01-01',''),
+('MIC','MEX','Michoacán','2022-01-01',''),
+('MOR','MEX','Morelos','2022-01-01',''),
+('NAY','MEX','Nayarit','2022-01-01',''),
+('NLE','MEX','Nuevo León','2022-01-01',''),
+('OAX','MEX','Oaxaca','2022-01-01',''),
+('PUE','MEX','Puebla','2022-01-01',''),
+('QUE','MEX','Querétaro','2022-01-01',''),
+('ROO','MEX','Quintana Roo','2022-01-01',''),
+('SLP','MEX','San Luis Potosí','2022-01-01',''),
+('SIN','MEX','Sinaloa','2022-01-01',''),
+('SON','MEX','Sonora','2022-01-01',''),
+('TAB','MEX','Tabasco','2022-01-01',''),
+('TAM','MEX','Tamaulipas','2022-01-01',''),
+('TLA','MEX','Tlaxcala','2022-01-01',''),
+('VER','MEX','Veracruz','2022-01-01',''),
+('YUC','MEX','Yucatán','2022-01-01',''),
+('ZAC','MEX','Zacatecas','2022-01-01',''),
+('AL','USA','Alabama','2022-01-01',''),
+('AK','USA','Alaska','2022-01-01',''),
+('AZ','USA','Arizona','2022-01-01',''),
+('AR','USA','Arkansas','2022-01-01',''),
+('CA','USA','California','2022-01-01',''),
+('NC','USA','Carolina del Norte','2022-01-01',''),
+('SC','USA','Carolina del Sur','2022-01-01',''),
+('CO','USA','Colorado','2022-01-01',''),
+('CT','USA','Connecticut','2022-01-01',''),
+('ND','USA','Dakota del Norte','2022-01-01',''),
+('SD','USA','Dakota del Sur','2022-01-01',''),
+('DE','USA','Delaware','2022-01-01',''),
+('FL','USA','Florida','2022-01-01',''),
+('GA','USA','Georgia','2022-01-01',''),
+('HI','USA','Hawái','2022-01-01',''),
+('ID','USA','Idaho','2022-01-01',''),
+('IL','USA','Illinois','2022-01-01',''),
+('IN','USA','Indiana','2022-01-01',''),
+('IA','USA','Iowa','2022-01-01',''),
+('KS','USA','Kansas','2022-01-01',''),
+('KY','USA','Kentucky','2022-01-01',''),
+('LA','USA','Luisiana','2022-01-01',''),
+('ME','USA','Maine','2022-01-01',''),
+('MD','USA','Maryland','2022-01-01',''),
+('MA','USA','Massachusetts','2022-01-01',''),
+('MI','USA','Míchigan','2022-01-01',''),
+('MN','USA','Minnesota','2022-01-01',''),
+('MS','USA','Misisipi','2022-01-01',''),
+('MO','USA','Misuri','2022-01-01',''),
+('MT','USA','Montana','2022-01-01',''),
+('NE','USA','Nebraska','2022-01-01',''),
+('NV','USA','Nevada','2022-01-01',''),
+('NJ','USA','Nueva Jersey','2022-01-01',''),
+('NY','USA','Nueva York','2022-01-01',''),
+('NH','USA','Nuevo Hampshire','2022-01-01',''),
+('NM','USA','Nuevo México','2022-01-01',''),
+('OH','USA','Ohio','2022-01-01',''),
+('OK','USA','Oklahoma','2022-01-01',''),
+('OR','USA','Oregón','2022-01-01',''),
+('PA','USA','Pensilvania','2022-01-01',''),
+('RI','USA','Rhode Island','2022-01-01',''),
+('TN','USA','Tennessee','2022-01-01',''),
+('TX','USA','Texas','2022-01-01',''),
+('UT','USA','Utah','2022-01-01',''),
+('VT','USA','Vermont','2022-01-01',''),
+('VA','USA','Virginia','2022-01-01',''),
+('WV','USA','Virginia Occidental','2022-01-01',''),
+('WA','USA','Washington','2022-01-01',''),
+('WI','USA','Wisconsin','2022-01-01',''),
+('WY','USA','Wyoming','2022-01-01',''),
+('ON','CAN','Ontario','2022-01-01',''),
+('QC','CAN','Quebec','2022-01-01',''),
+('NS','CAN','Nueva Escocia','2022-01-01',''),
+('NB','CAN','Nuevo Brunswick','2022-01-01',''),
+('MB','CAN','Manitoba','2022-01-01',''),
+('BC','CAN','Columbia Británica','2022-01-01',''),
+('PE','CAN','Isla del Príncipe Eduardo','2022-01-01',''),
+('SK','CAN','Saskatchewan','2022-01-01',''),
+('AB','CAN','Alberta','2022-01-01',''),
+('NL','CAN','Terranova y Labrador','2022-01-01',''),
+('NT','CAN','Territorios del Noroeste','2022-01-01',''),
+('YT','CAN','Yukón','2022-01-01',''),
+('UN','CAN','Nunavut','2022-01-01','');

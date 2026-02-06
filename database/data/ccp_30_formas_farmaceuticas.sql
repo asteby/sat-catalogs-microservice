@@ -1,20 +1,21 @@
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('01','Tableta','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('02','Capsulas','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('03','Comprimidos','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('04','Grageas','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('05','Suspensión','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('06','Solución','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('07','Emulsión','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('08','Jarabe','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('09','Inyectable','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('10','Crema','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('11','Ungüento','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('12','Aerosol','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('13','Gas medicinal','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('14','Gel','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('15','Implante','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('16','Óvulo','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('17','Parche','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('18','Pasta','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('19','Polvo','','');
-INSERT INTO ccp_30_formas_farmaceuticas VALUES('20','Supositorio','','');
+INSERT INTO ccp_30_formas_farmaceuticas VALUES 
+('01','Tableta','',''),
+('02','Capsulas','',''),
+('03','Comprimidos','',''),
+('04','Grageas','',''),
+('05','Suspensión','',''),
+('06','Solución','',''),
+('07','Emulsión','',''),
+('08','Jarabe','',''),
+('09','Inyectable','',''),
+('10','Crema','',''),
+('11','Ungüento','',''),
+('12','Aerosol','',''),
+('13','Gas medicinal','',''),
+('14','Gel','',''),
+('15','Implante','',''),
+('16','Óvulo','',''),
+('17','Parche','',''),
+('18','Pasta','',''),
+('19','Polvo','',''),
+('20','Supositorio','','');

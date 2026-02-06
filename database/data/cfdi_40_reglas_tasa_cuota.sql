@@ -1,19 +1,20 @@
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.000000','IVA','Tasa',1,'','2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.160000','IVA','Tasa',1,'','2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Rango','0.000000','0.160000','IVA','Tasa','',1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.080000','IVA Crédito aplicado del 50%','Tasa',1,'','2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.265000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.300000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.530000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.500000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','1.600000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.304000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.250000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.090000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.080000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.070000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.060000','IEPS','Tasa',1,1,'2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.030000','IEPS','Tasa',1,'','2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Fijo','','0.000000','IEPS','Tasa',1,'','2022-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Rango','0.000000','72.160500','IEPS','Cuota',1,1,'2026-01-01','');
-INSERT INTO cfdi_40_reglas_tasa_cuota VALUES('Rango','0.000000','0.350000','ISR','Tasa','',1,'2022-01-01','');
+INSERT INTO cfdi_40_reglas_tasa_cuota VALUES 
+('Fijo','','0.000000','IVA','Tasa',1,'','2022-01-01',''),
+('Fijo','','0.160000','IVA','Tasa',1,'','2022-01-01',''),
+('Rango','0.000000','0.160000','IVA','Tasa','',1,'2022-01-01',''),
+('Fijo','','0.080000','IVA Crédito aplicado del 50%','Tasa',1,'','2022-01-01',''),
+('Fijo','','0.265000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.300000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.530000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.500000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','1.600000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.304000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.250000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.090000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.080000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.070000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.060000','IEPS','Tasa',1,1,'2022-01-01',''),
+('Fijo','','0.030000','IEPS','Tasa',1,'','2022-01-01',''),
+('Fijo','','0.000000','IEPS','Tasa',1,'','2022-01-01',''),
+('Rango','0.000000','72.160500','IEPS','Cuota',1,1,'2026-01-01',''),
+('Rango','0.000000','0.350000','ISR','Tasa','',1,'2022-01-01','');

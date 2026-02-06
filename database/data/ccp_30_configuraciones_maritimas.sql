@@ -1,15 +1,16 @@
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B01','Abastecedor','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B02','Barcaza','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B03','Granelero','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B04','Porta Contenedor','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B05','Draga','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B06','Pesquero','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B07','Carga General','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B08','Quimiqueros','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B09','Transbordadores','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B10','Carga RoRo','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B11','Investigación','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B12','Tanquero','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B13','Gasero','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B14','Remolcador','2023-11-25','');
-INSERT INTO ccp_30_configuraciones_maritimas VALUES('B15','Extraordinaria especialización','2023-11-25','');
+INSERT INTO ccp_30_configuraciones_maritimas VALUES 
+('B01','Abastecedor','2023-11-25',''),
+('B02','Barcaza','2023-11-25',''),
+('B03','Granelero','2023-11-25',''),
+('B04','Porta Contenedor','2023-11-25',''),
+('B05','Draga','2023-11-25',''),
+('B06','Pesquero','2023-11-25',''),
+('B07','Carga General','2023-11-25',''),
+('B08','Quimiqueros','2023-11-25',''),
+('B09','Transbordadores','2023-11-25',''),
+('B10','Carga RoRo','2023-11-25',''),
+('B11','Investigación','2023-11-25',''),
+('B12','Tanquero','2023-11-25',''),
+('B13','Gasero','2023-11-25',''),
+('B14','Remolcador','2023-11-25',''),
+('B15','Extraordinaria especialización','2023-11-25','');

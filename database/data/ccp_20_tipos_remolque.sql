@@ -1,31 +1,32 @@
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR001','Caballete','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR002','Caja','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR003','Caja Abierta','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR004','Caja Cerrada','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR005','Caja De Recolección Con Cargador Frontal','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR006','Caja Refrigerada','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR007','Caja Seca','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR008','Caja Transferencia','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR009','Cama Baja o Cuello Ganso','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR010','Chasis Portacontenedor','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR011','Convencional De Chasis','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR012','Equipo Especial','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR013','Estacas','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR014','Góndola Madrina','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR015','Grúa Industrial','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR016','Grúa','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR017','Integral','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR018','Jaula','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR019','Media Redila','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR020','Pallet o Celdillas','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR021','Plataforma','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR022','Plataforma Con Grúa','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR023','Plataforma Encortinada','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR024','Redilas','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR025','Refrigerador','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR026','Revolvedora','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR027','Semicaja','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR028','Tanque','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR029','Tolva','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR031','Volteo','2021-06-01','');
-INSERT INTO ccp_20_tipos_remolque VALUES('CTR032','Volteo Desmontable','2021-06-01','');
+INSERT INTO ccp_20_tipos_remolque VALUES 
+('CTR001','Caballete','2021-06-01',''),
+('CTR002','Caja','2021-06-01',''),
+('CTR003','Caja Abierta','2021-06-01',''),
+('CTR004','Caja Cerrada','2021-06-01',''),
+('CTR005','Caja De Recolección Con Cargador Frontal','2021-06-01',''),
+('CTR006','Caja Refrigerada','2021-06-01',''),
+('CTR007','Caja Seca','2021-06-01',''),
+('CTR008','Caja Transferencia','2021-06-01',''),
+('CTR009','Cama Baja o Cuello Ganso','2021-06-01',''),
+('CTR010','Chasis Portacontenedor','2021-06-01',''),
+('CTR011','Convencional De Chasis','2021-06-01',''),
+('CTR012','Equipo Especial','2021-06-01',''),
+('CTR013','Estacas','2021-06-01',''),
+('CTR014','Góndola Madrina','2021-06-01',''),
+('CTR015','Grúa Industrial','2021-06-01',''),
+('CTR016','Grúa','2021-06-01',''),
+('CTR017','Integral','2021-06-01',''),
+('CTR018','Jaula','2021-06-01',''),
+('CTR019','Media Redila','2021-06-01',''),
+('CTR020','Pallet o Celdillas','2021-06-01',''),
+('CTR021','Plataforma','2021-06-01',''),
+('CTR022','Plataforma Con Grúa','2021-06-01',''),
+('CTR023','Plataforma Encortinada','2021-06-01',''),
+('CTR024','Redilas','2021-06-01',''),
+('CTR025','Refrigerador','2021-06-01',''),
+('CTR026','Revolvedora','2021-06-01',''),
+('CTR027','Semicaja','2021-06-01',''),
+('CTR028','Tanque','2021-06-01',''),
+('CTR029','Tolva','2021-06-01',''),
+('CTR031','Volteo','2021-06-01',''),
+('CTR032','Volteo Desmontable','2021-06-01','');
