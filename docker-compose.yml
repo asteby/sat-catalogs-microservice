@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  db:
+    image: mariadb:11.8
+    container_name: mariadb_sat_catalogs
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: rootpassword
+      MARIADB_DATABASE: sat_catalogs
+      MARIADB_USER: user
+      MARIADB_PASSWORD: password
+
+  app:
+    build: .
+    container_name: app_sat_catalogs
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_USER: user
+      DB_PASSWORD: password
+      DB_NAME: sat_catalogs
+    restart: always
+
+volumes:
+  db_data:
