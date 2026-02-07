@@ -75,6 +75,25 @@ func migrateHandler(c *gin.Context) {
 			return
 		}
 		log.Printf("Schema executed successfully for %s", filepath.Base(file))
+
+		// Add indexes for optimization
+		if tableName == "cfdi_40_estados" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_estados_pais ON cfdi_40_estados (pais);").Error; err != nil {
+				log.Printf("Failed to create index for estados: %v", err)
+			}
+		} else if tableName == "cfdi_40_municipios" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_municipios_estado ON cfdi_40_municipios (estado);").Error; err != nil {
+				log.Printf("Failed to create index for municipios: %v", err)
+			}
+		} else if tableName == "cfdi_40_colonias" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_colonias_codigo_postal ON cfdi_40_colonias (codigo_postal);").Error; err != nil {
+				log.Printf("Failed to create index for colonias: %v", err)
+			}
+		} else if tableName == "cfdi_40_codigos_postales" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_codigos_postales_estado_municipio ON cfdi_40_codigos_postales (estado, municipio);").Error; err != nil {
+				log.Printf("Failed to create index for codigos_postales: %v", err)
+			}
+		}
 	}
 
 	c.JSON(200, gin.H{"message": "Migration completed"})
@@ -127,23 +146,25 @@ func getCatalog(c *gin.Context) {
 
 	log.Printf("Querying catalog %s, table %s, search %s", catalog, tableName, search)
 
+	catalogKey := strings.Replace(catalog, "-", "_", -1)
+
 	query := "SELECT * FROM " + tableName
 	args := []interface{}{}
 	conditions := []string{}
 	joinClause := ""
 
 	// Specific filters for faster queries
-	if catalog == "estados" {
+	if catalogKey == "estados" {
 		if pais := c.Query("pais"); pais != "" {
 			conditions = append(conditions, "pais = ?")
 			args = append(args, pais)
 		}
-	} else if catalog == "municipios" {
+	} else if catalogKey == "municipios" {
 		if estado := c.Query("estado"); estado != "" {
 			conditions = append(conditions, "estado = ?")
 			args = append(args, estado)
 		}
-	} else if catalog == "colonias" {
+	} else if catalogKey == "colonias" {
 		joinClause = ""
 		estadoColonias := c.Query("estado")
 		municipioColonias := c.Query("municipio")
@@ -162,7 +183,7 @@ func getCatalog(c *gin.Context) {
 			conditions = append(conditions, "cp.municipio = ?")
 			args = append(args, municipioColonias)
 		}
-	} else if catalog == "codigos_postales" {
+	} else if catalogKey == "codigos_postales" {
 		if estado := c.Query("estado"); estado != "" {
 			conditions = append(conditions, "estado = ?")
 			args = append(args, estado)
