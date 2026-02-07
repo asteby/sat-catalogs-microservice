@@ -52,8 +52,12 @@ func main() {
 	r.GET("/api/cfdi/:catalog", getCatalog)
 	// Add more versions or modules as needed
 
-	log.Println("Starting server on :8080")
-	r.Run(":8080")
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+	log.Printf("Starting server on :%s", port)
+	r.Run(":" + port)
 }
 
 func migrateHandler(c *gin.Context) {
@@ -217,7 +221,7 @@ func getCatalog(c *gin.Context) {
 
 	// Count query for pagination
 	countQuery := "SELECT COUNT(*) FROM " + tableName + joinClause
-	conditionsArgs := args[:len(args)-2]  // Remove limit and offset from args
+	conditionsArgs := args[:len(args)-2] // Remove limit and offset from args
 	if len(conditions) > 0 {
 		countQuery += " WHERE " + strings.Join(conditions, " AND ")
 	}
@@ -242,9 +246,9 @@ func getCatalog(c *gin.Context) {
 		"data": results,
 		"pagination": gin.H{
 			"current_page": page,
-			"per_page": limit,
-			"total": total,
-			"total_pages": totalPages,
+			"per_page":     limit,
+			"total":        total,
+			"total_pages":  totalPages,
 		},
 	})
 }
