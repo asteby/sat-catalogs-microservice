@@ -65,13 +65,17 @@ func main() {
 	r.POST("/api/migrate", migrateHandler)
 
 	// Migration endpoint para localidades (tabla ya creada para otros catálogos)
-	r.POST("/api/migrate/localidades", migrateLocalidadesHandler)
+	r.POST("/api/migrate/localidades", migrateHandler)
 
 	// Setup endpoint
 	r.POST("/api/setup", setupHandler)
 
 	// Setup endpoint para localidades (datos ya cargados para otros catálogos)
-	r.POST("/api/setup/localidades", setupLocalidadesHandler)
+	r.POST("/api/setup/localidades", setupHandler)
+
+	// Reset endpoints (trunca tablas antes de volver a cargar datos)
+	r.POST("/api/reset", resetAllHandler)
+	r.POST("/api/reset/:catalog", resetCatalogHandler)
 
 	// Query endpoints
 	r.GET("/api/cfdi/:catalog", getCatalog)
@@ -88,7 +92,7 @@ func main() {
 func migrateHandler(c *gin.Context) {
 	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	for _, catalog := range addressCatalogs {
-		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
+		tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
 		file := "./database/schemas/" + tableName + ".sql"
 		sqlBytes, err := os.ReadFile(file)
 		if err != nil {
@@ -106,21 +110,25 @@ func migrateHandler(c *gin.Context) {
 		log.Printf("Schema executed successfully for %s", filepath.Base(file))
 
 		// Add indexes for optimization
-		if tableName == "cfdi_40_estados" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_estados_pais ON cfdi_40_estados (pais);").Error; err != nil {
+		if tableName == "ccp_31_estados" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_estados_pais ON ccp_31_estados (pais);").Error; err != nil {
 				log.Printf("Failed to create index for estados: %v", err)
 			}
-		} else if tableName == "cfdi_40_municipios" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_municipios_estado ON cfdi_40_municipios (estado);").Error; err != nil {
+		} else if tableName == "ccp_31_municipios" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_municipios_estado ON ccp_31_municipios (estado);").Error; err != nil {
 				log.Printf("Failed to create index for municipios: %v", err)
 			}
-		} else if tableName == "cfdi_40_colonias" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_colonias_codigo_postal ON cfdi_40_colonias (codigo_postal);").Error; err != nil {
+		} else if tableName == "ccp_31_colonias" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_colonias_codigo_postal ON ccp_31_colonias (codigo_postal);").Error; err != nil {
 				log.Printf("Failed to create index for colonias: %v", err)
 			}
-		} else if tableName == "cfdi_40_codigos_postales" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_codigos_postales_estado_municipio ON cfdi_40_codigos_postales (estado, municipio);").Error; err != nil {
+		} else if tableName == "ccp_31_codigos_postales" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_codigos_postales_estado_municipio ON ccp_31_codigos_postales (estado, municipio);").Error; err != nil {
 				log.Printf("Failed to create index for codigos_postales: %v", err)
+			}
+		} else if tableName == "ccp_31_localidades" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_localidades_estado ON ccp_31_localidades (estado);").Error; err != nil {
+				log.Printf("Failed to create index for localidades: %v", err)
 			}
 		}
 	}
@@ -132,7 +140,7 @@ func setupHandler(c *gin.Context) {
 	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	totalFiles := len(addressCatalogs)
 	for i, catalog := range addressCatalogs {
-		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
+		tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
 		file := "./database/data/" + tableName + ".sql"
 		log.Printf("Setting up data from file %d/%d: %s", i+1, totalFiles, filepath.Base(file))
 		sqlBytes, err := os.ReadFile(file)
@@ -165,7 +173,7 @@ func setupHandler(c *gin.Context) {
 
 func getCatalog(c *gin.Context) {
 	catalog := c.Param("catalog")
-	tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
+	tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
 	search := c.Query("search")
 	pageStr := c.DefaultQuery("page", "1")
 	limitStr := c.DefaultQuery("limit", "10")
@@ -198,7 +206,7 @@ func getCatalog(c *gin.Context) {
 		estadoColonias := c.Query("estado")
 		municipioColonias := c.Query("municipio")
 		if estadoColonias != "" || municipioColonias != "" {
-			joinClause = " INNER JOIN cfdi_40_codigos_postales cp ON " + tableName + ".codigo_postal = cp.id"
+			joinClause = " INNER JOIN ccp_31_codigos_postales cp ON " + tableName + ".codigo_postal = cp.id"
 		}
 		if cp := c.Query("codigo_postal"); cp != "" {
 			conditions = append(conditions, "codigo_postal = ?")
@@ -283,64 +291,6 @@ func getCatalog(c *gin.Context) {
 	})
 }
 
-func migrateLocalidadesHandler(c *gin.Context) {
-	tableName := "cfdi_40_localidades"
-	file := "./database/schemas/" + tableName + ".sql"
-	sqlBytes, err := os.ReadFile(file)
-	if err != nil {
-		c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
-		return
-	}
-	sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
-	sql = strings.ReplaceAll(sql, " text", " TEXT")
-	sql = normalizeSchemaSQL(sql)
-	log.Printf("Executing schema for %s", filepath.Base(file))
-	if err := db.Exec(sql).Error; err != nil {
-		c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
-		return
-	}
-	log.Printf("Schema executed successfully for %s", filepath.Base(file))
-
-	// Add index for optimization
-	if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_localidades_estado ON cfdi_40_localidades (estado);").Error; err != nil {
-		log.Printf("Failed to create index for localidades: %v", err)
-	}
-
-	c.JSON(200, gin.H{"message": "Migration completed for localidades"})
-}
-
-func setupLocalidadesHandler(c *gin.Context) {
-	catalog := "localidades"
-	tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
-	file := "./database/data/" + tableName + ".sql"
-	log.Printf("Setting up data from file: %s", filepath.Base(file))
-	sqlBytes, err := os.ReadFile(file)
-	if err != nil {
-		c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
-		return
-	}
-	sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
-	sql = strings.ReplaceAll(sql, " text", " TEXT")
-	sql = strings.ReplaceAll(sql, "\r\n", "\n")
-	statements := splitSQLStatements(sql)
-	for _, stmt := range statements {
-		clean := strings.TrimSpace(stmt)
-		if clean == "" {
-			continue
-		}
-		upper := strings.ToUpper(clean)
-		if strings.HasPrefix(upper, "PRAGMA") || strings.HasPrefix(upper, "BEGIN TRANSACTION") || upper == "BEGIN" || strings.HasPrefix(upper, "COMMIT") {
-			continue
-		}
-		if err := db.Exec(clean).Error; err != nil {
-			c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
-			return
-		}
-	}
-	log.Printf("Data inserted successfully for %s", filepath.Base(file))
-	c.JSON(200, gin.H{"message": "Data setup completed for localidades"})
-}
-
 func splitSQLStatements(sql string) []string {
 	var statements []string
 	var current strings.Builder
@@ -403,4 +353,47 @@ func normalizeSchemaSQL(sql string) string {
 		updated = reCol.ReplaceAllString(updated, "$1VARCHAR(255)")
 	}
 	return updated
+}
+
+func resetAllHandler(c *gin.Context) {
+	catalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
+	for _, catalog := range catalogs {
+		tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+		log.Printf("Truncating table %s", tableName)
+		if err := db.Exec("TRUNCATE TABLE " + tableName).Error; err != nil {
+			// Si TRUNCATE falla por restricción de clave foránea, usar DELETE
+			if err := db.Exec("DELETE FROM " + tableName).Error; err != nil {
+				log.Printf("Error truncating %s: %v", tableName, err)
+				c.JSON(500, gin.H{"error": fmt.Sprintf("Error resetting %s: %v", tableName, err)})
+				return
+			}
+		}
+	}
+	c.JSON(200, gin.H{"message": "All tables reset successfully"})
+}
+
+func resetCatalogHandler(c *gin.Context) {
+	catalog := c.Param("catalog")
+	tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+	
+	// Verificar que la tabla existe
+	var count int64
+	if err := db.Raw("SELECT COUNT(*) FROM information_schema.tables WHERE table_name = ?", tableName).Scan(&count).Error; err != nil {
+		count = 0
+	}
+	if count == 0 {
+		c.JSON(400, gin.H{"error": fmt.Sprintf("Table %s does not exist", tableName)})
+		return
+	}
+	
+	log.Printf("Truncating table %s", tableName)
+	if err := db.Exec("TRUNCATE TABLE " + tableName).Error; err != nil {
+		// Si TRUNCATE falla, usar DELETE
+		if err := db.Exec("DELETE FROM " + tableName).Error; err != nil {
+			log.Printf("Error truncating %s: %v", tableName, err)
+			c.JSON(500, gin.H{"error": fmt.Sprintf("Error resetting %s: %v", tableName, err)})
+			return
+		}
+	}
+	c.JSON(200, gin.H{"message": fmt.Sprintf("Table %s reset successfully", tableName)})
 }
