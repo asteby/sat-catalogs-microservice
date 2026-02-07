@@ -36,17 +36,51 @@ Un microservicio para consultar catálogos del SAT (autoridad fiscal mexicana) u
 
 ## Endpoints de la API
 
-- `GET /health` - Verificación de salud
-- `POST /api/migrate` - Ejecutar migraciones de base de datos (crear tablas e índices)
-- `POST /api/setup` - Cargar datos desde archivos SQL
-- `GET /api/cfdi/{catalog}` - Consultar un catálogo CFDI (ej. paises, estados, colonias, etc.)
-  - Parámetros de consulta:
-    - `search`: Búsqueda de texto en el campo 'texto'
-    - `page`: Número de página (por defecto 1)
-    - `limit`: Elementos por página (por defecto 10)
-    - Filtros específicos para catálogos (ej. `?estado=Jalisco` para municipios)
+### Verificación de Salud
+- `GET /health` - Verificación de salud del servicio.
 
-Catálogos soportados: paises, estados, municipios, colonias, productos_servicios, formas_pago, monedas, usos_cfdi, regimenes_fiscales, tipos_comprobantes, metodos_pago, codigos_postales, etc.
+### Migración y Configuración
+- `POST /api/migrate` - Ejecutar migraciones de base de datos (crear tablas e índices para direcciones).
+- `POST /api/setup` - Cargar datos desde archivos SQL para direcciones.
+
+### Consulta de Catálogos de Direcciones
+- `GET /api/cfdi/{catalog}` - Consultar un catálogo CFDI específico.
+  - Catálogos disponibles: `estados`, `municipios`, `colonias`, `codigos-postales`.
+  - Parámetros de consulta:
+    - `page` (entero, defecto: 1): Página actual.
+    - `limit` (entero, defecto: 10): Elementos por página.
+    - `search` (cadena): Búsqueda general en el campo "texto".
+    - Filtros específicos:
+      - **estados**: `pais` (ej. "MEX").
+      - **municipios**: `estado` (ej. "JAL").
+      - **colonias**: `codigo_postal`, `estado`, `municipio`.
+      - **codigos-postales**: `estado`, `municipio`, `codigo_postal`.
+
+#### Ejemplos de Consultas
+- Cargar estados: `GET /api/cfdi/estados`
+- Municipios de Jalisco: `GET /api/cfdi/municipios?estado=JAL`
+- Colonias de Guadalajara: `GET /api/cfdi/colonias?estado=JAL&municipio=039`
+- Códigos postales: `GET /api/cfdi/codigos-postales?estado=JAL&municipio=039`
+
+#### Respuesta
+```json
+{
+  "data": [
+    {
+      "estado": "JAL",
+      "texto": "Jalisco"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 10,
+    "total": 32,
+    "total_pages": 4
+  }
+}
+```
+
+Otros catálogos disponibles: paises, productos_servicios, formas_pago, etc. (consulta el código para más detalles).
 
 ## Variables de Entorno
 

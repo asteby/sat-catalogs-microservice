@@ -130,6 +130,7 @@ func getCatalog(c *gin.Context) {
 	query := "SELECT * FROM " + tableName
 	args := []interface{}{}
 	conditions := []string{}
+	joinClause := ""
 
 	// Specific filters for faster queries
 	if catalog == "estados" {
@@ -143,25 +144,35 @@ func getCatalog(c *gin.Context) {
 			args = append(args, estado)
 		}
 	} else if catalog == "colonias" {
+		joinClause = ""
+		estadoColonias := c.Query("estado")
+		municipioColonias := c.Query("municipio")
+		if estadoColonias != "" || municipioColonias != "" {
+			joinClause = " INNER JOIN cfdi_40_codigos_postales cp ON " + tableName + ".codigo_postal = cp.id"
+		}
 		if cp := c.Query("codigo_postal"); cp != "" {
 			conditions = append(conditions, "codigo_postal = ?")
 			args = append(args, cp)
 		}
+		if estadoColonias != "" {
+			conditions = append(conditions, "cp.estado = ?")
+			args = append(args, estadoColonias)
+		}
+		if municipioColonias != "" {
+			conditions = append(conditions, "cp.municipio = ?")
+			args = append(args, municipioColonias)
+		}
+	} else if catalog == "codigos_postales" {
 		if estado := c.Query("estado"); estado != "" {
 			conditions = append(conditions, "estado = ?")
 			args = append(args, estado)
 		}
-	} else if catalog == "codigos_postales" {
-		if estado := c.Query("estado"); estado != "" {
-			conditions = append(conditions, "d_estado = ?")
-			args = append(args, estado)
-		}
 		if municipio := c.Query("municipio"); municipio != "" {
-			conditions = append(conditions, "D_mnpio = ?")
+			conditions = append(conditions, "municipio = ?")
 			args = append(args, municipio)
 		}
 		if cp := c.Query("codigo_postal"); cp != "" {
-			conditions = append(conditions, "d_codigo = ?")
+			conditions = append(conditions, "id = ?")
 			args = append(args, cp)
 		}
 	}
@@ -171,6 +182,8 @@ func getCatalog(c *gin.Context) {
 		conditions = append(conditions, "texto LIKE ?")
 		args = append(args, "%"+search+"%")
 	}
+
+	query += joinClause
 
 	if len(conditions) > 0 {
 		query += " WHERE " + strings.Join(conditions, " AND ")
@@ -182,7 +195,7 @@ func getCatalog(c *gin.Context) {
 	log.Printf("Executing query: %s with args: %v", query, args)
 
 	// Count query for pagination
-	countQuery := "SELECT COUNT(*) FROM " + tableName
+	countQuery := "SELECT COUNT(*) FROM " + tableName + joinClause
 	conditionsArgs := args[:len(args)-2]  // Remove limit and offset from args
 	if len(conditions) > 0 {
 		countQuery += " WHERE " + strings.Join(conditions, " AND ")
