@@ -57,12 +57,10 @@ func main() {
 }
 
 func migrateHandler(c *gin.Context) {
-	files, err := filepath.Glob("./database/schemas/*.sql")
-	if err != nil {
-		c.JSON(500, gin.H{"error": err.Error()})
-		return
-	}
-	for _, file := range files {
+	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales"}
+	for _, catalog := range addressCatalogs {
+		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
+		file := "./database/schemas/" + tableName + ".sql"
 		sqlBytes, err := os.ReadFile(file)
 		if err != nil {
 			c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
@@ -83,13 +81,11 @@ func migrateHandler(c *gin.Context) {
 }
 
 func setupHandler(c *gin.Context) {
-	files, err := filepath.Glob("./database/data/*.sql")
-	if err != nil {
-		c.JSON(500, gin.H{"error": err.Error()})
-		return
-	}
-	totalFiles := len(files)
-	for i, file := range files {
+	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales"}
+	totalFiles := len(addressCatalogs)
+	for i, catalog := range addressCatalogs {
+		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
+		file := "./database/data/" + tableName + ".sql"
 		log.Printf("Setting up data from file %d/%d: %s", i+1, totalFiles, filepath.Base(file))
 		sqlBytes, err := os.ReadFile(file)
 		if err != nil {
@@ -98,7 +94,7 @@ func setupHandler(c *gin.Context) {
 		}
 		sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
 		sql = strings.ReplaceAll(sql, " text", " TEXT")
-		sql = strings.ReplaceAll(sql, "\\r\\n", "\\n")
+		sql = strings.ReplaceAll(sql, "\r\n", "\n")
 		statements := splitSQLStatements(sql)
 		for _, stmt := range statements {
 			clean := strings.TrimSpace(stmt)
@@ -185,15 +181,38 @@ func getCatalog(c *gin.Context) {
 
 	log.Printf("Executing query: %s with args: %v", query, args)
 
+	// Count query for pagination
+	countQuery := "SELECT COUNT(*) FROM " + tableName
+	conditionsArgs := args[:len(args)-2]  // Remove limit and offset from args
+	if len(conditions) > 0 {
+		countQuery += " WHERE " + strings.Join(conditions, " AND ")
+	}
+	var total int64
+	err := db.Raw(countQuery, conditionsArgs...).Scan(&total).Error
+	if err != nil {
+		log.Printf("Count query failed: %v", err)
+		c.JSON(500, gin.H{"error": err.Error()})
+		return
+	}
+	totalPages := (total + int64(limit) - 1) / int64(limit)
+
 	var results []map[string]interface{}
-	err := db.Raw(query, args...).Scan(&results).Error
+	err = db.Raw(query, args...).Scan(&results).Error
 	if err != nil {
 		log.Printf("Query failed: %v", err)
 		c.JSON(500, gin.H{"error": err.Error()})
 		return
 	}
 	log.Printf("Query succeeded, returning %d results", len(results))
-	c.JSON(200, results)
+	c.JSON(200, gin.H{
+		"data": results,
+		"pagination": gin.H{
+			"current_page": page,
+			"per_page": limit,
+			"total": total,
+			"total_pages": totalPages,
+		},
+	})
 }
 
 func splitSQLStatements(sql string) []string {
