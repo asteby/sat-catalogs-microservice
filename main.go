@@ -64,8 +64,14 @@ func main() {
 	// Migration endpoint
 	r.POST("/api/migrate", migrateHandler)
 
+	// Migration endpoint para localidades (tabla ya creada para otros catálogos)
+	r.POST("/api/migrate/localidades", migrateLocalidadesHandler)
+
 	// Setup endpoint
 	r.POST("/api/setup", setupHandler)
+
+	// Setup endpoint para localidades (datos ya cargados para otros catálogos)
+	r.POST("/api/setup/localidades", setupLocalidadesHandler)
 
 	// Query endpoints
 	r.GET("/api/cfdi/:catalog", getCatalog)
@@ -80,7 +86,7 @@ func main() {
 }
 
 func migrateHandler(c *gin.Context) {
-	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales"}
+	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	for _, catalog := range addressCatalogs {
 		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
 		file := "./database/schemas/" + tableName + ".sql"
@@ -123,7 +129,7 @@ func migrateHandler(c *gin.Context) {
 }
 
 func setupHandler(c *gin.Context) {
-	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales"}
+	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	totalFiles := len(addressCatalogs)
 	for i, catalog := range addressCatalogs {
 		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
@@ -219,6 +225,11 @@ func getCatalog(c *gin.Context) {
 			conditions = append(conditions, "id = ?")
 			args = append(args, cp)
 		}
+	} else if catalogKey == "localidades" {
+		if estado := c.Query("estado"); estado != "" {
+			conditions = append(conditions, "estado = ?")
+			args = append(args, estado)
+		}
 	}
 
 	// General search on texto if applicable
@@ -270,6 +281,64 @@ func getCatalog(c *gin.Context) {
 			"total_pages":  totalPages,
 		},
 	})
+}
+
+func migrateLocalidadesHandler(c *gin.Context) {
+	tableName := "cfdi_40_localidades"
+	file := "./database/schemas/" + tableName + ".sql"
+	sqlBytes, err := os.ReadFile(file)
+	if err != nil {
+		c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
+		return
+	}
+	sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
+	sql = strings.ReplaceAll(sql, " text", " TEXT")
+	sql = normalizeSchemaSQL(sql)
+	log.Printf("Executing schema for %s", filepath.Base(file))
+	if err := db.Exec(sql).Error; err != nil {
+		c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
+		return
+	}
+	log.Printf("Schema executed successfully for %s", filepath.Base(file))
+
+	// Add index for optimization
+	if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_localidades_estado ON cfdi_40_localidades (estado);").Error; err != nil {
+		log.Printf("Failed to create index for localidades: %v", err)
+	}
+
+	c.JSON(200, gin.H{"message": "Migration completed for localidades"})
+}
+
+func setupLocalidadesHandler(c *gin.Context) {
+	catalog := "localidades"
+	tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
+	file := "./database/data/" + tableName + ".sql"
+	log.Printf("Setting up data from file: %s", filepath.Base(file))
+	sqlBytes, err := os.ReadFile(file)
+	if err != nil {
+		c.JSON(500, gin.H{"error": fmt.Sprintf("Error reading %s: %v", file, err)})
+		return
+	}
+	sql := strings.ReplaceAll(string(sqlBytes), "\"", "`")
+	sql = strings.ReplaceAll(sql, " text", " TEXT")
+	sql = strings.ReplaceAll(sql, "\r\n", "\n")
+	statements := splitSQLStatements(sql)
+	for _, stmt := range statements {
+		clean := strings.TrimSpace(stmt)
+		if clean == "" {
+			continue
+		}
+		upper := strings.ToUpper(clean)
+		if strings.HasPrefix(upper, "PRAGMA") || strings.HasPrefix(upper, "BEGIN TRANSACTION") || upper == "BEGIN" || strings.HasPrefix(upper, "COMMIT") {
+			continue
+		}
+		if err := db.Exec(clean).Error; err != nil {
+			c.JSON(500, gin.H{"error": fmt.Sprintf("Error executing %s: %v", file, err)})
+			return
+		}
+	}
+	log.Printf("Data inserted successfully for %s", filepath.Base(file))
+	c.JSON(200, gin.H{"message": "Data setup completed for localidades"})
 }
 
 func splitSQLStatements(sql string) []string {
