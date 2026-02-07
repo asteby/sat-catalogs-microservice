@@ -221,6 +221,10 @@ func getCatalog(c *gin.Context) {
 			conditions = append(conditions, "id = ?")
 			args = append(args, cp)
 		}
+		if localidad := c.Query("localidad"); localidad != "" {
+			conditions = append(conditions, "localidad = ?")
+			args = append(args, localidad)
+		}
 	} else if catalogKey == "localidades" {
 		if estado := c.Query("estado"); estado != "" {
 			conditions = append(conditions, "estado = ?")
