@@ -10,6 +10,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
+	"github.com/gin-contrib/cors"
 	"github.com/joho/godotenv"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
@@ -39,6 +40,13 @@ func main() {
 	r := gin.New()
 	r.Use(gin.Logger())
 	r.Use(gin.Recovery())
+
+	// Configuración CORS para permitir todos los orígenes (desarrollo/producción)
+	config := cors.DefaultConfig()
+	config.AllowAllOrigins = true // Permite cualquier origen
+	config.AllowMethods = []string{"GET", "POST", "OPTIONS"}
+	config.AllowHeaders = []string{"Origin", "Content-Type", "Accept", "Authorization"}
+	r.Use(cors.New(config))
 
 	// Health check
 	r.GET("/health", func(c *gin.Context) {
