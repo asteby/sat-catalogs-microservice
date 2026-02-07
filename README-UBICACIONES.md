@@ -45,11 +45,18 @@ Basado en los esquemas SQL:
 - **huso_invierno_hora_inicio** (TEXT): Hora inicio invierno
 - **huso_invierno_diferencia** (TEXT): Diferencia invierno
 
+### Localidades
+- **localidad** (VARCHAR, PK): Código de la localidad
+- **estado** (VARCHAR, PK): Código del estado
+- **texto** (TEXT): Nombre de la localidad
+- **vigencia_desde** (TEXT): Fecha de inicio
+- **vigencia_hasta** (TEXT): Fecha de fin
+
 ## Endpoints
 
 ### GET /api/cfdi/{catalog}
 
-Consulta un catálogo específico. Catálogos soportados: `estados`, `municipios`, `colonias`, `codigos-postales`.
+Consulta un catálogo específico. Catálogos soportados: `estados`, `municipios`, `colonias`, `codigos-postales`, `localidades`.
 
 #### Parámetros de Consulta
 - `page` (entero, default: 1): Número de página para paginación.
@@ -60,6 +67,7 @@ Consulta un catálogo específico. Catálogos soportados: `estados`, `municipios
   - **municipios**: `estado` (ej. "JAL" para Jalisco).
   - **colonias**: `codigo_postal` (ej. "44100"), `estado` (ej. "JAL"), `municipio` (ej. "039" para Guadalajara).
   - **codigos-postales**: `estado`, `municipio`, `codigo_postal`.
+  - **localidades**: `estado` (ej. "AGU" para Aguascalientes).
 
 #### Respuesta
 ```json
@@ -101,6 +109,8 @@ Consulta un catálogo específico. Catálogos soportados: `estados`, `municipios
 - **Buscar Estados por País**: `GET /api/cfdi/estados?pais=MEX&search=jal`
 - **Buscar Colonias con Texto**: `GET /api/cfdi/colonias?search=centro&estado=JAL`
 - **Filtrar por Código Postal**: `GET /api/cfdi/colonias?codigo_postal=44100`
+- **Buscar Localidades por Estado**: `GET /api/cfdi/localidades?estado=AGU`
+- **Buscar Localidades con Search**: `GET /api/cfdi/localidades?search=Aguascalientes&estado=AGU`
 
 ### Paginación
 - **Página Específica**: `GET /api/cfdi/estados?page=2&limit=5`
