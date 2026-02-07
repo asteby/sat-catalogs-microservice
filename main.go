@@ -45,7 +45,14 @@ func main() {
 	config := cors.DefaultConfig()
 	config.AllowAllOrigins = true // Permite cualquier origen
 	config.AllowMethods = []string{"GET", "POST", "OPTIONS"}
-	config.AllowHeaders = []string{"Origin", "Content-Type", "Accept", "Authorization"}
+	config.AllowHeaders = []string{
+		"Origin", 
+		"Content-Type", 
+		"Accept", 
+		"Authorization",
+		"Cache-Control",
+		"X-Requested-With",
+	}
 	r.Use(cors.New(config))
 
 	// Health check
