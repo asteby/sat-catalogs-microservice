@@ -41,18 +41,13 @@ func main() {
 	r.Use(gin.Logger())
 	r.Use(gin.Recovery())
 
-	// Configuración CORS para permitir todos los orígenes (desarrollo/producción)
+	// Configuración CORS
 	config := cors.DefaultConfig()
-	config.AllowAllOrigins = true // Permite cualquier origen
+	config.AllowAllOrigins = true
 	config.AllowMethods = []string{"GET", "POST", "OPTIONS"}
 	config.AllowHeaders = []string{
-		"Origin",
-		"Content-Type",
-		"Accept",
-		"Authorization",
-		"Cache-Control",
-		"X-Requested-With",
-		"Pragma",
+		"Origin", "Content-Type", "Accept", "Authorization",
+		"Cache-Control", "X-Requested-With", "Pragma",
 	}
 	r.Use(cors.New(config))
 
@@ -64,22 +59,15 @@ func main() {
 	// Migration endpoint
 	r.POST("/api/migrate", migrateHandler)
 
-	// Migration endpoint para localidades (tabla ya creada para otros catálogos)
-	r.POST("/api/migrate/localidades", migrateHandler)
-
 	// Setup endpoint
 	r.POST("/api/setup", setupHandler)
 
-	// Setup endpoint para localidades (datos ya cargados para otros catálogos)
-	r.POST("/api/setup/localidades", setupHandler)
-
-	// Reset endpoints (trunca tablas antes de volver a cargar datos)
+	// Reset endpoints
 	r.POST("/api/reset", resetAllHandler)
 	r.POST("/api/reset/:catalog", resetCatalogHandler)
 
 	// Query endpoints
 	r.GET("/api/cfdi/:catalog", getCatalog)
-	// Add more versions or modules as needed
 
 	port := os.Getenv("PORT")
 	if port == "" {
@@ -92,7 +80,7 @@ func main() {
 func migrateHandler(c *gin.Context) {
 	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	for _, catalog := range addressCatalogs {
-		tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
 		file := "./database/schemas/" + tableName + ".sql"
 		sqlBytes, err := os.ReadFile(file)
 		if err != nil {
@@ -110,24 +98,24 @@ func migrateHandler(c *gin.Context) {
 		log.Printf("Schema executed successfully for %s", filepath.Base(file))
 
 		// Add indexes for optimization
-		if tableName == "ccp_31_estados" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_estados_pais ON ccp_31_estados (pais);").Error; err != nil {
+		if tableName == "cfdi_40_estados" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_estados_pais ON cfdi_40_estados (pais);").Error; err != nil {
 				log.Printf("Failed to create index for estados: %v", err)
 			}
-		} else if tableName == "ccp_31_municipios" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_municipios_estado ON ccp_31_municipios (estado);").Error; err != nil {
+		} else if tableName == "cfdi_40_municipios" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_municipios_estado ON cfdi_40_municipios (estado);").Error; err != nil {
 				log.Printf("Failed to create index for municipios: %v", err)
 			}
-		} else if tableName == "ccp_31_colonias" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_colonias_codigo_postal ON ccp_31_colonias (codigo_postal);").Error; err != nil {
+		} else if tableName == "cfdi_40_colonias" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_colonias_codigo_postal ON cfdi_40_colonias (codigo_postal);").Error; err != nil {
 				log.Printf("Failed to create index for colonias: %v", err)
 			}
-		} else if tableName == "ccp_31_codigos_postales" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_codigos_postales_estado_municipio ON ccp_31_codigos_postales (estado, municipio);").Error; err != nil {
+		} else if tableName == "cfdi_40_codigos_postales" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_codigos_postales_estado_municipio ON cfdi_40_codigos_postales (estado, municipio);").Error; err != nil {
 				log.Printf("Failed to create index for codigos_postales: %v", err)
 			}
-		} else if tableName == "ccp_31_localidades" {
-			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_localidades_estado ON ccp_31_localidades (estado);").Error; err != nil {
+		} else if tableName == "cfdi_40_localidades" {
+			if err := db.Exec("CREATE INDEX IF NOT EXISTS idx_localidades_estado ON cfdi_40_localidades (estado);").Error; err != nil {
 				log.Printf("Failed to create index for localidades: %v", err)
 			}
 		}
@@ -140,7 +128,7 @@ func setupHandler(c *gin.Context) {
 	addressCatalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	totalFiles := len(addressCatalogs)
 	for i, catalog := range addressCatalogs {
-		tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
 		file := "./database/data/" + tableName + ".sql"
 		log.Printf("Setting up data from file %d/%d: %s", i+1, totalFiles, filepath.Base(file))
 		sqlBytes, err := os.ReadFile(file)
@@ -173,7 +161,7 @@ func setupHandler(c *gin.Context) {
 
 func getCatalog(c *gin.Context) {
 	catalog := c.Param("catalog")
-	tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+	tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
 	search := c.Query("search")
 	pageStr := c.DefaultQuery("page", "1")
 	limitStr := c.DefaultQuery("limit", "10")
@@ -206,7 +194,7 @@ func getCatalog(c *gin.Context) {
 		estadoColonias := c.Query("estado")
 		municipioColonias := c.Query("municipio")
 		if estadoColonias != "" || municipioColonias != "" {
-			joinClause = " INNER JOIN ccp_31_codigos_postales cp ON " + tableName + ".codigo_postal = cp.id"
+			joinClause = " INNER JOIN cfdi_40_codigos_postales cp ON " + tableName + ".codigo_postal = cp.id"
 		}
 		if cp := c.Query("codigo_postal"); cp != "" {
 			conditions = append(conditions, "codigo_postal = ?")
@@ -259,7 +247,7 @@ func getCatalog(c *gin.Context) {
 
 	// Count query for pagination
 	countQuery := "SELECT COUNT(*) FROM " + tableName + joinClause
-	conditionsArgs := args[:len(args)-2] // Remove limit and offset from args
+	conditionsArgs := args[:len(args)-2]
 	if len(conditions) > 0 {
 		countQuery += " WHERE " + strings.Join(conditions, " AND ")
 	}
@@ -358,10 +346,9 @@ func normalizeSchemaSQL(sql string) string {
 func resetAllHandler(c *gin.Context) {
 	catalogs := []string{"estados", "municipios", "colonias", "codigos-postales", "localidades"}
 	for _, catalog := range catalogs {
-		tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+		tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
 		log.Printf("Truncating table %s", tableName)
 		if err := db.Exec("TRUNCATE TABLE " + tableName).Error; err != nil {
-			// Si TRUNCATE falla por restricción de clave foránea, usar DELETE
 			if err := db.Exec("DELETE FROM " + tableName).Error; err != nil {
 				log.Printf("Error truncating %s: %v", tableName, err)
 				c.JSON(500, gin.H{"error": fmt.Sprintf("Error resetting %s: %v", tableName, err)})
@@ -374,9 +361,8 @@ func resetAllHandler(c *gin.Context) {
 
 func resetCatalogHandler(c *gin.Context) {
 	catalog := c.Param("catalog")
-	tableName := "ccp_31_" + strings.Replace(catalog, "-", "_", -1)
+	tableName := "cfdi_40_" + strings.Replace(catalog, "-", "_", -1)
 	
-	// Verificar que la tabla existe
 	var count int64
 	if err := db.Raw("SELECT COUNT(*) FROM information_schema.tables WHERE table_name = ?", tableName).Scan(&count).Error; err != nil {
 		count = 0
@@ -388,7 +374,6 @@ func resetCatalogHandler(c *gin.Context) {
 	
 	log.Printf("Truncating table %s", tableName)
 	if err := db.Exec("TRUNCATE TABLE " + tableName).Error; err != nil {
-		// Si TRUNCATE falla, usar DELETE
 		if err := db.Exec("DELETE FROM " + tableName).Error; err != nil {
 			log.Printf("Error truncating %s: %v", tableName, err)
 			c.JSON(500, gin.H{"error": fmt.Sprintf("Error resetting %s: %v", tableName, err)})
